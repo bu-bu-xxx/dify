@@ -1,0 +1,180 @@
+{
+  "code": 200,
+  "msg": "请求成功！",
+  "data": {
+    "introduces": "<font color=#CCCCCC>**__基础__**</font>  \n▷代码名`siving_suit_gold`  \n▷不可漂浮\n\n<font color=#99CCCC>**__装备__**</font>  \n▷身穿；护甲、背包；75%防御；945耐久；12格容器  \n▷<font color=#0099CC>凝血系数</font>0.35，<font color=#0099CC>反伤上限</font>150，<font color=#0099CC>损耗系数</font>1  \n▋耐久  \n▷耐久为0时，防御降为10%  \n▷不会因为吸收战斗伤害而损失耐久  \n▋装备后  \n▷提供50%的窃血抵抗(详见百科条目“窃血抵抗”)  \n▷装备者攻击时，恢复该装备的耐久(=敌人损失的血量值×<font color=#0099CC>凝血系数</font>)  \n▷装备者被攻击导致掉血时，若耐久大于0，以攻击者为中心统计4半径内所有的可能敌人，反伤它们：  \n1、<font color=#D2691E>基础攻击力</font>=该装备当前耐久值与攻击者当前血量值，这两个值里的最大值(上限为<font color=#0099CC>反伤上限</font>)  \n2、攻击者<font color=#D2691E>所受伤害系数</font>=1，其余反伤对象<font color=#D2691E>所受伤害系数</font>=1-其余反伤对象总数/10，最低0.1  \n3、反伤对象会受到相当于是装备者持有攻击力为(<font color=#D2691E>基础攻击力</font>×<font color=#D2691E>所受伤害系数</font>)的武器打出的伤害  \n4、反伤造成的伤害不属于装备者导致的伤害  \n5、反伤成功时，该装备会扣除耐久(=<font color=#D2691E>基础攻击力</font>×<font color=#0099CC>损耗系数</font>，最小10点)  \n▋套装效果  \n若装备者同时装备了“子圭·歃”，则：  \n1、<font color=#0099CC>凝血系数</font>提升为0.45，<font color=#0099CC>反伤上限</font>提升为200，<font color=#0099CC>损耗系数</font>提升为0.85  \n2、“子圭·歃”用生命积累来修复自身时，会分出其25%的修复量用以修复该装备  \n▋模式切换  \n未装备时，可右键该装备，进行模式切换  \n▷皆苦式：装备后的反伤机制，与上面的“▋装备后”所述相同，对所有能反伤的对象有效  \n▷向善式：装备后的反伤机制，只会对与装备者有敌意的对象生效  \n▷虚息式：装备后的反伤机制，不对任何对象生效\n\n<font color=#CCCCCC>**__来源__**</font>  \n重铸2级制作：独奏乐器、子圭·庇、子圭奇型岩、捆绑包装",
+    "tag": [
+      {
+        "_id": "645b7b815e00ca45b8018bcb",
+        "name": "重铸",
+        "showType": "1",
+        "showTypeText": "用于分类",
+        "id": "645b7b815e00ca45b8018bcb"
+      },
+      {
+        "_id": "645b7bab5e00ca45b8018bd7",
+        "name": "盔甲",
+        "showType": "1",
+        "showTypeText": "用于分类",
+        "id": "645b7bab5e00ca45b8018bd7"
+      },
+      {
+        "_id": "645b7be75e00ca45b8018be3",
+        "name": "收纳方案",
+        "showType": "1",
+        "showTypeText": "用于分类",
+        "id": "645b7be75e00ca45b8018be3"
+      },
+      {
+        "_id": "645b7c395e00ca45b8018bf3",
+        "name": "子圭",
+        "showType": "1",
+        "showTypeText": "用于分类",
+        "id": "645b7c395e00ca45b8018bf3"
+      },
+      {
+        "_id": "6489c41a1956a5760a7f3ddc",
+        "name": "丰饶传说",
+        "showType": "2",
+        "showTypeText": "用于显示",
+        "id": "6489c41a1956a5760a7f3ddc"
+      }
+    ],
+    "_id": "65c779f3aa49810aaddeeb6e",
+    "mid": "645b7b5e5e00ca45b8018bc9",
+    "src": "POiOSkc3IG.png",
+    "name": "子圭·釜",
+    "alis": "",
+    "form": {
+      "list": [
+        {
+          "type": "linkWithText",
+          "label": "涉及对象",
+          "key": "XrS5sX"
+        }
+      ],
+      "_id": "648484bb1956a5760a7f3cc2",
+      "name": "[通用]涉及对象",
+      "createdTime": "2024-12-01 18:56:50",
+      "updatedTime": "2024-12-01 18:56:50",
+      "id": "648484bb1956a5760a7f3cc2"
+    },
+    "formValue": {
+      "XrS5sX": [
+        {
+          "link": {
+            "_id": "645b91bf5e00ca45b8018ce3",
+            "src": "3QtkUYuMSg.png",
+            "name": "电气重铸台(激活状态)",
+            "createdTime": "2024-12-01 18:56:50",
+            "updatedTime": "2024-12-01 18:56:50",
+            "id": "645b91bf5e00ca45b8018ce3"
+          },
+          "text": "制作"
+        },
+        {
+          "link": {
+            "_id": "645b62205e00ca45b80185bc",
+            "src": "Y3Ujf8Tpij.png",
+            "name": "独奏乐器",
+            "createdTime": "2024-12-01 18:56:50",
+            "updatedTime": "2024-12-01 18:56:50",
+            "id": "645b62205e00ca45b80185bc"
+          },
+          "text": "材料"
+        },
+        {
+          "link": {
+            "_id": "65c777ecaa49810aaddeeb4b",
+            "src": "kJIniQf5Ha.png",
+            "name": "子圭·庇",
+            "createdTime": "2024-12-01 18:56:50",
+            "updatedTime": "2024-12-01 18:56:50",
+            "id": "65c777ecaa49810aaddeeb4b"
+          },
+          "text": "材料"
+        },
+        {
+          "link": {
+            "_id": "645b91bf5e00ca45b8018cce",
+            "src": "o9ubtbUNSo.png",
+            "name": "子圭奇型岩(物品)",
+            "createdTime": "2024-12-01 18:56:50",
+            "updatedTime": "2024-12-01 18:56:50",
+            "id": "645b91bf5e00ca45b8018cce"
+          },
+          "text": "材料"
+        },
+        {
+          "link": {
+            "_id": "645b62205e00ca45b801855c",
+            "src": "JXTGU0Imfd.png",
+            "name": "捆绑包装",
+            "createdTime": "2024-12-01 18:56:50",
+            "updatedTime": "2024-12-01 18:56:50",
+            "id": "645b62205e00ca45b801855c"
+          },
+          "text": "材料"
+        },
+        {
+          "link": {
+            "_id": "656d945baa49810aaddec56e",
+            "src": "GWtkH1fbce.png",
+            "name": "窃血抵抗",
+            "createdTime": "2024-12-01 18:56:50",
+            "updatedTime": "2024-12-01 18:56:50",
+            "id": "656d945baa49810aaddec56e"
+          },
+          "text": "机制"
+        },
+        {
+          "link": {
+            "_id": "645b8cbb5e00ca45b8018c61",
+            "src": "d0SkHRIvf8.png",
+            "name": "子圭·歃",
+            "createdTime": "2024-12-01 18:56:50",
+            "updatedTime": "2024-12-01 18:56:50",
+            "id": "645b8cbb5e00ca45b8018c61"
+          },
+          "text": "套装"
+        }
+      ]
+    },
+    "creator": {
+      "_id": "645a304c5e00ca45b801824e",
+      "nickName": "梧生"
+    },
+    "sort": [
+      {
+        "_id": "65c77a03aa49810aaddeeb72",
+        "tagId": "645b7bab5e00ca45b8018bd7",
+        "value": 0
+      },
+      {
+        "_id": "65c77a14aa49810aaddeeb87",
+        "tagId": "645b7b815e00ca45b8018bcb",
+        "value": 0
+      },
+      {
+        "_id": "65c77a26aa49810aaddeebbf",
+        "tagId": "645b7be75e00ca45b8018be3",
+        "value": 2
+      },
+      {
+        "_id": "6628dca65954957953cff2eb",
+        "tagId": "645b7c395e00ca45b8018bf3",
+        "value": 4
+      }
+    ],
+    "created": "2024-02-10T13:28:19.808Z",
+    "updated": "2024-06-28T10:13:12.073Z",
+    "__v": 0,
+    "lastUpdator": {
+      "_id": "645a304c5e00ca45b801824e",
+      "nickName": "梧生"
+    },
+    "createdTime": "2024-02-10 21:28:19",
+    "updatedTime": "2024-06-28 18:13:12",
+    "id": "65c779f3aa49810aaddeeb6e"
+  }
+}

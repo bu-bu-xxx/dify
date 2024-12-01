@@ -1,0 +1,553 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: "微软雅黑";
+	background: #e6ddce;
+}
+table{
+	border-collapse:collapse;
+	margin-left: 30px;
+	text-align: center;
+}
+table,tr,td,th{
+	border:1px solid #564f43;
+	/* min-width: 40px; */
+}
+
+::selection{
+	background: #9dcbd4;
+	color: #fff;
+}
+
+#toptitle {
+	position: fixed;
+	width: 100%;
+	height: 124px;
+	/* 增加间距 */
+	padding: 0 0 10px 0;
+	background: #564f43;
+	font-size: 32px;
+	line-height: 60px;
+	color: #fff;
+	text-align: center;
+	top: 0;
+	z-index: 998;
+}
+
+.analysis_box {
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	z-index: 1000;
+	display: none;
+	animation: tobig 0.3s ease;
+}
+
+@keyframes tobig{
+	0%{transform: scale(0);}
+	100%{transform: scale(1);} 
+}
+
+#analysis_bg {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background: #000;
+	opacity: 0.8;
+	z-index: 1001;
+}
+#close_tip {
+	position: absolute;
+	color: #fff;
+	text-align: center;
+	z-index: 1002;
+	width: 100%;
+	bottom: 6%;
+	pointer-events: none;
+}
+#no_alert_again{
+	position: absolute;
+	color: #f99;
+	text-align: center;
+	z-index: 1003;
+	width: 100%;
+	top: 4%;
+	pointer-events: none;
+    /* cursor: pointer; */
+}
+#no_alert_again u{
+	cursor: pointer;
+	pointer-events: auto;
+}
+#analysis_bg2 {
+	/* 隐藏了遮罩层2 */
+	display: none;
+	position: absolute;
+	width: 80%;
+	height: 81%;
+	top: 7.5%;
+	left: 10%;
+	bottom: 11.5%;
+	right: 10%;
+	background: #564f43;
+	border-radius: 5px;
+	z-index: 1002;
+}
+#analysis_info {
+	position: absolute;
+	width: 80%;
+	height: 80%;
+	background: #e6ddce;
+	top: 8%;
+	left: 10%;
+	bottom: 12%;
+	right: 10%;
+	/* 通过添加边框实现之前的效果 */
+	border-radius: 5px;
+	border: 5px solid #746e63;
+	border-left: 0px;
+	border-right: 0px;
+	overflow-y: auto;
+	z-index: 1003;
+}
+
+#searchbox_waikuang {
+	position: absolute;
+	width: 100%;
+	height: 28px;
+	bottom: 50px;
+	line-height: 4px;
+}
+
+#searchbox {
+	border-radius: 10px;
+	padding: 1px 5px;
+	outline: none;
+	border: none;
+	margin-top: -1px;
+	height: 20px;
+	text-indent: 5px;
+}
+
+.navigation_box {
+	position: absolute;
+	width: 100%;
+	height: 24px;
+	/* background: #f66; */
+	font-size: 14px;
+	line-height: 24px;
+	bottom: 28px;
+	right: 0px;
+	min-width: 350px;
+}
+
+.navigation_button {
+	background: #564F43;
+	border: #FFFFFF 2px solid;
+	border-radius: 10px;
+	padding: 0px 5px;
+	margin: 2px;
+	font-size: 12px;
+	cursor: pointer;
+}
+
+.xuanzhong {
+	background: #fff;
+	color: #564F43;
+	font-weight: 600;
+}
+
+.screen_box {
+	position: absolute;
+	width: 100%;
+	height: 24px;
+	/* background: #f66; */
+	font-size: 14px;
+	line-height: 24px;
+	bottom: 4px;
+	right: 0px;
+	min-width: 350px;
+}
+
+.screen_button {
+	border-radius: 10px;
+	padding: 0px 1px;
+	border: none;
+	outline: none;
+}
+
+#morebutton {
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	text-align: center;
+	line-height: 8px;
+	border-radius: 11px;
+	font-size: 16px;
+	right: 10px;
+	top: 10px;
+}
+
+#rewardbutton {
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	text-align: center;
+	line-height: 18px;
+	border-radius: 11px;
+	font-size: 12px;
+	left: 10px;
+	top: 10px;
+}
+#helpbutton {
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	text-align: center;
+	line-height: 18px;
+	border-radius: 11px;
+	font-size: 12px;
+	left: 40px;
+	top: 10px;
+}
+.smallbutton{
+	color: #fff;
+	background: #564F43;
+	z-index: 999;
+	border: #fff 2px solid;
+	cursor: pointer;
+	/* animation: twinkle 6s ease infinite; */
+	overflow: hidden;
+}
+
+.smallbutton::before {
+  content: "";
+  display: block;
+  width: 6px;
+  height: 18px;
+  background: rgba(255, 255, 255, 0.3);
+  transform: skewX(-25deg);
+  position: absolute;
+  left: -9px;
+  animation: guang infinite 1s ease-in;
+}
+
+@keyframes guang {
+  50% {
+    left: -9px;
+  }
+  100% {
+    left: 25px;
+  }
+}
+
+@keyframes twinkle{
+	0%{
+		
+		border: #fff 2px solid;
+	}
+	25%{
+		
+		border: #fff 2px solid;
+	}
+	50%{
+		border: #e37474 2px solid;
+	}
+	25%{
+		border: #fff 2px solid;
+	}
+	100%{
+		border: #fff 2px solid;
+	}
+}
+
+.smallbuttonON {
+	background: #fff;
+	color: #564F43;
+}
+
+#foot {
+	position: fixed;
+	width: 100%;
+	height: 36px;
+	/* 增加间距 */
+	padding: 10px 0;
+	background: #564f43;
+	font-size: 15px;
+	line-height: 18px;
+	color: #fff;
+	text-align: center;
+	bottom: 0;
+}
+
+#beian {
+	color: #fff;
+	font-size: 13px;
+}
+
+#game_list {
+	position: fixed;
+	top: 134px;
+	bottom: 56px;
+	width: 100%;
+	overflow-y: scroll;
+	background-color: #e0d0b5;
+}
+
+.game_box {
+	width: 100%;
+	height: auto;
+	min-height: 84px;
+	margin-bottom: 5px;
+	border-bottom: 1px solid #a5957b;
+	overflow: hidden;
+}
+
+.game_img {
+	/* position: absolute; */
+	width: 64px;
+	height: 64px;
+	margin: 10px;
+	margin-top: 0;
+	margin-left: 0;
+	flex-shrink: 0;
+}
+
+.game_title {
+	position: absolute;
+	font-size: 20px;
+	margin-left: 84px;
+	margin-top: 5px;
+	color: #f66;
+}
+
+.game_jianjie {
+	float: left;
+	/* margin-left: 84px; */
+	margin: 0;
+	width: 100%;
+	color: #272727;
+	font-size: 14px;
+	line-height: 1.5;
+}
+.game_jianjie .duanluo{
+	display: flex;
+	
+}
+.game_jianjie .duanluo b{
+	flex-shrink: 0;
+}
+.game_jianjie .duanluo span{
+	
+}
+
+.copy_code {
+	background: #564f43;
+	color: #fff;
+	font-size: 12px;
+	padding: 1px 5px;
+	border-radius: 10px;
+	/* line-height: 14px; */
+	margin-left: 4px;
+	cursor: pointer;
+	word-break: keep-all;
+	white-space: nowrap;
+}
+.analysis_button {
+	background: #564f43;
+	/* color: #fff; */
+	/* color: #d7b781; */
+	color: #e7d4b5;
+	font-size: 12px;
+	padding: 0px 5px;
+	margin: 2px;
+	border-radius: 6px;
+	line-height: 14px;
+	cursor: pointer;
+}
+.tag_button {
+	background: #564f43;
+	/* color: #fff; */
+	/* color: #d7b781; */
+	color: #e7d4b5;
+	font-size: 12px;
+	padding: 0px 5px;
+	margin: 2px;
+	border-radius: 6px;
+	line-height: 14px;
+	cursor: pointer;
+}
+
+.tag_b {
+	color: #0babab;
+	cursor: pointer;
+}
+
+.warm_prompt {
+	color:#00924e;
+}
+.search_sign{
+	color:#ff6666;
+	font-weight:bold;
+}
+
+.update_log {
+	float: left;
+	margin-left: 5px;
+	margin-top: 5px;
+	color: #272727;
+	font-size: 14px;
+	width: 100%;
+}
+
+.loading_box {
+	width: 100%;
+	height: auto;
+	min-height: 84px;
+	/* margin-top: 5px;
+	margin-bottom: 5px; */
+	padding: 5px 0;
+	background-color: #e6ddce;
+	border-bottom: 1px solid #a5957b;
+	line-height: 1.4;
+	overflow: hidden;
+	text-align: center;
+}
+
+.liuyan {
+	text-align: left;
+	margin: 0px 10px;
+	font-size: 14px;
+}
+
+.shuoming {
+	text-align: left;
+	margin: 0px 10px;
+	font-size: 14px;
+}
+
+.dashang_img {
+	width: 80%;
+	max-width: 400px;
+}
+
+.sj1 {
+	text-indent: 1em;
+	margin: 0px;
+	padding: 0px;
+}
+
+.sj2 {
+	text-indent: 2em;
+	margin: 0px;
+	padding: 0px;
+}
+
+.mod_box {
+	width: 100%;
+	height: auto;
+	min-height: 148px;
+	margin-bottom: 5px;
+	border-bottom: 1px solid #a5957b;
+	overflow: hidden;
+}
+
+.mod_img {
+	position: absolute;
+	width: 128px;
+	height: 128px;
+	margin: 10px;
+}
+
+.mod_jianjie {
+	float: left;
+	margin-left: 148px;
+	margin-top: 5px;
+	color: #272727;
+	font-size: 14px;
+}
+
+.modpage_link{
+	background: #564f43;
+	color: #fff;
+	font-size: 12px;
+	padding: 2px 5px;
+	border-radius: 10px;
+	line-height: 14px;
+	cursor: pointer;
+	text-decoration:none;
+}
+
+.showimg{
+	max-width: 100%;
+	cursor: pointer;
+}
+
+.showvideo{
+	max-width: 100%;
+	cursor: pointer;
+	border: 0;
+	width: 100%;
+	height: 500px;
+}
+
+/* 修改布局按钮 */
+#changescreen {
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	text-align: center;
+	line-height: 15px;
+	border-radius: 11px;
+	font-size: 16px;
+	right: 40px;
+	top: 10px;
+}
+#changescreen::before{
+	content: "";
+}
+/* 卡片样式 */
+.card{
+	width: calc(100% - 20px);
+	height: auto;
+	min-height: 84px;
+	margin-bottom: 5px;
+	overflow: hidden;
+	display: flex;
+	line-height: 1.5;
+	background-color: #e3d9c7;
+	margin: 10px;
+	border-radius: 6px;
+	box-sizing: border-box;
+	box-shadow: 2px 2px 8px 0px #b49f7a;
+	padding: 10px;
+}
+/* 分栏切换 按钮样式 */
+.smallbutton.isscreen .duolie,.smallbutton .danlie{
+	display: block;
+}
+.smallbutton.isscreen .danlie,.smallbutton .duolie{
+	display: none;
+}
+/* 卡片样式 覆盖loadingbox的样式 */
+.card.loading_box{
+	width: calc(100% - 20px);
+	flex-direction: column;
+}
+
+@media screen and (max-width: 640px) {
+/* 手机图片居上 */
+	.game_box.card{
+		flex-direction: column;
+	}
+	.card{
+		align-items: center;
+	}
+	.game_box.card>img{
+		margin: 0px auto 10px;
+	}
+/* 手机端隐藏修改布局按钮 */
+	#changescreen{
+		display: none;
+	}
+}

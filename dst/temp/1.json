@@ -1,0 +1,192 @@
+{
+  "code": 200,
+  "msg": "请求成功！",
+  "data": {
+    "introduces": "<font color=#CCCCCC>**__基础__**</font>  \n▷代码名`siving_mask_gold`  \n▷不可漂浮\n\n<font color=#99CCCC>**__装备__**</font>  \n▷头戴；护甲；75%防御；735耐久  \n▷耐久为0时，防御降为0%，并失去生命转移功能  \n▷<font color=#0099CC>窃血值</font>4，<font color=#0099CC>积累上限</font>135，<font color=#0099CC>恢复力</font>2  \n▋装备后  \n▷提供50%的窃血抵抗(详见百科条目“窃血抵抗”)  \n▷自动选择20半径内的任意一个对象(如果装备者是玩家或假人则玩家除外，如果装备者是非玩家则同类除外)，每2秒吸收它的生命(=<font color=#0099CC>窃血值</font>)。该装备会把吸收到的生命积累起来(上限为<font color=#0099CC>积累上限</font>)  \n▷装备的模式为“皆苦式”时，装备者攻击时，会强制将吸收对象转移为被攻击的对象  \n▋生命积累  \n装备后，每2秒执行一次以下逻辑：  \n(1)优先级1，若装备者血量低于98%，则消耗4积累，恢复装备者生命(=<font color=#0099CC>恢复力</font>)  \n(2)优先级2，若面具受损了，则消耗20积累，恢复该装备40耐久  \n▋生命转移  \n装备后，可进行以下操作(以下所有因积累不足而需要消耗装备者生命的情况，若即使消耗装备者生命也无法达到所需，就不会触发效果，也不会消耗了)：  \n(1)右键枯萎的植物、作物、子圭垄作物、异种植物，消耗5积累，将其恢复为枯萎前的状态  \n(2)右键死掉的曼德拉草，消耗20积累，将其恢复为种下的曼德拉草  \n(3)右键死亡的玩家，消耗120积累，复活玩家(复活后生命值为10，并且有生命上限惩罚)  \n(4)右键活着的生物，消耗20积累，恢复对方15生命(旺达、沃姆伍德狂喜)  \n(5)可用于子圭献祭(详见百科条目“子圭献祭”)  \n▋套装效果  \n若装备者同时装备了“子圭·釜”，则：  \n1、<font color=#0099CC>窃血值</font>提升为5.5，<font color=#0099CC>积累上限</font>提升为225，<font color=#0099CC>恢复力</font>提升为3  \n2、该装备用生命积累来修复自身时，会分出25%的修复量用以修复“子圭·釜”  \n▋模式切换  \n装备后，可右键该装备，进行模式切换  \n▷皆苦式：装备后的窃血机制，与上面的“▋装备后”所述相同，对所有能窃血的对象有效  \n▷向善式：装备后的窃血机制，只会对与装备者有敌意的对象生效  \n▷虚息式：装备后的窃血机制，不对任何对象生效\n\n<font color=#CCCCCC>**__来源__**</font>  \n重铸2级制作：时髦的护目镜、子圭·汲、子圭奇型岩、颤栗果酱",
+    "tag": [
+      {
+        "_id": "645b7b815e00ca45b8018bcb",
+        "name": "重铸",
+        "showType": "1",
+        "showTypeText": "用于分类",
+        "id": "645b7b815e00ca45b8018bcb"
+      },
+      {
+        "_id": "645b7bab5e00ca45b8018bd7",
+        "name": "盔甲",
+        "showType": "1",
+        "showTypeText": "用于分类",
+        "id": "645b7bab5e00ca45b8018bd7"
+      },
+      {
+        "_id": "645b7bba5e00ca45b8018bdb",
+        "name": "治疗",
+        "showType": "1",
+        "showTypeText": "用于分类",
+        "id": "645b7bba5e00ca45b8018bdb"
+      },
+      {
+        "_id": "645b7c395e00ca45b8018bf3",
+        "name": "子圭",
+        "showType": "1",
+        "showTypeText": "用于分类",
+        "id": "645b7c395e00ca45b8018bf3"
+      },
+      {
+        "_id": "6489c41a1956a5760a7f3ddc",
+        "name": "丰饶传说",
+        "showType": "2",
+        "showTypeText": "用于显示",
+        "id": "6489c41a1956a5760a7f3ddc"
+      }
+    ],
+    "_id": "645b8cbb5e00ca45b8018c61",
+    "src": "d0SkHRIvf8.png",
+    "name": "子圭·歃",
+    "alis": "子圭面具",
+    "form": {
+      "list": [
+        {
+          "type": "linkWithText",
+          "label": "涉及对象",
+          "key": "XrS5sX"
+        }
+      ],
+      "_id": "648484bb1956a5760a7f3cc2",
+      "name": "[通用]涉及对象",
+      "createdTime": "2024-12-01 18:56:26",
+      "updatedTime": "2024-12-01 18:56:26",
+      "id": "648484bb1956a5760a7f3cc2"
+    },
+    "mid": "645b7b5e5e00ca45b8018bc9",
+    "sort": [
+      {
+        "_id": "64a3fe1b1956a5760a7f4338",
+        "tagId": "645b7b815e00ca45b8018bcb",
+        "value": 1
+      },
+      {
+        "_id": "64a678d31956a5760a7f43ff",
+        "tagId": "645b7bab5e00ca45b8018bd7",
+        "value": 1
+      },
+      {
+        "_id": "64a6d1a91956a5760a7f443c",
+        "tagId": "645b7bba5e00ca45b8018bdb",
+        "value": 1
+      },
+      {
+        "_id": "64a7bc3e1956a5760a7f44ba",
+        "tagId": "645b7bbf5e00ca45b8018bdd",
+        "value": 0
+      },
+      {
+        "_id": "6628dca65954957953cff2e8",
+        "tagId": "645b7c395e00ca45b8018bf3",
+        "value": 5
+      }
+    ],
+    "__v": 0,
+    "created": "2023-05-10T12:23:23.518Z",
+    "updated": "2024-06-27T14:32:21.403Z",
+    "lastUpdator": {
+      "_id": "645a304c5e00ca45b801824e",
+      "nickName": "梧生"
+    },
+    "formValue": {
+      "XrS5sX": [
+        {
+          "link": {
+            "_id": "645b91bf5e00ca45b8018ce3",
+            "src": "3QtkUYuMSg.png",
+            "name": "电气重铸台(激活状态)",
+            "createdTime": "2024-12-01 18:56:26",
+            "updatedTime": "2024-12-01 18:56:26",
+            "id": "645b91bf5e00ca45b8018ce3"
+          },
+          "text": "制作"
+        },
+        {
+          "link": {
+            "_id": "645b62205e00ca45b80185d6",
+            "src": "2oUXI7fLH6.png",
+            "name": "时髦的护目镜",
+            "createdTime": "2024-12-01 18:56:26",
+            "updatedTime": "2024-12-01 18:56:26",
+            "id": "645b62205e00ca45b80185d6"
+          },
+          "text": "材料"
+        },
+        {
+          "link": {
+            "_id": "645b8cbb5e00ca45b8018c60",
+            "src": "XvSYHlI1fM.png",
+            "name": "子圭·汲",
+            "createdTime": "2024-12-01 18:56:26",
+            "updatedTime": "2024-12-01 18:56:26",
+            "id": "645b8cbb5e00ca45b8018c60"
+          },
+          "text": "材料"
+        },
+        {
+          "link": {
+            "_id": "645b91bf5e00ca45b8018cce",
+            "src": "o9ubtbUNSo.png",
+            "name": "子圭奇型岩(物品)",
+            "createdTime": "2024-12-01 18:56:26",
+            "updatedTime": "2024-12-01 18:56:26",
+            "id": "645b91bf5e00ca45b8018cce"
+          },
+          "text": "材料"
+        },
+        {
+          "link": {
+            "_id": "645b8eb15e00ca45b8018c8d",
+            "src": "5LtKIASBfo.png",
+            "name": "颤栗果酱",
+            "createdTime": "2024-12-01 18:56:26",
+            "updatedTime": "2024-12-01 18:56:26",
+            "id": "645b8eb15e00ca45b8018c8d"
+          },
+          "text": "材料"
+        },
+        {
+          "link": {
+            "_id": "656d945baa49810aaddec56e",
+            "src": "GWtkH1fbce.png",
+            "name": "窃血抵抗",
+            "createdTime": "2024-12-01 18:56:26",
+            "updatedTime": "2024-12-01 18:56:26",
+            "id": "656d945baa49810aaddec56e"
+          },
+          "text": "机制"
+        },
+        {
+          "link": {
+            "_id": "6571c0efaa49810aaddec832",
+            "src": "v4UDtquwIm.png",
+            "name": "子圭献祭",
+            "createdTime": "2024-12-01 18:56:26",
+            "updatedTime": "2024-12-01 18:56:26",
+            "id": "6571c0efaa49810aaddec832"
+          },
+          "text": "机制"
+        },
+        {
+          "link": {
+            "_id": "65c779f3aa49810aaddeeb6e",
+            "src": "POiOSkc3IG.png",
+            "name": "子圭·釜",
+            "createdTime": "2024-12-01 18:56:26",
+            "updatedTime": "2024-12-01 18:56:26",
+            "id": "65c779f3aa49810aaddeeb6e"
+          },
+          "text": "套装"
+        }
+      ]
+    },
+    "createdTime": "2023-05-10 20:23:23",
+    "updatedTime": "2024-06-27 22:32:21",
+    "id": "645b8cbb5e00ca45b8018c61"
+  }
+}
