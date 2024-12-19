@@ -1,0 +1,87 @@
+{{Exclusivity|Don't Starve Together}}
+{{Structure Infobox
+|icon=Scaled Furnace.png
+|image = Scaled Furnace Build.png
+|ingredient1 = Red Gem
+|multiplier1 = 2
+|ingredient2 = charcoal
+|multiplier2 = 10
+|ingredient3 = scales
+|multiplier3 = 1
+|filter = {{Pic32|Light Sources Filter}} {{Pic32|Structures Filter}} {{Pic32|Cooking Filter}} {{Pic32|Winter Items Filter}}
+|tier = 11
+|description = Build yourself a fly flue.
+|spawnCode = "dragonflyfurnace"
+}}
+{{Quotes
+|wilson = It's scalding!
+|willow = I think I'm in love.
+|wolfgang = Wolfgang hope does not burn moustache.
+|wendy = No need to lean in and check if it's hot. I can feel it from here.
+|wx78 = DO YOUR WORST. I AM INCAPABLE OF SWEATING.
+|wickerbottom = The magic of the two gems keeps it burning at maximum strength.
+|woodie = I'm sweaty enough without help from a furnace.
+|maxwell = The red gems are producing a sweltering heat.
+|wigfrid = Its belly is alight with fearsöme dragönfire.
+|webber = Hot hot furnace!
+|winona = Pretty fancy for a heater.
+|warly = What a handsome fire!
+|wortox = A cage to hold the dragon's rage.
+|wormwood = Hot! So hot!
+|wurt = Glorpt!! Too hot!!
+|walter = Can I cook marshmallows over it though?
+|wanda = Maybe I'll just take a moment to warm up these old bones of mine.
+|choose = willow}}
+
+The '''Scaled Furnace''' is a craftable [[Structure]] exclusive to ''[[Don't Starve Together]]'', introduced in ''[[A New Reign]]''. It can be found in the [[Light Sources Filter]], [[Structures Filter]] and
+[[Cooking Filter]] after the player obtains the [[Blueprint]] by either killing the [[Dragonfly]] or as a random drop from [[Loot Stash]], after killing [[Klaus]]. It can then be crafted using 2 [[Red Gem]]s, 10 [[Charcoal]] and 1 [[Scales]]. The Furnace provides heat in a wide radius (which can quickly overheat the player), and light in a very small radius, and allows the player to [[Cooking|cook]] [[Food]]. Currently, this structure affects the player in the same way as the [[Magma|Magma Pools]] found in the [[Desert]] [[biome]], except it won't set the player on fire.  The heat from a Scaled Furnace radiates heat 2 tiles as opposed to a single tile from a [[Campfire]] or [[Endothermic Fire]] (pit or non-pit versions).
+
+It also has 4 slots in which you can put almost any item. Doing this will destroy the item. You cannot use it as storage. If you put a living creature there and destroy it, you will receive some points of naughtiness. Also burning a creature or [[Living Log]] will cause them to scream. You can also put [[Thermal Stone]] there and wait a bit. In this case, the [[Thermal Stone]] will heat up.
+
+=={{pic|32|Higgsbury Red T-Shirt Icon}} Skins ==
+{{Main|Belongings#Scaled Furnace}}
+* The '''<span style="color:#BD4646;">Woven - Elegant</span> Clawfoot Furnace''' skin was introduced during the official [[Year of the Carrat]] event in 2020.
+* The '''<span style="color:#92B45F;">Loyal</span> Crystalline Furnace''' skin was a [[Twitch Drops]] and was awarded for watching 6 hours of ''Don't Starve Together'' on Twitch from May 28, 2020 to June 15, 2020. It is also available in the Klei Rewards shop for 1,200 Klei points.
+<center><gallery widths="125" captionalign="center" position="center" hideaddbutton="true">
+Clawfoot Furnace Icon.png|'''<span style="color:#BD4646;">Woven - Elegant</span><br>Clawfoot Furnace'''<br>''A gilded antique furnace that evokes the image of a fallen foe.''<br>[[:File:Clawfoot Furnace.png|See ingame]]
+Foreboding Furnace Icon.png|'''<span style="color:#BD4646;">Woven - Elegant</span><br><span style="color:#e6ce99;">Adventurer's Collection</span><br>Foreboding Furnace'''<br>''Despite the heat it provides, you can't help but feel a chill run down your spine.''
+Crystalline Furnace Icon.png|'''<span style="color:#92B45F;">Loyal</span><br>Crystalline Furnace'''<br>''Fine jewels won't keep you warm, but this fine jeweled furnace will!''<br>[[:File:Crystalline Furnace.png|See ingame]]
+</gallery></center>
+
+=={{Pic32|Prototype}} Tips== 
+*Placing [[Thermal Stone]]s next to the Scaled Furnace is a great way to heat them up efficiently, as no fuel is needed for the Scaled Furnace.
+*A fully fuelled [[Campfire]] will heat a thermal stone hotter than the Scaled Furnace.
+**However, 2 Scaled Furnaces next to each other will heat a thermal stone better than a Campfire.
+
+=={{Pic32|Placeholder}} Trivia == 
+*The Scaled Furnace was added in the ''[[A New Reign#September 23rd, 2016 - Warts and All|Warts and All]]'' update.
+*In the ''Rhymes with Play'' stream it was revealed on, it was accidentally read as "Salad Furnace". "saladfurnace" has been added alongside it as an easter egg, and is in fact just a green reskin of the Scaled Furnace. 
+**It can be spawned by entering in the command <code>c_spawn ("saladfurnace")</code>.
+*It used to be unable to cook food before [[Don't Starve Together/Version History#September 28, 2016|update 191674]].
+*There are unused quotes within the game files for when the Furnace's fire is high, normal and out, as well as when it has been damaged by a hammer. These could be either leftovers from when it was supposed to work with fuel or planned features. 
+**Additionally, these also reveal it was meant to be refueled by Red Gems.
+*A Scaled Furnace can ripen [[Saladmander|Saladmanders]].
+
+=={{Pic|32|Blueprint}} Gallery==
+<gallery captionalign="center" hideaddbutton="true">
+DSTupdate wartsandall sm.png|Scaled Furnace as seen in the poster for the ''[[A New Reign#September 23, 2016 - Warts and All|Warts and All]]'' update.
+Scaled furnace.jpg|[[Willow]] next to a Scaled Furnace.
+Salad and Scaled Furnace.PNG|The Salad Furnace in comparison to the Scaled Furnace.
+E10f3c9a8ae75c7ebc5d28b00bf69f6f15cb72de full.jpg|[[Wilson]] sitting near the Scaled Furnace at night.
+File:Different skins of Scale Furnaces in the dark.png|Different skins of Scale Furnaces in the dark
+File:Different skins of Scale Furnaces in the light.png|Different skins of Scale Furnaces in the light
+File:Scaled Furnace Icon.png|On the map
+File:Furnace heat distance.png|thumb|Scaled Furnace heat vs. distance (observe thermal stones, not thermometers)
+</gallery>
+
+{{Craftable Items|structure}}
+[[zh:龙鳞火炉]]
+[[Category:Structures]]
+[[Category:A New Reign]]
+[[Category:Warmth]]
+[[Category:Light Sources]]
+[[Category:Non-Flammable]]
+[[Category:Light Sources Filter]]
+[[Category:Cooking Filter]]
+[[Category:Structures Filter]]
+[[Category:Winter Items Filter]]

@@ -1,0 +1,75 @@
+{{Exclusivity|Don't Starve Together}}
+{{Structure Infobox
+|image = Scaled Flooring Dropped.png
+|icon = Scaled Flooring.png
+|description = Quell the spread of fire.
+|ingredient1 = Scales
+|tier = 2
+|multiplier1 = 1
+|ingredient2 = Cut Stone
+|multiplier2 = 1
+|numtogive = 4
+|spawnCode = "turf_dragonfly"
+|filter = {{pic32|Decorations Filter}} {{Pic|32|Summer Items Filter}}
+|stack = 20
+|burnTime = [[File:Light_Sources_Filter.png|32px|link=Fuel#Fire Fuel]] 7.5 sec.
+|canBeBurned = 1
+|imagewidth = 64}}
+{{Turf Infobox
+|image =Dragonfly Turf Texture.png
+|pitchfork = 1
+|perk = Slows the spreading of fire.
+}}
+{{Quotes
+|wilson = Do you want proof that it's fireproof?
+|willow = My lighter doesn't work on it.
+|wolfgang = Hot step stones.
+|wendy = Some ground.
+|wx78 = CONDITION: INFLAMMABLE. WAIT. NOT FLAMMABLE?
+|wickerbottom = This substance is imbued with a sort of natural fire deterrent.
+|woodie = Fire doesn't quite take here, eh?
+|maxwell = It's warm, but quells flame.
+|wigfrid = A warm piece öf the battlefield.
+|webber = Warm and cozy ground!
+|winona = That's a chunk of fancy ground.
+|warly = It's like an ingredient for the ground.
+|wortox = Floor or ceiling, depending on your perspective.
+|wormwood = Fire can't come here!
+|wurt = Scaly ground!
+|walter = Finally something fireproof!
+|wanda = This might actually be useful.
+|choose = wickerbottom}}
+{{Scrapbook Info|Can be placed on dirt ground to change the type of ground.}}
+'''Scaled Flooring''' is a type of craftable [[Turfs|Turf]] in ''[[Don't Starve Together]].'' It is crafted with [[Scales]] and a [[Cut Stone]]. Like all other turfs, and in spite of its fireproof qualities, Scaled Flooring can be used as fuel and can be lit on fire if left on the ground as an item.
+
+Scaled Flooring helps decrease the amount of heat an object or structure absorbs from open fire sources, therefore slowing the spread of fire. However, this effect does not stop things from being ignited in the heat or manually lit on fire (such as with a torch). The effect is also only extended to objects and structures which are placed fully on top of them.
+
+Scaled Flooring slows the rate at which fires make adjacent objects smolder. It does not block heat; [[Thermal Stone]]s and players will still heat up at normal distances from heat sources.  Directly lighting objects on fire (with a [[Torch]]) behaves normally on Scaled Flooring, as do fires buring once lit or the progression of a single item smoldering once started.
+
+=={{Pic32|Prototype}} Tips==
+* Scaled Flooring can be used to duplicate Scales by using a [[Deconstruction Staff]], since four Scaled Flooring are made each batch. This can be used to mass-produce Scales from at least one Scales.
+
+=={{Pic|32|Blueprint}} Gallery==
+<gallery captionalign="center" hideaddbutton="true">
+Dragonfly Turf Texture.png|Scaled Flooring texture.
+WigfridScaledTiles.png|[[Wigfrid]] standing on Scaled Flooring.
+</gallery>
+
+[[File:ScaledFlooring.webm|Scaled Flooring stops the spread of smoldering]]
+{{clear}}
+<tabber>
+Turfs=
+{{Turfs}}
+|-|
+Craftable Items=
+{{Craftable Items}}
+</tabber>
+[[vi:Scaled Flooring]]
+[[es:Suelo escamado]]
+[[Category:Items]]
+[[Category:Craftable Items]]
+[[Category:Turf Items]]
+[[Category:Fuel]]
+[[Category:Decorations Filter]]
+[[Category:Summer Items Filter]]
+[[Category:Flammable Objects]]
