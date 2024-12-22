@@ -1,0 +1,76 @@
+```markdown
+# Exclusivity: Don't Starve Together
+
+## Structure Infobox: Backtrek Watch
+- **cooldown**: 8 min
+- **name**: Backtrek Watch
+- **icon**: Backtrek Watch.png
+- **description**: Return to a distant point in time.
+- **ingredient1**: Time Pieces (multiplier: 2)
+- **ingredient2**: Gold Nugget (multiplier: 2)
+- **ingredient3**: Walrus Tusk (multiplier: 1, Wanda Portrait only)
+- **filter**: Wanda Filter (Survivor Items Filter)
+- **tier**: 4
+- **perk**: Teleport a long distance.
+- **stack**: Does not stack
+- **spawnCode**: pocketwatch_recall
+
+### Gallery
+- ![Idle](Backtrek Watch Dropped.png)
+- ![Cooldown](Backtrek Watch Dropped Cooldown.gif)
+
+### Quotes
+- Wilson: I bet there's a lot of interesting science inside.
+- Willow: Why worry about the past or future? It'll all go up in flames eventually.
+- Wolfgang: Is just little clock.
+- Wendy: It's soothing to watch the seconds tick away.
+- WX78: TIME MACHINE? TIME MACHINE!!
+- Wickerbottom: Horology mixed with magic, truly fascinating.
+- Woodie: That's a pretty fancy lookin' clock.
+- Maxwell: Careful, madam. I know where this trail ultimately leads.
+- Wigfrid: A Viking warrior can tell the time by the position of the sun.
+- Webber: Would we change anything if we could go back in time?
+- Winona: I wouldn't mind takin' a look at its inner workings.
+- Warly: Maybe I could ask her to make me a kitchen timer...
+- Wortox: Mortals keep coming up with such funny tricks!
+- Wormwood: Tick tock tick tock
+- Wurt: Only chewed on it little bit! But Wandy-lady got mad...
+- Walter: Ms. Wanda sure has a lot of clocks!
+- Wanda: Ah, that takes me way back.
+- Choose: Wanda
+
+## Scrapbook Info
+Used to mark a spot, and then used again to teleport to that spot. 8 minute cooldown. Even works between the Cave and the Forest.
+
+The Backtrek Watch gives Wanda the ability to set a waypoint in space, and teleport to that spot at any time. The Watch has an 8 minute (1 day) cooldown, and is able to transport the player between shards (meaning between Surface and Cave in normal game). After the watch has been activated, the examination changes to "Is it time for us to take a dip in the timestream?" letting the player know whether or not a destination has already been set. Should the destination be set within a different shard (usually the Caves if you are within the Surface shard and vice versa), her examination will change to "It'll be a big jump, but I can make it!". It requires 2 Time Pieces, 2 Gold Nuggets and a Walrus Tusk to craft.
+
+## Structure Infobox: Rift Watch
+- **name**: Rift Watch
+- **icon**: Rift Watch.png
+- **description**: Time travel is better with friends.
+- **ingredient1**: Backtrek Watch (multiplier: 1)
+- **ingredient2**: Purple Gem (multiplier: 1, Wanda Portrait only)
+- **filter**: Wanda Filter (Survivor Items Filter)
+- **tier**: 4
+- **perk**: Create a space rift to transport multiple players.
+- **stack**: Does not stack
+- **spawnCode**: pocketwatch_portal
+
+### Gallery
+- ![Idle](Rift Watch Dropped.png)
+- ![Cooldown](Rift Watch Dropped Cooldown.gif)
+
+### Quotes
+- Wilson: I bet there's a lot of interesting science inside.
+- Willow: Why worry about the past or future? It'll all go up in flames eventually.
+- Wolfgang: Is just little clock.
+- Wendy: It's soothing to watch the seconds tick away.
+- WX78: TIME MACHINE? TIME MACHINE!!
+- Wickerbottom: Horology mixed with magic, truly fascinating.
+- Woodie: That's a pretty fancy lookin' clock.
+- Maxwell: Careful, madam. I know where this trail ultimately leads.
+- Wigfrid: A Viking warrior can tell the time by the position of the sun.
+- Webber: Would we change anything if we could go back in time?
+- Winona: I wouldn't mind takin' a look at its inner workings.
+- Warly: Maybe I could ask her to make me a kitchen timer...
+- Wortox: Mort

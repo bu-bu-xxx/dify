@@ -1,0 +1,3052 @@
+```markdown
+# Eye of Terror
+
+## Mob Info
+![Phase 1](Eye of Terror Phase_1.png) ![Phase 2](Eye of Terror Phase_2.png)  
+**Health:** 5000  
+**Damage to Player:** 62.5  
+**Damage to Mobs:** 125  
+**Walk Speed:** 4.5  
+**Run Speed:** 15 (phase 1) / 18.75 (phase 2)  
+**Sanity Aura:** -100  
+**Special Ability:** Spawns Suspicious Peeper  
+**Drops:** 2-4 Monster Meat, 3-5 Milky Whites, Eye Mask, Sketch for Eye of Terror Figure (Marble)  
+**Spawn Code:** "eyeofterror"
+
+## Quotes
+- Wilson: Go for the eye!
+- Willow: What's your problem? Quit staring!
+- Wolfgang: Wolfgang not like big scary eye!
+- Wendy: Beware the evil eye.
+- WX-78: INITIALIZING "POKE" PROTOCOLS
+- Wickerbottom: Oculus dexter or oculus sinister, I wonder? I have a suspicion it's the latter.
+- Woodie: Feast your eye on my axe!
+- Maxwell: Don't look at me, it's definitely not one of mine.
+- Wigfrid: Be it the plucked eye of Odin himself, returned for revenge?
+- Webber: We don't like the look of that...
+- Winona: Yeesh, what an eyesore.
+- Warly: That eye has a hungry look to it...
+- Wortox: Whatever he says I did, it's a lie!
+- Wormwood: Biiiig peeper!
+- Wurt: Glurp...
+- Walter: Wow! Do you think it escaped from a giant head?
+- Wanda: I don't think that's supposed to be here...
+
+## Behavior
+Upon spawning, the Eye of Terror charges toward the player, dealing area of effect damage, then spawns one Egg of Terror which will hatch into a Suspicious Peeper. The Eye of Terror will repeat this pattern of attack until its HP drops below 3250, at which point it reveals its mouth and enters its second phase.
+
+During its second phase, the Eye of Terror attacks in a pattern of charging 3-5 times consecutively, then spawning two Eggs of Terror at once instead of the previous one. The Eye of Terror also gains a slam attack that triggers when the player comes too close, creating a small sinkhole in the ground that lasts for 20 seconds, slowing down players who walk on it.
+
+## Strategy
+The Suspicious Peepers spawned by the Eye of Terror take some time before they hatch, but killing them should always be a priority before they hatch, as they can quickly overwhelm the player.
+
+# Twins of Terror
+
+The Twins of Terror, or The Twins, are two entities, Retinazor and Spazmatism, who spawn instead of the Eye of Terror if the Terrarium is fueled with one Nightmare Fuel before activating it. They have nearly identical attacks to the Eye of Terror but have 10,000 HP each, and both entities enter their second phase when they lose 7000 HP in total.
+
+Unlike the Eye of Terror, the Twins do not regenerate HP if a night is skipped without spawning them. Once they have been summoned at least once, if a single night is spent without summoning them again, the Terrarium immediately enters its dormant state, and cannot be activated for another 15 days.
+
+## Retinazor
+![Phase 1](Retinazor Phase_1.png) ![Phase 2](Retinazor Phase_2.png)  
+**Health:** 10000  
+**Damage to Player:** 125  
+**Damage to Mobs:** 250  
+**Walk Speed:** 4.5  
+**Run Speed:** 20 (phase 1) / 22 (phase 2)  
+**Sanity Aura:** -100  
+**Special Ability:** Spawns Suspicious Peeper  
+**Drops:** Yellow Gem, 3-5 Gears, 1-2 Frazzled Wires, 2-3 Electrical Doodads, Shield of Terror, Sketch for Twins of Terror Figure (Marble)  
+**Spawn Code:** "twinofterror1"
+
+## Spazmatism
+![Phase 1](Spazmatism Phase_1.png) ![Phase 2](Spazmatism Phase_2.png)  
+**Health:** 10000  
+**Damage to Player:** 125  
+**Damage to Mobs:** 250  
+**Walk Speed:** 4.5  
+**Run Speed:** 23 (phase 1) / 25 (phase 2)  
+**Sanity Aura:** -100  
+**Special
+
+
+
+
+```markdown
+# Peg Leg
+
+### Exclusivity: Shipwrecked
+### Incomplete
+
+### Item Infobox
+- **Damage**: 34
+- **Durability**: 50 Uses
+- **Dropped By**: ![X Marks The Spot](ImageLink)
+- **Spawn Code**: "peg_leg"
+- **Stack**: Does not stack
+
+### Quotes
+- **Wolfgang**: "Is best battle trophy!"
+- **Wilson**: "I can perform amputations if anyone'd like to wear it for real."
+- **Willow**: "I haven't pegged down what this does yet."
+- **Woodie**: "Can I chop this?"
+- **Maxwell**: "Good for whacking."
+- **Wagstaff**: "I can reasonably deduce that this belonged to someone. But to whom?"
+- **Wendy**: "But where's the rest of the peg-person?"
+- **Woodlegs**: "Woodlegs had better hold on ta this fer future use."
+- **Wickerbottom**: "What a curious choice of object for use as a weapon!"
+- **Webber**: "This be our smackin' leg."
+- **Warly**: "Why on earth do I have this?"
+- **WX-78**: "I SWING THIS LEG WITH MY ARM"
+- **Walani**: "Is it weird to just have one?"
+- **Wigfrid**: "This leg will make a fine basher!"
+- **Wilba**: "SOMETHING 'TIS AFOOTS!"
+- **Wormwood**: "Friend?"
+- **Wheeler**: "Well, it's not mine."
+- **Choose**: "woodlegs"
+
+The **Peg Leg** is a **Weapon** exclusive to the **Don't Starve: Shipwrecked** DLC. It does the same damage as a **Spear** and has one third of its uses, 50. One can find it in **X Marks the Spot** chests.
+
+### Prototype Tips
+- In the early days and if playing as Woodlegs while looting the first **treasure chests**, the player can use the Peg Leg as a temporary weapon until they find or craft a better alternative.
+
+### Categories
+- **Weapons**
+- **Melee Weapons**
+- **Limited use**
+- **Equipable Items**
+
+- **Ocean**
+- **Objects**
+```
+
+
+
+
+```markdown
+# Horizon Expandinator
+
+## Structure Info
+- **Name:** Horizon Expandinator
+- **Image:** ![Horizon Expandinator](Horizon_Expandinator_Dropped.png)
+- **Icon:** ![Horizon Expandinator](Horizon_Expandinator.png)
+- **Stackable:** No
+- **Wears Out:** 12 days
+- **Equip Slot:** Head
+- **Sanity Drain:** +2/min (during Day), -1.3/min (during Night)
+- **Dropped By:** ![Scrappy Werepig](64px-Scrappy_Werepig.png)
+- **Deconstruct:** 2x Scrap, 1x Electrical Doodad, 1x Frazzled Wires
+- **Spawn Code:** scrap_monoclehat
+
+## Quotes
+- **Wilson:** "Does it make me look more distinguished?"
+- **Willow:** "Am I gonna start saying stuff like 'quite' and 'indubitably'?"
+- **Wolfgang:** "Makes Wolfgang's sight as strong as his muscles!"
+- **Wendy:** "I won't find what I'm looking for, no matter how far I can see."
+- **WX-78:** "IT IMPROVES MY ALREADY SUPERIOR VISION"
+- **Wickerbottom:** "It seems to exponentially increase the wearer's field of view."
+- **Woodie:** "I can see far and wide!"
+- **Maxwell:** "I don't need glasses! Who told you I need glasses?"
+- **Wigfrid:** "An enchanted eye, to view the whole battlefield at once."
+- **Webber:** "We can see extra far with that on!"
+- **Winona:** "The bossman always said you gotta 'see the bigger picture.'"
+- **Warly:** "It provides a lovely view!"
+- **Wortox:** "My my, that distant look in your eye!"
+- **Wormwood:** "Can see friends far away!"
+- **Wurt:** "Can see everything!"
+- **Walter:** "Woah! It's like binoculars, but... well, the opposite of that!"
+- **Wanda:** "It never hurts to view things from a wider angle."
+
+## Scrapbook Info
+The Horizon Expandinator expands the survivor's vision range, convenient during the day, uncomfortable at night.
+
+## Trivia
+- The Horizon Expandinator was introduced in the Scrappy Scavengers update.
+
+## Gallery
+![Horizon Expandinator Equipped](Horizon_Expandinator_Equipped.png)
+
+## Tools and Weapons
+- **Category:** From Beyond
+- **Category:** Perishables
+- **Category:** Hats
+- **Category:** Water Resistant
+- **Category:** Equipable Items
+```
+
+
+
+
+```markdown
+# Food Types
+
+## Veggie
+All Veggie food:
+
+- [Carrot](Carrot)
+- [Roasted Carrot](Roasted Carrot)
+- [Corn](Corn)
+- [Popcorn](Popcorn)
+- [Eggplant](Eggplant)
+- [Braised Eggplant](Braised Eggplant)
+- [Pumpkin](Pumpkin)
+- [Hot Pumpkin](Hot Pumpkin)
+- [Blue Cap](Blue Cap)
+- [Cooked Blue Cap](Cooked Blue Cap)
+- [Green Cap](Green Cap)
+- [Cooked Green Cap](Cooked Green Cap)
+- [Red Cap](Red Cap)
+- [Cooked Red Cap](Cooked Red Cap)
+- [Moon Shroom](Moon Shroom)
+- [Cooked Moon Shroom](Cooked Moon Shroom)
+- [Mandrake](Mandrake)
+- [Cooked Mandrake](Cooked Mandrake)
+- [Foliage](Foliage)
+- [Lichen](Lichen)
+- [Cactus Flesh](Cactus Flesh)
+- [Cooked Cactus Flesh](Cooked Cactus Flesh)
+- [Cactus Flower](Cactus Flower)
+- [Asparagus](Asparagus)
+- [Cooked Asparagus](Cooked Asparagus)
+- [Kelp Fronds](Kelp Fronds)
+- [Cooked Kelp Fronds](Cooked Kelp Fronds)
+- [Dried Kelp Fronds](Dried Kelp Fronds)
+- [Ripe Stone Fruit](Ripe Stone Fruit)
+- [Cooked Stone Fruit](Cooked Stone Fruit)
+- [Garlic](Garlic)
+- [Roasted Garlic](Roasted Garlic)
+- [Onion](Onion)
+- [Roasted Onion](Roasted Onion)
+- [Pepper](Pepper)
+- [Roasted Pepper](Roasted Pepper)
+- [Potato](Potato)
+- [Roasted Potato](Roasted Potato)
+- [Toma Root](Toma Root)
+- [Roast Toma Root](Roast Toma Root)
+- [Durian](Durian)
+- [Extra Smelly Durian](Extra Smelly Durian)
+- [Moon Moth Wings](Moon Moth Wings)
+- [Butterfly Wings](Butterfly Wings)
+- [Cave Banana](Banana)
+- [Cooked Cave Banana](Cooked Banana)
+- [Dragon Fruit](Dragon Fruit)
+- [Prepared Dragon Fruit](Prepared Dragon Fruit)
+- [Pomegranate](Pomegranate)
+- [Sliced Pomegranate](Sliced Pomegranate)
+- [Berries](Berries)
+- [Roasted Berries](Roasted Berries)
+- [Juicy Berries](Juicy Berries)
+- [Roasted Juicy Berries](Roasted Juicy Berries)
+- [Glow Berry](Glow Berry)
+- [Lesser Glow Berry](Lesser Glow Berry)
+- [Watermelon](Watermelon)
+- [Grilled Watermelon](Grilled Watermelon)
+- [Fig](Fig)
+- [Cooked Fig](Cooked Fig)
+- [Fire Nettle Fronds](Fire Nette Fronds)
+- [Forget-Me-Lots](Forget-Me-Lots)
+- [Light Bulb](Light Bulb)
+- [Lune Tree Blossom](Lune Tree Blossom)
+- [Petals](Petals)
+- [Dark Petals](Dark Petals)
+- [Succulent](Succulent)
+- [Tillweeds](Tillweeds)
+- [Kelp Patch](Kelp Patch)
+- [Syrup of Ipecaca](Syrup of Ipecaca)
+- [Eternal Fruitcake](Eternal Fruitcake)
+- [Plum Pudding](Plum Pudding)
+- [Apple Cider](Apple Cider)
+- [Raisins](Raisins)
+- ["Raisins"]("Raisins")
+- [Lava Pepper](Lava Pepper)
+- [Not-So-Candy Corn](Not-So-Candy Corn)
+- [Popperfish](Popperfish)
+- [Corn Cod](Corn Cod)
+- [Corny Slush](Corny Slush)
+
+All Veggie dishes:
+
+- [Asparagazpacho](Asparagazpacho)
+- [Fresh Fruit Crepes](Fresh Fruit Crepes)
+- [Glow Berry Mousse](G
+
+
+
+
+```markdown
+# Hardened Rubber Bung
+
+## Overview
+
+- **Icon:** ![Hardened Rubber Bung](Hardened Rubber Bung.png)
+- **Image:** ![Dropped](Hardened Rubber Bung Dropped.png)
+- **Cast Range:** 13, Accuracy: 0.1
+- **Spawn Code:** `trinket_8`
+- **Dropped By:**
+  ![Ancient Pseudoscience Station Build](Pic|32)
+  ![Broken Pseudoscience Station Build](Pic|32)
+  ![Grave](Pic|32)
+  ![Sunken Chest](Pic|32)
+  ![Tumbleweed](Pic|32)
+  ![Crumpled Package](Pic|32)
+- **Stack:** 40
+
+## Exclusivity
+
+- Don't Starve, Reign of Giants, Shipwrecked, Hamlet, Don't Starve Together
+
+## Quotes
+
+- **Wilson:** "Great. All of my tub stopping needs are met."
+- **Willow:** "I've never liked bathing with water."
+- **Wolfgang:** "Hardened, like Wolfgang."
+- **Wendy:** "I wish I could take a bath."
+- **WX-78:** "I DON’T WANT TO KNOW WHERE THAT GOES"
+- **Wickerbottom:** "It reminds me of my bath tub. I could use a long soak."
+- **Woodie:** "If I find a tub, I'm all set."
+- **Maxwell:** "I’d prefer a pocketwatch on a chain."
+- **Wagstaff:** "I would love to know this got here."
+- **Wigfrid:** "It wöuld make an ökay weapön in a pinch."
+- **Webber:** "We could take a bath if only we had a tub."
+- **Walani:** "Hardened what?"
+- **Warly:** "Ah, memories of bathing."
+- **Woodlegs:** "Bung be hard."
+- **Wilba:** "WILBA NAUGHT SEE THIS AFORE"
+- **Wormwood:** "Pretty"
+- **Wheeler:** "I'm more a showerer myself."
+- **Winona:** "No bathtub in sight."
+- **Wortox:** "I have no idea what it is, but it sure is funny!"
+- **Wurt:** "Crunchy, florp."
+- **Walter:** "I'm sure I'll find a use for it."
+- **Wanda:** "You never know what might come in handy later."
+
+## Uses
+
+- **Chance of Finding:** 4.17% when digging up a grave
+- **Yields:** 8 Gold Nuggets when offered to the Pig King
+- **Delays:** Antlion's rage by 0.99 days when given in tribute
+- **Equals:** The range of the Malbatross or Down Quil floats (13) when used as a float for the Sea Fishing Rod, but has the same accuracy as using a stick.
+
+## Spawning
+
+The Hardened Rubber Bung can be spawned into the game with the code `"trinket_8"`.
+
+## Recipes
+
+### Gold Nugget
+
+- **Item:** Hardened Rubber Bung
+- **Gold:** Yes
+- **Result:** Gold Nugget
+- **Result Count:** 8
+
+### Desert Stone
+
+- **Item:** Hardened Rubber Bung
+- **Tool:** Antlion
+- **Result:** Desert Stone
+
+## Trivia
+
+Under the old research method, Trinkets were one of the best ways of gaining research points (80 points).
+
+## Gallery
+
+<gallery>
+CD trinket_8.png|Original HD icon from Bonus Materials from Don't Starve.
+</gallery>
+```
+
+
+
+
+```markdown
+# Tiny Rocketship
+
+![Tiny Rocketship Icon](Tiny Rocketship.png)
+![Dropped Image](Tiny Rocketship Dropped.png)
+
+## Information:
+- **Spawn Code:** `trinket_5`
+- **Dropped By:** Ancient Pseudoscience Station, Broken Pseudoscience Station, Grave, Sunken Chest
+- **StackSize:** 40
+
+### Appearances:
+- **Don't Starve**
+- **Reign of Giants**
+- **Shipwrecked**
+- **Hamlet**
+- **Don't Starve Together**
+
+## Quotes:
+- **Wilson:** "Sadly, it's too small for me to escape on."
+- **Willow:** "Check out those tiny thrusters. Such explosive power!"
+- **Wolfgang:** "What is do?"
+- **Wendy:** "I'd fly this straight into the sun, if only it was bigger."
+- **WX-78:** "AN IMPRACTICAL HUMAN CHILD’S TOY"
+- **Wickerbottom:** "This spacecraft looks to have inadequate thermal controls."
+- **Woodie:** "It needs a robot arm, eh?"
+- **Maxwell:** "A toy for a child’s mind."
+- **Wagstaff:** "Marvelous! I would very much like one on a bigger scale."
+- **Wigfrid:** "Will it take me to Asgard?"
+- **Webber:** "Yay, a new toy!"
+- **Walani:** "Zzzzzzzoooooom!"
+- **Warly:** "A rocketship for ants?"
+- **Woodlegs:** "This is no kind o'ship me knows."
+- **Wilba:** "WILBA GO'ST TO MOON"
+- **Wormwood:** "Pakow!"
+- **Wheeler:** "I'd fly it to the moon if I could."
+- **Winona:** "Handcrafted. Yuck."
+- **Wortox:** "Nyooooom!"
+- **Wurt:** "Nyooooom!"
+- **Walter:** "I wonder if we'll ever explore outer space."
+- **Wanda:** "How futuristic!"
+
+## Game Mechanics:
+- **Chance to Find:** 4.17% when digging up a grave.
+- **Reference:** Appears to be a reference to the comic book "Destination Moon".
+- **Trading:** Can be traded to the Pig King for 4 Gold Nuggets.
+- **Antlion Tribute:** Delays Antlion's rage by 0.66 days.
+
+## Spawning:
+```plaintext
+trinket_5
+```
+
+## Recipes:
+### Trading for Gold Nugget:
+- **Item:** Tiny Rocketship
+- **Gold:** Yes
+- **Result:** Gold Nugget
+- **Result Count:** 4
+
+### Antlion Tribute:
+- **Item:** Tiny Rocketship
+- **Tool:** Antlion
+- **Result:** Desert Stone
+
+## Gallery:
+![Original HD Tiny Rocketship Icon](CD trinket_5.png)
+
+## Trivia:
+- **Research Points:** Under the old research method, Trinkets were one of the best ways of gaining research points (80 points).
+```
+
+
+
+
+```markdown
+# Gord's Knot
+
+![Gord's Knot](Gord's Knot Dropped.png) 
+
+| Icon | Spawn Code | Drops from... |
+| --- | --- | --- |
+| ![Gord's Knot](Gord's Knot.png) | `trinket_3` | Ancient Pseudoscience Station, Broken Pseudoscience Station, Grave, Relic Chair, Relic Table, Relic Vase, Relic Plate, Relic Bowl, Sunken Chest, Tumbleweed, Crumpled Package |
+
+## Exclusivity
+- Don't Starve
+- Reign of Giants
+- Shipwrecked
+- Hamlet
+- Don't Starve Together
+
+## Quotes
+- **Wilson**: "The knot is stuck. Forever."
+- **Willow**: "The knot is stuck. Who needs a knife when you've got fire?"
+- **Wolfgang**: "Is knot what Wolfgang expected."
+- **Wendy**: "If only knives solved more of my problems..."
+- **WX-78**: "WHOSE KNOT IS THIS? THAT’S A WELL-GORDED SECRET."
+- **Wickerbottom**: "Oh, I just love the bard."
+- **Woodie**: "Reminds me of a story I heard once."
+- **Maxwell**: "A tangled mess. Like life."
+- **Wagstaff**: "Curious. Some force prevents me from untying it."
+- **Wigfrid**: "Even my spear cannöt undö this knöt."
+- **Webber**: "It won't come undone!"
+- **Walani**: "Gord only knows what this is good for."
+- **Warly**: "Some things can't be undone."
+- **Woodlegs**: "Gord knows his way around a knot."
+- **Wilba**: "‘TIS TIED REAL GOOD"
+- **Wormwood**: "Twisty string"
+- **Wheeler**: "I've found knots like this in my balloon rigging."
+- **Winona**: "Everyone's been real good at showin' me the ropes. Ha!"
+- **Wortox**: "Tied like my tongue!"
+- **Wurt**: "Grrr, can't... un-knot...!"
+- **Walter**: "That's easy, I know how to tie lots of knots!"
+- **Wanda**: "I'm not going to bother trying to untangle it."
+- **Choose**: Wilson
+
+The **Gord's Knot** has a 4.17% chance of being found when digging up a grave. Gord's Knot is a reference to the story in which **Alexander the Great** was told that whoever could complete the impossible challenge of disentangling Gordian's Knot and release the tethered cart would rule all of Asia. He released the cart by cutting the Knot with a knife, and went on to conquer much of Asia Minor, before his army rebelled. It has since become a metaphor for solving a complex problem with a simple solution, by thinking outside of the box.
+
+- **Trade with Pig King**: 4 Gold Nuggets
+- **Trade with King of the Merms**: For Fishes
+- **Antlion Tribute**: Delays its rage by 0.66 days
+
+The Gord's Knot can be spawned into the game with the code `"trinket_3"`.
+
+## Recipes
+
+### Trading to the Pig King
+| Item | Result | Result Count |
+| --- | --- | --- |
+| Gord's Knot | Gold Nugget | 4 |
+
+### Trading to the Antlion
+| Item | Tool | Result |
+| --- | --- | --- |
+| Gord's Knot | Antlion | Desert Stone |
+
+## Trivia
+- Under the **old research method**, Trinkets were one of the best ways of gaining research points (80 points).
+
+## Gallery
+
+<gallery>
+CD trinket_3.png|Original HD icon from Bonus Materials from **Don't Starve**.
+</gallery>
+
+## Resources
+```
+
+
+
+
+```markdown
+# Shark Fin Soup
+
+**Exclusivity:** Shipwrecked
+
+**Structure Infobox:**
+- **Icon:** ![Shark Fin Soup](Shark Fin Soup.png)
+- **Image:** ![Shark Fin Soup Dropped](Shark Fin Soup Dropped.png)
+- **Can be Burned:** Yes (1)
+- **Food Recipe:** 1x ![Shark Fin](Shark Fin) + 3x ![Filler](Filler)
+- **Food Type:** Meat ![Meat](Meat | Food Type#Meat)
+- **Crafting:** Cooked in a [Crock Pot]
+- **HP Restored:** 40
+- **Hunger Restored:** 12.5
+- **Sanity Restored:** -10
+- **Cook Time:** 10 sec
+- **Priority:** 20
+- **Spoil:** 10 Days
+- **Stack:** 40
+- **Perk:** Increases Naughtiness by 10
+- **Spawn Code:** "sharkfinsoup"
+
+**Quotes:**
+- Wilson: "It's shark fin-ished!"
+- Willow: "And I didn't even burn it!"
+- Wolfgang: "Is small shark inside?"
+- Wendy: "It's tasted a mortal escape. I'll be tasting it."
+- WX-78: "APPEARS EDIBLE"
+- Wickerbottom: "I may have meddled with a delicate ecosystem to make this."
+- Woodie: "He'll swim in my stomach from now on."
+- Maxwell: "My refined palate relishes the taste of endangerment."
+- Wagstaff: "Ah. Shark fin soup. Just the thing to settle my stomach."
+- Wigfrid: "Deliciöus!"
+- Webber: "Yum, yum, soup!"
+- Walani: "I could shove my face right in this."
+- Warly: "I used Nana's secret recipe."
+- Woodlegs: "Now Woodlegs gits ta bite ya back!"
+- Wilba: "‘TIS A SOUP O' MINE ENEMIES"
+- Wormwood: "Still swimming"
+- Wheeler: "I'll eat it as long as it doesn't start swimming again."
+- Choose: Wickerbottom
+
+**Shark Fin Soup** is a [Crock Pot] recipe introduced in the **Don't Starve: Shipwrecked** DLC. It is made from 1 **Shark Fin** and 3 fillers. Because Shark Fin Soup has a higher priority than **Monster Lasagna**, multiple **Monster Foods** can be used as a filler, without the risk of getting Monster Lasagna as the result.
+
+If a **Wobster** is also added, adding **Ice** or **Butter** will yield **Lobster Bisque** or **Lobster Dinner** respectively. Adding **Meats** of value 2 and another **Fish** item will yield **Surf 'n' Turf** instead. Adding Fishes of value 1 and **Ice** may yield **Ceviche** instead. Adding **Jellyfish**, **Ice** and a **Twig** may yield **Jelly-O Pop** instead. Adding exactly 2 raw **Seaweed** may result in **California Roll** instead.
+
+Shark Fin Soup restores 40 **Health** and 12.5 **Hunger** at the cost of 10 **Sanity** and raises **Naughtiness** by 10 points.
+
+## Recipe
+- **Item 1:** Shark Fin
+- **Item 2:** Filler
+- **Count 2:** 3
+- **Tool:** Crock Pot
+- **Result:** Shark Fin Soup
+
+## Examples
+1. **Item 1:** Shark Fin
+   **Item 2:** Twigs
+   **Count 2:** 3
+   **Tool:** Crock Pot
+   **Result:** Shark Fin Soup
+
+2. **Item 1:** Shark Fin (1)
+   **Item 2:** Ice (2)
+   **Item 3:** Twigs
+   **Tool:** Crock Pot
+   **Result:** Shark Fin Soup
+
+3. **Item 1:** Shark Fin
+   **Item 2:** Monster Meat
+   **Count 2:** 3
+   **Tool:** Crock Pot
+   **Result:** Shark Fin Soup
+
+4. **Item 1:** Shark Fin
+   **Item 2:** Jellyfish
+   **Item 3:** Ice
+   **Item 4:** Twigs
+   **Tool:** Crock Pot
+   **Result:** Shark Fin Soup
+   **Note
+
+
+
+
+```markdown
+# {{Navbutton/DST Version History}}
+
+## December 19, 2017
+Rev. 247691 (Release)
+
+- Fixed bug with Festive Lights sometimes turning back on when they are in your bags.
+- Fixed bug with Misery Toadstool and Ancient Fuelweaver not dropping their ornaments.
+- Fixed bug where planting a Pine Cone in the Festive Tree Planter would spawn an extra Pine Cone.
+- Fixed Wigfrid Battlemaster Head Skin when wearing hats.
+- Fixed Gladiator Wolfgang’s eyes when in wimpy mode.
+- Fixed Wendy’s hair snowflake positioning.
+- Fixed character animation bugs when caroling on a Beefalo.
+
+## December 18, 2017 - Winter's Feast
+![Winter's Feast 2017](Winter's Feast 2017.jpg "Winter's Feast 2017")
+
+Rev. 247542 (Release)
+
+### Changes
+- Winter's Feast is here! The in-game event will be automatically enabled for worlds with Events set to Auto (default).
+- Improved boot time:
+  - Note for modders: data/scripts/* has been moved to data/databundles/scripts.zip.
+  - See data/scripts_readme.txt for for info.
+- Memory optimizations.
+- Improved autocomplete behaviour.
+  - Added autocomplete options to client.ini for chat and console input:
+    - In client.ini, under the [MISC] category, add:
+      - console_autocomplete = tab_enter
+      - chat_autocomplete = tab_enter
+    - Values for these are:
+      - tab_enter - both tab and enter will apply the selected word
+      - tab - only tab will apply the selected word
+      - enter - only enter will apply the selected word
+      - mouseonly - you will need to click on a word to apply it
+      - disabled - the auto complete prompt will be disabled
+- Improved Curio Cabinet UI:
+  - Filter buttons now apply to all menu items.
+  - Filter selections will now be remembered.
+  - Toggling filters will no longer deselect the current item.
+  - Improved screen navigation for controllers.
+- Added new option to sort server browser by relevance.
+
+### Bug Fixes
+- Fixed bug where Hallowed Nights trinkets could still be dug up from Graves when the event is not active.
+- Prevent crash when client.ini contains invalid audio settings.
+
+## December 4, 2017
+Rev. 244816 (Release)
+
+### Changes
+- The Forge is now closed.
+
+### Bug Fixes
+- Fixed bug where skins and profile level may sometimes not work properly when joining a server via Steam Friends list.
+
+## November 30, 2017
+Rev. 244388 (Release)
+
+### Changes
+- Added 8 new Accomplishments for The Forge.
+
+### Bug Fixes
+- Pressing w/a/s/d in text boxes will no longer trigger sound effects.
+- Fixed controller bugs in the Curio Cabinet and Lobby screens.
+- Fixed All Survivors Forge Chest review screen layout.
+
+## November 23, 2017
+Rev. 243407 (Release)
+
+- Console commands now use the new text auto-completion.
+- Fixed bug where pasting text into the console with [Ctrl+V] would toggle off “Remote”.
+- Fixed bug where certain symbols before ":" would prevent auto-completion for chat emoticons.
+- Fixed bug where random character selection sometimes loads the wrong clothing options.
+- Selecting heads in the Curio Cabinet will now load the full outfit.
+- Fixed missing descriptions for some Belongings in the Curio Cabinet.
+- Fixed bug where controller Backpack slots may not reappear when resuming a game as Werebeaver and later transforming back to Woodie.
+- Fixed bug where controller crafting and inventory did not close automatically when Woodie transforms into Werebeaver.
+- Fixed bug with Backpack skins not working properly in game.
+- Fixed issues causing Shop purchases in certain regions to fail due to Steam’s new currency requirements.
+
+## November 21, 2017
+Rev. 242908 (Release)
+
+- Added a new auto complete system for character emotes and chat emoticons:
+  - Pressing Enter or Tab will complete the highlighted suggestion
+  - Pressing Esc will dismiss the suggestions
+- Fixed character quotes for Hallowed Nights skins.
+
+## November 16, 2017
+Rev. 242441 (Release)
+
+- Fixed bug with Profile Icons and Portrait Backgrounds not showing up properly in the Caves.
+- Fixed display names for wet items.
+
+## November 15, 2017
+Rev. 242238 (Release)
+
+- Fix bug where XP and chests did not update properly until the game was closed and restarted.
+
+## November 14, 2017
+Rev. 242081 (Release)
+
+- Re-opened the Trade Inn.
+- Fixed missing Bernie or Abigail if a player rejoins after being disconnected right as the match starts.
+- Fixed
+
+
+
+
+```markdown
+# Benevolent Rabbit King
+
+**Health:** 2000  
+**Sanity Bonus:** +6.25/min  
+**Drops:** Morsel ×1  
+**Spawns:** Wrathful Rabbit King  
+**Perk:** Grant access to Trading Hutch Filter  
+**Spawn Code:** "rabbitking_passive"
+
+*Quotes:*  
+- Walter: "It looks friendly!"  
+- Wanda: "What a sweet little fellow."  
+- Warly: "A gentle creature. Hopefully."  
+- ... (rest of quotes)  
+- Choose: Wigfrid
+
+**Scrapbook Info:** This Benevolent Rabbit King will barter for your belongings.
+
+## Wrathful Rabbit King
+
+**Health:** 2000  
+**Damage:** 75  
+**Run Speed:** 7  
+**Sanity Drain:** -40/min  
+**Drops:** Monster Meat ×1, Beard Hair ×2, Rabbit King Cudgel ×1  
+**Special Ability:** Summon 3 Royal Rabbit Enforcers  
+**Spawn Code:** "rabbitking_aggressive"
+
+*Quotes:*  
+- Walter: "Someone's in a bad mood!"  
+- Wanda: "You have a horrible attitude."  
+- Warly: "It is tough, even for stew."  
+- ... (rest of quotes)  
+- Choose: Wilson
+
+**Scrapbook Info:** This Wrathful Rabbit King will show no mercy.
+
+## Fortuitous Rabbit
+
+**Health:** 2000  
+**Run Speed:** 5.25  
+**Sanity Bonus:** +25/min  
+**Spawns:** Benevolent Rabbit King  
+**Drops:** Morsel ×1  
+**Spawn Code:** "rabbitking_lucky"
+
+*Quotes:*  
+- Walter: "Let's catch it, Woby!"  
+- Wanda: "I know I should catch that rabbit!"  
+- Warly: "I promise not to cook you!"  
+- ... (rest of quotes)  
+- Choose: Woodie
+
+**Scrapbook Info:** Catch a Fortuitous Rabbit for your free reward. But be warned, the reward may turn to punishment when carrying meat.
+
+## Trivia
+
+- The Benevolent Rabbit King was introduced in the Depths of Duplicity update.
+- The Benevolent Rabbit King can rarely spawn in the caves via an earthquake.
+- In the beta version of the update, "Wrathful Rabbit King" was called "Rabid Rabbit King".
+
+## Gallery
+
+![Fortuitous Rabbit](Fortuitous_Rabbit.png)  
+![Rabbit King and Fortuitous Rabbit concept art](RWP_FB6_Rabbit_King_Concept_Art.png)
+```
+
+
+
+
+```markdown
+# Spider Gland
+
+- **Heal**: 8
+- **CanBeBurned**: 1
+- **Icon**: ![Spider Gland](Spider%20Gland.png)
+- **Image**: ![Spider Gland Dropped](Spider%20Gland%20Dropped.png)
+- **Perk**: Healing properties
+- **DropppedBy**: ![Spider](Spider), ![Spider Warrior](Spider%20Warrior), ![Cave Spider](Cave%20Spider), ![Spitter](Spitter), ![Dangling Depth Dweller](Dangling%20Depth%20Dweller) (25%), ![Spilagmite](Spilagmite) (Pickaxe/Pick Slash Axe)
+- **Stack**: 20
+- **SpawnCode**: "spidergland"
+
+## Quotes
+
+- **Wolfgang**: Squishy and wobbly!
+- **Wilson**: It has a tangy, antiseptic smell.
+- **Willow**: Eeeeew it's slimy and stinky!
+- **Woodie**: I think it's poison.
+- **Maxwell**: Distasteful.
+- **Wagstaff**: Properly processed, this could have medicinal properties.
+- **Wendy**: Even in death, this beast causes pain.
+- **Woodlegs**: I ate worse.
+- **Wickerbottom**: This gland secretes a mildly toxic venom.
+- **Webber**: This might sooth our cuts.
+- **Warly**: Alternative medicine.
+- **WX-78**: I HARVESTED ITS ORGANS
+- **Walani**: Why does health food taste so bad?
+- **Wigfrid**: Ripped from the abdomen of a slain spider.
+- **Wilba**: IS'T HELP'TH WITH BOO BOOS
+- **Wormwood**: Good for heart
+- **Wheeler**: Can't let this gross thing go to waste.
+- **Winona**: Ha! How indecent.
+- **Wortox**: It's squishy, yes oh yes it is!
+- **Wurt**: Medicine!
+- **Walter**: This would be a good addition to my first aid kit.
+- **Wanda**: That spider left me a thoughtful parting gift.
+
+## Scrapbook Info
+
+Heals 8 Health when used on survivors or creatures.
+
+## Description
+
+A **Spider Gland** is a healing item dropped by **Spiders** when killed or a **Spilagmite** when mined. It restores 8 Health when used by the players or when used on **Mobs** (including hostile enemies). Spider Glands can be used to craft **Healing Salve**.
+
+Spider Glands are flammable and turn to **Ashes** when burnt by **Fire**.
+
+In **Reign of Giants**, **Webber** can use 6 Spider Glands, along with 12 **Silk** and 6 **Papyrus**, to make **Spider Eggs**.
+
+In **Don't Starve Together**, Spider Glands are used to craft **Telltale Heart**s, that revive **Ghost Characters**. Spiders haunted by Ghost Characters always drop a Spider Gland when killed.
+
+## Usage
+
+### Healing Salve
+
+- **Ingredients**: Spider Gland, Ashes (2), Rocks
+- **Tool**: Science Machine
+- **Result**: Healing Salve
+
+### Spider Eggs
+
+- **Ingredients**: Spider Gland (4), Silk (12), Papyrus (3)
+- **Character**: Webber
+- **Result**: Spider Eggs
+
+### Telltale Heart
+
+- **Ingredients**: Spider Gland, Cut Grass (3), Health Decrease (40)
+- **Result**: Telltale Heart
+
+### Telltale Heart (Wanda)
+
+- **Ingredients**: Spider Gland, Cut Grass (3), Age Decrease (16)
+- **Result**: Telltale Heart
+
+### Revenant Restorative
+
+- **Ingredients**: Spider Gland, Mourning Glory
+- **Character**: Wendy
+- **Result**: Revenant Restorative
+
+### Hardy Circuit
+
+- **Ingredients**: Spider Gland (1), Bio Data (2)
+- **Tool**: Bio Scanalyzer
+- **Result**: Hardy Circuit
+
+### Super-Hardy Circuit
+
+- **Ingredients**: Spider Gland (2), Bio Data (4), Hardy Circuit (1)
+- **Tool**: Bio Scanalyzer
+- **Result**: Super-Hardy Circuit
+
+## Trivia
+
+- Spider Glands were added in the **Doorway to Adventure**
+
+
+
+
+```markdown
+# Pine Cone
+
+![Pine Cone](Pine Cone Dropped.png) ![Pine Cone Icon](Pine Cone.png)
+
+## Properties
+- **HP Restored**: 10
+- **Hunger Restored**: 10
+- **Sanity Restored**: 0
+- **Food Type**: Wood ![Wood Type Icon](Wood_Type_Icon.png)
+- **CanBeBurned**: 1
+- **BurnTime**: 15 sec.
+- **Stack**: 40
+- **DroppedBy**: Evergreen Tree (chopped with Axe, Pick/Axe, or Lucy the Axe)
+- **Perk**: Can be planted
+- **SpawnCode**: "pinecone"
+
+## Quotes
+- **Wilson**: I can hear a tiny tree inside it, trying to get out.
+- **Willow**: Hey there, tree seed.
+- **Wolfgang**: I could crush this tree-seed with my hands!
+- **Wendy**: A tiny life, ensconced in brittle death.
+- **WX-78**: A PORTABLE FIBONACCI SEQUENCER
+- **Wickerbottom**: Conifer seeds encased in a mature strobilus.
+- **Woodie**: I should grow it and then chop it down!
+- **Maxwell**: A more outdoorsy type might be able to make something of this.
+- **Wigfrid**: This baby tree is well protected by spiky armor.
+- **Webber**: It's bursting with life.
+- **Walani**: It's a tree baby.
+- **Warly**: Pine-scented!
+- **Woodlegs**: Th'seed o'th'tree.
+- **Wilba**: 'TIS BABY TREE
+- **Wormwood**: Aw... Little baby friends
+- **Wheeler**: It's almost a crime not to launch this through the air.
+- **Winona**: That's a pine cone.
+- **Wortox**: To plant a tree!
+- **Wurt**: Not very good for eating, florp.
+- **Walter**: I should find a good spot to plant this.
+- **Wanda**: The beginnings of a tree.
+
+## Planting
+Pine Cones can be planted to grow into Evergreen trees. It takes from 7.5 to 10 game hours for them to grow from saplings into small trees. They can also be used as a low-level fuel item. Planted saplings will not appear on the map until they have progressed into the small tree stage.
+
+## Treeguard Calming
+Planting Pine Cones can calm and put to sleep nearby Treeguards, whether or not they are aggressive. The chance of this happening is a maximum of 33% when planted near the Treeguard, with a lower chance when planted farther away. The Treeguard will groan in acknowledgement when a Pine Cone is planted within range, even if it has already been pacified.
+
+## Winter's Feast Event
+During the Winter's Feast event, Pine Cones can be planted in the Festive Tree Planter to create a Winter's Feast Tree. Like regular Evergreens, they take four stages to grow, however, once they are fully grown, they will stop their life cycle.
+
+## Crafting Recipes
+
+### Forest Turf
+- **Item1**: Pine Cone
+- **Item2**: Twigs
+- **Tool**: Terra Firma Tamper
+- **Result**: Forest Turf
+- **ResultCount**: 4
+
+### Hardwood Hat
+- **Item1**: Lucy the Axe
+- **Count1**: 1
+- **Item2**: Log/DST
+- **Count2**: 6
+- **Item3**: Pine Cone
+- **Count3**: 1
+- **Result**: Hardwood Hat
+- **Character**: Woodie
+- **Skill**: Hat Carving
+
+## Trivia
+In older versions of the game, when the player planted a cone, the plant first sprouted as a small tree, rather than a new sapling.
+
+## Gallery
+![Pine Cone Prompt](Pine Cone prompt.png)
+![Evergreen Sapling](Evergreen Sapling.png)
+![Original HD Icon](CD pinecone.png)
+
+## Resources
+- [[vi:Quả Thông]]
+- [[Category:Items]]
+- [[Category:Plants]]
+- [[Category:Fuel]]
+- [[Category:Flammable Objects]]
+- [[Category:Trees]]
+```
+
+
+
+
+```markdown
+# Walrus Tusk
+
+![Walrus Tusk](Walrus Tusk Dropped.png)  
+The **Walrus Tusk** is an **Item** sometimes dropped by **MacTusk**. Walrus Tusks can be used to craft the **Walking Cane** and **Brush** at an **Alchemy Engine**.
+
+## Quotes
+- Wilson: "I'm sure I'll find a use for it eventually."
+- Willow: "Nom nom nom."
+- Wolfgang: "Sea cow man tooth!"
+- Wendy: "I gnash thee."
+- WX-78: "IT WASN'T MUCH HELP TO ITS ORIGINAL OWNER"
+- Wickerbottom: "This would be useful for scrimshaw."
+- Woodie: "He had a cavity, eh?"
+- Maxwell: "I'll put this to better use."
+- Wagstaff: "Just as I suspected. It's a big tooth."
+- Wigfrid: "Rended fröm the möuth öf the sea beast."
+- Webber: "Maybe we can use it for arts and crafts."
+- Walani: "That's a pretty impressive tooth."
+- Warly: "It won't be needing this anymore."
+- Woodlegs: "Ye'd make a fancy new peg leg."
+- Wilba: "YOUR OWN SELF BE TOOTH"
+- Wormwood: "Tooth branch"
+- Wheeler: "Big deal, it's a tooth. I have a bunch of them in my mouth."
+- Winona: "Get a load of this chomper!"
+- Wortox: "A sideways horn for a wizened face."
+- Wurt: "Took his tooth!"
+- Walter: "Oof... I don't think he brushed."
+- Wanda: "I should pocket it for future tinkering."
+- Choose: "wolfgang"
+
+## Usage
+### Walking Cane Recipe
+- **Item 1:** Walrus Tusk
+- **Item 2:** Gold Nugget (2)
+- **Item 3:** Twigs (4)
+- **Tool:** Alchemy Engine
+- **Result:** Walking Cane
+
+### Brush Recipe
+- **Item 1:** Walrus Tusk
+- **Item 2:** Steel Wool
+- **Item 3:** Gold Nugget (2)
+- **Tool:** Alchemy Engine
+- **Result:** Brush
+
+### Backtrek Watch Recipe
+- **Item 1:** Walrus Tusk
+- **Item 2:** Time Pieces (2)
+- **Item 3:** Gold Nugget (2)
+- **Tool:** Prestihatitator
+- **Result:** Backtrek Watch
+- **Character:** Wanda
+
+## Trivia
+- Before the **"The End is Nigh"** update, the Walrus Tusk had no use.
+
+
+## Categories
+- Winter
+- Items
+- Resources
+- Non-Flammable
+
+**Mob Dropped Items:**
+- [Ngà Hải Mã][vi:Ngà Hải Mã]
+
+```
+
+
+
+
+```markdown
+# Clay Hound
+
+### General Information
+- **Health:** 150
+- **Damage:** 20
+- **Attack Period:** 2
+- **Attack Range:** 3
+- **Run Speed:** 8.5
+- **Sanity Drain:** 
+- **Drops:**
+  - Red Pouch (20%)
+  - Hound's Tooth (10%)
+- **Spawns From:** Suspicious Dirt Pile
+- **Spawn Code:** clayhound
+- **Sanity Aura:** -40
+- **DLC:** DST (Don't Starve Together)
+- **Exclusivity:** Don't Starve Together
+- **Event:** Year of the Varg
+
+### Quotes
+- **Wilson:** "It's been unleashed!"
+- **Willow:** "This dog is stone cold!"
+- **Wolfgang:** "Ruff, ruff!"
+- **Wendy:** "My, what big teeth you have."
+- **wx78:** ">CMD [/SIT]"
+- **Wickerbottom:** "The earthenware has been magically animated."
+- **Woodie:** "Earth hounds!"
+- **Maxwell:** "I was wise to be suspicious."
+- **Wigfrid:** "I shall fell yöu swiftly!"
+- **Webber:** "Sit! Stay?"
+- **Winona:** "I'll send you runnin', mutt!"
+- **Warly:** "Don't eat me, I'm unseasoned!"
+- **Wortox:** "Yip yap yelp, I need help!"
+- **Wormwood:** "Too much moving now!"
+- **Wurt:** "Glurp! Bitey!"
+- **Walter:** "Who's a good boy?"
+- **Wanda:** "I really hoped it would be a bit more breakable!"
+- **Choose:** wx78
+
+### Description
+Clay Hounds spawn from Suspicious Dirt Piles in two groups of six next to the Clay Varg. They share the same health and fighting stats with regular Hounds, except for being a little slower. Upon being killed, they have a 20% chance to drop a Red Pouch and a 10% chance to drop a Hound's Tooth.
+
+Clay Hounds cannot be set on fire or put to sleep.
+
+### Gallery
+![An example of a Clay Varg and Clay Hounds spawning at the end of a hunt.](Clay Varg Found.png)
+![Clay Varg and Hound awakening.](Clay Hound Awaken.png)
+![A frozen Clay Hound.](Clay Hound Freeze.png)
+![A dead Clay Hound.](Dead Clay Hound.png)
+![Five Clay Hounds tamed with a Lucky Whistle.](ClayHounds.PNG)
+![An early in-game model for the Clay Varg from Rhymes with Play # 179.](Clay Varg Ingame Early Modeling.jpg)
+![An early in-game model for the Clay Varg at night from Rhymes with Play # 179.](Clay Varg Ingame Night Early Modeling.jpg)
+![Some models for the Clay Hound and Varg from Rhymes with Play # 179.](Clay Varg and Hound Sprite Work.jpg)
+![A Clay Hound as seen in a drawing from Art Stream # 7.](Art Stream 7 Clay Varg.png)
+
+### Trivia
+According to Rhymes with Play #179, the reason that the new Clay Hounds and Vargs in the event are earthen-themed is because the developers discovered that the Chinese lunar year that the event was held in (2018) was associated with the element of earth.
+
+### Year of the Varg
+- **Mobs:**
+  - Clay Hound
+  - Clay Varg
+```
+
+
+
+
+```markdown
+# A Little Drama and QOL
+
+An update for **Don't Starve Together**.
+
+## Features
+
+### Statues
+
+- Overgrown Maxwell Statue
+- Overgrown Harp Statue
+
+### Costumes
+
+- Blacksmith Costume
+- Blacksmith Mask
+- Cracked Doll Mask
+- Doll Costume
+- Doll Mask
+- Fool Costume
+- Fool Mask
+- King Costume
+- King Mask
+- Mirror Costume
+- Mirror Mask
+- Queen Costume
+- Queen Mask
+- Shattered Doll Mask
+- Tree Costume
+- Tree Mask
+
+### Turfs
+
+- Ancient Brickwork
+- Ancient Flooring
+- Ancient Tilework
+- Imitation Ancient Brickwork
+- Imitation Ancient Flooring
+- Imitation Ancient Tilework
+- Blue Mosaic Flooring
+- Grey Mosaic Flooring
+- Red Mosaic Flooring
+- Lush Carpet
+
+### Food
+
+- Breakfast Skillet
+- Plain Omelette
+- Tall Scotch Eggs
+
+### Beefalo Taming
+
+- Beefalo Treats
+- Steamed Twigs
+
+### Equipment
+
+- Snazzy Pitchfork
+- Turf-Raiser Helm
+
+### Structures
+
+- Mannequin
+- Briar
+- Playbill
+- Stage
+
+### Mobs
+
+- Briar Wolf
+- Mockingbird
+- Stagehand
+
+### Items
+
+- Recipe Card
+
+### Mechanics
+
+- Playstyles
+
+## Gallery
+
+![Main menu concept art from Rhymes With Play stream.](RWP ALD main menu concept art1.png)
+![Promo concept art from Rhymes With Play stream.](RWP ALD promo art concept art1.png)
+![Rough art from Rhymes With Play stream.](RWP ALD promo rough art1.png)
+![Rough art from Rhymes With Play stream.](RWP ALD promo rough art2.png)
+![Rough art from Rhymes With Play stream.](RWP ALD promo rough art3.png)
+![A Little Drama and QOL promo HD](A Little Drama and QOL promo2 HD1.png)
+![A Little Drama and QOL promo HD](A Little Drama and QOL promo2 HD2.png)
+![A Little Drama and QOL promo HD](A Little Drama and QOL promo HD.jpeg)
+
+## DST Updates
+
+## Category: Main Content Updates
+
+## vi:A Little Drama and QOL
+```
+
+
+
+
+```markdown
+# Vines
+
+## Shipwrecked DLC
+Vines are a resource in the **Shipwrecked** DLC. They are dropped from chopping a **Viney Bush** with a **Machete** or by digging one up with a **Shovel**. Vines are used in several crafting recipes.
+
+### Burn Time
+- 45 seconds
+
+### Stack
+- 40
+
+### Dropped By
+- **Viney Bush** (using **Machete** or **Shears**)
+- **Blue Whale Carcass**
+- **White Whale Carcass**
+- **Snaptooth Seedling**
+- **Snaptooth Flytrap**
+- **Bramble Bloom** (in **Hamlet**)
+
+### Spawn Code
+- "vine"
+
+### Quotes
+- **Wilson**: Maybe I can tie stuff up with this.
+- **Willow**: I could use this for something. Or I could just burn it.
+- **Wolfgang**: For string enemies together.
+- **Wendy**: Unruly life.
+- **WX-78**: UNRULY NATURE
+- **Wickerbottom**: A common jungle vine.
+- **Woodie**: Sigh. Not a tree.
+- **Maxwell**: It's twisted and gnarled.
+- **Wagstaff**: A ropey branch. I can think of nine good uses for it already.
+- **Wigfrid**: What can you do for me?
+- **Webber**: This stuff is wild.
+- **Walani**: Good for lashing stuff down.
+- **Warly**: Not a single grape on it...
+- **Woodlegs**: Them's be the stranglin' kind.
+- **Wilba**: FAST BIND, FAST FIND
+- **Wormwood**: String branches
+- **Wheeler**: The kind of thing that would be more useful if I had a bunch of them.
+- **Choose**: Warly
+
+## Hamlet DLC
+Vines are also included in the **Don't Starve: Hamlet** DLC. They can be obtained by killing **Snaptooth Seedlings**, **Snaptooth Flytraps**, and **Bramble Blooms**. Using **Shears** on a **Viney Bush** will result in 2 **Vines** instead of the usual one.
+
+## Usage
+### Crafting Recipes
+
+1. **Raft**
+   - 3 Vines + 4 Bamboo
+
+2. **Row Boat**
+   - 4 Vines + 3 Boards (requires **Science Machine**)
+
+3. **Thatch Sail**
+   - 2 Vines + 2 Bamboo + 4 Palm Leaves (requires **Science Machine**)
+
+4. **Life Jacket**
+   - 2 Vines + 2 Cloth + 3 Empty Bottles (requires **Science Machine**)
+
+5. **Mussel Stick**
+   - 2 Vines + 2 Bamboo + Seaweed (requires **Science Machine**)
+
+6. **Snakeskin Jacket**
+   - 2 Vines + 2 Snakeskin + 2 Bone Shards (requires **Science Machine**)
+
+7. **Sleek Hat**
+   - 2 Vines + 1 Shark Fin + 1 Coconut (requires **Science Machine**)
+
+8. **Sea Sack**
+   - 2 Vines + 5 Seaweed + Shark Gills (requires **Alchemy Engine**)
+
+9. **Pith Hat**
+   - 3 Vines + Cork (requires **Alchemy Engine**, Hamlet DLC)
+
+### Resources
+
+- [[Category:Items]]
+- [[Category:Flammable Objects]]
+- [[Category:Resources]]
+- [[Category:Fuel]]
+- [[Category:Mob Dropped Items]]
+```
+
+
+
+
+```markdown
+# Glommer's Wings
+
+**Image:** ![Glommer's Wings](File:Glommer's Wings Dropped.png)
+
+**Icon:** ![Glommer's Wings](Glommer's Wings.png)
+
+**Dropped By:** ![Glommer](File:Glommer.png)
+
+**Stack:** Does not stack
+
+**Spawn Code:** "glommerwings"
+
+**Can Be Burned:** Yes
+
+**Burn Time:** 1.5 min.
+
+## Quotes
+
+- **Wilson:** "These would look empirically amazing on a helmet!"
+- **Willow:** "They're so small!"
+- **Wolfgang:** "Small like fairy wings."
+- **Wendy:** "Even his wings are small and cheery."
+- **WX-78:** "ESPECIALLY RIGID WINGS"
+- **Wickerbottom:** "The pennons of that strange specimen."
+- **Woodie:** "Unsurprisingly, the wings are slimy."
+- **Maxwell:** "They're sticky."
+- **Wagstaff:** "How did these wings support such a bulky creature?"
+- **Wigfrid:** "Öhh, löök what the gööber left för me."
+- **Webber:** "I wish I'd at least ended up with wings. Sigh."
+- **Walani:** "Sigh. Fly no more, friend."
+- **Warly:** "A tiny delicacy."
+- **Woodlegs:** "'E left me a lil gooey treasure."
+- **Wilba:** "'TIS FROM BUG"
+- **Wormwood:** "So teeny"
+- **Wheeler:** "(sigh) If only I could use them to fly."
+- **Winona:** "You can see right through’em."
+- **Wortox:** "How dainty!"
+- **Wurt:** "Big bug had weird tiny wings, flurt."
+- **Walter:** "How did he fly with these little wings?"
+- **Wanda:** "I'm just not going to think about where they came from!"
+
+## Description
+
+Glommer's Wings are a nonperishable [Item] dropped by [Glommer] and used to craft the [Old Bell]. It is renewable as the player can obtain one each [Full Moon] by killing Glommer.
+
+The Wings can also be used as fuel for fires or the [Ice Flingomatic].
+
+Because Glommer's Wings can be burned to ash, killing Glommer with fire is ill-advised.
+
+## Trivia
+
+In [Don't Starve Together], since the [Old Bell] was removed, Glommer's Wings can only be used as fuel for fire.
+
+## Categories
+
+- Items
+- Mob Dropped Items
+- Reign of Giants
+- Fuel
+- Flammable Objects
+```
+
+
+
+
+```markdown
+# Palmcone Sprout
+
+## Exclusivity
+Exclusive to **Don't Starve Together**.
+
+## Structure Infobox
+
+- **Image**: ![Palmcone Sprout Dropped](Palmcone Sprout Dropped.png)
+- **Icon**: ![Palmcone Sprout](Palmcone Sprout.png)
+- **Can Be Burned**: Yes (1)
+- **Burn Time**: 15 seconds
+- **Stack**: 40
+- **Dropped By**: ![Palmcone Tree](Palmcone Tree.png) (chopped with ![Axe](Axe.png))<br>Unnatural Portal (9.4% chance)
+- **Spawn Code**: `palmcone_seed`
+
+## Quotes
+
+- **Wilson**: "The very beginnings of a tree."
+- **Wendy**: "A tree that has barely begun to live."
+- **Wickerbottom**: "It can't begin growing until it's been planted, dear."
+- **Webber**: "Aww, it's a baby tree!"
+- **Winona**: "This could become a tree with a bit of work."
+
+## Scrapbook Info
+Can be planted in the ground.
+
+## Description
+The **Palmcone Sprout** is an **item** exclusive to **Don't Starve Together**, introduced in **The Curse of Moon Quay** update. It can be obtained by chopping down a fully grown **Palmcone Tree**. Additionally, it has a small chance to drop from the **Unnatural Portal**.
+
+Planting **Palmcone Sprouts** is the only way to grow new **Palmcone Trees**. However, they can also be used as fuel for a fire.
+
+## Resources
+[[vi:Palmcone Sprout]]
+```
+Please note that the links and images are represented in markdown format, and the actual content should be replaced with the correct paths or URLs as needed.
+
+
+
+
+```markdown
+# Cactus Spike
+
+## Exclusivity
+*Shipwrecked*
+
+## Item Info
+- **Damage:** 17
+- **Durability:** 5 Uses
+- **Stack:** Does not stack
+- **Spawn Code:** `"needlespear"`
+- **Dropped By:** Elephant Cactus
+- **Damage As:**
+  - Wesley: 12.75
+  - Wigfrid: 21.25
+  - Wolfgang: 8.5-34
+
+## Quotes
+- **Wolfgang:** "The weapon of a mighty plant!"
+- **Wilson:** "I'm glad I didn't step on this."
+- **Willow:** "I could jabber on about this all day."
+- **Woodie:** "Hoo-boy. That's sharp."
+- **Maxwell:** "Exceedingly sharp."
+- **Wagstaff:** "The destructive projectile of a cactus. I can hit things with it!"
+- **Wendy:** "One could end it all with this."
+- **Woodlegs:** "A dagger o'sorts."
+- **Wickerbottom:** "Think like a cactus."
+- **Webber:** "This could really hurt someone."
+- **Warly:** "Who shall I stick it to?"
+- **WX-78:** "STUPID PLANT DROPS WEAPONS THAT CAN BE USED AGAINST IT"
+- **Walani:** "Eh. I don't get the point."
+- **Wigfrid:** "Tis truly a wöndröus war lance!"
+- **Wilba:** 'TIS POKEY THING
+- **Wormwood:** "Pokey friend bits"
+- **Wheeler:** "This is nice but I need more to make anything decent with it."
+- **Choose:** Woodie
+
+The **Cactus Spike** is a **Weapon** introduced in the **Don't Starve: Shipwrecked** DLC. It is obtained by destroying an **Elephant Cactus**, found on the **Volcano**. It does 17 damage per hit and only lasts 5 uses. It can also be used to craft the **Cactus Armor**.
+
+## Usage
+### Crafting Cactus Armor
+- **Cactus Spike:** 3
+- **Log Suit:** 1
+- **Result:** Cactus Armor
+- **Tool:** Alchemy Engine
+
+## Mob Dropped Items
+
+## Categories
+- **Weapons**
+- **Melee Weapons**
+- **Equipable Items**
+- **Limited Use**
+- **Non-Flammable**
+- **Non-Renewable**
+```
+
+
+
+
+# Naked Nostrils
+
+## Structure Infobox
+
+- **Food Type**: Meat
+- **Name**: Naked Nostrils
+- **Icon**: Naked Nostrils.png
+- **HP Restored**: 3
+- **Hunger Restored**: 12.5
+- **Sanity Restored**: -10
+- **Spoil**: 6 days
+- **Image**: Naked Nostrils Dropped.png
+- **Stack**: 40
+- **Spawn Code**: "batnose"
+- **Food Value**: Meat × 0.5
+- **Dropped By**: Naked Mole Bat (33%)
+
+## Quotes
+
+- **Wilson**: Who knows whose nose this is?
+- **Willow**: Ewww.
+- **Wolfgang**: Is naked? Wolfgang will look away.
+- **Wendy**: It won't be bothering us anymore.
+- **WX-78**: UGH. ORGANIC PARTS ARE SO SQUISHY
+- **Wickerbottom**: Evolution truly is remarkable.
+- **Woodie**: Who nose where the rest of it went.
+- **Maxwell**: It smells.
+- **Wigfrid**: A tröphy fröm the hunt.
+- **Webber**: A rosy pink nosey
+- **Winona**: Got yer nose!
+- **Warly**: This will be a challenging ingredient.
+- **Wortox**: Oh my, looks like somebody blew it.
+- **Wormwood**: Chewy
+- **Wurt**: Glurph... don't like it.
+- **Walter**: Looks like someone got a bit nosy. Get it? Because it's a nose?
+- **Wanda**: That should teach it not to stick its nose where it doesn't belong!
+
+Naked Nostrils are Food items exclusive to *Don't Starve Together*. They are dropped by Naked Mole Bats upon death. Raw Naked Nostrils are needed to craft the Milkmade Hat, when combined with Kelp Fronds and a dairy product inside of a Crock Pot.
+
+# Charred Nostrils
+
+## Structure Infobox
+
+- **Food Type**: Meat
+- **Name**: Charred Nostrils
+- **Icon**: Charred Nostrils.png
+- **HP Restored**: 8
+- **Hunger Restored**: 18.5
+- **Sanity Restored**: 0
+- **Spoil**: 10 days
+- **Image**: Charred Nostrils Dropped.png
+- **Stack**: 40
+- **Spawn Code**: "batnose_cooked"
+- **Food Value**: Meat × 0.5
+
+## Quotes
+
+- **Wilson**: It came out smelling like a nose.
+- **Willow**: Is that supposed to make it better?
+- **Wolfgang**: Nose has been toasted.
+- **Wendy**: It doesn't look more appetizing now.
+- **WX-78**: YOUR NUTRIENTS ARE MINE
+- **Wickerbottom**: It's moderately better.
+- **Woodie**: Nothing worse than a cold nose.
+- **Maxwell**: The things I must do to survive...
+- **Wigfrid**: If it's meat, I shall eat it!
+- **Webber**: It looks very chewy.
+- **Winona**: I ain't picky.
+- **Warly**: It could use some marinade, perhaps.
+- **Wortox**: This smells! I think it's gone off!
+- **Wormwood**: Crispy
+- **Wurt**: Nuh-uh.
+- **Walter**: It sure doesn't smell so good now...
+- **Wanda**: It hardly makes a difference whether it's raw or cooked.
+
+Charred Nostrils are Food items obtained by cooking Naked Nostrils over a fire.
+
+## Cookbook Usage
+
+### Recipe
+
+- **Item 1**: Naked Nostrils
+- **Item 2**: Kelp Fronds
+- **Item 3**: Dairy
+- **Item 4**: Filler
+- **Tool**: Crock Pot
+- **Result**: Milkmade Hat
+
+## Trivia
+
+Naked Nostrils and Charred Nostrils were introduced in the *Return of Them#Forgotten Knowledge* update.
+
+
+
+
+```markdown
+# Maxameleon
+
+![Maxameleon](Maxameleon.png =90x)
+
+### Console|DebugSpawn
+- `porkland_intro`
+
+## Quotes
+
+- **Wilson:** "Hey, come back!"
+- **Willow:** "Creepy little lizard."
+- **Wolfgang:** "Is ghost?"
+- **Wendy:** "He's disappearing. Like hope."
+- **WX-78:** "LEAVE ME"
+- **Wickerbottom:** "Chamaeleoninae evaporatus."
+- **Woodie:** "Where's he going?"
+- **Maxwell:** "He's new."
+- **Wagstaff:** "I've only just arrived and already I've made a discovery."
+- **Wigfrid:** "Leave my sight!"
+- **Webber:** "Hey there!"
+- **Walani:** "Where you going?"
+- **Warly:** "Where'd he go?"
+- **Woodlegs:** "Woodlegs liked tha other guy better."
+- **Wilba:** "WHEREFORE ART YOU GO?"
+- **Wormwood:** "Where going?"
+- **Wheeler:** "Are you deliberately avoiding me?"
+
+### Greetings
+
+#### Upon greeting the character
+- "Nice two point landing... Out of ten that is."
+
+#### Upon greeting Wormwood
+- "Get moving, tree. Chop, chop!"
+
+## Trivia
+
+- Maxameleon's design is based on the [veiled chameleon](https://en.wikipedia.org/wiki/Veiled_chameleon).
+- Wickerbottom refers to Maxameleon as a "Chamaeleoninae Evaporatus", Chamaeleoninae being the biological classification for chameleons. "Evaporatus" may refer to it disappearing after the intro.
+- Maxameleon's name is a portmanteau of the words "Maxwell" and "Chameleon," as well as the name Maximilian.
+
+## Categories
+
+- [Mobs](#)
+- [Talkers](#)
+```
+
+
+
+
+```markdown
+# Compendium
+
+The **Compendium** is an **Interface** feature exclusive to **Don't Starve Together**. It allows the player to view various types of information about different aspects of the game.
+
+## Features
+- **History of Travels:** Displays information regarding a player's most common causes of death, which players are most often encountered, and their progress made during the Forge and Gorge events.
+- **Survivors:** Displays detailed information about every playable character, including: Health, Hunger and Sanity values, starting items, nickname, Curio Cabinet description, perks and quirks, character quote, birthday, favorite food, a brief overview of their backstory, a shortcut to their Wardrobe, and a link to their cinematic if applicable.
+- **Plant Registry:** Displays information about **Farm Plants** and **Weeds** researched by the player as well as **Fertilizers**. It is also possible to access it in-game using a **Gardeneer Hat** or a **Premier Gardeneer Hat**.
+- **Cookbook:** Displays information about **Crock Pot** recipes cooked or eaten by the player across its different games. It is also possible to access it in-game using a **Cookbook**.
+- **Encounters:** Displays a list of every player you've recently encountered, including: what character they were playing, how long ago they were last encountered, what server they were last last encountered on, and how long they were played with.
+- **Obituaries:** Displays a list of the player's most recent deaths in much the same way as the **Morgue**, along with the addition of what server the death occurred on.
+- **Cinematics:** Displays a short menu leading to the **A New Reign** cinematic, the credits, and a link to [Klei's YouTube channel](https://www.youtube.com/channel/UCzbYAkDCuQYdZ_fKz9MLrWA).
+
+## See also
+- [:Category:Compendium] for images of the Compendium
+
+## Trivia
+- Much of the information contained in the Compendium was once kept in the **Item Collection** menu. This was changed upon the Compendium's inclusion as part of the **Don't Starve Together/Version History#May 28, 2020 - May QOL Update**.
+- Many characters' birthdays correspond with a game update that character is involved with.
+- The **Plant Registry** was introduced in the **Reap What You Sow** update.
+
+[[vi:Bản Tóm Tắt]]
+[[:Category:Interface]]
+[[:Category:Compendium]]
+```
+
+
+
+
+```markdown
+# Pile o' Balloons
+
+## Structure Infobox
+- **Image**: ![Pile_o'_Balloons Dropped](Pile_o'_Balloons Dropped.png)
+- **Icon**: ![Pile_o'_Balloons](Pile_o'_Balloons.png)
+- **Perk**: Make Balloons
+- **Stack**: Does not stack
+- **Spawn Code**: "balloons_empty"
+- **Sanity Drain**: -5 per use
+- **Durability**: Infinite (filter)
+
+## Exclusivity
+Don't Starve, Reign of Giants, Shipwrecked, Hamlet, Don't Starve Together
+
+## Quotes
+- Wilson: It looks like clown currency.
+- Willow: I could fill them with flammable gas.
+- Wolfgang: Wolfgang will make balloon muscles.
+- Wendy: These look as deflated as I feel...
+- WX78: USELESS RUBBER SACKS
+- Wickerbottom: These seem frivolous.
+- Woodie: Are those balloons?
+- Maxwell: Those look much too jovial for my liking.
+- Wigfrid: Such cölörs! I cöuld sing!
+- Webber: Is there going to be a party?!
+- Winona: No fun without Wes.
+- Warly: It's been left completely breathless.
+- Wortox: Stores one's breath for later spells.
+- Wormwood: Needs air
+- Wurt: Look chewy, florp.
+- Walter: Someone left litter here!
+- Wanda: Everyone has their forte. Some bend time, others bend balloons.
+- Choose: Maxwell
+
+## Balloon
+### Object Infobox
+- **Name**: Balloon
+- **Image**: ![Balloon](Balloon.png)
+- **Perk**: Pop when attacked, dealing 5 damage to attacker.
+- **Spawn Code**: "balloon"
+
+### Quotes
+- Wilson: How are they floating?
+- Willow: That's just asking to be popped.
+- Wolfgang: Is full of clown breath!
+- Wendy: A colorful reminder that my childhood is no more.
+- WX78: WX-78 CANNOT BE FOOLED. THESE ANIMALS ARE NOT REAL.
+- Wickerbottom: Could serve as a suitable diversion.
+- Woodie: It's squeaky. Just like a real woodland creature.
+- Maxwell: This seems out of place here. Too cheery.
+- Wigfrid: Fie! Föul beast!
+- Webber: Balloon animals! Balloon animals!!
+- Winona: Oh! A balloon.
+- Warly: How colorful!
+- Wortox: I often feel like I might float away. Hyuyu!
+- Wormwood: Boop
+- Wurt: Want one!!
+- Walter: My keen tracking senses are telling me there's a clown nearby.
+- Wanda: Balloons have such a short lifespan.
+- Source: when examining a Balloon
+- Choose: Walter
+
+### Downloadable Content
+In the Reign of Giants DLC, Wes can give his Pile o' Balloons to a Catcoon in order to befriend it. If the Catcoon dies, he will be able to get it back.
+
+### Tips
+- Balloons only pop when triggered and won't go away otherwise. This makes them a useful bait to place in the center of a Tooth Trap field for Hounds or other hostiles.
+- Because of the 5 sanity drained with each balloon, using this item is a reliable way to go insane if the player wishes to farm Nightmare Fuel. Crafting balloons is especially an easy way to mitigate Enlightenment.
+- Speedy Balloons are useful in early game when playing with other people, as they can be given to other players.
+- Party balloons have the identical crafting recipe to regular balloons. Unless regular balloons are desired for their aesthetics, crafting party balloons is almost always a better option as they can later used by Wes or other characters as a source of sanity.
+- Wes can take advantage of sanity giving actions such as Prototyping, Sleeping and Reviving Players to craft more balloons beforehand. This is especially useful for party balloons as they can be stored together for a sanity boost in the future.
+
+### Trivia
+- Wes got his Pile o' Balloons with the Strange New Powers update.
+- Wes can pop his balloons to damage himself, and it takes 15 balloons to kill him from full health in DST.
+- In DST, Wes' Pile o' Balloons used to be craftable in the Survival Tab before his rework.
+- Six possible colors of the balloons correspond to the colors of the six elemental gems in the game.
+
+### Gallery
+![Wes with balloons](Wes with balloons.jpg)
+![All the shapes and colors of balloons in DSA](Balloon shape.png)
+!
+
+
+
+
+```markdown
+# Crank Thing
+
+## Item Infobox
+- **Name**: Crank Thing
+- **Image**: ![Crank Thing](Crank Thing.png?raw=true "Crank Thing in Survival Mode") ![Crank Thing Adventure Mode](Crank Thing Adventure Mode.png?raw=true "Crank Thing in Adventure Mode")
+- **Stack**: Does not stack
+- **Spawn Code**: `teleportato_crank`
+
+## Quotes
+- **Wilson**: Tough enough to handle the most intense experiments.
+- **Willow**: What's this part good for?
+- **Wolfgang**: Bendy thing is made of metal!
+- **Wendy**: It looks complicated.
+- **WX-78**: I'M MADE OF TOUGHER STUFF
+- **Wickerbottom**: It applies basic mechanical principles.
+- **Woodie**: Crank-y, eh?
+- **Maxwell**: This is used to agitate the humors.
+- **Wagstaff**: A crank! And it's a perfect fit!
+- **Wigfrid**: A sturdy crank.
+- **Webber**: A crank that will stand up to punishment.
+- **Walani**: You wanna come with me, huh?
+- **Warly**: Definitely for a cranking action of some kind.
+- **Woodlegs**: Ta my eye it be a crank fer crankin'.
+- **Wilba**: A POUND O' CRANK
+- **Wormwood**: Crank
+- **Wheeler**: No good on its own. But probably good with something else.
+
+## Description
+The **Crank Thing** is an **Item** and one of four **Things** used on the **Wooden Thing** to travel to the next world. It spawns naturally in every world in its own **Set Piece**. It is surrounded by **Evil Flowers** in a small patch of **Savanna Turf** along with a **Pig House** surrounded by 3 **Spiky Trees** and an **Axe** at 100%.
+
+There are two versions of it, one that spawns in **Survival Mode** and one in **Adventure Mode**, that differ from their color schemes. Players can craft a **Divining Rod** to help them track the Crank Thing.
+
+The only purpose of the Crank Thing is to be used on the Wooden Thing. It's an important gameplay Item and as such it cannot be destroyed or stolen by **Mobs**, e.g. **Krampus** or **Splumonkeys**.
+
+## Trivia
+- Although exclusive to the original Don't Starve, Don't Starve Together files contain quotes from exclusive characters.
+
+## Gallery
+![The Crank Thing's Set Piece](Crank Thing Set Piece.png?raw=true "The Crank Thing's Set Piece")
+![Crank Thing added to the Wooden Thing](Crank Thing placed.png?raw=true "Crank Thing added to the Wooden Thing")
+![Original HD icon from Bonus Materials from CD Don't Starve](CD teleportato_crank.png?raw=true "Original HD icon from Bonus Materials from CD Don't Starve")
+
+## See Also
+- [Teleportato Things](#)
+- [Naturally Spawning Objects](#)
+
+[[Category:Naturally Spawning Objects]]
+```
+
+
+
+
+```markdown
+## December 6, 2018 - Winter's Feast
+![Winter's Feast 2018 Loading Screen](Winter's Feast 2018 Loading Screen.png)
+
+Rev. 298000 (Release)
+
+The nights are growing colder, and a distinctive holiday cheer has permeated the air. That can only mean one thing - Winter’s Feast is upon us! Take a break from enduring a hostile world to spread some holiday cheer. You could enjoy a tasty sugar cookie and decorate a tree or two… or three. Be wary though… something terrible lurks nearby, watching our survivors' every move with laser-like focus.
+
+### An Uncommon Holiday
+Winter skins have appeared to get our survivors into the winter spirit, and for a limited time, the chances of receiving a rare gift have been substantially increased!
+
+Everyone will also get a small set of skins to enjoy, including a festive Gingerbread Chest skin. These skins can be accessed in players’ item collections, but will only be around for the duration of the Winter’s Feast seasonal event - so enjoy them while you can!
+
+Happy Winter’s Feast, everyone!
+
+## December 3, 2018
+Rev. 297854 (Release)
+
+* The Forge and Hallowed Nights events have come to a close.
+
+## November 23, 2018
+Rev. 296177(296477) (Release)
+* Improved visibility of Infernal Swineclops' death animation.
+* Magma Golem's fireballs are now properly counted as ranged attacks when triggering hit reactions.
+* Fixed a bug where the camera can sometimes become unstable when Infernal Swineclops is defeated while the player is dead.
+
+## November 19, 2018
+Rev. 295201(296059) (Release)
+* Fixed bugs with some Forge achievements not working properly.
+* Fixed bug where a third Silken Grand Armor was dropped in the Forge.
+
+## November 14, 2018
+Rev. 294553 (Release)
+* Fixed bug where more than one Blossomed Wreath can drop in a single Forge match.
+* Fixed bug where sometimes defeating the Rhinocebros did not trigger a Victory.
+* Adding Steam DLC packages for Forge Weapons Chest, Forge Armor Chest, and the All Survivors Gladiator Chest.
+
+## November 13, 2018
+Rev. 294296 (Release)
+* Fixed animation bug with missing legs when certain skins were used.
+* Fixed Drop Your Guard quest to work with the Infernal Staff and Hearthsfire Crystals.
+* Fixed a bug where of the Dash Their Hopes quest might fail to complete.
+
+## November 8, 2018 - The Forge
+![The Forge 2018 Promo](The Forge 2018 Promo.png)
+
+Rev. 293672(293880) (Release)
+* The Forge is live!
+
+## The Forge Beta (since November 5, 2018)
+### November 7, 2018
+Rev. 293501 (Test)
+* Fixed crash sometimes if a client disconnects while the match is starting.
+* Added Completed Quests tab on the Forge details screen.
+
+### November 6, 2018
+Rev. 293172 (Test)
+* Fixed crash sometimes when players disconnect while using weapon skills.
+* Fixed bug where players would be stuck syncing quests in the lobby.
+* Added a link to the leaderboards in the Forge menu.
+
+### November 5, 2018
+Rev. 292963 (Test)
+* Fixed crash sometimes when failing to sync Quest data.
+
+Rev. 292838 (Test)
+* Forge Beta is live! Click [here] for more info.
+* NOTE: Please try relogging into Steam if the forgebeta branch does not appear right away.
+
+## October 29, 2018
+Rev. 291700 (Release)
+* Fixed bug where burning eyes on Totally Normal Trees sometimes do not appear while Hallowed Nights is active.
+* Fixed typo in Haunted Forest Portrait.
+
+## October 26, 2018
+Rev. 291481 (Release)
+* Fixed crash when digging up Graves in the Caves.
+* Fixed crash sometimes if crafting station is destroyed right before you finish prototyping a recipe.
+* Fixed crash sometimes when giving Trinkets to the Pig King while using a modded character.
+* Fixed crash during Meteor Showers for some modded worlds.
+* Fixed a rare World Gen crash.
+* Fixed Webber and Wes’ Hallowed Nights portrait backdrops.
+* Fixed The Supernatural’s hair during certain emotes.
+
+## October 25, 2018 - Hallowed Nights
+![DST Hallowed Nights 2018 Steam Image](DST Hallowed Nights 2018 Steam Image.jpg)
+
+Changes
+* Hallowed Nights rises again.
+* Existing worlds, with the Event world settings set to Auto, will have Hallowed Nights content retrofitted into the world.
+* To create a
+
+
+
+
+```markdown
+# Stinger
+
+## Quotes
+- Wilson: "Looks sharp!"
+- Willow: "It's pokey!"
+- Wolfgang: "Is sharp like skewer!"
+- Wendy: "Sharp and deadly."
+- WX-78: "WARNING... TOXINS PRESENT"
+- Wickerbottom: "It tapers to a sharp point."
+- Woodie: "Ouch! It's pointy."
+- Maxwell: "It's dripping with venom."
+- Wagstaff: "Its small size and sharp point will come in handy."
+- Wigfrid: "The swörd ön the back öf a bee."
+- Webber: "We should be careful, we could poke an eye out!"
+- Walani: "Glad I don't have to pick this out of my skin."
+- Warly: "It would really sting to not have a use for this."
+- Woodlegs: "Bee dropped its bottom."
+- Wilba: "THE BUTT O' A BEE"
+- Wormwood: "Youchy!"
+- Wheeler: "So cute and projectile-y."
+- Winona: "I don't see the point. Oh wait, there it is."
+- Wortox: "Careful where you point that thing."
+- Wurt: "Buzzer butt."
+- Walter: "Aaaaah! Keep it away, please!"
+- Wanda: "A bee sting that almost was."
+- Choose: "Warly"
+
+A **Stinger** is an item commonly dropped by a Bee or Killer Bee when killed. It is an ingredient in Sleep Darts.
+
+## Obtaining Stingers
+Stingers can be obtained by either killing Bees or Killer Bees with Weapons, or with the help of other Mobs, or by catching Bees or Killer Bees with a Bug Net then murdering them in the inventory. If the player or any mob attacks a Bee (including catching them with the Bug Net) remaining members of the same Bee Hive (or Bee Box) will emerge as Killer Bees and all members of the hive in the vicinity will target the attacker.
+
+As Stingers are a very common drop from Bees and Killer Bees, they can easily become clutter in vanilla Don't Starve and Don't Starve: Reign of Giants, especially given that it is only used for Sleep Darts, and Jet Feathers are tricky to obtain from Crows in the early game and Cut Reeds are dangerous to obtain due to Tentacles lurking in the Marsh. Stingers can also be set on fire to turn them into Ashes.
+
+## Crafting in Don't Starve Together
+In Don't Starve Together, Stingers can be used to craft Booster Shots, Boat Patches, and Dock Kits.
+
+## Usage
+### Sleep Dart
+- Requires: Stinger, Cut Reeds x2, Crow Feather, Science Machine
+- Result: Sleep Dart
+
+### Booster Shot
+- Requires: Stinger, Nitre x2, Rot x8, Alchemy Engine
+- Result: Booster Shot
+
+### Boat Patch
+- Requires: Stinger x1, Log x2
+- Result: Boat Patch
+
+### Dock Kit
+- Requires: Stinger x2, Boards x4, Cut Stone x1, Palmcone Scale x1
+- Result: Dock Kit (x4)
+- Tool: Blueprint (rare)
+
+### Stupefying Lure
+- Requires: Stinger, Cookie Cutter Shell, Advert
+- Result: Stupefying Lure
+
+### Nightshade Nostrum (Wendy)
+- Requires: Stinger, Mourning Glory x3
+- Result: Nightshade Nostrum
+
+### Bramble Husk (Wormwood)
+- Requires: Stinger x4, Living Log x2
+- Result: Bramble Husk
+
+### Bramble Trap (Wormwood)
+- Requires: Stinger x4, Living Log x2
+- Result: Bramble Trap
+
+### Sewing Machine Kit (Year of the Beefalo event)
+- Requires: Stinger x1, Gold Nugget x1, Silk x2
+- Tool: Beefalo Shrine
+- Result: Sewing Machine Kit
+
+### Apicultural Notes (Wickerbottom)
+- Requires: Stinger x8, Papyrus x2, Honey x4
+- Tool: Bookcase
+- Result: Apicultural Notes
+
+## Gallery
+![Original HD icon from Bonus Materials from CD Don't Starve](CD_stinger.png)
+
+## Categories
+- Items
+- Mob Dropped Items
+- Non-Flammable
+- Boss Dropped Items
+```
+
+
+
+
+```markdown
+# Hardened Rubber Bung
+
+![Hardened Rubber Bung](Hardened Rubber Bung Dropped.png) 
+
+The **Hardened Rubber Bung** (also known as "drain plug") is a trinket that can be found in the following games:
+- **Don't Starve**
+- **Reign of Giants**
+- **Shipwrecked**
+- **Hamlet**
+- **Don't Starve Together**
+
+## Quotes
+- **Wilson:** "Great. All of my tub stopping needs are met."
+- **Willow:** "I've never liked bathing with water."
+- **Wolfgang:** "Hardened, like Wolfgang."
+- **Wendy:** "I wish I could take a bath."
+- **WX-78:** "I DON’T WANT TO KNOW WHERE THAT GOES"
+- **Wickerbottom:** "It reminds me of my bath tub. I could use a long soak."
+- **Woodie:** "If I find a tub, I'm all set."
+- **Maxwell:** "I’d prefer a pocketwatch on a chain."
+- **Wagstaff:** "I would love to know this got here."
+- **Wigfrid:** "It wöuld make an ökay weapön in a pinch."
+- **Webber:** "We could take a bath if only we had a tub."
+- **Walani:** "Hardened what?"
+- **Warly:** "Ah, memories of bathing."
+- **Woodlegs:** "Bung be hard."
+- **Wilba:** "WILBA NAUGHT SEE THIS AFORE"
+- **Wormwood:** "Pretty"
+- **Wheeler:** "I'm more a showerer myself."
+- **Winona:** "No bathtub in sight."
+- **Wortox:** "I have no idea what it is, but it sure is funny!"
+- **Wurt:** "Crunchy, florp."
+- **Walter:** "I'm sure I'll find a use for it."
+- **Wanda:** "You never know what might come in handy later."
+
+## Usage
+- **Chance of Finding:** The Hardened Rubber Bung has a 4.17% chance of being found when digging up a grave.
+- **Trade Value:** It can be traded to the Pig King for 8 Gold Nuggets.
+- **Spawn Code:** The Hardened Rubber Bung can be spawned into the game with the code `"trinket_8"`.
+
+## Recipes
+1. **Gold Nugget**
+   - **Item:** Hardened Rubber Bung
+   - **Gold:** yes
+   - **Result:** Gold Nugget
+   - **Result Count:** 8
+
+2. **Dubloons**
+   - **Item:** Hardened Rubber Bung
+   - **Dubloon:** yes
+   - **Result:** Dubloons
+   - **Result Count:** 12
+   - **DLC:** Shipwrecked
+
+3. **Oinc**
+   - **Item:** Hardened Rubber Bung
+   - **Tool:** Pig Collector
+   - **Result:** Oinc
+   - **Result Count:** 3
+   - **DLC:** Hamlet
+
+## Trivia
+- Under the old research method, Trinkets were one of the best ways of gaining research points (80 points).
+
+## Gallery
+<gallery>
+![Original HD icon from Bonus Materials from CD Don't Starve](CD trinket_8.png)
+</gallery>
+```
+
+
+
+
+```markdown
+# Berries
+
+## Structure Infobox
+- **Can Be Burned**: Yes
+- **Image**: Berries Dropped.png
+- **Icon**: Berries.png
+- **Name**: Berries
+- **HP Restored**: 0
+- **Hunger Restored**: 9.375
+- **Sanity Restored**: 0
+- **Spoil Time**: 6 Days
+- **Stack**: 40
+- **Food Type**: Veggie, Berry
+- **Spawn Code**: "berries"
+- **Food Value**: Fruit × 0.5
+- **Dropped By**: Berry Bush, Tumbleweed (1% x3)
+- **Lure Radius**: Lure Radius 3, Lure Charm 0.3, Bonus Range +1
+
+## Quotes
+- **Wilson**: Red berries taste the best.
+- **Willow**: Red berries taste the best.
+- **Wolfgang**: Is tasty!
+- **Wendy**: These berries are tart.
+- **WX-78**: THEY REMIND ME OF BLOOD
+- **Wickerbottom**: Some Ardisia crenata berries, I think.
+- **Woodie**: I have a heartier appetite than that.
+- **Maxwell**: Sigh. If I have to.
+- **Wagstaff**: Oh no. I couldn't possibly eat these.
+- **Wigfrid**: Fruits. I don't like 'em.
+- **Webber**: Juice sacks.
+- **Walani**: These are the edible kind, right?
+- **Warly**: Fresh fruit!
+- **Woodlegs**: Stains me blouse.
+- **Wilba**: BERRIES PLUCK'D FROM YUMMY BUSH
+- **Wormwood**: Fills tummy
+- **Wheeler**: Juicy little projectiles.
+- **Winona**: A handful of loose berries.
+- **Wortox**: A handful of mortal treats.
+- **Wurt**: Yummy shrub snacks!
+- **Walter**: They're not in the poisonous section of my handbook, must be safe!
+- **Wanda**: These will keep me going a while longer.
+
+## Description
+Berries are a type of fruit food item that can be found on Berry Bushes. They restore 9.375 hunger when eaten and take 6 days to spoil.
+
+## Roasted Berries
+
+### Structure Infobox
+- **Can Be Burned**: Yes
+- **Image**: Roasted Berries Dropped.png
+- **Icon**: Roasted Berries.png
+- **Name**: Roasted Berries
+- **HP Restored**: 0
+- **Hunger Restored**: 12.5
+- **Sanity Restored**: 0
+- **Spoil Time**: 3 Days
+- **Stack**: 40
+- **Food Type**: Veggie, Berry
+- **Spawn Code**: "berries_cooked"
+- **Food Value**: Fruit × 0.5
+
+## Quotes
+- **Wilson**: I don't think heat improved them.
+- **Willow**: Red berries with fire somehow taste even better.
+- **Wolfgang**: Is more tasty!
+- **Wendy**: More balanced flavor, but they won't last long.
+- **WX-78**: THEY HAVE LOST STRUCTURAL INTEGRITY
+- **Wickerbottom**: Roasted Ardisia crenata, just in case.
+- **Woodie**: Tastes like warm berries.
+- **Maxwell**: A little more refined, at least.
+- **Wagstaff**: In theory I can digest this mush of fruit.
+- **Wigfrid**: Warm red mush.
+- **Webber**: Warm juice sacks.
+- **Walani**: They're all sticky now. Heh heh, gross.
+- **Warly**: Could use a pinch of sugar...
+- **Woodlegs**: Could use a crust o'bread ta spread o'er.
+- **Wilba**: WILBA BERRIES DOTH WARM'D
+- **Wormwood**: Slurpy
+- **Wheeler**: They may be squishy but they'll still fly through the air.
+- **Winona**: A bit charred in places, but I don't mind.
+- **Wortox**: I hear they last longer this way.
+- **Wurt**: Why try to burn snacks, glort?
+- **Walter**: Well, now I have hot berries.
+- **Wanda**: Well, now they're kind of a hot mush...
+
+## Description
+Roasted
+
+
+
+
+```markdown
+# Lavae Egg
+
+## Exclusivity
+- **Don't Starve Together**
+
+## Item Information
+- **Dropped By:** Dragonfly (33%), Loot Stash
+- **Spawn Code:** lavae_egg
+- **Perk:** Hatches into a Dragonfly Larva.
+- **Stack:** Does not stack
+
+## Quotes
+- Wilson: There's a faint warmth coming from inside.
+- Willow: I think a fire is trying to escape.
+- Wolfgang: Is made of rock?
+- Wendy: Is it worth it to put stake in your future?
+- WX-78: CONTAINS PARTS TO BUILD ONE LAVAE
+- Wickerbottom: A large macrolecithal egg.
+- Woodie: There's a fire burning in there.
+- Maxwell: It's alive in there.
+- Wigfrid: A dragön egg!
+- Webber: Maybe I can make it hatch?
+- Winona: Maybe we shouldn't hatch this.
+- Warly: Is its flavor profile comparable to a regular egg?
+- Wortox: Is there a sweet pet inside?
+- Wormwood: Baby Patuey Fly
+- Wurt: Something skritching inside.
+- Walter: I can't wait for it to hatch!
+- Wanda: It's warm, I think this egg has already been cooked.
+- Choose: WX-78
+
+The Lavae Egg is an **Item** exclusive to **Don't Starve Together**. It has a 33% chance of being dropped by a slain **Dragonfly**. It may also be acquired when opening a **Loot Stash** with **Klaus**' **Stag Antler**.
+
+It is similar to a **Tallbird Egg**, and can be hatched into an **Extra-Adorable Lavae** by keeping it near a fire for 2 **Days**. If it becomes too cold, it will change colors and break, dropping **Rocks**. Unlike a Tallbird Egg, it cannot be eaten.
+
+It will drop a **Lavae Tooth** when it hatches, which, much like **Chester**'s **Eye Bone** and **Glommer**'s Flower, will cause the Lavae to follow the players as long as the Lavae Tooth is in their inventory.
+
+### Gallery
+![A Hatching Lavae Egg](Hatching_Lavae_Egg.png)
+![A Cold Hatching Lavae Egg](Cold_Hatching_Lavae_Egg.png)
+
+### Categories
+- Don't Starve Together
+- Items
+- Mob Dropped Items
+- Mob Spawning Entities
+- Boss Dropped Items
+```
+
+
+
+
+```markdown
+# Gord's Knot
+
+![Gord's Knot](Gord's Knot.png) ![Gord's Knot Dropped](Gord's Knot Dropped.png)
+
+### Details
+- **Spawn Code**: `trinket_3`
+- **Dropped By**: 
+  - DS: Ancient Pseudoscience Station Build, Broken Pseudoscience Station Build, Grave, Relic Chair, Relic Table, Relic Vase, Relic Plate, Relic Bowl
+  - RoG: Tumbleweed
+- **Stack**: 40
+
+### Availability
+- Exclusive to Don't Starve, Reign of Giants, Shipwrecked, Hamlet, and Don't Starve Together.
+
+### Quotes
+- **Wilson**: The knot is stuck. Forever.
+- **Willow**: The knot is stuck. Who needs a knife when you've got fire?
+- **Wolfgang**: Is knot what Wolfgang expected.
+- **Wendy**: If only knives solved more of my problems...
+- **WX-78**: WHOSE KNOT IS THIS? THAT’S A WELL-GORDED SECRET.
+- **Wickerbottom**: Oh, I just love the bard.
+- **Woodie**: Reminds me of a story I heard once.
+- **Maxwell**: A tangled mess. Like life.
+- **Wagstaff**: Curious. Some force prevents me from untying it.
+- **Wigfrid**: Even my spear cannöt undö this knöt.
+- **Webber**: It won't come undone!
+- **Walani**: Gord only knows what this is good for.
+- **Warly**: Some things can't be undone.
+- **Woodlegs**: Gord knows his way around a knot.
+- **Wilba**: 'TIS TIED REAL GOOD
+- **Wormwood**: Twisty string
+- **Wheeler**: I've found knots like this in my balloon rigging.
+- **Winona**: Everyone's been real good at showin' me the ropes. Ha!
+- **Wortox**: Tied like my tongue!
+- **Wurt**: Grrr, can't... un-knot...!
+- **Walter**: That's easy, I know how to tie lots of knots!
+- **Wanda**: I'm not going to bother trying to untangle it.
+
+### Lore
+The Gord's Knot has a 4.17% chance of being found when digging up a grave. It is a reference to the story in which Alexander the Great was told that whoever could complete the impossible challenge of disentangling Gordian's Knot and release the tethered cart would rule all of Asia. He released the cart by cutting the Knot with a knife, and went on to conquer much of Asia Minor, before his army rebelled. It has since become a metaphor for solving a complex problem with a simple solution, by thinking outside of the box.
+
+### Trading
+- Can be traded to the Pig King for 4 Gold Nuggets.
+- In the Hamlet DLC, the Gord's Knot can be bought for 1 Oinc at The Flying Pig Arcane Shop in Pig City.
+
+### Crafting Recipes
+1. **Gold Nugget**
+   - **Item**: Gord's Knot
+   - **Gold**: yes
+   - **Result**: Gold Nugget
+   - **Result Count**: 4
+
+2. **Dubloons**
+   - **Item**: Gord's Knot
+   - **Dubloon**: yes
+   - **Result**: Dubloons
+   - **Result Count**: 9
+   - **DLC**: Shipwrecked
+
+3. **Oinc**
+   - **Item**: Gord's Knot
+   - **Tool**: Pig Collector
+   - **Result**: Oinc
+   - **Result Count**: 3
+   - **DLC**: Hamlet
+
+### Trivia
+- Under the old research method, Trinkets were one of the best ways of gaining research points (80 points).
+
+### Gallery
+<gallery>
+CD trinket_3.png|Original HD icon from Bonus Materials from CD Don't Starve.
+</gallery>
+```
+
+
+
+
+```markdown
+# Great Depths Worm
+
+![Great Depths Worm](Great_Depths_Worm.png)
+
+- **Health:** 5000
+- **Damage:** Shockwave: 32 to players, Thorns: 30 to players, Digestion: 560 but does not kill
+- **Sanity Drain:** -400/min when fighting, -100/min otherwise
+- **Drops:** 3-5 Monster Meat, 1 Glow Berry, and more (see below)
+- **Spawn Code:** "worm_boss"
+
+## Quotes
+
+- **Wilson:** "It’s a big worm!"
+- **Willow:** "Must be the mother."
+- **Wolfgang:** "It is mama worm."
+- **Wendy:** "Nothing goes extinct here."
+- **WX-78:** "SO MUCH PULSING VILE FLESH"
+- **Wickerbottom:** "This one is older, larger… deadlier."
+- **Woodie:** "We can take her, luce!"
+- **Maxwell:** "Who unearthed this monstrocity?"
+- **Wigfrid:** "A snake beast wörthy öf mine spear!"
+- **Webber:** "Wow."
+- **Warly:** "That worm looks hungry!"
+- **Wormwood:** "Hello, Big wiggly"
+- **Winona:** "Now that’s a big ol’ Worm."
+- **Wortox:** "Squirmy Wormy! Hyuyu!"
+- **Wurt:** "Don’t eat me!"
+- **Walter:** "A monster worm!"
+- **Wanda:** "We go back, don’t we?"
+
+## Behavior
+
+When engaged with a player, the Great Depths Worm will chase them and attempt to bite. Its movement speed is similar to a default character's speed. If it hits, it inflicts 30 thorn damage. It destroys structures and items in its path and pauses to eat certain enemies or items, producing 3 Manure during digestion.
+
+## Drops
+
+| Item | Chance |
+| --- | --- |
+| Bone Shards | 21.37% |
+| Rocks | 17.09% |
+| Flint, Nitr, Monster Meat | 12.82% |
+| Gold Nugget | 3.42% |
+| Broken Shell, Tentacle Spots, Light Bulb, Glow Berry, Guano, Red Gem, Blue Gem, Purple Gem | 1.71% |
+| Bent Spork, Dessicated Tentacle, Orange Gem, Yellow Gem, Green Gem, Thulecite, Fossils | 0.85% |
+
+## Tips
+
+- Players can drop items in front of the worm to make it eat them, creating a window for damage or healing.
+- Wanda's digestion attack is particularly dangerous due to her health mechanics.
+- Electric damage has a 2.5x damage multiplier against the worm due to its perpetual Wet status.
+- WX-78 can equip Electrification Circuits and intentionally get swallowed for massive damage.
+- Having the worm eat a teammate or follower can be helpful as it stays still for a longer time.
+- The worm cannot traverse Spelunker's Bridge, allowing players to stay on the bridge and use range weapons.
+- The worm cannot sleep, be frozen, or teleported.
+- Great Depths Worms are the only renewable source of Fossil Fragments.
+
+## Trivia
+
+- The worm can theoretically eat certain NPCs like Crabby Hermit, Corvus Goodfeather, and Wagstaff.
+- Quotes and the Scrapbook entry hint at the worm possibly being an extinct species brought back to life.
+
+## Gallery
+
+![Concept Art 1](RWP_FB6_Great_Depths_Worm_Concept_Art.png)
+![Concept Art 2](RWP_FB6_Great_Depths_Worm_Concept_Art2.png)
+![Animation Concept](RWP_FB6_Great_Depths_Worm_Animation.gif)
+![Animation Reference](RWP_FB6_Great_Depths_Worm_Animation_Reference.gif)
+![Main Menu Concept Art](RWP_FB7_Depths_of_Duplicity_main_menu_Concept_Art.png)
+![Main Menu Concept Art 2](RWP_FB7_Depths_of_Duplicity_main_menu_Concept_Art2.png)
+![Art Stream](Art_Stream_Great_Depths_Worm.png)
+```
+
+
+
+
+```markdown
+# Volt Goat Horn
+
+**Exclusivity**: Reign of Giants, Hamlet, Don't Starve Together
+
+## Structure Infobox
+- **Icon**: Volt Goat Horn.png
+- **Image**: Volt Goat Horn Dropped.png
+- **Stack**: 10
+- **Food Value**: Inedible &times; 1
+- **Dropped By**: Volt Goat (25%)
+- **Spawn Code**: "lightninggoathorn"
+
+## Quotes
+- **Wilson**: It's like a miniature lightning rod.
+- **Willow**: I can hear the lightning if I hold it to my ear.
+- **Wolfgang**: Tiny lightning bone.
+- **Wendy**: A weird curling horn.
+- **WX-78**: THIS IS A GOOD HORN
+- **Wickerbottom**: There must be something unnatural in the horn.
+- **Woodie**: Your horn is mine.
+- **Maxwell**: It'd make a nice horn.
+- **Wigfrid**: This cöuld deal a lasting blöw.
+- **Webber**: This might make a good weapon.
+- **Warly**: For kabobs, perhaps?
+- **Wormwood**: From Twirly Branch Head
+- **Winona**: It's even more interesting up close.
+- **Wortox**: It's okay.
+- **Wurt**: Crackly!
+- **Walter**: The goat gave me a souvenir.
+- **Wanda**: Twisty, like time itself.
+- **Choose**: Wolfgang
+
+The **Volt Goat Horn** is an **Item** with a 25% chance to be dropped by **Volt Goat**s in the **Reign of Giants** DLC. It is an ingredient for crafting the **Morning Star** and the **Weather Pain**, making Volt Goats a worthwhile **Mob** to farm.
+
+## Usage
+### Morning Star Recipe
+- **Item 1**: Volt Goat Horn
+- **Item 2**: Electrical Doodad (2)
+- **Item 3**: Nitre (2)
+- **Tool**: Alchemy Engine
+- **Result**: Morning Star
+
+### Weather Pain Recipe
+- **Item 1**: Volt Goat Horn
+- **Item 2**: Gears
+- **Item 3**: Down Feather (10)
+- **Tool**: Alchemy Engine
+- **Result**: Weather Pain
+
+### Volt Goat Chaud-Froid Recipe
+- **Item 1**: Volt Goat Horn
+- **Item 2**: Honey (3)
+- **Tool**: Portable Crock Pot
+- **Result**: Volt Goat Chaud-Froid
+
+## Mob Dropped Items
+
+### External Links
+- [vi:Sừng Vôn Dương]
+- [ru:Рог вольт-козы]
+
+### Categories
+- [Items](#)
+- [Resources](#)
+- [Non-Flammable](#)
+```
+
+
+
+
+```markdown
+# Bio Data
+
+**Don't Starve Together Exclusive Item**
+
+![Bio Data Dropped](Bio%20Data%20Dropped.png) ![Bio Data](Bio%20Data.png)
+
+- **Can Be Burned**: Yes
+- **Scrapbook Description**: Data is used to craft Circuits for WX-78.
+- **Dropped By**: ![Bio Scanalyzer](32|Bio%20Scanalyzer) (Completing Scans)
+- **Stack Size**: 40
+- **Spawn Code**: `"scandata"`
+
+## Quotes
+
+- **Wilson**: Smells like fresh research.
+- **Willow**: Looks like dumb science stuff for nerds.
+- **Wolfgang**: Is tiny boring paper.
+- **Wendy**: If I'm lucky, it might just bore me to death.
+- **WX-78**: DISGUSTING RAW BIO DATA. BEGIN THE REFINING PROCESS
+- **Wickerbottom**: An incredibly thorough analysis. Well done!
+- **Woodie**: Doesn't seem right to boil nature down to just a bunch of facts and figures.
+- **Maxwell**: Well... fine. I suppose that sums it all up, more or less.
+- **Wigfrid**: The metal scout's report!
+- **Webber**: Wow, it learned all that just by looking really hard?
+- **Warly**: What is this they're cooking up?
+- **Wormwood**: Hmm!
+- **Winona**: Yeesh, this stuff would make ol' Wickerbottom's writing seem flowery.
+- **Wortox**: Hyuyuyu, I think our friend has some tricks up those tin sleeves!
+- **Wurt**: Glurgh... can Wicker-lady read it?
+- **Walter**: Neat! Wanna scan me next?
+- **Wanda**: It's of no use to me, I won't waste time reading it.
+
+## Usage
+
+Bio Data is used to craft Circuits exclusive to **WX-78**.
+
+## Mobs Scanned and Bio Data Dropped
+
+| Mob | Bio Data |
+| --- | --- |
+| Butterfly, Moon Moth | 1 |
+| Spider, Rabbit, Hound | 2 |
+| Crawling Horror (horror), Terrorbeak (horror), Terrorclaw, Clockwork Rook, Damaged Rook, Slurper | 3 |
+| Moleworm, Red Hound, Blue Hound, Crabby Hermit, Nurse Spider | 4 |
+| Volt Goat | 5 |
+| Ancient Guardian, Depths Worm, Bulbous Lightbug, Skittersquid, Bearger, Crawling Nightmare (nightmare), Nightmarebeak (nightmare) | 6 |
+| Crab King | 8 |
+| Dragonfly, Bee Queen, Deerclops | 10 |
+
+## Recipes
+
+### Hardy Circuit
+
+- **Bio Data**: 2
+- **Spider Gland**: 1
+- **Result**: Hardy Circuit
+- **DLC**: DST
+- **Character**: WX-78
+
+### Super-Hardy Circuit
+
+- **Bio Data**: 4
+- **Spider Gland**: 2
+- **Hardy Circuit**: 1
+- **Result**: Super-Hardy Circuit
+- **DLC**: DST
+- **Character**: WX-78
+
+### Processing Circuit
+
+- **Bio Data**: 1
+- **Petals**: 1
+- **Result**: Processing Circuit
+- **DLC**: DST
+- **Character**: WX-78
+
+### Super-Processing Circuit
+
+- **Bio Data**: 3
+- **Nightmare Fuel**: 1
+- **Processing Circuit**: 1
+- **Result**: Super-Processing Circuit
+- **DLC**: DST
+- **Character**: WX-78
+
+### Beanbooster Circuit
+
+- **Bio Data**: 8
+- **Royal Jelly**: 1
+- **Super-Processing Circuit**: 1
+- **Result**: Beanbooster Circuit
+- **DLC**: DST
+- **Character**: WX-78
+
+### Chorusbox Circuit
+
+- **Bio Data**: 4
+- **Baritone Shell Bell**: 1
+- **Result**: Chorusbox Circuit
+- **DLC**: DST
+- **Character**: WX-78
+
+### Gastrogain Circuit
+
+- **Bio Data**: 2
+- **Hound's Tooth**: 1
+- **Result**: Gastrogain Circuit
+- **DLC**: DST
+- **Character**: WX-78
+
+
+
+
+```markdown
+# Stalagmite
+
+![Stalagmite Gallery]  
+Regular | Tall  
+--- | ---  
+![Regular Stalagmite] | ![Tall Stalagmite]
+
+The **Stalagmite** is the Underground equivalent of a Boulder. It can be mined using either a Pickaxe, Opulent Pickaxe, or Pick/Axe. Stalagmites drop various minerals when mined.
+
+## Quotes
+- **Wilson**: Looks like a rock to me.
+- **Willow**: Rocks are boring.
+- **Wolfgang**: Is pointy.
+- **Wendy**: The earth gives up its bounty.
+- **WX-78**: ROCKS CONTAINING ROCKS
+- **Wickerbottom**: A strange rock formation.
+- **Woodie**: I'm not too interested in rocks.
+- **Maxwell**: Rocks. How dull.
+- **Wagstaff**: Presumably it's formed from ceiling drippings.
+- **Wigfrid**: A cave boulder.
+- **Webber**: Rocks underground?! Shocking.
+- **Walani**: A pretty cool rock.
+- **Warly**: I always get you upside down with stalactites...
+- **Woodlegs**: Me likes rocks where I can see 'em.
+- **Wilba**: 'TIS A ROCK
+- **Wormwood**: Rock
+- **Wheeler**: I'm going to go ahead and guess it's a rock.
+- **Winona**: Yep, yep. It's a rock.
+- **Wortox**: It's just a rock.
+- **Wurt**: Cave rock.
+- **Walter**: People get stalagmites and stalactites confused, but I know which is which!
+- **Wanda**: You've seen one rock, you've seen them all.
+
+## Resource Drops
+
+| Stalagmite | Tall Stalagmite |
+| --- | --- |
+| ![Full Stalagmite] | ![Full Tall Stalagmite] |
+| *Rocks ×3* <br> *Flint ×1.6 (1 + 60% to get 1 extra)* <br> *Gold Nugget ×1.25 (1 + 25% to get 1 extra)* <br> *Blue Gem ×0.05* <br> *Red Gem ×0.05* <br> *Fossils ×0.1* | *Rocks ×2* <br> *Flint ×1.6 (1 + 60% to get 1 extra)* <br> *Gold Nugget ×1.25 (1 + 25% to get 1 extra)* <br> *Red Gem ×0.05* <br> *Log ×0.05* <br> *Fossils ×0.1* |
+| ![Medium Stalagmite] | ![Medium Tall Stalagmite] |
+| *Rocks ×2* <br> *Flint ×1.6 (1 + 60% to get 1 extra)* <br> *Gold Nugget ×0.5* <br> *Fossils ×0.1* | *Rocks ×2* <br> *Flint ×1.6 (1 + 60% to get 1 extra)* <br> *Gold Nugget ×0.15* <br> *Fossils ×0.1* |
+| ![Low Stalagmite] | ![Low Tall Stalagmite] |
+| *Rocks ×1* <br> *Flint ×1.3 (1 + 30% to get 1 extra)* <br> *Gold Nugget ×0.25* <br> *Fossils ×0.1* | *Rocks ×1* <br> *Flint ×1.3 (1 + 30% to get 1 extra)* <br> *Gold Nugget ×0.15* <br> *Fossils ×0.1* |
+
+## Trivia
+- Even though a Stalagmite will appear to be reduced to a lower state as it is mined, it will retain the loot table of its starting state.
+- The fact that tall stalagmites can drop Logs suggests they may be Petrified Trees.
+
+## Gallery
+![Stalagmites on the Map]  
+![Bugged Stalagmite]
+
+## Categories
+- Mineable Objects
+- Naturally Spawning Objects
+- Resources
+- Non-Renewable
+- Non-Flammable
+- Caves
+```
+
+
+
+
+```markdown
+# Tentacle Spots
+
+![Icon](Tentacle Spots.png)
+
+Tentacle Spots are a rare item with a 20% drop chance from a killed Tentacle and a 40% chance from a killed Big Tentacle. They can be used to craft the Feather Hat and Wickerbottom can use them to craft the Book, "On Tentacles". Tentacle Spots do not spoil and can also be burned as fuel in a Campfire or Fire Pit.
+
+## Properties
+- **Burnable**: Yes
+- **Image**: ![Dropped](File:Tentacle Spots Dropped.png)
+- **Burn Time**: 15 sec. (link to [Fuel](File:Light_Sources_Filter.png))
+- **Dropped By**:
+  - Tentacle (20%)
+  - Tentapillar (40%)
+  - King of the Merms (Trade)
+- **Stack Size**: 40
+- **Spawn Code**: "tentaclespots"
+
+## Quotes
+- Wilson: "I think these were its genitalia."
+- Willow: "Ewwwww."
+- Wolfgang: "Yuck! Slimy!"
+- Wendy: "These are better left unmentioned."
+- WX-78: "NOT FOR THE SQUEAMISH"
+- Wickerbottom: "Hmmm, reproductive organs."
+- Woodie: "I'm blushing!"
+- Maxwell: "This is how they reproduce."
+- Warly: "Would make a decent kitchen rag."
+- Wanda: "Such a nice pattern, if only it wasn't so slimy and disgusting."
+
+## Recipes
+### Feather Hat
+- **Ingredients**:
+  - 2 Tentacle Spots
+  - 3 Crow Feather
+  - 2 Crimson Feather
+- **Tool**: Alchemy Engine
+
+### "On Tentacles" Book
+- **Ingredients**:
+  - Tentacle Spots
+  - 2 Papyrus
+- **Tool**: Alchemy Engine
+- **Character**: Wickerbottom
+
+### Rain Coat
+- **Ingredients**:
+  - 2 Tentacle Spots
+  - 2 Rope
+  - 2 Bone Shards
+- **Tool**: Alchemy Engine
+
+### Tail o' Three Cats
+- **Ingredients**:
+  - 1 Tentacle Spots
+  - 3 Cat Tail
+- **Tool**: Alchemy Engine
+
+### Merm Flort-ifications
+- **Ingredients**:
+  - 1 Tentacle Spots
+  - 5 Boards
+  - 2 Spear
+- **Tool**: Alchemy Engine
+- **Character**: Wurt
+
+### Superior Communal Kelp Dish
+- **Ingredients**:
+  - 1 Tentacle Spots
+  - 3 Cut Reeds
+  - 3 Boards
+- **Result**: Superior Communal Kelp Dish
+- **Character**: Wurt
+- **Skill**: Community Feeder II
+
+### Slightly Less Shoddy Tool Shed
+- **Ingredients**:
+  - 1 Tentacle Spots
+  - 4 Boards
+  - 5 Twigs
+  - 5 Rocks
+- **Result**: Slightly Less Shoddy Tool Shed
+- **Character**: Wurt
+- **Skill**: Industrious Merm II
+
+### Superior Armermry
+- **Ingredients**:
+  - 1 Tentacle Spots
+  - 4 Boards
+  - 5 Log
+  - 5 Cut Grass
+- **Result**: Superior Armermry
+- **Character**: Wurt
+- **Skill**: Hardheaded II
+
+## Trivia
+Multiple characters suggest that Tentacle Spots are the genitalia of the Tentacles, supported by Maxwell's quote, "This is how they reproduce", Wickerbottom's quote "Hmmm, reproductive organs", and Wilson's quote, "I think it was its genitalia". Other character quotes suggest this, but not as notable.
+
+## Gallery
+<gallery>
+CD tentaclespots.png|Original HD icon from Bonus Materials from CD Don't Starve.
+</gallery>
+
+## Categories
+- Fuel
+- Flammable Objects
+```
+Please note that the gallery and multiple languages section are not fully supported in markdown format, so I've kept them as they were in the original text. If you need further adjustments or additional information, feel free to ask!
+
+
+
+
+```markdown
+# The Hallowed Nights 2024 Comic
+
+The **Hallowed Nights 2024 Comic** is a [web page](https://fall2024.dontstarvegame.com/) that was published in the newsletter along with the release of the [Hallowed Nights Returns 2024](https://dontstarve.gamepedia.com/From_Beyond#Hallowed_Nights_Returns_2024) update. The web page contains several comic panels and a short poem.
+
+## Secrets
+- If you click on the Pumpkin Lantern at the end of the page, you will be redirected to the page with Halloween cards.
+  ![Pumpkin Lantern](Hallowed_Nights_Сomic_Element_11.jpg?center&thumb=460x460px)
+- If you click on the Record in the panel with [Wagstaff](https://dontstarve.gamepedia.com/Wagstaff), you will get **Loyal Hallowed Night** skin for [Record](https://dontstarve.gamepedia.com/Records).
+  ![Hallowed Night Record](Hallowed_Nights_Сomic_Hallowed_Night_Record.png?center&thumb=460x460px)
+
+## Poem
+```
+
+When loneliness SLITHERS, cold along your spine,
+
+and your flickering light feels crushed by design,
+
+Your existence, a whisper- forgotten, frail-
+
+As though to seek their warmth is bound to fail.
+
+The darkness deepens, Draped with despair,
+
+Yet in your chest, a SPARK still flickers there.
+
+You hear the echoes of laughter long past,
+
+Fighting sleep, chasing moments that couldn't last.
+
+If only for a night, to feel that warmth once more,
+
+To find a hope for tomorrow, enough to restore.
+
+For when together, the Shadows will fade,
+
+And even the lost will find light in the shade.
+
+But for some, there is no solace in another,
+
+For to come too close, your flame they would smother.
+
+Though they smile, it's a mask they wear to hide,
+
+To obscure the darkness that festers inside.
+
+HAPPY HALLOWED NIGHTS!
+```
+
+## Panels
+![Panel 1](Hallowed_Nights_Сomic_Panel.png?center&thumb=460x460px)
+![Panel 2](Hallowed_Nights_Сomic_Panel_2.png?center&thumb=460x460px)
+![Panel 3](Hallowed_Nights_Сomic_Panel_3.png?center&thumb=460x460px)
+![Panel 4](Hallowed_Nights_Сomic_Panel_4.png?center&thumb=460x460px)
+![Panel 5](Hallowed_Nights_Сomic_Panel_5.png?center&thumb=460x460px)
+![Panel 6](Hallowed_Nights_Сomic_Panel_6.png?center&thumb=460x460px)
+![Panel 7](Hallowed_Nights_Сomic_Panel_7.png?center&thumb=460x460px)
+![Panel 8](Hallowed_Nights_Сomic_Panel_8.png?center&thumb=460x460px)
+![Panel 9](Hallowed_Nights_Сomic_Panel_9.png?center&thumb=460x460px)
+![Panel 10](Hallowed_Nights_Сomic_Panel_10.png?center&thumb=460x460px)
+![Panel 11](Hallowed_Nights_Сomic_Panel_11.png?center&thumb=460x460px)
+
+## Blueprint Gallery
+![Main Element from Panel 1](Hallowed_Nights_Сomic_Element_1.jpg?center&thumb=460x460px)
+![Main Element from Panel 2](Hallowed_Nights_Сomic_Element_2.jpg?center&thumb=460x460px)
+![Main Element from Panel 3](Hallowed_Nights_Сomic_Element_3.jpg?center&thumb=460x460px)
+![Main Element from Panel 4](Hallowed_Nights_Сomic_Element_4.jpg?center&thumb=460x460px)
+![Main Element from Panel 5](Hallowed_Nights_Сomic_Element_5.jpg?center&thumb=460x460px)
+![Main Element from Panel 6](Hallowed_Nights_Сomic_Element_6.jpg?center&thumb=460x460px)
+![Main Element from Panel 7](Hallowed_Nights_Сomic_Element_7.jpg?center&thumb=460x460px)
+![Main Element from Panel 8](Hallowed_Nights_Сomic_Element_8.jpg?center&thumb=460x460px)
+![Main Element from Panel
+
+
+
+
+```markdown
+# Lurking Nightmare
+
+- **Health**: 850
+- **Damage**: 50
+- **Planar Damage (During Rift)**: 20
+- **Drops**:
+  - Normal: Nightmare Fuel ×2-4
+  - Rift: Pure Horror ×2-3, Nightmare Fuel ×1-2
+- **Attack Period**: 1.5
+- **Attack Range**: 3.5
+- **Run Speed**:
+  - Normal: 5
+  - Rift: 6
+- **Sanity Drain**: -100/min
+- **Spawns From**:
+  - Nightmare Light
+  - Nightmare Fissure
+- **Spawn Code**: "ruinsnightmare"
+- **Shadow Aligned**: 1
+
+The **Lurking Nightmare** is a **Shadow Creature** exclusive to **Don't Starve Together**.
+
+## During Nightmare Cycle
+During the **Nightmare Phase**, the Lurking Nightmare has a 14% chance to spawn from a **Nightmare Light** or **Nightmare Fissure**, regardless of the player's **Sanity**. It has a special horn attack.
+
+## Shadow Rift
+If the **Shadow Rift** exists, the Lurking Nightmare spawn chance increases to 31.5%. It gets **Planar Entity Protection** and its attacks deal extra **Planar Damage**. During Shadow Rift, its horn attack will **Knockback** the player and knock the player off the **Beefalo**.
+
+## Prototype Tips
+Defeat Lurking Nightmares mixed with large groups of other Nightmare Creatures is almost impossible for a single player, the best way to deal with it is to stay away from areas where Nightmare Light or Nightmare Fissure are and wait for the Nightmare phase to end.
+
+## Trivia
+- The Lurking Nightmare was introduced in the **Depths of Duplicity** update.
+
+## Gallery
+![Lurking Nightmare concept art from Depths of Duplicity announce stream from 'Rhymes with Play'](RWP_FB6_Lurking_Nightmare_Concept_Art.png)
+![Lurking Nightmare Old](Lurking_Nightmare_Old.png)
+
+## Categories
+- [[Category:Mobs]]
+- [[Category:Don't Starve Together]]
+- [[Category:From Beyond]]
+```
+
+
+
+
+```markdown
+# Foliage
+
+**Image:** ![Foliage Dropped](Foliage%20Dropped.png) ![Foliage](Foliage.png)
+
+**Foliage** is a Vegetable Food Item obtained by picking a [[Fern]]. Similar to Petals, Foliage can be eaten to restore 1 Health or used as fuel in a [[Campfire]] or [[Fire Pit]]. They can also be crafted into a [[Potted Fern]].
+- **HP Restored:** 1
+- **Hunger Restored:** 0
+- **Sanity Restored:** 0
+- **Spoil:** 6 days
+- **Burn Time:** 7.5 sec
+- **Dropped By:** 
+  - ![Fern](Fern1.png) Fern
+  - ![Tumbleweed](Tumbleweed.png) Tumbleweed (1% × 3)
+- **Stack:** 40
+- **Spawn Code:** "foliage"
+
+**Quotes:**
+- **Wolfgang:** "I killed the pretty plant."
+- **Wilson:** "Some leafy greens."
+- **Willow:** "Fuel for the fire."
+- **Woodie:** "Looks like a salad."
+- **Maxwell:** "A meal fit for a peasant."
+- **Wagstaff:** "I predict stomach upset resulting from its consumption."
+- **Wendy:** "Wilson calls them 'greens'... but they're purple..."
+- **Woodlegs:** "Landy stuff."
+- **Wickerbottom:** "These may have some nutritional value."
+- **Webber:** "Soft and leafy."
+- **Warly:** "Feuillage."
+- **WX-78:** "I ENDED A LIFE. YAY."
+- **Walani:** "It's all natural."
+- **Wigfrid:** "A collection of ferns."
+- **Wilba:** "TIS PLANT STUFFS"
+- **Wormwood:** "Friend"
+- **Wheeler:** "Swell. A bunch of leaves."
+- **Winona:** "Just a bunch of leaves."
+- **Wortox:** "Purpled leaves from down below."
+- **Wurt:** "Purple, one of the tastiest colors, florp."
+- **Walter:** "This would be great for starting a campfire."
+- **Wanda:** "Am I going to stop and examine every bit of greenery I find?"
+
+## Cooked Foliage
+
+**Image:** ![Cooked Foliage Dropped](Cooked%20Foliage%20Dropped.png) ![Cooked Foliage](Cooked%20Foliage.png)
+
+During The Gorge event, you could prepare Foliage. It had the same parameters as the regular Foliage.
+- **Spoil:** 6 days
+- **Stack:** 40
+- **Spawn Code:** "foliage_coooked"
+
+## Usage
+
+1. **Manure**
+   - **Item:** Foliage
+   - **Tool:** Pig Icon
+   - **Result:** Manure
+
+2. **Potted Fern**
+   - **Item1:** Foliage
+   - **Item2:** Broken Shell (DST)
+   - **Count1:** 2
+   - **Result:** Potted Fern
+   - **Tool:** Alchemy Engine
+
+3. **Slimy Turf**
+   - **Item1:** Foliage
+   - **Item2:** Cut Grass
+   - **Tool:** Terra Firma Tamper
+   - **Result:** Slimy Turf
+   - **Resultcount:** 4
+
+4. **Cooked Foliage**
+   - **Item1:** Foliage
+   - **Tool:** Quagmire Firepit
+   - **Result:** Cooked Foliage
+   - **Note:** {{Event|The Gorge}}
+
+## Trivia
+
+- Foliage used to be green when it was implemented in the "It's not a Rock!" update. Wilson's quote for Foliage was not changed in the update and still refers to them as "Some leafy greens".
+  - Wendy remarks this in DST with her quote for Ferns: "Wilson calls them 'greens'... but they're purple...".
+- Despite the fact that in The Gorge there was Cooked Foliage, in the game files this texture is called "dried".
+
+## Gallery
+
+<gallery>
+Foliage old.png|Old Foliage icon.
+</gallery>
+
+## Resources and Food
+
+| Resources | Food |
+|-----------|------|
+| {{Resources}} | {{Food and Edible Items}} |
+```
+
+
+
+
+```markdown
+# Map
+
+The Map is used to help navigate the islands of the **The Constant**. Nearly all resources such as **Plants**, **Boulders**, and **Beehives** show up as icons on the Map. Different terrain types (often called **Biomes**) are clearly outlined, along with **Ocean** water. The Map shows **Roads** and **Trails**, as well as world objects such as the **Wooden Thing** or **Maxwell's Door** and built/crafted objects such as **Backpack**s and **Farms**. The map can be zoomed in for better detail, or out to see the entire world. The map is brought to view by pressing **TAB**. Pressing **TAB** again closes the map. On the PS4, the map can be opened by clicking the touch pad. On the Wii U, the map can be dragged onto the gamepad. On the Switch, the map can be opened with **-**, and closed again by pressing **B**.
+
+![The World Map](https://example.com/image/world_map.jpg)
+
+> "Now I can show everyone what I found!" - Wilson
+
+## Exploration
+
+When a world is first generated, the Map will be black except for the area immediately surrounding the **character**. As the world is explored, the map will be filled in. Generally, everything that can be seen on the screen will be added to the map as it comes into view, except for the corners which are slightly out of range. To be sure something is added, try to get at least half a screen away from it.
+
+## Map Legend
+
+### Characters
+
+- ![Wilson](https://example.com/image/wilson_map_icon.png) [[Wilson]]
+- ![Willow](https://example.com/image/willow_map_icon.png) [[Willow]]
+- ![Wolfgang](https://example.com/image/wolfgang_map_icon.png) [[Wolfgang]]
+- ![Wendy](https://example.com/image/wendy_map_icon.png) [[Wendy]]
+- ![WX-78](https://example.com/image/wx-78_map_icon.png) [[WX-78]]
+- ![Wickerbottom](https://example.com/image/wickerbottom_map_icon.png) [[Wickerbottom]]
+- ![Woodie](https://example.com/image/woodie_map_icon.png) [[Woodie]]
+- ![Wes](https://example.com/image/wes_map_icon.png) [[Wes]]
+- ![Maxwell](https://example.com/image/maxwell_map_icon.png) [[Maxwell/Character|Maxwell]]
+- ![Wagstaff](https://example.com/image/wagstaff_map_icon.png) [[Wagstaff]]
+- ... (and more)
+
+### Craftable Structures
+
+- ![Alchemy Engine](https://example.com/image/alchemy_engine_map_icon.png) [[Alchemy Engine]]
+- ![Farm](https://example.com/image/basic_farm_map_icon.png) [[Farm|Basic Farm]]
+- ![Bee Box](https://example.com/image/bee_box_map_icon.png) [[Bee Box]]
+- ... (and more)
+
+### Items
+
+- ![Abigail's Flower](https://example.com/image/abi_s_flower_map_icon.png) [[Abigail's Flower]]
+- ![Backpack](https://example.com/image/backpack_map_icon.png) [[Backpack]]
+- ![Bee Mine](https://example.com/image/bee_mine_map_icon.png) [[Bee Mine]]
+- ... (and more)
+
+### Mobs and Mob Housing
+
+- ![Bee Hive](https://example.com/image/bee_hive_map_icon.png) [[Bee Hive]]
+- ![Chester](https://example.com/image/chester_map_icon.png) [[Chester]]
+- ... (and more)
+
+### Plants
+
+- ![Berry Bush](https://example.com/image/berry_bush_map_icon.png) [[Berry Bush]]
+- ![Cave Banana Tree](https://example.com/image/cave_banana_tree_map_icon.png) [[Cave Banana Tree]]
+- ... (and more)
+
+### Naturally Spawning Objects
+
+- ![Ancient Pseudoscience Station](https://example.com/image/ancient_pseudoscience_station_map_icon.png) [[Ancient Pseudoscience Station]]
+- ![Ancient Statue](https://example.com/image/ancient_statue_map_icon.png) [[Ancient Statue]]
+- ... (and more)
+
+### Turfs
+
+- ![Carpeted Flooring](https://example.com/image/carpeted Flooring_icon.png) [[Carpeted Flooring]]
+- ![Cave Rock Turf](https://example.com/image/cave_rock_turf_icon.png) [[Cave Rock Turf]]
+- ... (and more)
+
+
+
+
+
+
+```markdown
+# Royal Rabbit Enforcer
+
+- **Health**: 400
+- **Damage**: 40
+- **Run Speed**: 6
+- **Attack Period**: 3
+- **Sanity Drain**: -40/min
+- **Spawns from**: ![Wrathful Rabbit King](Wrathful_Rabbit_King.png)
+- **Drops**: 
+  - ![Meat](Meat.png) (19%) 
+  - ![Monster Meat](Monster_Meat.png) (19%) 
+  - ![Beard Hair](Beard_Hair.png) (19%) 
+  - ![Carrot](Carrot.png) (19%) 
+  - ![Bunny Puff](Bunny_Puff.png) (25%)
+- **Spawn Code**: "rabbitkingminion_bunnyman"
+
+## Exclusivity
+Don't Starve Together
+
+## Quotes
+- Walter: "Who's a cranky pants?"
+- Wanda: "From a bad litter, indeed."
+- Warly: "They are not trying to cuddle."
+- Wigfrid: "I shall send you to the endless carrot patch."
+- Maxwell: "Tell scallywag Simon I've got a hat he'll never escape from!"
+- Webber: "Nasty rabbit."
+- Wendy: "You're making me angry."
+- Wickerbottom: "Must be an aggressive breed."
+- Willow: "Don't you guys have anything better to do?"
+- Wilson: "They're hoppin' mad!"
+- Winona: "Must be somethin' in the carrots."
+- Wolfgang: "Bad bunny! Don't hit Wolfgang!"
+- Woodie: "Back off, bunny!"
+- Wormwood: "Mean Squee Hopper's mean friend!"
+- Wortox: "It's a warrin' warren!"
+- Wurt: "Flort, Bunnyman! Me thought we friends!"
+- WX78: "PATIENCE, BUNNY. I WILL KILL YOU SOON"
+- Choose: Wilson
+
+## Scrapbook Info
+The Rabbit King commands with a Royal decree, your presence be removed no matter your plea.
+
+## Description
+Royal Rabbit Enforcers are summoned by the Wrathful Rabbit King as its guards. When the Wrathful Rabbit King starts to fight, it will summon 3 Royal Rabbit Enforcers. For every 60 seconds, if there are less than 3 Royal Rabbit Enforcers, it will summon more Enforcers so there will always be at most 3 alive at the same time. Once the Wrathful Rabbit King is dead, they will lose aggro and leave. If the Royal Rabbit Enforcers get caught in Acid Rain, their attack damage and movement speed will be reduced by 15%, and damage taken will increase by 25%.
+
+## Trivia
+The Royal Rabbit Enforcer was introduced in the Depths of Duplicity update.
+
+## Mobs
+- Category: From Beyond
+```

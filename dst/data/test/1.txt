@@ -1,0 +1,55 @@
+```markdown
+# {{Navbutton/Character}}
+
+## {{Character Infobox
+|image ds = Willow.png
+|nick ds = The Firestarter
+|motto ds = "Things are so much prettier when they burn."
+|perk ds = Immune to fire damage<br>Has a sweet lighter<br>Lights fires when nervous
+|health ds = 150
+|hunger ds = 150
+|sanity ds = 120
+|sanity mult ds = up to +10/min per nearby [[File:Icon Light.png|24px|link = Fire]]
+|item ds = {{Pic|32|Willow's Lighter}}
+|start item ds = {{Pic|32|Willow's Lighter}}
+|spawnCode ds = "willow"
+|image dst = Willow Original Portrait.png
+|nick dst = The Firestarter
+|motto dst = "All will bathe in the prettiest of flames."
+|perk dst = Has a fondness for fire, but hates the cold<br>Protected by her cuddly bear, Bernie<br>Has a reliable lighter
+|health dst = 150
+|hunger dst = 150
+|sanity dst = 120
+|sanity mult dst = -1.1x and +1.1x<br>up to +11/min per nearby [[File:Icon Light.png|24px|link = Fire]]
+|item dst = {{Pic|32|Willow's Lighter}} {{Pic|32|Bernie}}
+|start item dst = {{Pic|32|Willow's Lighter}} {{Pic|32|Bernie}}
+|bio = ''Willow is a candid woman whose penchant for fire often gets her into more than a little trouble.''
+|birthday = May 7
+|survivability = Slim
+|favorite food = {{pic32|Spicy Chili}}
+|spawnCode dst = "willow"
+|links = [[Willow quotes|Quotes]]<br/>[[Willow clothes|Clothes]]
+|filter dst={{Pic32|Willow Filter|Willow Filter}}}
+### {{Quote|Hmmm. I wonder if these will burn.|Willow}}
+
+**Willow** is the Second playable **Character** in *Don't Starve* that can be unlocked via **Experience**, when the player reaches 160 XP. She is also one of the playable Characters in *Don't Starve Together* (DST). She is a young woman who is obsessed with fire.
+
+As part of the *Don't Starve Together* content updates, Willow received a character refresh on May 7, 2019.[^1]
+
+## {{pic32|Minimap Maxwell's Door}} Origin
+
+{{Quote|Willow always regarded being brought to The Constant as a new beginning. It allowed her to leave everything behind, after all.|Official description of Willow's [[vignette]] from [[The Forge]]}}{{#ev:youtube|https://youtu.be/TKKXXKtFiQw|alignment=left|dimensions=300}}
+
+Willow's backstory was revealed in an animated short titled *From the Ashes*. An official summary of the short was provided in DST's [[Compendium]]:
+
+*Willow always regarded being brought to [[The Constant]] as a new beginning. It allowed her to leave everything behind, after all. From a young age, Willow seemed to possess a knack for attracting bad luck. Orphaned at a young age and forced to live in a children's home with cruel caregivers, she soon found her nights plagued by shadowy visions of terrible creatures... creatures that could only be held at bay by her faithful teddy bear Bernie. But when Bernie was taken away as punishment for what her caregivers saw as unfit behavior, Willow was left to fend for herself when the shadows came for her. That's when she learned that nothing holds back the darkness like a roaring flame. Nothing is more comforting than watching your troubles light up and crumble to ash...  It wouldn't be the last time Willow burned it all down to start anew.*
+
+## {{pic|32|Placeholder}} Trivia
+
+### In-Game
+* Willow was added to the original Don't Starve Chrome build on August 7, 2012.[^2]
+* Willow's voice is played by a flute.
+* Willow has a [[Unimplemented Items#Player Skulls|skull]] in the game files.
+* Willow's previous perk, before the [[Version History#July 2, 2013 - Strange New Powers|Strange New Powers]] update, was to light fires at her feet when in darkness, like she does when low on Sanity now.
+* When struck by [[Lightning]] in DLCs, Willow, like most other Characters, is shown to have bones in her hair. In addition to this, she has bones in her skirt.
+* Willow was the second Don't Star

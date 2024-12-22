@@ -1,0 +1,73 @@
+```markdown
+# Combat Damage Mechanics
+
+Combat is a gameplay mechanism that allows players or mobs to fight each other, reducing each other's health. When a player or mob is attacked or exposed to an environmental hazard, a series of calculations determine how much damage is taken and how much health is lost.
+
+## Damage
+
+### Physical Damage
+Physical Damage is the most common type of damage in the game. Every mob, before enabling Rifts, only deals physical damage that can be absorbed by Armor's Protection or reduced by mobs' Planar Entity Protection. Physical Damage can be affected by damage multipliers, such as:
+
+- **Wes**, **Wendy**: deal 25% less damage.
+- **Wigfrid**: deal 25% more damage.
+- **Wolfgang**: deal x0.75 - x2 damage, based on his mightiness.
+- **Wanda**: based on her age and weapon she uses.
+- **Volt Goat Chaud-Froid**: grants a x1.5 damage boost (x2.5 when target is wet) for 5 minutes.
+- Dishes with **Chili Flakes**: deal 20% more damage for 4 minutes.
+- **W.A.R.B.I.S. Head Gear**: gives 5% - 20% physical damage boost.
+
+#### Weapons with Physical Damage
+Almost every Weapon deals physical damage, more or less. It is recommended for players to get a **Ham Bat** or **Dark Sword** for their high damage. These weapons, however, will not be as efficient against Rift mobs with Planar Entity Protection.
+
+### Planar Damage
+Planar Damage is a new type of damage introduced in "From Beyond", and it does not get affected by the damage multipliers mentioned above. Unlike Physical Damage, Planar Damage cannot be blocked by Armor's Protection or reduced by Planar Entity Protection. It is only affected by Armor's Planar Defense or Damage Reduction.
+
+#### Creatures with Planar Damage
+
+| Mobs | Physical Damage | Planar Damage |
+|------|----------------|--------------|
+| **Grazer** | 50 | 10 |
+| **Deadly Brightshade** | 65 (100 When attacked) | 10 (30 When attacked) |
+| **Fused Shadeling** | 40 (50 {{pic|24|Fused Shadeling Bomb}}) | 10 (20 {{pic|24|Fused Shadeling Bomb}}) |
+| **Shriek** | 25 | 30 |
+| **Jitters** | 35 | 20 |
+| **Rasp** | 20 | 20 |
+| **Armored Bearger** | 87 | 30 |
+| **Crystal Deerclops** | 75 | 30 |
+| **Possessed Varg** | 50 (20 coldfire) | 20 |
+| **Bright-Eyed Frog** | 10 | 5 |
+
+#### Weapons with Planar Damage
+
+| Weapons | Physical Damage | Planar Damage |
+|---------|----------------|--------------|
+| **Brightshade Sword** | 38 | 30 |
+| **Brightshade Bomb** | 0 | 200 |
+| **Brightshade Staff** | 0 | 10 |
+| **Brightshade Smasher** | 32.5 | 10 |
+| **Brightshade Shoevel** | 17.2 | 10 |
+| **Shadow Reaper** | 38-41.8 | 18-23 |
+| **Howlitzer** | 34 | 34 |
+| **Charged Elding Spear** | 74.37 (111.5 wetness) | 20 |
+
+### Other Damage
+- Damage that cannot be reduced in any way: spending Health for crafting (such as crafting a Meat Effigy).
+- Damage that cannot be blocked by armor, but can be reduced by Damage Reduction:
+  - Food
+  - Starving
+  - Freezing
+  - Overheating
+  - Fire
+  - Acid Rain
+  - Wetness (WX-78 only)
+  - Lightning: including charged Volt Goat, hammering Moose/Goose Egg, and Moongleam.
+- Walter takes a fixed 10 damage from Bees.
+
+### Additional Damage Multiplier
+Here are some additional damage multipliers that affect both Physical Damage and Planar Damage.
+
+- Characters with a **Skill Tree** can choose Lunar Affinity or Shadow Affinity.
+  - Lunar Affinity: +10% protection from Lunar Aligned mobs and +10% damage to Shadow Aligned mobs.
+  - Shadow Affinity: +10% protection from Shadow Aligned mobs and +10% damage to Lunar Aligned mobs.
+- {{Pic32|Brightshade Sword}} deals 10% more total damage to Shadow Aligned mobs.
+- {{Pic32|Brightshade Helm}}

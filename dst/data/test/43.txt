@@ -1,0 +1,76 @@
+```markdown
+# Banana Bushes
+
+## Object Infobox
+- **Scrapbook Description**: This needs some fertilizing after planting.
+- **Image**:
+  - Big: ![Banana Bush Build](Banana Bush Build.png)
+  - Medium: ![Banana Bush Medium Build](Banana Bush Medium Build.png)
+  - Small: ![Banana Bush Small Build](Banana Bush Small Build.png)
+  - Empty: ![Banana Bush Empty Build](Banana Bush Empty Build.png)
+  - Dead: ![Banana Bush Dead Build](Banana Bush Dead Build.png)
+- **Tool**: Can be Dug (![Shovel](Shovel.png))
+- **Picked**: Can be picked (![Cave Banana](Cave Banana.png))
+- **CanBeBurned**: 1
+- **Resources**: ![Banana Bush Item](Banana Bush Item.png) (![Shovel](Shovel.png))
+- **Renew**: Yes
+- **Biome**: Moon Quay
+- **SpawnCode**: "bananabush"
+
+## Exclusivity
+Don't Starve Together
+
+## Structure Infobox
+- **Stack**: 10
+- **Image**: ![Banana Bush Dropped](Banana_Bush_Dropped.png)
+- **Icon**: ![Banana Bush Item](Banana Bush Item.png)
+- **Perk**: Can be replanted
+- **DroppedBy**: 
+  - ![Unnatural Portal](Unnatural Portal.png)
+  - ![Banana Bush](Banana Bush.png) (![Shovel](Shovel.png))
+- **SpawnCode**: "dug_bananabush"
+- **Name**: Banana Bush
+- **BurnTime**: ![Fuel#Fire Fuel](Light_Sources_Filter.png) 3 min.
+- **CanBeBurned**: 1
+
+## Quotes
+- Wilson: That bush is bananas!
+- Willow: Bananas growing outside the caves? Weird.
+- Wolfgang: It makes delicious fruit for Wolfgang.
+- Wendy: Bananas that grow in the sun... how unnatural.
+- WX78: THIS WORLD ALREADY HAS BANANAS INSTALLED. YOU ARE REDUNDANT
+- Wickerbottom: The fruit is remarkably similar to the subterranean strain.
+- Woody: It's missing the tree part!
+- Maxwell: Bananas that don't grow in caves? Preposterous.
+- Wigfrid: I hath no use for a plant burgeoning with foul non-meats.
+- Webber: We didn't know bananas could grow outside!
+- Warly: Ah, I've stumbled on some fresh bananas!
+- Wormwood: New friend!
+- Winona: Sure beats goin' down to the caves.
+- Wortox: Hyuyu, little shrub, are you waving at me?
+- Wurt: Monkeys mean, but know good fruit.
+- Walter: Wait, I thought bananas grew on trees around here?
+- Wanda: They're much easier to pick this way.
+- Choose: Maxwell
+
+## Scrapbook Info
+This needs some fertilizing after planting. | Banana Bushes (Item)
+
+## Description
+Banana Bushes are Plants exclusive to Don't Starve Together, introduced in The Curse of Moon Quay update. They can be found growing on Moon Quay and are dropped in their item form from the Unnatural Portal.
+
+A Banana Bush will grow 1 Banana at a time after several growing stages. Similar to Berry Bushes, it can be replanted when dug up with a Shovel but will need to be fertilized before it will start growing new fruit. The bush will need to be re-fertilized after multiple harvests.
+
+## Bugs
+Despite having the MakeNoGrowInWinter() component, Banana Bushes will continue to grow during Winter.
+
+## Gallery
+- Unused Banana Bush Burnt: ![Banana Bush Burnt](Banana_Bush_Burnt_Build.png)
+- Concept art of the Banana Bush shown in Rhymes With Play stream: ![RWP Banana Bush Concept Art](RWP_Banana_Bush_Concept_Art.png)
+
+## Naturally Spawning Objects
+- Plant
+
+## External Link
+[vi:Banana_Bush]
+```

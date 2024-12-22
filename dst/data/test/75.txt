@@ -1,0 +1,71 @@
+```markdown
+# Sinkhole
+
+{{Navbutton/Separation}}
+
+## Object Infobox
+| Property | Description |
+| --- | --- |
+| Image | <gallery>
+![Closed Sinkhole](Sinkhole.png)
+![Opened Sinkhole](Unplugged Sinkhole DS.png)
+</gallery>
+| Tool | Can be [[Tools#Mining Tools|Mined]] {{pic|32|Pickaxe}}
+| Resources | [[File:Rocks.png|24px|link=Rocks]][[File:Flint.png|24px|link=Flint]]
+| Renew | No
+| Spawns | [[File:Batilisk.png|40px|link=Batilisk]]
+| Biome | [[Forest]], [[Mosaic]], [[Marsh]]
+| Spawn Code | "cave_entrance"
+
+## Object Infobox (Ruins Entrance)
+| Property | Description |
+| --- | --- |
+| Image | ![Ruins Entrance](File:Ruins Entrance.png)
+| Tool | Can be [[Tools#Mining Tools|Mined]] {{pic|32|Pickaxe}}
+| Spawns | [[File:Batilisk.png|40px|link=Batilisk]]
+| Resources | [[File:Thulecite.png|24px|link=Thulecite]][[File:Thulecite Fragments.png|24px|link=Thulecite Fragments]]
+| Renew | No
+| Spawn Code | "cave_entrance_ruins"
+
+## Quotes
+- willson: I wonder if I could move that rock.
+- willow: Who plugged that hole?
+- wolfgang: Who wants to go in scary cave hole, anyway!
+- wendy: Someone is trying to keep the underground at bay.
+- wx78: DESCENT BLOCKED. HOW TO PROCEED?
+- wickerbottom: The placement of that rock looks intentional.
+- woodie: It's bunged up.
+- maxwell: I plugged it a long time ago.
+- wagstaff: I'm strangely compelled to wait until later.
+- wigfrid: What treasures lie beneath?
+- webber: It's plugged up.
+- walani: How much effort will it take to get down there?
+- warly: I wonder what's underneath that?
+- woodlegs: I ain't one fer climbin' in holes like a swab.
+- wilba: YON WAY 'TIS BLOCK'D TO WILBA
+- wormwood: Closed
+- wheeler: I'm going to leave it, for now.
+- winona: Nah, I don't want blacklung.
+- wortox: A doorway into the depths below.
+- wurt: Something down there.
+- walter: That rock's blocking the entrance!
+- wanda: I never was good at leaving well enough alone.
+- choose: maxwell
+
+A **Sinkhole** is the entrance to a [[Cave]] and can be found randomly in the world. Each Sinkhole leads to a new Cave or Ruin. The cave-side of a sinkhole is a staircase or cave-exit.
+
+When first discovered, the Sinkhole will be a Plugged Sinkhole and is covered with a jagged rubble mound; Player can usually tell they are close to a Plugged Sinkhole on the surface when they find Rocks lying about in the Biomes for no reason. Mining the Plug reveals the hole with a rope going down into its depths while providing [[Flint]] and [[Rock]]s on the surface and [[Thulecite]], as well as [[Thulecite Fragments]] underground. It takes six hits from a [[Pickaxe]] to unplug it. Once unplugged, up to 6 [[Batilisk]]s will spawn quickly from the Sinkhole at dusk and return underground in the morning. If Batilisks are killed, they will respawn at a rate of 1 per minute until the maximum of 6 has been reached.
+
+There are only three Sinkholes in a surface world and one for each Cave. Plugged and open Sinkholes are marked on a [[map]] by a gray mound and a hole with a red arrow pointing downwards, respectively.
+
+On default settings, the three surface Sinkholes are guaranteed to spawn in the following locations:
+* A [[Mosaic]] biome.
+* A [[Pig Village]] (generally, this village also has a [[Pig King]]).
+* The [[Forest]] biome found in the center of the world's [[Marsh]].
+The number of sinkholes in the [[Sandbox Mode|world settings]] can only be "Default" and "None".
+
+Thulecite Sinkholes are usually found on [[Stalagmite Terrain]].
+__NOTOC__
+
+## Downloadable Content
+In the [[Hamlet]] DLC, Sinkhole can be found in [[Pinacle]] [[Biome]], which can only be accessible via [[BFB]]. Sinkhole

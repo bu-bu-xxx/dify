@@ -1,0 +1,67 @@
+```markdown
+# Mobs
+
+Mobs, or "Mobiles", are game entities which move around, technically creatures including Monsters and Animals. The term has been a part of video game jargon since 1978; it's not unique to Don't Starve.
+
+Every Mob has its own unique behaviors, movements, attacks, drops, and uses. As such, learning the characteristics of each and every Mob becomes important to survival, done either through direct study and interaction or through external research.
+
+Many mobs can be put to sleep by the pan flute and other features in the game.
+
+## Classification
+
+### Hostile Mobs
+Hostile Mobs are always aggressive. These mobs attack anything nearby which they deem threatening.
+
+### Neutral Mobs
+Neutral Mobs are non-aggressive until provoked. Their threat is very often getting attacked, but it might be just about anything except proximity.
+
+### Passive Mobs
+Passive Mobs are always non-aggressive, even when attacked. These mobs will typically avoid the player, but exceptions exist.
+
+These relationships are classified with regards to each others. A Mob which is hostile/neutral/passive towards all other Mobs is a true hostile/neutral/passive Mob.
+
+For monstrous player characters (Webber and Wortox) some mobs are categorized differently. Bunnymen, Pigs and Catcoons will be hostile to them since these mobs attack monsters on sight, though Spiders will be neutral to Webber. Pigs will also be hostile to Wurt due to her being a Merm, but Bunnymen and Catcoons will be neutral.
+
+## Characteristics
+
+### Health (HP)
+Health is measured in "Hit Points" (HP), an arbitrary unit invented to coordinate with damage.
+Each hit taken from the player decreases its health by:
+- attack damage * character damage multiplier
+The number of hits required to kill a Mob is:
+- Hits = mob health / attack damage
+
+### Damage (DMG)
+Damage is a subtraction of health from a Mob, measured in HP.
+A hit against any Mob deals:
+- attack damage = base attack damage / mob's armor
+
+### Attack Period (AP)
+The time from the start of one attack to the start of the next one, here measured in seconds.
+A Mob's damage per second (or DPS) is calculated by either of the following
+- DPS = total damage done / time taken
+- DPS = attack damage / attack period
+
+### Attack Range (AR)
+The distance an attack can hit a target from, here measured in "units" which are equal to the horizontal thickness of a Wall, with the diagonal thickness of a Wall being √2 units.
+
+### Sanity Aura (SA)
+The amount of sanity a player gains or loses per minute when standing near the Mob.
+
+### Walk Speed (WS) and Run Speed (RS)
+Walk Speed is a mob's speed while idly wandering the world, and Run Speed is a mob's speed while either engaged in combat or fleeing. They are measured in units per second. The default Run Speed of most characters is 6.
+
+The speed is affected by the mob's scaled size (determined by looking for inst.Transform:SetScale(X, X, X) in the mob's lua file), so the in-game speed is calculated as:
+- WS/RS = speed * scale value
+
+## Mobs
+[Mobs/Table]
+
+## Mob Interactions
+[Mob Chart]
+This chart details the outcome of hostility if one mob is to meet another, the left vertical side of the column are the "spotters", and the straight horizontal side are the "spotted". When a Spotter meets a Spotted, the interactions are detailed. Special thanks to Spazmatic on the Don't Starve Forums for providing the graph.
+
+A Spreadsheet Table can be found here: [The Aggro Table](https://docs.google.com/spreadsheet/ccc?key=0AktErFcEFQVtdHpjWGE4Mi1IelFPellqc2poZlZQY3c#gid=0)
+
+[Mobs]
+```

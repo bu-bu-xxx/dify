@@ -1,0 +1,50 @@
+```markdown
+# Food
+
+Food can be obtained by foraging, trapping, farming or hunting mobs. Food refills Hunger and may restore some Health along with Sanity, depending on the quality of the food eaten. Eating some foods, such as Monster Meat or Durians, can damage the player's health instead of restoring it. Some foods, such as raw Meat or Morsels, will damage a player's sanity if eaten. Mushrooms have varying effects on Health and Sanity depending on their color. Some special food items, such as Glow Berry, have additional effects when eaten.
+
+Almost all raw food can be Cooked on a Campfire to increase the amount of Health/Hunger/Sanity restored or reduced, and sometimes remove Health/Sanity penalties from eating it. Some raw food items, most notably Meats, can be dried on a Drying Rack to produce long lasting food items with increased Health/Hunger/Sanity values. Additionally, a Crock Pot can be used for making foods that have additional benefits.
+
+Food items also have other uses than eating them directly. Meat can be used as bait for carnivores, for the recruitment of Pigs, and as an offering to the Pig King for Gold Nuggets. A renewable way to gain Eggs is by giving meats to birds housed in Bird Cages. Meat is also a requirement to construct the Meat Effigy. Bunnymen can be befriended using Carrots and will become hostile if meat is in the player's inventory. Vegetables and Fruits can be used as bait for herbivores and given to Pigs to obtain Manure. Seeds can be used to bait Bird Traps.
+
+Being of the most important items in the game, (and part of the game's namesake, to not starve) food is typically very valuable in any world; however, given the layouts of different maps and what spawns in them, food availability can vary from being abundant, to dangerously short. Food is affected by the seasons, which likely encourages the player to take advantages of seasonal diets and also take advantages of the food's shelf life.
+
+With the introduction of Overheating mechanic in the Reign of Giants DLC (and carried over to Don't Starve Together and the Shipwrecked DLC), some foods are classified as hot or cold, providing an alternative way to combat Freezing and Overheating, respectively.
+
+When players eat Foods that count as Meats, they will have a chewing animation and are not able to perform other actions for a relatively long duration. When eating Foods that are not Meats, they will just put it into their mouth very fast.
+
+For Information on Food values and Priority, see the Crock Pot page.
+
+## Categories
+
+* Meats — [Meats](Meats)
+* Fishes — [Fishes](Fishes)
+* Vegetables — [Vegetables](Vegetables)
+* Fruits — [Fruits](Fruits)
+* Eggs — [Eggs](Eggs)
+* Crock Pot meals — [Crock Pot](Crock Pot)
+* Other — [Other](Other)
+
+## Perish Times
+
+Most food and some non-edible items have a perish time, eventually turning into Rot, turning into another food or item, or disappearing completely.
+
+| Stage | Effect |
+|-------|--------|
+| Green (50-100% Fresh) | Restores the full amount of Hunger, Health and Sanity for a given food. |
+| Yellow (21-49% Stale) | Restores 2/3 of Hunger, 1/3 of Health for a given food and doesn't restore any Sanity. |
+| Red (0-20% Spoiled) | Restores 1/2 of Hunger for a given food, doesn't restore any Health and decreases Sanity by 10. |
+
+| Container | Spoilage Rate (higher = spoils faster) | Notes |
+|-----------|--------------------------------------|-------|
+| Bundled_Supplies_4_Slot | 0 | Several items cannot be put inside, such as itself and Chester's Eye Bone. |
+| Honey Chest | 0 | Only Honeys and Nectars can be put inside. |
+| Birdcage | 0 / 0.25 | Only Birds can be put inside. |
+| Ice Box | 0.5 / -0.33 | -0.33 only applies to Ice/Hail. |
+| Insulated Pack | 0.5 |  |
+| Sea Sack | 0.5 |  |
+| Snow Chester | 0.5 / 0 | 0 only applies to Ice. |
+| Chef Pouch | 0.5 / 0.75 |  |
+| In player's inventory, Chests, etc | 1 |  |
+| Shadow Chester | 1.5 / 3 | 3 only applies when poisoned. |
+| Player with Blue Funcap/Red Funcap/Green Func

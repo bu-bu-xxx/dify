@@ -1,0 +1,39 @@
+```markdown
+# Crock Pot
+
+The **Crock Pot** is a **Structure** used to **Cooking|cook** a variety of belly-filling dishes from basic **Food**s. Found in the **Food Tab**, it requires a **Science Machine** to prototype, and costs 3 **Cut Stone**, 6 **Charcoal**, and 6 **Twigs** to build.
+
+While enhancing **Food**'s value and efficiency; it can even make use of otherwise inedible items like **Twigs**.
+
+## Usage
+
+With 4 slots for ingredients, each must be filled with a piece of Food to start cooking. Most recipes take 10–20 seconds to cook (Exact times for each recipe are listed **below**). Completed Crock Pot dishes can be stacked to 40; none of them can be used in the Crock Pot again.
+
+### Cooking basics
+
+A cooking attempt's ingredients have to match a **Dishes#All Dishes|recipe**. There are 58 recipes available for the Crock Pot, including those from the **DLCs**. If an attempt fails to match any recipe at all, **Wet Goop** ends up as the product.
+
+When a recipe is attempted (i.e. the pot starts cooking), the **#Food groups|food groups** the ingredients fit into are considered; almost all recipes require some amount of Food from certain food groups, but there are many recipes with specific Food requirements (like **Froggle Bunwich**).
+
+Lots of ingredients fulfill recipe requirements more readily than others (e.g. 1 **Drumstick** has the same effect on a dish as 2 **Morsel**s). More filling ingredients tend to have greater **#Food values|food values**.
+
+Each recipe has weight, called **#Priority|recipe priorities**, so a result can be decided when a set of ingredients fits more than one valid recipe. These weights are.
+
+When **Food#Food Spoilage|spoiled** ingredients are used, the completed dish's spoil percentage becomes half the average spoil percentage of the ingredients (e.g. if 1 monster meat and 3 berries, all 90% spoiled (10% fresh), are placed in the Crock Pot, the resulting meatball will be 45% spoiled (55% fresh)). Non-spoilable ingredients are ignored when calculating average spoil percentage. In the vanilla game, a meal doesn't begin to spoil until a player removes it from the Crock Pot. Meals remain in the Crock Pot until either a player removes it, a **Lureplant** "eats" it, or the pot is destroyed.
+
+## Downloadable Content
+
+In **DLC**s, Crock Pot dishes start to **Rot|spoil** (even quicker in **rain**) before being collected. Some existing recipes gain the ability to warm or cool the player and new recipes have been added which can lower or raise the player's temperature. The Crock Pot itself also generates heat when cooking, which may **Overheating|Overheat** the player during **Summer** and **Dry Season**.
+
+If a regular or RoG save file has been set to be compatible with SW, any recipes added by SW will also be available in such a file. Consequently, recipes such as Surf 'n' Turf can be created to easily restore large amounts of Health and Sanity in the Ruins by combining 2 Monster Meats with 2 Eels.
+
+The **Don't Starve: Hamlet|Hamlet** DLC introduces the first Crock Pot recipe that turns into a different recipe when it has spoiled. **Tea** will spoil after one day, but instead of becoming **Rot** it will become **Iced Tea**. Even though this transformation likely represents the cooling of the hot drink, putting Tea in an **Ice Box** will slow its spoilage like any other food item. **Foliage** can be used in the Crock Pot in this DLC.
+
+## Tips
+
+* The light emitted by an active Crock Pot is enough to keep **Charlie** away.
+* **Warly** has his own **Portable Crock Pot**.
+* Some Crock Pot dishes give fewer **Hunger** / **Health** points than the sum of their components.
+  * For instance, it's better to eat four **Roasted Carrot**s (+12 **Hp** / +50 **Hunger**), versus using them to make **Ratatouille** (+3 **Hp** / +25 **Hunger**); however, most Crock Pot recipes restore 5 **Sanity**, which may be desirable.
+  * Putting any 4 edible items in the pot will result in something.
+* If the player has enough resources to create a 5-6 fit Crock Pot setting, the player can position them in a quintet or

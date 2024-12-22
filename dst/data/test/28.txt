@@ -1,0 +1,78 @@
+```markdown
+# Telelocator Staff
+
+- **Navbutton/Separation**
+
+## Structure Infobox
+
+- **equipslot**: hands
+- **icon**: Telelocator Staff.png
+- **image**: Telelocator Staff Dropped.png
+- **ingredient1**: Nightmare Fuel
+- **multiplier1**: 4
+- **ingredient2**: Living Log
+- **multiplier2**: 2
+- **ingredient3**: Purple Gem
+- **multiplier3**: 2
+- **tab**: Magic
+- **durability**: 5 Uses
+- **tier**: 3
+- **sanitydrain**: -50 (per use)
+- **droppedBy**: [[Ornate Chest]] and [[Ancient Pseudoscience Station]] with [[Hammer]]
+- **stack**: Does not stack
+- **spawnCode**: "telestaff"
+- **description**: Bend space! Time bend sold separately.
+
+## Quotes
+
+- **wilson**: It can show me the world.
+- **willow**: It's quite a rush to use.
+- **wolfgang**: It gives me a headache.
+- **wendy**: I could escape if it were more powerful.
+- **wx78**: I WILL CALL IT THE MINION_MOVER_3000.
+- **wickerbottom**: The gem appears to focus the nightmare fuel.
+- **woodie**: I wonder what this thing does.
+- **maxwell**: Magic can do amazing things, when funneled through the right channels.
+- **wagstaff**: So it is possible to bend three dimensional space. I knew it!
+- **wigfrid**: I ride thröugh the air and the sea!
+- **webber**: It makes my brain feel fuzzy.
+- **walani**: It shows me things I never knew I could see.
+- **warly**: Let us take a trip. I am not picky as to where.
+- **woodlegs**: I prefer a fast ship and th'wind at me back.
+- **wilba**: IT GIVETH WILBA ZOOM LEGS
+- **wormwood**: Poof Stick
+- **wheeler**: I like the teleporting. Could do without being struck by lightning, though.
+- **winona**: So you're telling me this stick is "magic"?
+- **wortox**: Hassle-free hopping.
+- **wurt**: Make head feel funny, florp...
+- **walter**: But getting there is half the fun!
+- **wanda**: It's a bit clunky, but it'll do for now.
+- **choose**: wx78
+
+## Usage
+
+The Telelocator Staff is a magical Item created from the Magic Tab. It requires a Shadow Manipulator to prototype, and costs 2 Living Logs, 4 Nightmare Fuel, and 2 Purple Gems to craft. The Telelocator Staff has 5 uses. Each use costs 50 Sanity.
+
+- **Usage**: The Telelocator Staff is used to teleport the player or Mob (including Bosses) to a random location on the map. When used on a mob, Lightning will strike the mob where it was standing before being teleported (possibly setting it on fire). When used on the player, lightning will strike them at the location used and also at the location they are teleported to (potentially causing fires both times). Each use will increase world's moisture, that when high enough can start Rain.
+
+- **Caves**: Using a Telelocator Staff in Caves will not teleport the target (even if a Telelocator Focus was built underground), but will cause Rocks and Gems to fall at the location where the spell was used (similar to an Earthquake). Note that falling Minerals can cause damage to players and mobs.
+
+## Telelocator Focus
+
+If the player built a Telelocator Focus in the world and stocked it with three Purple Gems, the Telelocator Staff will teleport its target to the point at which the focus is placed instead of to a random location. This consumes the gems.
+
+The player can use the Telelocator Focus to teleport to a base after a long trip or quickly travel from one end of the world to another.
+
+Note that since it is currently not possible to teleport to or within a cave, building one of these in a cave is just a waste of resources.
+
+## Downloadable Content
+
+- **Reign of Giants**: When using the Staff on a mob, lightning may strike the player instead. WX-78 will always be hit, even when standing next to a Lightning Rod (causing both the character and the rod to be struck).
+
+- **Shipwrecked**: Mobs in the ocean cannot be teleported.
+
+- **Hamlet**: The Pugalisk cannot be teleported.
+
+## Strategy
+
+The Telelocator

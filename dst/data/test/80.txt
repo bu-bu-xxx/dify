@@ -1,0 +1,104 @@
+```markdown
+# Swordfish
+
+## Exclusivity
+Shipwrecked
+
+## Structure Infobox
+- Naughtiness: 4
+- Image: ![Swordfish](File:Swordfish.png)
+- Imagewidth: 250
+- Health: 200
+- Damage: 30
+- AttackPeriod: 2
+- WalkSpeed: 5
+- RunSpeed: 8
+- Drops: ![Dead Swordfish]({{pic|32|Dead Swordfish}})
+- SpawnCode: "swordfish"
+- SpawnFrom: Ocean & Fish Farm
+
+## Quotes
+- Wilson: I think this fish evolved to run me through.
+- Willow: En garde!
+- Wolfgang: Wolfgang challenges you to duel!
+- Wendy: This fish cuts death with its face!
+- WX-78: FIGHTING FISH
+- Wickerbottom: Don't upset the broadbill!
+- Woodie: That there's one pointy fish.
+- Maxwell: Ah, a sparring partner!
+- Wagstaff: What a magnificently cuspidated creature!
+- Wigfrid: Nöw yöu are a fish after my heart!
+- Webber: We like your sword face, fish!
+- Walani: I've resolved to be more of a lover than a fighter.
+- Warly: A deluxe, but dangerous ingredient!
+- Woodlegs: Arrr ye'd like ta bury thet nose in ol'Woodlegs eh?
+- Wilba: PUT UP THY SWORD
+- Wormwood: Sharpnose Glub Glub
+- Wheeler: Swell. A swimming swashbuckler.
+
+## Dead Swordfish
+### Structure Infobox
+- FoodType: Meat
+- DroppedBy: ![Swordfish]({{pic|48|Swordfish}})
+- Icon: ![Dead Swordfish](File:Dead Swordfish.png)
+- Image: Dead Swordfish Dropped.png
+- Name: Dead Swordfish
+- SpawnCode: "dead_swordfish"
+- HpRestored: 1
+- HungerRestored: 25
+- SanityRestored: 0
+- Spoil: 6 Days
+- Stack: 40
+
+### Quotes
+- Wilson: I better not run with this.
+- Willow: Ugh, fire would get rid of that smell.
+- Wolfgang: It was a good fight.
+- Wendy: Its sword face couldn't save it...
+- WX-78: LIFE IS NOT WORTH IT
+- Wickerbottom: Looks a tad less ferocious this way.
+- Woodie: Sorry, guy.
+- Maxwell: Perhaps it should have taken more fencing lessons.
+- Wagstaff: What a perfectly pernicious proboscis!
+- Wigfrid: Önward tö Valhalla, brave fish.
+- Webber: Should we eat it or use it?
+- Walani: Woah, that fish is HUGE!
+- Warly: The grand poisson!
+- Woodlegs: Ye put up a good fight.
+- Wilba: 'TIS DEAD
+- Wormwood: (sob)
+- Wheeler: Your adventure is at an end. My adventure is just beginning.
+
+## Fighting Strategy
+To fight Swordfish, a boat speed of 7 or above is recommended. Sailing close to the Swordfish will cause it to attack, which can be dodged by sailing in the opposite direction after the Swordfish pauses before the attack. Then players will be able to land 1 to 2 hits with a melee weapon depending on boat speed. Swordfish cannot be stunlocked.
+
+## Usage
+### Recipes
+1. Dead Swordfish + Cooking = Fish Steak
+2. Dead Swordfish + Drying Rack = Jerky
+3. Dead Swordfish + Birdcage = Egg
+4. Dead Swordfish + Gold Nugget (2) + Twigs (1) = Cutlass Supreme
+5. Dead Swordfish = Octopus Chest
+
+## Tips
+Once the location of the spawner is found, it can be marked by items that have map markers, like any one of the backpacks, traps, sea traps, or boats as well as a buoy.
+
+## Trivia
+There is code in the game files that would allow using alive Swordfish in the Crock Pot, counting as 1 unit of Fish and 0.5 units of Meat. However, there is no method implemented that would make capturing Swordfish alive possible.
+
+## Gallery
+<gallery>
+WaSwordFish.png|A Swordfish.
+Sword ice.png|A frozen Swordfish.
+Sword game.png|A Dead Swordfish on the ground beside Wendy.
+Squad 1.5.png|Swordfish drawn during the Klei Doodle Jam.
+</gallery>
+
+## Categories
+- Hostile Creatures
+- Ocean
+- Surface Creatures
+- Items
+- Fishes
+- Aquatic Mobs
+- Perishables

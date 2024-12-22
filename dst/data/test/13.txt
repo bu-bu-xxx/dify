@@ -1,0 +1,29 @@
+```markdown
+# {{Navbutton/Separation}}
+## {{See also|Food}}
+To see what type of the Food is, please refer to: [Food Type](#).
+
+These "food values" measure how plentifully an ingredient can fulfill a recipe's need for certain food groups, plays in and **only** in [Crock Pot](#). Combined ingredients' food values (in addition to [#Priority|recipe priority]) are what determine an attempt's final dish; for example: [Honey Ham](#) requires a meat value greater than or equal to 2.0, so in addition to [Honey](#), its ingredients can be 3 Jerky; 2 Jerky & 1 filler; or 1 Jerky & 2 [Drumstick](#)s, but 1 Jerky, 1 Drumstick, & 1 filler won't cut it.
+
+The overall set of food values for an attempted dish is the sum of its individual ingredient values. In attempting a dish like ![Monster Meat](#) ![Meat](#) ![Meat](#) ![Meat](#) ![Berries](#), the component values are:
+- +1 meat, +1 monster
+- +1 meat
+- +1 meat
+- +0.5 fruit
+
+When added up, the final dish's set of values will be 3.0 meat, 1.0 monster, and 0.5 fruit. resulting in [Meaty Stew](#).
+
+Some ingredients value for two food groups; for example: raw [Tropical Fish](#) provides 1.0 fish unit & 0.5 meat units (though [Cooked Fish Morsel](#) provides 0.5 fish units & no meat units).
+
+## Meat value
+
+There are 13 basic **Meat** [food](#) [items](#) in-game. There is one additional Meat in the **[Reign of Giants]** DLC, 11 additional Meats in the **[Shipwrecked]** DLC, two additional Meats in the **[Hamlet]** DLC, and eight additional Meats in **[Don't Starve Together]**. Most meats are dropped by [Mobs](#) as loot, and [fish](#) can also be obtained from [Pond](#)s with a [Fishing Rod](#). If a mob dies from burning, the cooked variant of meat will be dropped instead (if available). Many of the meats can be dried on a [Drying Rack](#), resulting in [Jerky](#), a much longer-lasting food item with different [Hunger](#), [Sanity](#), and [Health](#) bonuses.
+
+Mobs such as [Pigs](#), [Spider](#)s or [Hound](#)s will eat any form of dropped meat on the ground, including [Pig Skin](#)s. Additionally, [Bunnymen](#) will be aggressive towards the player if they have any item on this list.
+
+There are 10 [Crock Pot](#) recipes that require Meat. There are two additional recipes in the **Reign of Giants** DLC, four additional recipes in the **Shipwrecked** DLC, three additional recipes in the **Hamlet** DLC, and one additional recipe in **Don't Starve Together**. [Warly|Warly's](#) [Portable Crock Pot](#) also has a recipe that requires meat in **Don't Starve Together**. An [Egg](#) is counted as an egg in a Crock Pot, and as meat elsewhere. [Fishes](#) are counted as both fish and meat in a Crock Pot, and as meat elsewhere.
+
+Different [Meats|Meat ingredients](#) have different meat values.
+
+### Foods with meat value of 0.5
+- ![Morsel](#) ![Cooked Morsel](#) ![Drumstick](#) ![Fried Drumstick](#) ![Frog Legs](#) ![Cooked Frog Legs](#) ![Small Jerky](#) ![Fish](#) ![Cooked Fish](#)![Cooked Eel](#) ![Eel](#) ![Moleworm](#) ![Shark Fin](#) ![Dead Dogfish](#) ![Raw Fish](#) ![Fish Steak](#) ![Tropical Fish](#) ![Purple Grouper](#) ![Cooked Purple Grouper](#) ![Pierrot

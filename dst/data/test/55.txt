@@ -1,0 +1,37 @@
+```markdown
+{{Quote|I put stuff there!|Wolfgang}}
+## Inventory
+The **Inventory** is a section of the [[Wikipedia:User Interface|User Interface]] where the player character's held [[Item]]s are displayed and accessed during gameplay.
+
+The player can hold up to fifteen different stacks of items in the Inventory. Equipable Items can be placed in their respective equipment slot.
+![An empty Inventory bar.](Inventory Empty.PNG =414x414px)
+
+- The first fifteen slots holds all types of items, minus [[Backpack]]s.
+- The "left hand" slot allows the character to equip a [[Tools Tab|Tool]] or [[Weapon]].
+- The body slot is reserved for [[Armor]], [[Clothing]] or Backpacks.
+- The head slot is reserved for head Armor or hats.
+- The hidden "right hand" slot is for items held directly with the player's cursor.
+
+Using the three equip slots, one can equip Armor, Clothing, [[Weapon]]s and [[Tool]]s, applying them visually to the character. Most equipped clothing gives the character resistance to [[Freezing]] or [[Overheating]], and some restore [[Sanity]] over time. Equipped Armor absorbs a percentage of damage taken from enemy attacks and certain environmental hazards. Equipped tools are used to harvest [[Tree]]s, mine [[Boulder]]s, catch [[Fish]], destroy [[Structures]], and other functions important to survival. 
+![A full Inventory. The player has equipped a [[Walking Cane]], a [[Log Suit]], and a [[Battle Helm]].](Inventory snip.PNG =414x414px)
+
+Most equipable items have limited durability, indicated by numeric percentages displayed over their Inventory icons. These items lose durability as they are used and most are destroyed when the percentage drops to zero. [[Food#Perish Times|Perishable]] items are indicated by a colored meter in the backdrop of the slot they're held in. The meter decreases and changes color, from green, to yellow, to red as items spoil, losing their effectiveness.
+
+Most items in the Inventory can **stack**, allowing the player to carry multiples of the same item in a single slot, leaving more space for other items. Items will stack up to 40, 20 or 10, depending on the type. Most equippable items do not stack, and some items, like [[Tallbird Eggs]], do not stack due to their unique individual uses.
+
+## Equipable Items
+Some items can be placed in equipment slots for use. Each equipped item has its own slot in which it can be placed.
+| Hand Items Items ![Image](equip_slot_hud.png =32px) | Head Items Items ![Image](equip_slot_head_hud.png =32px) | Head Items Items that can be placed only on Head Slot ![Image](equip_slot_head_hud.png =32px) | Body Items Items ![Image](equip_slot_body_hud.png =32px) | Body Items Items that can be placed only on Body Slot ![Image](equip_slot_body_hud.png =32px) |
+
+## Backpack Expansion
+There are a few ways to expand how much space the player has to store items.
+
+Wearing a [[Backpack]] allows the player 8 more slots to store items, and wearing a [[Piggyback]] gives the player access to 12 extra slots, but slows down movement speed. The [[Krampus Sack]] is a very rare drop from killing [[Krampus]] and a rare drop from the [[Loot Stash]], and gives the player 14 more slots, without a speed penalty. These three items can only be equipped in the body slot.
+
+The [[Quality of Life]] update imports the [[Bundling Wrap]] from {{Pic24|Don't Starve Together icon}} to {{Pic24|Don't Starve icon}}. With it, players can wrap up to 4 stacks of items into [[Bundling Wrap#Bundled_Supplies|Bundled Supplies]], which only takes up one Inventory slot.
+
+![All of the containers available to the player in [[Don't Starve]], including all DLCs.](DS_Containers_All_March.png =320px)
+
+Some [[Structures]] can also be used to store items. They cannot be moved once they are placed, but they can be destroyed with a [[Hammer]]. The simplest form of storage structure is a [[Chest]], each of which has 9 storage slots. [[Ice Box]]es also have 9 storage slots, but they can only hold perishable items (such as Food) and [[Thermal Stone]]s.
+
+Finding and picking up the [[Eye Bone]] will summon [[Chester]], a passive mob who will follow the player around. Chester's mouth can be opened to access 9 storage slots in his belly. The player can also transform Chester into [[Chester#Ch

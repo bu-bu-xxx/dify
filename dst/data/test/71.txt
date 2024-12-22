@@ -1,0 +1,66 @@
+```markdown
+# Razor
+
+{{Navbutton/Separation}}
+
+{{Structure Infobox
+|image = Razor Dropped.png
+|icon = Razor.png
+|tab = Tools
+|ingredient1 = Twigs
+|multiplier1 = 2
+|ingredient2 = Flint
+|multiplier2 = 2
+|ingredient3 = 
+|multiplier3 = 
+|droppedBy ={{Pic24|Shipwrecked icon}}: [[Ocean]] ({{pic24|Trawl Net}})
+|soldBy ={{Pic|24|Hamlet icon}}: {{pic|32|Pigg and Pigglet's General Store}} ({{Pic|24|Oinc}} &times;3)
+|stack = Does not stack
+|perk = Shave your beard and beefalos
+|spawnCode = "razor"
+|durability = Infinite
+|description = Shave off your dirty beatnik beard.}}
+
+{{Quotes
+|wilson = A sharpened rock tied to a stick. For hygiene!
+|willow = Why did I build this?
+What's it even for? (DST)
+|wolfgang = My skin is too strong for hairs!
+|wendy = This is just for shaving.
+|wx78 = EXFOLIATE!
+|wickerbottom = A personal hygiene implement.
+|woodie = A true lumberjack never shaves.
+|maxwell = If only the world had a single neck.
+|wagstaff = Theoretically, it can be used to shave an animal.
+|wigfrid = A small blade, but a blade nönetheless.
+|webber = I watched my father use one of these.
+|walani = You're not coming near my legs!
+|warly = If only I had aftershave.
+|woodlegs = Shavin's fer princes and lawyers.
+|wilba = FOR HAIR ON'ST CHINNY CHIN CHIN.
+|wormwood = Sharp
+|wheeler = I've never seen a serrated razor before.
+|winona = Never hurts to have more tools.
+|wortox = I do not shave.
+|wurt = Cutty thing?
+|walter = I found a whisker on my chin, I'm sure my beard will come in any day now.
+|choose = webber
+|wanda=This seems dangerous.}}
+
+The **Razor** is a craftable **Tool** **Item** found in the **Tools** Tab. It requires 2 **Twigs** and 2 **Flint**s to craft, and a **Science Machine** to prototype. Unlike other Tools, on pc it cannot be equipped, and to be used it has to be lifted and used on a target instead. Players using a **wikipedia:controller** have to simply be near an entity that can be shaved for the "Shave" prompt to appear. Since it has no **durability**, the Razor has infinite uses.
+
+The Razor can be used to shave **Wilson**'s Beard, which provides leftover **Beard Hair**. To shave the Beard, simply right-click the Razor while it's in the inventory, or hover over the target. The amount of Beard Hair received depends on the beard's length. The Razor can also be used to shave **Beefalo**s while they are sleeping (whether at night or when put to sleep using **Sleep Dart**s, a **Life Giving Amulet**, or a **Pan Flute**), resulting in 3 **Beefalo Wool**. This requires taking it out of the inventory and hovering over the beefalo. The Beefalo will not wake up after being shaved, but Beefalo in **Beefalo#Mating Season|heat** will sometimes wake up and attack. In **Don't Starve Together|Dont starve together**, you can use a razor to shave **Sea Weed|sea weeds** for up to 3 **barnacles**. This depends on how many barnacles the sea weed has, and will aggravate any nearby sea weeds.
+
+## Downloadable Content
+
+In the **Reign of Giants** DLC, **Webber** can also use the Razor to shave his Beard. The amount of **Silk** received depends on the Beard's length.
+
+At this point, in the **Shipwrecked** DLC, the Razor cannot be used to shave **Water Beefalo**.
+
+In the **Hamlet** DLC, Razors can be used to shave **Hedge**s for 1 **Clippings** each.
+
+## Tips
+
+* Using the Razor to acquire Beefalo Wool is more efficient than killing Beefalo outright since the Wool will eventually regrow allowing players to shave the same Beefalo again for more Wool.
+** If players need to kill a Beefalo anyway, it is advised to shave them first for some Wool, since even when shaved, Beefalo will still drop Beefalo Wool on death.
+* Wearing a **

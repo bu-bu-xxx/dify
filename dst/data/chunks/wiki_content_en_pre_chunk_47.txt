@@ -1,0 +1,2349 @@
+```markdown
+# Gas Rainforest
+
+- **Exclusivity:** Hamlet
+
+## Biome Info
+
+- **Name:** Gas Rainforest
+- **Image:** Gas Rainforest Icon.png
+- **Abundant:** Sick Rainforest Tree, Great Leafy Stalk, Parrot
+- **Occasional:** Snaptooth Seedling, Snaptooth Flytrap, Nettle Vine, Red Mushroom, Green Mushroom, Blue Mushroom
+- **Rare:** Ruinous Entrance Pherostone, Ruinous Entrance Herald (only one of each)
+
+## Quotes
+
+- Wilson: Cough! Cough!
+- Willow: Cough. Cough. It’s like smoke without the fire.
+- Wolfgang: Hack! Cough! Ack!
+- Wendy: cough. I’m done for!
+- WX78: ERROR: KACK. KACK. KACK
+- Wickerbottom: Ahem. Cough. Ahem. Ahem.
+- Woodie: Cough! Cough! Ahem.
+- Maxwell: Hack! Cough! Ack!
+- Wagstaff: HACK! HACK! HACK!
+- Wigfrid: Ack! Kaff! Can’t...breathe!
+- Webber: Khoff. Khak. Khak.
+- Walani: Kaff! Kaff! Kaff!
+- Warly: Hack! Cough! Smells like gas!
+- Woodlegs: Koff! Koff! Get me outta here!
+- Warbucks: Koff! Koff! Harrumph!
+- Wilba: HACK! COUGH! KECK! SNORT!
+- Wormwood: kack! kack!
+- Wheeler: COUGH! COUGH! COUGH! COUGH!
+- Choose: woodlegs
+- Source: entering the biome without a Gas Mask.
+
+## Description
+
+The **Gas Rainforest** is a biome introduced in the **Don't Starve: Hamlet** DLC. This biome is often but not always connected to a **Deep Rainforest** biome and can mostly be found at one extremity of the map. The terrain is a noticeably deeper red color than the Deep Rainforest terrain and has a thin green fog throughout. This biome can be only found on the first island.
+
+The Gas Rainforest is the only place the player can find naturally occurring Red, Green, and Blue **Mushrooms** (and **Mushtrees** during a **Full Moon** or **Aporkalypse**). The **Ancient Pig Ruins** containing the **Pherostone** can be found here, as well as the entrance to the island containing the **Aporkalypse Calendar** and **End Well**.
+
+A **Gas Mask** is required to navigate the Gas Rainforest without taking damage. If the player enters this biome without a Gas Mask, the edges of the screen will produce a green flicker (similar to being poisoned) doing 5 damage per second until the player exits the biome.
+
+The Gas Rainforest can be used to kill **Gnat Swarms**, similar to **Bug B'Gone**. **Rabid Beetles**, **Vampire Bats**, and **Royal Guards** are susceptible to the Deep Rainforest poisonous gas. Other mobs, even those affected by Bug B'Gone, do not take any damage from the Gas Rainforest.
+
+The stone turf found near Ruin Entrances and under **Lost Relics** or jagged **Boulders** is not considered to be part of the Gas Rainforest, and thus is safe to stand on. If the stone turf is dug up, however, the ground underneath will revert to Gas Rainforest turf. Since no turf can be placed in the Gas Rainforest, removing the safe stone turf is permanent.
+
+The Gas Rainforest cannot be dug up with a **Pitchfork** to get its Turf, and doing so will lose all durability of the Pitchfork.
+
+**Parrots** are the only birds that spawn and land on this biome.
+
+## Tips
+
+- The **Particulate Purifier**, available in the **Don't Starve: Shipwrecked** DLC, can be brought over using the **Skyworthy**. The item provides the same immunity to the Gas Forest as does the Gas Mask without draining **Sanity**.
+
+## Trivia
+
+- Gas Rainforest Turf can be obtained using the **Console**, its spawn code is `"turf_gasjungle"`. Entering Gas Rainforest Turf spawned this way will damage the player (as if the player entered the biome).
+- When entering this biome and raining, the canopy will provide shelter, granting 35% **Wetness** resistance, and preventing held **Torches** from being affected by **Rain**.
+- The fact that mushrooms occur in this biome, along with the green veins on the ground, suggests that a fungus growing in the soil is responsible for toxic vapors.
+
+
+
+
+
+
+```markdown
+# Honey Ham
+
+## Structure Infobox
+- **Food Type**: Meat [[Food_Type#Meat|Meat]] [[File:Meats.png|32px|link=Food_Type#Meat]]
+- **Food Recipe**: {{Pic|32px|Meats}}>1.5 {{Pic|32px|Honey}}x1 {{Pic|32px|Filler}}x1
+- **Can Be Burned**: 1
+- **Icon**: <gallery>
+  - Honey Ham.png|Normal
+  - Honey Ham (Pig Fiesta).png|Pig Fiesta
+  </gallery>
+- **Image**: Honey Ham Dropped.png
+- **Spoil**: 15 Days
+- **Stack**: 40
+- **HP Restored**: 30
+- **Hunger Restored**: 75
+- **Sanity Restored**: 5
+- **Cook Time**: 40 sec
+- **Priority**: 2
+- **Sold By**: {{Ham}}: {{Pic|32|The Sterling Trough Deli}} ({{Pic|24|Oinc}} \times20)
+- **Spawn Code**: "honeyham"
+
+## Quotes
+- Wilson: Sweet and savory.
+- Willow: Fire, ham and honey go well together.
+- Wolfgang: Big meat with sweet is good meat.
+- Wendy: A sweet sauce for this creature's sweet embrace.
+- WX-78: HIGH QUALITY BIOFUEL DETECTED
+- Wickerbottom: Honey was the only sweetener I used for this lovely ham.
+- Woodie: But it's not a holiday...
+- Maxwell: Tender.
+- Wagstaff: A veritable feast of meat and sweetener.
+- Wigfrid: A hearty feast!
+- Webber: Ooo, tasty!
+- Walani: Is it a special occasion?
+- Warly: Comfort food!
+- Woodlegs: A feast fit fer piratin'!
+- Wilba: 'TIS POUND O' FLESH
+- Wormwood: Poor Twirly Tail...
+- Wheeler: Sticks to your ribs. And to your hands.
+- Winona: Think I could fit that whole thing in my mouth?
+- Wortox: Mortals have so many ways of preparing meat.
+- Wurt: Ruined honey with Pigmeat!!
+- Walter: Sweet pig meat!
+- Wanda: You can't go wrong dousing something in honey.
+- Choose: Walter
+
+### Description
+Honey Ham is a Meat Food item produced in Crock Pot by combining more than 1.5 units of Meats and 1 Honey. It takes 40 seconds to cook. Honey Ham is a well-rounded food providing 30 HP (as much as a Honey Poultice) and 75 Hunger.
+
+Adding more than 1 Monster Meat will result in Monster Lasagna. Adding 1 Twig will result in Kabobs. Adding Tallbird Egg will result in Bacon and Eggs. Using 2 Leafy Meats and 2 Honey will result in Jelly Salad.
+
+## Downloadable Content
+In all DLCs, Honey Ham raises the player's perceived temperature by 1 degree per second for 10 seconds when consumed.
+
+In the Don't Starve: Shipwrecked DLC as well as Don't Starve Together, using Meats (such as Raw Fish) with more than 2.0 total fish value will produce Seafood Gumbo instead.
+
+In the Don't Starve: Hamlet DLC, Honey Ham can be bought for 20 Oincs at The Sterling Trough Deli. It can also be used as a recipe for the player to create their own The Sterling Trough Deli structure via the Key to the City.
+
+## Prerequisites
+- Requires: [[File:Meats Crock Pot(NoMoleworm).png|link=Meats]]
+- Requires: [[File:Honey.png|link=Honey]]
+- Excludes: [[File:Twigs.png|link=Twigs]][[File:Moleworm.png|link=Moleworm]][[File:Mandrake.png|link=Mandrake]][[File:Tallbird Eggs.png|link=Tallbird Egg]]
+
+## Recipe
+- **Item 1**: Meats
+- **Count 1**: 1.5
+- **Item 2**: Honey
+- **Item 3**: Filler
+- **Tool**: Crock Pot
+- **Result**: Honey Ham
+- **Comparator 1**: >
+
+## Examples
+- **Item 1**: Morsel
+- **Count 1**: 2
+- **Item 2**: Monster Meat
+- **Item 3**: Honey
+- **Tool**: Crock Pot
+- **Result**: Honey Ham
+
+- **Item
+
+
+
+
+```markdown
+# Rain in Don't Starve
+
+## Overview
+<center>
+[![Frog Rain](Frog_Rain_Settings_Icon.png){: .image-right}](#)
+| [Don't Starve](Frog_Rain) | [DST](Frog_Rain/DST) |
+</center>
+
+Rain can cause frogs to rain from the sky during specific chapters in Adventure Mode and during Spring in the Reign of Giants DLC. This is dangerous as frogs attack the player when they are too close.
+
+## Effects
+- **Sanity Loss**: Up to -5/min
+- **Effects**: Regrows [Blue Mushroom], [Green Mushroom], [Red Mushroom], and Regrows Flowers. Spawns frogs.
+
+## Strategy
+### Traps
+Traps can be used to deal with frogs and obtain frog legs, which can be used to make [Froggle Bunwich].
+
+### Beefalos
+Another strategy is to quickly move to a Beefalo herd as soon as a frog rain starts. Beefalos are in heat during Spring and will attack frogs. If the Beefalo herd is small, a large number of frogs may win the fight. While the Beefalos are in heat, a Beefalo Hat should be worn when picking up Frog Legs to prevent Beefalos from attacking. The Frog Legs can be used as food but cannot be traded to the Pig King for Gold Nuggets nor the Antlion for Desert Stones directly. However, using a Birdcage, they can be exchanged for Eggs, which can be traded.
+
+### Abigail
+Abigail can also deal with a large number of Frogs, but it doesn't take long until she's overwhelmed. However, in Don't Starve Together, she is much more durable and can be given a Ghostly Elixir (Spectral Cure-All) to heal at a much faster rate than the Frogs can damage her. Given the Wendy player has enough Spectral Cure-Alls in their inventory, this is not only a way to keep safe during the Frog Rain but also to consistently farm hundreds of Frog Legs.
+
+## See Also
+- [Rain](Rain)
+```
+
+
+
+
+```markdown
+![Totally Normal Bats](Totally%20Normal%20Bats.png){: .right width="150px"}
+### Exclusivity
+Don't Starve Together
+
+### Event
+Hallowed Nights
+
+### Quotes
+- Wilson: Did you see that?!
+- Willow: Were those bats, or am I just seeing things.
+- Wolfgang: Wolfgang's eyes is playing tricky!
+- Wendy: Did you see that, Abigail?
+- WX78: WARNING: VISUAL COMPONENTS MALFUNCTIONING
+- Wickerbottom: Curious. I seem to be hallucinating.
+- Woodie: You see that, Lucy?
+- Maxwell: Quite an expert illusion.
+- Wigfrid: Döth mine eyes deceive me?
+- Webber: Are we seeing things?!
+- Winona: I'm seein' things!
+- Warly: Eee!
+- Wortox: What a s-silly prank!
+- Wormwood: Scary!
+- Wurt: G-glurp... saw something...
+- Walter: Is... someone there?
+- Wanda: Ack! Leave me alone!!
+- Choose: Wickerbottom
+
+When chopping **Trees**, there is a small chance that a swarm of bats will spawn. They will fly around the screen, causing the player to lose 10 sanity and making them unable to move for a few seconds. Drinking a **Phobic Experiment** will negate the sanity loss. This feature was introduced in 2018.
+
+## Hallowed Nights
+- **Mobs:**
+  - [Mobs](#)
+
+```
+
+
+
+
+```markdown
+# Meat Farm Guide
+
+Want a steady fount of **food**? Well, this is the guide for you.
+
+## You Will Need
+
+- **Bunny Puff** x4
+- **Carrot** x10
+- **Boards** x4
+- **Hound's Tooth** x10
+- **Cut Grass** x30
+- **Log** x10
+- **Alchemy Engine**
+
+## Making It
+
+Use the **Bunny Puffs**, **Carrots**, and **Boards** to make a **Rabbit Hutch**. Place it somewhere with some space around it.
+
+![Rabbit Hutch](RabbitHutch.png "Rabbit Hutch")
+
+Make **Rope**s with the grass, the player should get 10 ropes.
+
+Use the **Hound's Teeth**, **Ropes**, and **Logs** to make **Tooth Traps**.
+
+Place the tooth traps around the exit of the rabbit hutch, in a half-circle shape. Have more on the front of the hutch and less on the sides.
+
+## The Result
+
+The result should look something like the picture below to the right. Note that in the picture, a lot more than 10 traps were used; however, 10 is enough. Also, there is a second farm only started (to the left).
+![Meat Farm](MeatFarm.png "Meat Farm")
+
+When the "farm" is finished, it should produce 2 carrots, 1 **meat** (75%) and 1 bunny puff (25%) every day. Check the trap for drops and reset tooth traps every morning. There should be drops every morning, but there is a slight chance that the **bunnyman** spawns on the wrong side of the hutch and therefore doesn't get killed. To avoid this, more tooth traps can be placed around the hutch. Also, even though he survives the first time, he should die the next night when he tries to get out.
+
+The farm allows the player to get fresh carrots in the middle of winter.
+
+Check the **Bunnyman** page for more info.
+```
+
+
+
+
+```markdown
+# Wes
+
+![Wes](attachment:Wes.png)
+
+### Character Information
+- **Health**: 113
+- **Hunger**: 113
+- **Sanity**: 150
+- **Damage**: 0.75×
+- **Hunger Multiplier**: 1.25×
+- **Item**: ![Pile o' Balloons](attachment:32|Pile o' Balloons)
+- **Start Item**: ![Pile o' Balloons](attachment:32|Pile o' Balloons)
+- **Spawn Code**: `wes`
+
+### Special Power
+Wes's special power is his Pile o' Balloons. It has unlimited uses, and it costs 5 sanity to inflate each Balloon.
+
+When a Balloon is attacked, it explodes, dealing 5 damage to anything nearby (including Wes). Balloons can also trigger other Balloons to explode, allowing Wes to generate chain reactions. Balloons can also be used as decoys or to distract Mobs.
+
+### Disadvantages
+- Wes's Hunger drains 25% faster than normal.
+- He deals 25% less damage.
+- All of his stats are 25% lower than the average survivor.
+- Wes does not speak, so there are no actual words that show up on the screen, warning the player of incoming attacks or other pertinent information such as when night is approaching, low Hunger levels. The player will only be able to rely on audio cues in these situations.
+
+### Tips
+![Wes with balloons](attachment:Wes with balloons.jpg)
+
+- Balloons can be used to lure Mobs to traps or to other hostile Mobs.
+- Weapons that deal indirect damage, such as the Fire Dart or Gunpowder, are not affected by Wes's low damage multiplier, making them excellent choices for him.
+- A Belt of Hunger will nullify Wes's Hunger drain and also provide a boost to Sanity, although a Backpack can't be equipped while wearing it.
+  - In the Reign of Giants DLC, the Hibernation Vest also provides a Hunger drain reduction, as well as the highest insulation against Freezing and more than twice the Sanity regeneration of the Hunger Belt.
+- It's not efficient to eat food that restore more than 75 hunger (such as Meaty Stew), as the extra hunger points will be wasted.
+- In Don't Starve Together, Wes's favorite food is Fresh Fruit Crepes, meaning he gains 15 bonus Hunger when consuming it.
+  - However, Fresh Fruit Crepes already restores 150 Hunger and Wes's maximum Hunger level is 75 Hunger. Because of this, unless they're spoiled, the player can't get any benefit from the bonus. While spoiled, Fresh Fruit Crepes will provide Wes with 65 Hunger, at the cost of losing 15 Sanity.
+  - In addition, the dish can only be created using a Portable Crock Pot, which means that it is impossible for Wes to obtain without a Warly present.
+
+```
+
+
+
+
+```markdown
+# Nightmare Light
+
+## Object Infobox
+- **Image**: ![Nightmare Light](Nightmare Light.png)
+- **Image Width**: thumb
+- **Spawns**: ![Terrorbeak](Terrorbeak), ![Crawling Horror](Crawling Horror), ![Lurking Nightmare](Lurking Nightmare)
+- **Biome**: Sacred, Military, Labyrinth
+- **Spawn Code**: "nightmarelight"
+- **Sanity Drain**: 0 (Calm), -600/min (Warning/Dawn), -900/min (Nightmare)
+- **Renew**: Cannot be destroyed.
+
+**Quotes:**
+- Wilson: I wonder what function this served.
+- Willow: Light without fire is unnatural.
+- Wolfgang: Is light, but not good light.
+- Wendy: It pulls power from beneath.
+- WX-78: AN ANCIENT OPTICAL WAVELENGTH EMITTER
+- Wickerbottom: The ancients seem to have used nightmare fuel to power everything.
+- Woodie: They should have used wood.
+- Maxwell: The overuse of fuel was their downfall.
+- Wagstaff: Yet another ingenious use of that fascinating dark fuel.
+- Wigfrid: It harnesses dark powers from beneath.
+- Webber: Not exactly my kind of nightlight.
+- Walani: I don't care how weird it is, as long as it keeps darkness away.
+- Warly: Am I crazy or is this light not helping my situation?
+- Woodlegs: Woodlegs don't trust this light.
+- Wilba: LIGHT THROUGH YONDER BAD STUFFS
+- Wormwood: Night light for scary times
+- Wheeler: Light is good. Light is very good.
+- Winona: I regret poking my nose so far down here.
+- Wortox: Beware, beware, it says to me.
+- Wurt: Don't like it, florp.
+- Walter: But can you roast marshmallows over it?
+- Wanda: I'd better not get too close.
+- Choose: Walani
+
+## Description
+
+Nightmare Lights are light sources found within the Ruins. They cannot be opened or destroyed with a Hammer. Instead, the amount of light they emit depends on the current state of the Nightmare Cycle that the Ruins are in; the more extreme the magical state, the more the Nightmare Lights open up.
+
+Nightmare Lights drain the player's Sanity when they are open and if the player is near. The actual magnitude of the drain depends on how much light is coming from the Nightmare Lights (how "open" they are). During the Warning phase they will drain 600 sanity/min, while in the Nightmare phase they will drain 900.
+
+Shadow Creatures will appear around the lights, even if the player is not insane. The Shadow Creatures only appear during the Nightmare phase and are hostile to the player. Once the Nightmare Cycle is completely over, the creatures will despawn.
+
+# Nightmare Fissure
+
+## Object Infobox
+- **Name**: Nightmare Fissure
+- **Image**: 
+  - Open Lv 2: ![Open Lv 2](Fissure Opened2.png)
+  - Open Lv 1: ![Open Lv 1](Fissure Opened1.png)
+  - Closed: ![Closed](Fissure Closed.png)
+  - Grotto Open Lv 2: ![Grotto Open Lv 2](Fissure Grotto Open 2.png)
+  - Grotto Open Lv 1: ![Grotto Open Lv 1](Fissure Grotto Open 1.png)
+  - Grotto Closed: ![Grotto Closed](Fissure Grotto Closed.png)
+- **Spawns**: ![Terrorbeak](Terrorbeak), ![Crawling Horror](Crawling Horror), ![Lurking Nightmare](Lurking Nightmare)
+- **Sanity Drain**: 
+- **Renew**: Cannot be destroyed.
+- **Biome**: Wilds, Village
+- **Spawn Code**: "fissure", "fissure_lower", "fissure_grottowar"
+
+## Description
+
+Nightmare Fissures are objects that appear in the Ruins and rarely in Caves, more specifically, on Stalagmite Terrain. They act identical to Nightmare Lights. Depending on the phase of the Nightmare Cycle, they emit more or less light - the greater the light radius, the higher the chance of spawning Shadow Creatures.
+
+Each Nightmare Fissure can spawn only one Shadow Creature at a time, either a Terrorbeak, Crawling Horror, or a Lurking Nightmare. If a player attacks one of these Shadow Creatures, all nearby Shadow Creatures will attack the player in a group. Once the fissure is closed, any spawned Shadow Creatures will de
+
+
+
+
+```markdown
+# Sign
+
+## Overview
+- **Icon**: ![Sign](Sign_(YotPK).png)
+- **Image**: ![Sign Dropped](Sign Dropped.png)
+- **Damage**: 0
+- **Equip Slot**: Hands
+- **Durability**: 1 Use
+- **Stacking**: Does not stack
+- **Dropped By**: [[Pig King]]
+
+## Details
+Signs appear during the [[Pig King/DST#Wrestling Match|Wrestling Match]] in **Don't Starve Together**. They can only be placed in the hand slot and cannot be placed in the normal inventory. When this item hits a player or an [[Elite Pig]], it knocks back the creature and also knocks out 1 [[Gold Nugget]] from inventory and an item in its hand. After the match ends, they will break automatically, even if they are in the player's hand.
+
+## Gallery
+<details>
+  <summary>Click to expand the gallery!</summary>
+  <div>
+    <a href="RWP 223 Year of the Pig King Drawing.png"><img src="RWP 223 Year of the Pig King Drawing.png" alt="In Year of the Pig King themed drawing from 'Rhymes with Play' #223."></a>
+  </div>
+</details>
+
+## Tools and Weapons
+*This section may contain additional information about tools and weapons related to the Sign.*
+```
+
+
+
+
+```markdown
+# {{pic|32|Higgsbury Red T-Shirt Icon}} Skin Sets
+## See also: [Skins](#)
+
+### Original
+![In Game](Wanda Original in game.png) ![Portrait](Wanda Original Portrait.png)
+
+![Forms](Wanda Forms Original in game.png)
+
+> "Time! I just need more time!" - Wanda
+
+---
+
+### Guest of Honor
+![In Game](Wanda Guest of Honor in game.png) ![Portrait](Wanda Guest of Honor Portrait.png)
+
+![Forms](Wanda Forms Guest of Honor in game.png)
+
+> "Nothing is more fashionable than punctuality." - Wanda
+
+---
+
+### The Triumphant
+![In Game](Wanda Triumphant in game.png) ![Portrait](Wanda Triumphant Portrait.png)
+
+![Forms](Wanda Forms Triumphant in game.png)
+
+> "There is nothing but dark times ahead." - Wanda
+
+---
+
+### Clockwork Bishop Costume
+![In Game](Wanda Clockwork Bishop Costume in game.png) ![Portrait](Wanda-Halloween.png)
+
+![Forms](Wanda Forms Clockwork Bishop in game.png)
+
+> "This match will require a few more adjournments." - Wanda
+
+---
+
+### The Roseate
+![In Game](Wanda Roseate in game.png) ![Portrait](Wanda Roseate Portrait.png)
+
+> "I suppose I should make time to stop and smell the roses every so often." - Wanda
+
+---
+
+### The Snowfallen
+![In Game](Wanda Snowfallen in game.png) ![Portrait](Wanda Snowfallen Portrait.png)
+
+> "Oh botheration, where have I gotten myself this time?" - Wanda
+
+---
+
+### The Verdant
+![In Game](Wanda Verdant in game.png) ![Portrait](Wanda Verdant Portrait.png)
+
+> "Time seems to move slower in the depths of the forest." - Wanda
+
+---
+
+### The Merrymaker
+![In Game](Wanda Merrymaker in game.png) ![Portrait](Wanda Merrymaker Portrait.png)
+
+![Forms](Wanda Forms Merrymaker in game.png)
+
+> "So many toys to build, and so little time!" - Wanda
+
+---
+
+### The Moonbound
+![In Game](Wanda Moonbound in game.png) ![Portrait](Wanda Moonbound Portrait.png)
+
+![Forms](Wanda Forms Moonbound in game.png)
+
+> "My future will reveal itself in the phases of the moon." - Wanda
+
+---
+
+### The Masquerader
+![In Game](Wanda Masquerader in game.png) ![Portrait](Wanda Masquerader Portrait.png)
+
+> "Starlight is a blast from the past." - Wanda
+
+---
+
+### The Tinkersmith
+![In Game](Wanda Tinkersmith in game.png) ![Portrait](Wanda Tinkersmith Portrait.png)
+
+![Forms](Wanda Forms Tinkersmith in game.png)
+
+> "Not enough people appreciate the minutiae of temporal tinkering." - Wanda
+
+# {{pic|32|Gramophone}} Sounds
+
+| Sound | File |
+| --- | --- |
+| Wanda's voice. | [[File:Wanda Voice.ogg]] |
+| Wanda getting hurt. | [[File:Wanda Hurt Voice.ogg]] |
+| Wanda dying. | [[File:Wanda Death Voice.ogg]] |
+| Wanda's voice while old. | [[File:Wanda Old Voice.ogg]] |
+| Wanda's voice while young. | [[File:Wanda Young Voice.ogg]] |
+| Wanda's ghost voice. | [[File:Wanda Ghost Voice.ogg]] |
+| Wanda sinking. | [[File:Wanda Sinking Voice.ogg]] |
+| Wanda singing the Starver's Carol, as part of the /carol emote. | [[File:Wanda Carol Voice.ogg]] |
+
+# {{Pic|32|Blueprint}} Gallery
+
+### In Game
+![Wanda's portrait](Wanda Portrait.png) ![Wanda's icon on the Map](Wanda Map Icon.png) ![Wanda's forms struck by Lightning](Wanda lightning strike.png) ![Wanda's unique death animation](Wanda death.gif) ![Young Wanda](Wanda Head Young.png) ![Middle-aged Wanda](Wanda Head.png) ![Elderly Wanda](Wanda Head Old.png)
+
+### Unused Content
+![Wanda DST Old Portrait](Wanda DST_Removed.png) ![Wanda's skull](Wanda Skull.png)
+
+###
+
+
+
+
+```markdown
+# Dedicated Server
+
+The **dedicated server** is a component of **Don't Starve Together** (DST) that handles the game logic, without any of the graphics related logic. The same server software may be run standalone by a user directly, or run by the game client through the in-game Host server menu. The former case is what people generally refer to when saying "dedicated server", that is a standalone DST server that will not shutdown even if no player is online. In this article, unless otherwise specified, "dedicated server" is always going to refer to the former case.
+
+For a quick start setup, see [Klei's Website Server Generator](#). For a simpler guide to setting up a dedicated server through Steam on a normal computer, see [Simple Dedicated Server Setup](#).
+
+## Requirements
+
+The server software itself can be installed without owning the game. You must own a copy of **Don't Starve Together** to host [online](#) dedicated servers, but offline servers does not have this requirement. A single copy of DST can host any number of online dedicated server instances.
+
+Dedicated servers use the same underlying networking infrastructure as client hosted servers since they are the same software. NAT-traversal and relaying will happen automatically if a client cannot establish a direct connection to a dedicated server[^1].
+
+[Klei Entertainment Inc.](#) only provides builds of dedicated server for Windows and Linux, both x86 and x86_64 (32 and 64 bits). Non-x86 hardware is not officially supported.
+
+## Installation
+
+### Downloading through SteamCMD
+
+Download and install SteamCMD per Valve's instructions at [here](https://developer.valvesoftware.com/wiki/SteamCMD#Downloading_SteamCMD).
+
+Start SteamCMD, and run the following commands:
+
+```bash
+login anonymous
+force_install_dir /path/to/installation/directory
+app_update 343050 validate
+```
+
+Use the same commands for updating the game.
+
+Adding `validate` like above causes Steam to perform the equivalent of "Verify integrity of game files" in the Steam GUI, removing any files not belonging to the game. Omitting this option may be desirable if mods have been installed, since Steam would remove them during this process.
+
+### Downloading through Steam GUI
+
+If you own Don't Starve Together on Steam, a "Don't Starve Together Dedicated Server" item will appear in the 'tools' subsection of your library. Install it same as a normal game. Right click > Manage > Browse local files to view the install location. This will create the exact same set of files as installation using SteamCMD.
+
+## Configuration
+
+This section covers the mechanics of configuration a server in detail. See [Other Configuration Methods](#) for automated or semi-automated processes of configuration.
+
+An instance of a DST server runs in a [cluster of shards](#). The dedicated server expects the cluster directory to contain one subdirectory for each shard. For example, a cluster named `Cluster_1` have the following configuration files:
+
+```
+Cluster_1/
+|- Master/                      # the shard folder for Forest
+  |- server.ini
+  |- worldgenoverride.lua
+  |- leveldataoverride.lua
+  |- modoverrides.lua
+|- Caves/                       # the shard folder for Caves
+  |- ...                        # same files as Master/
+|- cluster.ini
+|- cluster_token.txt
+|- adminlist.txt
+|- whitelist.txt
+|- blocklist.txt
+```
+
+### `cluster.ini` and `server.ini`
+
+Both files are mandatory. The whole cluster gets a single shared `cluster.ini`, and each shard gets its own `server.ini`.
+
+Refer to [Dedicated Server Settings Guide](https://forums.kleientertainment.com/forums/topic/64552-dedicated-server-settings-guide/) for the available options in these two files.
+
+### `cluster_token.ini`
+
+This file contains a `cluster token` and is necessary only if you want to run an [online](#) server. Omit this file if you have configured the server to be offline. A cluster token proves ownership of **Don't Starve Together** and allows Klei to moderate servers that violate their terms of service.
+
+#### Generate Using Klei's Website
+
+Navigate to [Klei's Website](https://accounts.klei.com/account/game/servers?game=DontStarveTogether), fill out the Cluster Name text box at the bottom of the page, and click Add New Server. The cluster token will be displayed in a list, copy it into `cluster_token.txt`. The cluster name and other options inside the Configure Server menu are only relevant for the [website's server generator](#), they do not have to match the actual configuration of the cluster you are running.
+
+#### Generate Using
+
+
+
+
+```markdown
+# Don't Starve Survival Guide
+
+This guide provides tips for players of Don't Starve who aim to survive in the game. The key to not starving is eating food, but how do you obtain food, what food is beneficial, and can you enhance the food you gather? This guide will answer these questions and more.
+
+## Getting Started
+
+### Your First Day
+
+You've just spawned in a new world, and your hunger meter is already decreasing. You must find food quickly. Collect any food you can, such as **Berries**, **Carrots**, **Seeds**, and **Mushrooms**, as long as it's safe. Remember, food will spoil, so keep some in reserve.
+
+While higher-tier foods dropped by enemies are more filling, you should avoid them until you have armor and weapons. If desperate, you can try to collect meat from beasts. **Tallbird Eggs** are an easy and rewarding food source early in the game due to their abundance in rocky terrain. Beware, as the mother Tallbird will not be pleased.
+
+### Early Days
+
+After exploring and gathering items, you'll want to progress. Weak enemies like **Spiders**, **Frogs**, and **Bees** can provide useful loot, but be cautious as they can swarm and defeat you quickly.
+
+- **Spiders**: Useful for **Silk**, **Spider Glands**, and **Monster Meat**. You can befriend **Pigs** with Monster Meat, which can help you gather more food.
+- **Frogs**: Provide **Frog Legs**, which are better than nothing for hunger.
+- **Bees**: A last resort, as they only drop **Honey** and don't provide much food.
+
+Alternatively, you can collect **Morsels** from **Rabbits** and **Birds** using a **Boomerang** or traps, but Boomerangs require an **Alchemy Engine**, and traps take time.
+
+## Creating Sustainable Food
+
+### First Base
+
+Once you settle in a non-hostile area, food becomes a priority. The first step is to craft a **Crockpot**, which will be essential for creating recipes that provide more than just hunger satiation.
+
+- **Meatballs**, **Fishsticks**, **Froggle Bunwiches**, and **Butter Muffins** are basic recipes that provide Health and Sanity.
+
+Next, use **Drying Racks** and **Ice Boxes** to preserve food:
+- **Drying Racks** turn Meat into Jerky, which lasts longer and provides Health and Sanity.
+- **Ice Boxes** keep food fresh, reducing waste.
+
+You'll also want a variety of foods, focusing on **Meats**, **Fruits**, and **Vegetables**. **Dragon Fruits**, **Pomegranates**, **Pumpkins**, and **Eggplants** are the most beneficial.
+
+## How to Create a Reliable Source of Food
+
+1. **Traps**: Build traps from **Twigs** and **Grass** and place them on rabbit holes. Check every two days for a bunny.
+2. **Berries**: Dig up berry bushes with a **Shovel** and place them near your base. Fertilize with **Manure** or **Rot**.
+3. **Improved Farm**: Build improved farms instead of normal ones. Plant seeds and wait for crops to grow.
+4. **Drying Rack**: Create a drying rack with **Charcoal**, **Rope**, and **Logs**. Hang **Morsels**, **Meat**, and **Monster Meat** to dry.
+5. **Birdcages**: Build a birdcage with **Gold**, **Papyrus**, and **Seeds**. Feed the bird to get eggs, which can be used in recipes or for gold.
+6. **Crock Pot**: Build a Crock Pot with **Charcoal** and **Stone**. Combine four ingredients for various recipes.
+7. **Monster Meat Farming**: Trap **Spiders** in a tier 3 **Spider Den** to get Monster Meat, Silk, and Spider Glands.
+
+To be continued...
+
+### Category: Articles using instructional language
+```
+
+
+
+
+# Meated Nettles
+
+## Exclusivity
+- **Hamlet**
+
+## Structure Infobox
+- **icon**: <gallery>
+  Meated Nettles.png|Normal
+  Meated Nettles (Pig Fiesta).png|Pig Fiesta
+  </gallery>
+- **image**: Meated Nettles Dropped.png
+- **canBeBurned**: 1
+- **foodRecipe**: {{Pic|32px|Nettle}}x2 {{Pic|32px|Meats}}x1 {{Pic|32px|Filler}}x1
+- **foodType**: [[Food Type#Meat|Meat]] {{Pic|32px|Meats|Food Type#Meat}}
+- **spoil**: 8 Days
+- **stack**: 40
+- **hpRestored**: 20
+- **hungerRestored**: 37.5
+- **sanityRestored**: 5
+- **cooktime**: 20 seconds
+- **priority**: 1
+- **crafting**: Cooked in a [[Crock Pot]]
+- **spawnCode**: "meated_nettle"
+- **perk**: Grants immunity to Hayfever for 600 seconds
+
+## Quotes
+- **wilson**: Improved with scientific meat-wrapping technology.
+- **willow**: It clears my snot.
+- **wolfgang**: Meaty snack clears Wolfgang's mighty nostrils!
+- **wendy**: Temporary relief for life's grief... wrapped in meat.
+- **wx78**: NOSE IRRITANT EJECTOR WITH MEAT ATTACHMENT
+- **wickerbottom**: Medicinal nourishment, with added protein.
+- **woodie**: It's not back bacon, but it'll do.
+- **maxwell**: Meaty and medicinal.
+- **wagstaff**: Wrapping the fronds in meat makes them considerably more palatable.
+- **wigfrid**: This meat hath a strange texture within, but my sinuses art clear!
+- **webber**: They're more yummy this way
+- **walani**: The meat helps cover the medicine smell.
+- **warly**: Medicinal leaves with some added flavor.
+- **woodlegs**: A bite o' meat to go with th' nose clearin'!
+- **wilba**: GOODNESS FOR TH'SNOUT AND TH'BELLY
+- **wormwood**: Mmmm...
+- **wheeler**: The meat helps the medicine go down.
+- **choose**: wigfrid
+
+## Description
+The **Meated Nettles** are a **Food** **Item** exclusive to **Hamlet**. They can be cooked in a **Crock Pot** with at least two **Nettles** and a **Meat** value of at least one. Filler cannot be **Inedibles**. Adding **Honey** will result in **Honey Nuggets**. Adding more than one **Monster Food** will result in **Monster Lasagna**.
+
+Meated Nettles can be eaten by the player to stave off **Hay Fever** for 600 seconds (1.25 Days).
+
+As it is considered a **Meat** dish, Wigfrid can consume Meated Nettles, unlike raw Nettles or **Nettle Rolls**.
+
+## Prerequisites
+- **Requires**: {{pic|64|Nettle}}
+- **Requires**: [[File:Meats Crock Pot.png|link=Meats]]
+- **Excludes**: [[File:Twigs.png|link=Twigs]]
+
+## Recipe
+| Item | Count |
+| --- | --- |
+| Nettle | 2 |
+| Meats | 1 |
+| Filler | 1 |
+| Tool | Crock Pot |
+| Result | Meated Nettles |
+
+## Example
+| Item | Count |
+| --- | --- |
+| Nettle | 2 |
+| Meat | 1 |
+| Berry | 1 |
+| Tool | Crock Pot |
+| Result | Meated Nettles |
+
+## Trivia
+- The Meated Nettles were added in the March 2023 Quality of Life Beta update.
+- Meated nettles allow **Wigfrid** to avoid **Hay Fever** without having to wear a **Gas Mask**.
+- During the **Pig Fiesta** event in the **Hamlet** DLC, Meated Nettles take on a more festive appearance.
+
+## Categories
+- **Items**
+- **Crock Pot Recipes**
+- **Hamlet**
+- **Healing**
+- **Sanity Boost**
+- **Meats**
+
+
+
+
+# How to successfully repel hounds (Method)
+
+## STEP 1: Gather Materials
+Make a pickaxe if you don't already have one and go find some boulders. Collect as many rocks as you can, turn them all into cut stone, and make around 20-30 **Stone Walls**.
+
+*For 30 Stone Walls you will require exactly 30 rocks. (3 Rocks = 1 Cut Stone, 2 Cut Stone = 6 Stone Walls or 6 Rocks = 6 Stone Walls).*
+
+![Stone Wall](Stone Wall.png "Stone Wall")
+
+**IMPORTANT:** Stone walls are necessary because they are not flammable, which is important against fighting **Red Hounds** as they ignite upon death. Players should be careful of this.
+
+## STEP 2: Build the Structure
+Decide where your structure will be (it must be close enough for you to reach it before the hounds attack) and then take your stone walls and start building a long and tight tunnel-like structure. It needs to be really tight, but wide enough for you to walk through. The tunnel must have an entrance on one end, and the other end must be a dead end (a tunnel with only one entrance).
+
+![Hound](Hound.png "Hound")
+
+## STEP 3: Set Up Defense
+Place the **fire pit** behind the dead end (in case hounds attack at night, this is the only way to protect yourself from **Charlie**). Fire pit must be on the opposite side of the entrance because you will be standing in the tunnel's dead end. ALWAYS bring a **grass tuft**, **berry bush**, **sapling**, **board**, or anything that will keep the fire roaring for the entire night.
+
+**THE ATTACK:** If you start hearing growling sounds, run into your tunnel (if it's dusk or night, light the fire pit behind your tunnel). Stand at the end of the tunnel and wait for them (bring at least a log suit and a spear). If you have done this correctly, only one hound at a time will be able to enter the tunnel, meaning you will be killing hounds one by one, making combat much easier.
+
+![Tooth trap deployed](Tooth trap deployed.png "Tooth trap deployed")
+
+## DEATH TRAP
+When you obtain a fair amount of **Hound's Teeth**, make at least 8-12 **Tooth Traps**. Fill your tight tunnel with tooth traps (they must be placed really close to each other so that they can fit inside the tunnel), and then just let the traps do all the work.
+
+## UNTOUCHABLE
+If you have expanded your tunnel a bit and made a lot of traps, then you are ready to start surviving hound's attacks without any weapons or armor whatsoever, as they will all die before even reaching you (if you have survived more than 100 days, 7-12 hounds will spawn every time they attack you, which means you will need to expand your tunnel even more and make even more traps).
+
+![Hound's Tooth](Hound's Tooth.png "Hound's Tooth")
+
+## TEETH FARM
+This method is also helpful for crafting many items that need hound's teeth, such as dapper vests and sewing kits.
+
+## OPTIONAL
+If your tunnel is long enough, you can also make a chest at the end of it. You can use the chest to store all the loot you get from the hounds. You can even use it to store some weapons and armor in case something unpredictable happens (**Deerclops** attack), or if your traps suddenly break and the hounds manage to reach you.
+
+
+
+
+```markdown
+# Mild Season (Calm Season)
+
+Mild Season, or Calm Season, is a **Season** in the **Don't Starve: Shipwrecked** DLC. It is equivalent to **Autumn** in **Don't Starve: Reign of Giants**, or **Temperate** in **Don't Starve: Hamlet**, lasting 20 days. In Mild Season, the days are long and nights are short at the beginning, but as of the middle of the season, days get shorter and nights longer. Mild Season is the default season in which a player begins the game and is indicated by a saturated color scheme. When following the previous **Dry Season**, the first day still has intense **Volcano** eruptions. **Strong Winds** and **Rain** can occur during the second half of Mild Season, but are far less severe and less frequent than the events that will occur during the following **Hurricane Season**.
+
+*Quote: Ahoy!* - Wilson
+
+**Birds** such as **Seagulls** and **Cormorants** may be found in the **Ocean** while sailing during this Season. More valuable drops are rarer when fishing with **Trawl Net** during Mild Season.
+
+Due to a lack of **Overheating**, **Flooding**, and other hazards, Mild Season is the best time to explore, gather resources, and prepare for other seasons, especially **Hurricane Season**. **Sanity** is usually relatively easy to maintain because of long days and low frequency of rain. Mild Season is followed by Hurricane Season. Due to the harsh nature of Hurricane Season, it would be in the player's best interest to use Mild Season to prepare for the **Lightning**, **Rain**, **Strong Winds**, and the seasonal boss, **Sealnado**, that await them.
+
+## Gameplay
+
+- **Spanish (es): Temporada Templada**
+- **Category: Seasons**
+```
+
+
+
+
+```markdown
+# Damaged Clockwork Knight
+
+### Overview
+The Damaged Clockwork Knight is a pale, battered knight covered in Nightmare Fuel. It has the same base stats as the regular [Clockwork Knight](Clockwork Knight), and drops 1 [Gears], while also having a chance to drop [Nightmare Fuel] and/or [Thulecite Fragments]. It occurs naturally in the [Ruins], but also has a chance to spawn from [Broken Clockworks] when they are destroyed.
+
+### Spawning and Drops
+- **Health:** 300
+- **Damage:** 40
+- **Attack Period:** 2
+- **Walk Speed:** 5
+- **Drops:** [![Gears](Gears)](Gears), [![Nightmare Fuel](Nightmare_Fuel)](Nightmare_Fuel) (60%), [![Thulecite Fragments](Thulecite_Fragments)](Thulecite_Fragments) (50%)
+- **Spawns From:** [Broken Clockworks] (Damaged)
+- **Spawn Code:** "knight_nightmare"
+- **Image:** ![Damaged Knight](Damaged_Knight.png)
+- **Special Ability:** The Damaged Knight can be a follower if created from [Broken Clockworks].
+
+### Quotes
+- **Wilson:** "It's a knightmare!"
+- **Willow:** "It looks pretty worn down."
+- **Wolfgang:** "Funny metal man."
+- **Wendy:** "Another battle lost to time."
+- **WX-78:** "REPROGRAMMING REQUIRED"
+- **Wickerbottom:** "Its nightmare fueled surroundings have corrupted its programming."
+- **Woodie:** "Doesn't look to be in the best of shape."
+- **Maxwell:** "It looks beyond repair."
+- **Wagstaff:** "I would very much like to see its insides."
+- **Wigfrid:** "I don't think I'd ride that horse."
+- **Webber:** "Goodnight, good knight."
+- **Walani:** "He should go to sleep... and not wake up."
+- **Warly:** "Effroyable!"
+- **Woodlegs:** "Yer not lookin' very good."
+- **Wilba:** "STUFF BAD DREAMS ARE MADE ON"
+- **Wormwood:** "Busted"
+- **Wheeler:** "Reminds me of the broken down merry-go-round I saw once."
+- **Winona:** "You're in rough shape, hey?"
+- **Wortox:** "Eep! Play nice with the imp!"
+- **Wurt:** "Glurp, it has the bad stuff on it!"
+- **Walter:** "Heh, spooky!"
+- **Wanda:** "I... I don't want to look at it."
+
+### Hunting
+The recommended way to kill Knights is by kiting them. When in groups, it is recommended to separate one from the rest of the group, killing it, then separating another. When fighting multiple, it is important to get them on the same kiting pattern, where they both attack at the same time. The Knights occasionally do a battle cry, after around 3 attacks. This opportunity can be used to get in more hits before it attacks again. The Knights themselves can sometimes have their own form of kiting, where after an attack they will move away from the player slightly, making it harder to land as many hits in before they attack again.
+
+### Damage per Weapon
+| Weapon | Number of Hits |
+|--------|---------------|
+| [Fishing Rod](Fishing_Rod) | 71 |
+| [Lucy the Axe](Lucy_the_Axe) | 23 |
+| [Shovel](Shovel) | 18 |
+| [Hammer](Hammer) | 12 |
+| [Torch](Torch) | 10 |
+| [Umbrella](Umbrella) | 9 |
+| [Axe](Axe) | 8 |
+| [Luxury Axe](Luxury_Axe) | 6-11 |
+| [Opulent Pickaxe](Opulent_Pickaxe) | 5 or 7 |
+| [Boomerang](Boomerang) | 6 |
+| [PickSlashAxe](PickSlashAxe) | 5 |
+| [Spear](Spear) | 3 |
+| [Bat Bat](Bat_Bat) | 2 |
+
+### Trivia
+- The Damaged Knight was added in "[Don't Starve
+
+
+
+
+```markdown
+# Volt Goat
+
+The `Volt Goat` is an animal found in the **Reign of Giants** DLC and is indigenous to the **Desert** biome. It's essentially a living **Lightning Rod**; any **Lightning** that strikes in the vicinity will seek out and charge the Volt Goat, causing it to radiate electricity and glow for 3 days. Unlike most other creatures found in groups, attacking one Volt Goat will not cause the rest of the herd to become hostile to the attacker.
+
+## Attributes
+
+- **Naughtiness**: 4
+- **Health**: 350
+- **Damage**: 25 (charged, dry target: 37.5, charged, wet target: 62.5)
+- **Attack Period**: 2
+- **Attack Range**: 3
+- **Walk Speed**: 4
+- **Run Speed**: 8
+- **Spawn Code**: "lightninggoat"
+- **Special Ability**: Becomes charged by lightning, deals electrical damage (charged), stuns opponents with electricity (charged)
+- **Drops**: Meat x3, Volt Goat Horn (25% chance), Electric Milk x1 (charged)
+
+## Quotes
+
+- **Wilson**: "Baaaah" yourself!
+- **Willow**: Bouncy goat.
+- **Wolfgang**: Hello, goat.
+- **Wendy**: Look at those hooves.
+- **WX-78**: DOES IT HAVE MECHANICAL INSIDES?
+- **Wickerbottom**: A variant of Capra aegagrus, keen on electricity.
+
+## Fighting Strategy
+
+| Weapon | No. of Hits for Volt Goat |
+|--------|-------------------------|
+| Fishing Rod, Bug Net | 83 |
+| Lucy the Axe | 26 |
+| Shovel, Pitchfork | 21 |
+| Hammer, Torch, Umbrella | 13 |
+| Walking Cane, Willow's Lighter | 11 |
+| Axe, Pickaxe | 9 |
+| Boomerang, Luxury Axe, Opulent Pickaxe | 6-11 |
+| Bat Bat, Ham Bat | 5 or 9 |
+| Morning Star, Slurtle Slime, Tentacle Spike | 7 |
+| Battle Spear, Fire Dart | 6 |
+| Fire Staff | 4 |
+| Thulecite Club | 2 |
+| Tooth Trap | 1 |
+
+## Tips
+
+- Wearing a Rain Hat, Rain Coat, or Eyebrella will insulate the player against the electricity of a charged Volt Goat.
+- Using a Morning Star or an Electric Dart on an uncharged Volt Goat will charge it, so using it is ill-advised unless the player is after Electric Milk.
+
+## Trivia
+
+- Volt Goats were originally planned to be exclusive to their own biome filled with Tesla Trees, but this idea was later scrapped.
+- Wickerbottom refers to it as a subspecies of Capra aegagrus. In real life, Capra aegagrus is the scientific name of the Wild Goat.
+
+## Gallery
+
+![Charged Volt Goat glowing](Volt Goat Charged.png)
+
+![A Volt Goat sleeping during a full moon](Volt Goat Sleeping.PNG)
+
+![A normal Volt Goat attacking Wolfgang](Volt Goat Attack.png)
+
+![Wolfgang getting shocked by a Volt Goat charged with a Morning Star](Volt Goat Lightning Attack.png)
+```
+
+Please note that the markdown format does not support complex tables or galleries in the same way as HTML, so I have formatted the quotes and some of the tips in a simplified bullet-point style. The gallery has been formatted with markdown image syntax. If you need a more detailed or complex layout, please let me know, and I can adjust accordingly.
+
+
+
+
+```markdown
+# Sinkhole
+
+## Plugged Sinkhole
+![Closed Sinkhole](Sinkhole.png)
+![Opened Sinkhole](Unplugged Sinkhole DST.png)
+
+- **Tool**: Can be [Mined with Pickaxe](#)
+- **Resources**: [Rocks](#) [Flint](#)
+- **Renew**: No
+- **Spawns**: [Batilisk](#)
+- **Biome**: [Forest](#) [Mosaic](#) [Marsh](#)
+- **Spawn Code**: "cave_entrance" "cave_entrance_open"
+
+| Character | Quote |
+|-----------|-------|
+| Wilson | I wonder if I could move that rock. |
+| Willow | Who plugged that hole? |
+| Wolfgang | Who wants to go in scary cave hole, anyway! |
+| ... | ... |
+
+## Unplugged Sinkhole
+- **Tool**: N/A
+- **Resources**: N/A
+- **Renew**: N/A
+- **Spawns**: N/A
+- **Biome**: N/A
+- **Spawn Code**: N/A
+
+| Character | Quote |
+|-----------|-------|
+| Warly | Dare I? |
+| Wigfrid | Tö the underwörld! |
+| Wilson | I bet there's all sorts of things to discover down there. |
+| ... | ... |
+
+## Description
+A **Sinkhole** is the entrance to a **Cave** and can be found randomly in the world. In DST, there is just one "caves" and the ruins are an area within it. The cave-side of a sinkhole is a staircase or cave-exit.
+
+When first discovered, the Sinkhole will be a Plugged Sinkhole and is covered with a jagged rubble mound. Mining the Plug reveals the hole with a staircase going down into its depths while providing Flint and Rocks on the surface. It takes six hits from a Pickaxe to unplug it. Once unplugged, up to 6 Batilisks will spawn quickly from the Sinkhole at dusk and return underground in the morning. If Batilisks are killed, they will respawn at a rate of 1 per minute until the maximum of 6 has been reached.
+
+In default settings, the world will have 10 sinkholes, and caves will have the same number of corresponding Stairs, scattered around in the "caves" part of underground. Notably, the relative location of either of them has no influence on the locations of their counterparts, so for example, a pair of nearby sinkholes can lead to Stairs which are far apart from each other and vice versa.
+
+## Stairs
+![Cave Exit](Cave Exit.png)
+
+- **Name**: Stairs
+- **Renew**: Cannot be destroyed.
+- **Biome**: 
+- **Spawn Code**: "cave_exit"
+
+| Character | Quote |
+|-----------|-------|
+| Warly | I should like to see the surface again. |
+| Wigfrid | Back tö öpen skies! |
+| Wilson | I've had enough discovery for now. |
+| ... | ... |
+
+The **Stairs**, also known as Staircases, is the exit of the Caves. There are 10 Stairs in the map and each corresponds to one Sinkhole on the Surface. When a player travels through a Stairs with plugged Sinkhole, it will automatically unplug the Sinkhole. Change the skin of Sinkhole will also change the skin of the Stairs, and vice versa.
+
+## Skins
+[Belongings](#)
+
+| Skin | Description |
+|------|-------------|
+| Woven - Elegant Fairy Ring | What an inviting passageway, I'll bet it isn't even cursed! |
+| Woven - Elegant Imposing Corridor | This grand passageway would be equally suited to a cave or a stately old manor. |
+
+## Tips
+- The high number of sinkholes and staircases in "Don't Starve Together" often leads to one or more pairs of either spawning close to each other, allowing players to use them as a form of fast and no-cost travel. As a disadvantage of the above tip, most followers don't follow the players in or out of the caves.
+- Setting up a base in close proximity to a sinkhole is ill-advised as the player will be constantly attacked by Batilisks at dusk and night.
+
+## Trivia
+- The sinkholes were plugged up by Maxwell a long time ago, as revealed upon his examination quote.
+- Basalt found in previously generated worlds were actually placeholders for Sinkholes and were turned into Sinkholes when the Caves update was released.
+- Sinkholes originally had a lighter gray color.
+
+## Gallery
+![The original
+
+
+
+
+```markdown
+# Flytrap Stalk
+
+### Item Information
+- **HP Restored**: 0
+- **Hunger Restored**: 12.5
+- **Sanity Restored**: -10
+- **Spoil**: 6 Days
+- **Burn Time**: 
+- **Dropped By**: Snaptooth Flytrap
+- **Stack**: 20
+- **Spawn Code**: "venus_stalk"
+
+### Quotes
+- **Wilson**: I bet I could find a use for it.
+- **Willow**: Looks like kindling.
+- **Wolfgang**: Is Plant Men parts.
+- **Wendy**: In death the plant serves me.
+- **WX-78**: BIOLOGICAL STICK
+- **Wickerbottom**: Salvaged from that terrible creature.
+- **Woodie**: I got it from that big leafy hoser.
+- **Maxwell**: All stalk and no action.
+- **Wagstaff**: Theoretically edible, but undoubtedly I'll find a better use for it.
+- **Wigfrid**: Tis the heart öf a defeated plant warriör.
+- **Webber**: It came off that mean plant.
+- **Walani**: Gnarly.
+- **Warly**: Possesses a flavor reminiscent of artichoke hearts.
+- **Woodlegs**: 'Tis a plant skelerton.
+- **Wilba**: WILBA CANST MAKETH STUFF WITHAL
+- **Wormwood**: Mmmm...
+- **Wheeler**: Hope this comes in handy. Otherwise that flytrap died for nothing.
+- **Choose**: wolfgang
+
+The **Flytrap Stalk** is a **Food** **Item** exclusive to the **Don't Starve: Hamlet** DLC. It is dropped only by fully grown **Snaptooth Flytraps** and when consumed, restores 12.5 **Hunger** and depletes the player's **Sanity** by 10. Flytrap Stalks cannot be cooked or used in the **Crock Pot**, but can be dried on a **Drying Rack** to turn them into **Stalking Sticks** (the **Hamlet** equivalent of the **Walking Cane**), or used to craft the **Bug B'Gone** repellent and the **Root Trunk**.
+
+It is the only **Meat** **Food** **Item** that can be set on fire.
+
+### Usage
+- **Pig Collector**: Flytrap Stalk → Oinc (3)
+- **Drying Rack**: Flytrap Stalk → Stalking Stick
+- **Birdcage**: Flytrap Stalk → Egg
+- **Science Machine**: Flytrap Stalk (1) + Tuber (6) → Bug B'Gone
+- **Prestihatitator**: Flytrap Stalk (2) + Bramble Bulb (1) + Boards (3) → Root Trunk
+
+### Trivia
+- The Flytrap Stalk used not to be flammable. This was later changed in the February 13, 2019 update.
+
+### Categories
+- Food and Edible Items
+- Perishables
+- Sanity Loss
+- Mob Dropped Items
+- Flammable Objects
+```
+
+
+
+
+To transform the given text into markdown format, we'll remove the HTML tags and convert it into a readable markdown format. Here's the markdown version of the text:
+
+```markdown
+# Don't Starve: Shipwrecked World Customization
+
+The **Don't Starve: Shipwrecked DLC** replaces most of the options of the original game, as the **Shipwrecked** world is separated from the base game world.
+
+## Available Options
+The 70 available options are listed below in the order they appear in the World Settings screen:
+
+| Type                 | Icon                            | Content                                                                                                                               |
+|----------------------|---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
+| World Size           | ![World Size Settings Icon]       | Determines the size of the world. This does not appear to increase the number of biomes. It just makes the individual biomes larger. Available options are **default**, **medium**, **large**, and **huge**. |
+| Length of Mild Season | ![Mild Season Settings Icon]    | Determines the length of the **Mild Season**. Available options are **none**, **very short**, **short**, **default**, **long**, **very long**, and **random**.        |
+| Length of Hurricane Season | ![Hurricane Season Settings Icon] | Determines the length of the **Hurricane Season**. Available options are **none**, **very short**, **short**, **default**, **long**, **very long**, and **random**.        |
+| Length of Monsoon    | ![Monsoon Season Settings Icon]   | Determines the length of the **Monsoon Season**. Available options are **none**, **very short**, **short**, **default**, **long**, **very long**, and **random**.     |
+| Length of Dry Season | ![Dry Season Settings Icon]       | Determines the length of the **Dry Season**. Available options are **none**, **very short**, **short**, **default**, **long**, **very long**, and **random**.       |
+| Starting Season      | ![Season Start Settings Icon]     | Determines the starting season. Available options are **mild**, **hurricane**, **monsoon**, **dry**, and **random**.                            |
+| Length of Day        | ![Day Settings Icon]             | Determines the length and/or presence/absence of **Day**, **Dusk**, and **Night**. Available options are **default**, **long Day**, **long Dusk**, **long Night**, **no Day**, **no Dusk**, **no Night**, **only Day**, **only Dusk**, and **only Night**. |
+| Weather             | ![Weather Settings Icon]          | Determines the frequency of weather events. Available options are **none**, **less**, **default**, **more**, and **lots**.                           |
+| Lightning           | ![Lightning Settings Icon]        | Determines the frequency of lightning strikes. Available options are **none**, **less**, **default**, **more**, and **lots**.                      |
+| Touch Stones        | ![Touch Stone (Shipwrecked) Settings Icon] | Determines the amount of naturally spawning Touchstones. Available options are **none**, **less**, **default**, **more**, and **lots**. |
+| Boons               | ![Set Pieces Settings Icon]       | Determines the amount of naturally spawning Set Pieces. Available options are **none**, **less**, **default**, **more**, and **lots**.           |
+| Volcano             | ![Volcano Settings Icon]           | Determines the presence/absence of the Volcano. Available options are **yes** and **no**.                                                     |
+| Dragoon Eggs        | ![Dragoon Egg Settings Icon]       | Determines the frequency of volcanic eruptions. Available options are **none**, **less**, **default**, **more**, and **lots**.                   |
+| Tides               | ![Tide Settings Icon]             | Determines the presence/absence of tides influenced by the **Moon Cycle**. Available options are **yes** and **no**.                            |
+| Floods              | ![Flood Settings Icon]            | Determines the frequency of floods. Available options are **none**, **less**, **default**, **more**, and **lots**.                                   |
+| Waves               | ![Wave Settings Icon]             | Determines the amount of naturally spawning Waves. Available options are **none**, **less**, **default**, **more**, and **lots**.                   |
+| Poison              | ![Poison Settings Icon]            | Determines the presence/absence of Poison. Available options are **yes** and **
+
+
+
+
+```markdown
+# Stuffed Eggplant
+
+### Structure Infobox
+- **Icon**: 
+  - <gallery>
+    - Stuffed Eggplant.png|Normal
+    - Stuffed Eggplant (Pig Fiesta).png|Pig Fiesta
+  </gallery>
+- **Image**: Stuffed Eggplant Dropped.png
+- **Spoil**: 15 Days
+- **Stack**: 40
+- **HP Restored**: 3
+- **Hunger Restored**: 37.5
+- **Sanity Restored**: 5
+- **Cook Time**: 40 sec
+- **Priority**: 1
+- **Sold By**: {{Ham}}: {{Pic|32|The Sterling Trough Deli}} ({{Pic|24|Oinc}} × 4)
+- **Spawn Code**: "stuffedeggplant"
+- **Can Be Burned**: 1
+- **Food Type**: [[Veggie]] [[File:Veggie.png|32px|link=Veggie]]
+- **Food Recipe**: {{Pic|32px|Eggplants}} × 1 {{Pic|32px|Vegetables}} × 1 {{Pic|32px|Filler}} × 2
+
+### Quotes
+- **Wilson**: "I'll be stuffed after eating this!"
+- **Willow**: "It's still not a bird, but I stuffed it like one!"
+- **Wolfgang**: "I make yolk of other foods."
+- **Wendy**: "A nightshade. Probably not filled with poison."
+- **WX-78**: "MUST STUFF INTO FOOD RECEPTACLES"
+- **Wickerbottom**: "I've cooked this aubergine and packed it with other comestibles."
+- **Woodie**: "I'm getting better at cooking."
+- **Maxwell**: "A meal fit for a king... or at least someone with a throne."
+- **Wagstaff**: "Erupting with nourishment."
+- **Wigfrid**: "Filling the vegetable döes nöt make it meat."
+- **Webber**: "We will stuff ourself with eggyplants!"
+- **Walani**: "Health grub."
+- **Warly**: "Slightly smoky flesh, savory filling. Ah!"
+- **Woodlegs**: "Stuffed wit' whut?"
+- **Wilba**: "IS'T STUFF'DED WITH YUM YUMS!"
+- **Wormwood**: "Stuffed belly stuff"
+- **Wheeler**: "Are you supposed to eat the stem on top, too?"
+- **Winona**: "It's practically bursting."
+- **Wortox**: "This is my first time encountering such a texture."
+- **Wurt**: "Wha-! Veggie with more veggie inside!?"
+- **Walter**: "A vegetable stuffed with more vegetable."
+- **Wanda**: "Vegetables inside and out."
+
+### Description
+Stuffed Eggplants are a type of [[Vegetable]] [[Food]] [[Item]] cooked in the [[Crock Pot]] with 1 [[Eggplant]], 1 different vegetable and 2 fillers. It takes 40 seconds to cook. Adding 1 [[Mandrake]] will result in [[Mandrake Soup]]. Adding 2 [[Monster Food]]s will result in [[Monster Lasagna]]. Adding 1 [[Butterfly Wings]] or 1 [[Dragon Fruit]] may result in [[Butter Muffin]] or [[Dragonpie]] respectively. Adding [[Frog Legs]] will result in [[Froggle Bunwich]], unless any other [[Meats]] are present, which will result in [[Meatballs]].
+
+### Downloadable Content
+In all [[DLC]]s, Stuffed Eggplants increase the player's perceived temperature by 1 degrees per second for 5 seconds when consumed.
+
+In the ''[[Don't Starve: Hamlet|Hamlet]]'' DLC, they can be bought for 4 [[Oinc]][[Oinc|s]] at [[Pig Shops|The Sterling Trough Deli]].
+
+In [[Don't Starve Together]], Adding [[Twigs]] and a [[Potato]] will result in [[Fancy Spiralled Tubers]].
+
+### Prerequisites
+- Requires: [[File:Eggplants.png|link=Eggplant]]
+- Requires: [[File:Vegetables Crock Pot(No Mandrake).png|link=Vegetables]]
+
+### Recipe
+{{Recipe
+| item1 = Eggplants
+| item2 = Vegetables
+| item3 = Filler
+| count3
+
+
+
+
+```markdown
+# Oasis Desert
+
+## Don't Starve
+- **Link**: [Oasis Desert](#)
+- **Text**: Don't Starve
+
+## DST
+- **Link**: [DST](#)
+- **Text**: DST
+
+The **Oasis Desert** is found in the **Reign of Giants** DLC. It's a **Biome** that randomly generated spawns in the world.
+
+### Exclusivity
+- Reign of Giants
+
+### See also
+- [Badland](#)
+```
+
+
+
+
+```markdown
+# Disambiguation: Beard
+
+The term **Beard** may refer to:
+
+* [Wilson's Magnificent Beard](#)
+* [Webber's Silky Smooth Beard](#)
+* [Beards, a Collectible Curio Item](#)
+
+## Categories:
+
+- Gameplay
+- Warmth
+- Sanity Boost
+```
+
+
+
+
+```markdown
+# Exclusivity: Hamlet
+
+## Quotes
+- **Wilson**: There's something unusual about it.
+- **Willow**: I have some burning questions.
+- **Wolfgang**: Is something strange.
+- **Wendy**: Something cryptic lingers here.
+- **WX78**: WARNING: CURIOSITY UNIT ACTIVATED
+- **Wickerbottom**: I'll need to investigate this further. 
+- **Woodie**: Something strange around here, eh?
+- **Maxwell**: Did I hide something in there...?
+- **Wagstaff**: Something new! I need to investigate!
+- **Wigfrid**: My interest is piqued!
+- **Webber**: There's something kinda weird here...
+- **Walani**: There's something weird here...
+- **Warly**: I smell something fishy... and it's not fish.
+- **Woodlegs**: There be booty within. I knows it.
+- **Wilba**: WHATFORE THAT?
+- **Wormwood**: What's that?
+- **Wheeler**: Ooooh. Interesting...
+- **Choose**: Wilson
+- **Source**: when examining a peculiar object
+
+# Peculiar Objects
+Peculiar Objects are variants of objects available in the **Don't Starve: Hamlet** DLC and its compatible DLC worlds. They are a slightly different color from their ordinary counterparts. Examining an object (e.g. by holding control while highlighting it) will reveal whether it is peculiar or not. For instance, the highlight text for a Claw Palm Tree is "Examine Claw Palm Tree" while a peculiar one would say "Examine Peculiar Claw Palm Tree". Investigating with a **Magnifying Glass** or **Spectoggles** confirms if a hidden treasure exists or not. If the player receives confirmation, destroying the object yields additional loot. Furthermore, the player must first confirm the existence of the treasure before destroying the object. Failure to do so will not yield additional loot. Peculiar objects can include **Boulders** and **Trees**. If the Peculiar Object is a tree, the treasure will not spawn until the stump is dug up.
+
+## Rewards
+When a peculiar resource is fully harvested, a reward will be added to the object's regular drops. There is a 50% chance for the reward to be "High-tier", and a 50% chance for it to be "Medium-tier." Multiple items are within each of these tiers, and are weighted equally among the tier.
+
+| Item | Medium-Tier | High-Tier |
+| --- | --- | --- |
+| [Flint](Flint.png) | Yes | No |
+| [Gold Nugget](Gold_Nugget.png) | Yes | No |
+| [Oinc](Oinc.png) | Yes | No |
+| [Tenpiece Oinc](Tenpiece_Oinc.png) | Yes | No |
+| [Trinkets](Trinkets.png) | Yes | No |
+| [Lost Relics](Lost_Idol.png), [Lost Totem](Lost_Totem.png), [Relic Fragment](Relic_Fragment.png) | No | Yes |
+
+## Blueprint Gallery
+<details open>
+  <summary>Peculiar Comparison</summary>
+  ![Peculiar Claw Tree (left) and its ordinary counterpart](Peculiar_Comparison.png)
+  <summary>Highlighting a Peculiar Object</summary>
+  ![Highlighting a Peculiar Object](Peculiar_Highlight.png)
+</details>
+
+# Gameplay
+[vi:Đối Tượng Dị Thường]
+```
+
+
+
+
+```markdown
+# Edited by [[User:Mr. Alchemist Endrew|Mr. Alchemist Endrew]] and various wikia contributors.
+
+---
+
+## Nightmare Fuel
+
+**Nightmare Fuel** is a very important resource in the game used to create a multitude of magic-themed tools and structures. It is therefore important to have a lot of it, since the equipment made with nightmare fuel can be life-saving.
+
+### Insanity
+
+**Nightmare Fuel** is generally acquired by going insane. There are two ways the player can do this.
+
+1. **Total Insanity**: The player can go totally insane and kill hostile **Shadow Creatures**. Each hallucination killed will give the player one to two Nightmare Fuels. Keep in mind that each time a hallucination is defeated sanity will be raised, which can result in the Shadow Creatures becoming passive again. This method has the advantage of supplying the player with nightmare fuel much faster than the one below. The cost is that it is much riskier, making the player's entire environment hostile. If this method is chosen, be sure to have something to quickly restore the lost sanity, like a stack of cooked green mushrooms or a **Tent**, prepared beforehand.
+
+2. **Partial Insanity**: The second method is going partially insane (below 40%) and kill **Beardlings** (**Rabbits** when **Sanity** is low). The player can accomplish this by gathering large amounts of rabbits and then dropping sanity just below 40%, for example with the help of **Green Mushrooms**. (For further details visit the **Guides/Mushroom Guide** respectively the "**Guides/Mushroom Guide#Tips and Hints**" section.) When killed, Beardlings will give the player one item, Nightmare Fuel (25%), **Beard Hair** (25%), or **Monster Meat** (50%). Do note however that in **Reign of Giants**, the rabbits must be fed in order for them to stay alive, requiring you to catch the rabbits, drop your sanity, and then kill them before they die. This method is a lot slower than the above, but has the advantage of keeping the player safe from harmful Shadow Creatures. In addition, the player will also get monster meat and beard hair, two items that have multiple uses each.
+
+**Beardlords** (**Bunnymen** that appear when on low sanity) will not drop nightmare fuel like their surface dwelling cousins, although they will still give beard hair.
+
+While it may be hard to detect due to the noises made by insanity, players should listen for hissing noises when killing beardlings. This hissing means that the player is killing too many innocent creatures (beardlings) and should either stop killing them for a while or continue doing so and make a **Krampus** spawn. Since Krampus farming exists for the purpose of acquiring his **Krampus Sack** (see the **Guides/Managing Naughtiness** for more details), the player can do both, farming nightmare fuel while they attempt to also summon a Krampus.
+
+### Dark Petal Farming
+
+Once the player has built a **Prestihatitator** or has accumulated enough Nightmare Fuel via the method above to create a **Shadow Manipulator**, the player can craft **Dark Petals** obtained by picking **Evil Flowers** into more **Nightmare Fuel**. The player can accomplish this by first finding a **Teleportato** piece that is not the **Metal Potato Thing** or the player can find a **Totally Normal Tree**, which are common in forests. Pick all normal flowers so they will not interfere. Next, capture a stack of **bees** using a **Bug Net**, making sure that their hive/box is either destroyed or too far away. Put down the bees next to the evil flowers and run (the bees will be hostile to the player that recently placed them). When you come back, the bees will be pollinating the evil flowers. When harvesting, make sure you know which evil flowers are never picked, so you don't accidentally ruin your farm. In RoG, during the **Full Moon**, all flowers turn into Evil Flowers, making all flower farms more effective.
+
+### Nightmare Amulet
+
+The **Nightmare Amulet** is a fantastic way to farm nightmares due to its ability to induce total insanity and jump back to normal sanity with ease. Since the **Crawling Horror** becomes aggressive when one's sanity drops below 30%, and the **Terrorbeak** spawns when your sanity drops below 15%, it is advised to wear a **Football Helmet** when equipping the **Nightmare Amulet** to protect oneself from their attacks. Since the player is almost insane, they will be doing battle with the **Shadow Creatures**, so it will be difficult to accomplish anything else while the **Nightmare Amulet
+
+
+
+
+# Caviar
+
+## Exclusivity: Shipwrecked
+
+### Structure Infobox
+- **canBeBurned**: 1
+- **foodRecipe**: ![Roe](Roe.png) x1 ![Vegetables](Vegetables.png) x1 ![Filler](Filler.png) x2
+  - ![Cooked Roe](Cooked_Roe.png) x3 ![Vegetables](Vegetables.png) x1
+- **foodType**: [Meat](Meat)
+- **icon**: Caviar.png
+- **image**: Caviar_Dropped.png
+- **crafting**: Cooked in a [Crock Pot](Crock_Pot)
+- **hpRestored**: 3
+- **hungerRestored**: 12.5
+- **sanityRestored**: 33
+- **cooktime**: 40 sec
+- **priority**: 20
+- **spoil**: 10 Days
+- **stack**: 40
+- **spawnCode**: "caviar"
+
+### Quotes
+- **Wilson**: I never had it before I came here.
+- **Willow**: Fish eggs in a jar. Great.
+- **Wolfgang**: Little eggs make Wolfgang feel like big, important man.
+- **Wendy**: I took their life to sustain my own.
+- **WX-78**: I EXPECTED THEM TO WRIGGLE. DISAPPOINTING
+- **Wickerbottom**: Differentiated from roe chiefly by the jar.
+- **Woodie**: Whew, that's salty.
+- **Maxwell**: A meal fitting of my stature.
+- **Wagstaff**: Where did I get that glass jar? Curious...
+- **Wigfrid**: I would have rathered the fish.
+- **Webber**: So fancy!
+- **Walani**: I made them fancy, but they're still fish eggs.
+- **Warly**: Eat it with a clamshell or the flavor will be ruined.
+- **Woodlegs**: Snooty landlubb'rin' eats!
+- **Wilba**: YON EGGS HATH THE SQUISHINESS
+- **Wormwood**: Glub Glub babies trapped?
+- **Wheeler**: If I don't like it, it's going in the Pew-matic.
+- **Warbucks**: One must indulge in the finer things to keep up ones spirits.
+
+### Description
+Caviar is a **Food Item** exclusive to the **Don't Starve: Shipwrecked** DLC. It is cooked in the **Crock Pot** by adding 1 **Vegetable** and 1 **Roe**. Alternatively, 3 **Cooked Roe** can be used.
+
+Caviar takes 40 seconds to cook, and restores 3 **Hp**, 12.5 **Hunger**, and 33 **Sanity** when eaten. Due to its low health and hunger restoration, it's best to eat for its high sanity restoration. It can be traded with the **Yaarctopus** for a **Bottle Lantern**.
+
+### Prerequisites
+- Requires: **[Roe](Roe)** or **[Cooked Roe](Cooked_Roe)**
+- Requires: **[Vegetable](Vegetable)**
+
+### Recipes
+#### Recipe 1
+- **Item1**: Roe
+- **Item2**: Vegetables
+- **Item3**: Filler
+- **Count3**: 2
+- **Tool**: Crock Pot
+- **Result**: Caviar
+
+#### Recipe 2
+- **Item1**: Cooked Roe
+- **Count1**: 3
+- **Item2**: Vegetables
+- **Tool**: Crock Pot
+- **Result**: Caviar
+
+### Examples
+#### Example 1
+- **Item1**: Roe
+- **Item2**: Seaweed
+- **Count2**: 1
+- **Tool**: Crock Pot
+- **Result**: Caviar
+- **Item3**: Twigs
+- **Count3**: 2
+
+#### Example 2
+- **Item1**: Roe
+- **Count1**: 2
+- **Item2**: Seaweed
+- **Item3**: Twigs
+- **Tool**: Crock Pot
+- **Result**: Caviar
+
+#### Example 3
+- **Item1**: Cooked Roe
+- **Count1**: 3
+- **Item2**: Sweet Potato
+- **Tool
+
+
+
+
+```markdown
+# Summer Day-Night Cycle
+
+![Summer Day-Night cycle](Summer%20Day-Night%20cycle.png "Summer Day-Night cycle")
+
+## Incomplete Information
+- The section lacks specific information about SW, HAM, and DST.
+- Still lacking some ROG info.
+
+## Quotes
+- **Wilson:** "It's getting late. It will be dark soon."
+- **Willow:** "Night is coming. I need fire!"
+- **Wolfgang:** "The scary time is coming soon."
+- **Wendy:** "Darkness will be here soon. I must prepare."
+- **WX-78:** "WARNING: NIGHT APPROACHING"
+- **Wickerbottom:** "Night will be here soon."
+- **Woodie:** "It's almost my bedtime."
+- **Maxwell:** "It'll be dark soon. Charlie will be waking up."
+- **Wagstaff:** "A conspicuously rapid sunset! Time must flow strangely here."
+- **Wigfrid:** "The sun is setting. Darkness waits nearby."
+- **Webber:** "Almost time for bed."
+- **Walani:** "Darkness will be here soon!"
+- **Warly:** "The dinner hour approaches."
+- **Woodlegs:** "It be gettin' late. Dark be on th'horizon."
+- **Warbucks:** "I say, I'd best set up camp."
+- **Wilba:** "NOW IS DARK'NING TIME OF NIGHT"
+- **Wormwood:** "Light Ball is sleepy."
+- **Wheeler:** "Getting dark. But I can stay up past my bedtime."
+- **Winona:** "Quittn' time!"
+- **Wortox:** "I sense that the witching hour is near."
+- **Wurt:** "Almost sleepy time..."
+- **Walter:** "I guess it's time we hit the sack, Woby."
+- **Wanda:** "Days are just too short for this old gal."
+
+## Game Day Duration
+A full in-game day lasts for 8 real-time minutes by default, split into sixteen 30-second segments. After this time, the day counter will increase. The day consists of 3 phases: Day, Dusk, and Night.
+
+### Day
+The Day phase is the brightest and is represented by the yellow segments of the clock in the top-right corner of the screen. The Day phase is generally the safest phase of the day and also the time when most Animals are active. Most Monsters, like Spiders and Spider Warriors, sleep during the Day. Neutral and passive mobs, including Pigmen, roam outside their houses until dusk.
+
+### Dusk
+The Dusk phase is shown by red segments on the clock and is the part of the day when the sun is setting and the world becomes darker, although a light source is not yet required. At Dusk, several creatures return to their homes until morning, while others become active.
+
+### Night
+The Night phase is represented by dark blue segments on the clock. When Night falls, the world quickly becomes completely dark and a light source is necessary. Most neutral and passive mobs still outside go to sleep on the spot.
+
+## Mob Behavior
+Surface mobs not listed here have the same behavior throughout the day, despite the phase. 
+
+| Mob | Day | Dusk | Night |
+| --- | --- | --- | --- |
+| **Butterfly (Summer)** | Spawns from flower, and flies around aimlessly. | Retreats to nearest flower and despawns. Keeps flying aimlessly if there are no flowers nearby. | Retreats to nearest flower and despawns if released from player. Keeps flying aimlessly if there are no flowers nearby. |
+| **Butterfly (Winter)** | Doesn't spawn from flowers. Retreats to nearest flower and despawns if released from player. Keeps flying aimlessly if there are no flowers nearby. | Retreats to nearest flower and despawns if released from player. Keeps flying aimlessly if there are no flowers nearby. | Retreats to nearest flower and despawns if released from player. Keeps flying aimlessly if there are no flowers nearby. |
+
+... (rest of the table continues in a similar format)
+
+## Seasons
+The amount of daylight varies throughout the game. In mid-Summer (starting around Day 3) the Day phase is more than half of the total clock, while Night lasts only 2 segments. In Winter, Night is about 1/3 of the clock and Dusk nearly half. One complete cycle of the seasons lasts 36 days; 20 Summer and 16 Winter.
+
+## Caves
+Caves have a unique Day-Night Cycle. Time doesn't pass the same as it does on the surface, but there's still
+
+
+
+
+```markdown
+# Hamlet DLC Survival Guide
+
+This guide is tailored for the Hamlet DLC. The temperate season lasts for 11 days, concluding on the morning of day 12. Building a robust foundation is crucial for survival during the other two seasons.
+
+**Note:** This guide is highly specific and aligns with my particular playstyle. I prioritize completing tasks in a certain order. I hope you find it valuable.
+
+## Day 1
+
+1. Pick up the machete and zoom out.
+2. Craft a torch as soon as materials are available.
+3. Gather flint; rotating the camera can provide a comprehensive view of your surroundings.
+4. Upon finding a cave cleft, clear it, preserving ferns and pillars.
+5. Chop trees at night, using the torch to deter Charlie. Acquire at least four eggs and twelve logs. Reserve the eggs for the aporkalypse and keep them in your inventory or store them in a cork barrel.
+
+## Days 2-5
+
+![My preferred inventory management and base layout](Screen_Shot_2019-07-18_at_2.39.48_PM.png)
+
+1. Construct a science machine near spawn.
+2. Craft a spear, shovel, backpack, and log suit.
+3. Visit the nearest painted biome, collecting 10-20 iron and six tubers while avoiding thunderbirds.
+4. Loot iron hulk checkpoints for 14 charcoal.
+5. Return and create shears. Prototype an alchemy engine and place it strategically near spawn. Avoid grass tuft fields, cultivated biome (pikos), pig guards (fire), and hulks.
+6. Upgrade the science machine. Locate the mant hill section of ruins and smash pig heads to craft a football helmet.
+7. Kill flytraps for cooked leafy meat and three stalks. Use vines to craft a pith hat.
+8. Build a lightning rod, fire pit, crock pot, and two drying racks. Place two stalks on drying racks and craft Bug B'Gone with one.
+9. Drop items at base and organize your inventory as shown in the image above.
+10. On one of these nights, travel to an area close to spawn with tropical flowers and kill bugs for at least two light bulbs.
+11. Prototype a lantern and discard unnecessary tools and weapons at base.
+
+## Days 6-11
+
+1. Enter pugalisk ruins without collecting any relics.
+2. Utilize resource rooms to maximize your grass and twig stacks.
+3. Examine every room with suspicious pillars for suspicious cracks. Mine a pillar once when there is a crack, and if it leads to a room, collect any gems found.
+4. Discover the second entrance and gather two stacks of nettles (they are more accessible on Pugalisk Island).
+5. Return to the first island and place the nettles close to your base on deep rainforest turf and within range of water. Geometric placement helps to place them closely together. You can harvest nettles during the humid season.
+6. Kite a hippopotamoose, bait platapines, and craft the bird whistle. Travel to the roc's nest with a pickaxe and a hammer. After destroying the eggs and structures, retrieve the regal scepter and return home.
+7. Collect any relics obtained and go to the palace hamlet. Acquire the key to the city, some gears, and a stack of clippings. Optionally, use rare relics to get silly string or an executive hammer.
+
+## Further Plans and General Tips
+
+![My best base. This is what I'm always planning to build](Screen_Shot_2019-07-10_at_3.27.47_AM.png)
+
+* Return home and travel to the city. Drop clippings around pigs if there's time before dusk. Collect the manure and use coins to purchase berry bushes (both types). Fertilize them at home and collect periodically. Visit the hamlet daily to trade with berry pigs.
+* Aim to create a smelter, sprinkler, and oscillating fan by day 16.
+* Collect as much gold from the ruins as possible. Wishing wells are incredibly useful for healing.
+* When mining hulks, use the legs. They can be easily kited and are the safest to farm.
+* Be cautious when attacked in a boat. Hamlet boats are weak, and you can die easily from frogs, platapines, etc.
+* Use ferns as filler in recipes.
+* Hatch RoBin as quickly as possible.
+* Use resource rooms in ruins for twigs and grass to save iron.
+* Create improved farms for the humid season since rain allows quick growth.
+* Utilize non-renewable food-based resources; they won't be needed past the first year.
+* Feel free to modify this guide if it doesn't meet your needs.
+```
+
+This markdown format provides clear headings, ordered lists, and referenced images for better readability and organization
+
+
+
+
+```markdown
+# Navigadget
+
+**Exclusive to Wheeler in the Hamlet DLC**, the Navigadget is a powerful item that allows Wheeler to locate specific items. Here is the detailed information about the Navigadget:
+
+## Item Info
+- **Perk**: Locate items.
+- **Stack**: Does not stack.
+- **Spawn Code**: `wheeler_tracker`
+- **Durability**: Infinite
+
+## Quotes
+- **Wilson**: Its construction is com-passable.
+- **Willow**: Alright, find me some stuff to burn.
+- **Wolfgang**: Wolfgang will follow tiny arrow.
+- **Wendy**: Can it find happiness?
+- **WX-78**: SEARCH FUNCTION ACTIVATED
+- **Wickerbottom**: Almost as good as the Dewey Decimal System for finding things.
+- **Woodie**: Could help me find more wood.
+- **Maxwell**: Nothing can hide from me now.
+- **Wagstaff**: Appears to be entangled with others of its kind.
+- **Wigfrid**: Will it find me anöther battle?
+- **Webber**: We're gonna be great in a scavenger hunt!
+- **Walani**: Can it find my keys?
+- **Warly**: Point the way to ingredients!
+- **Woodlegs**: Point tha way ta treasure!
+- **Wilba**: 'TIS FAST FINDER
+- **Wormwood**: Where to?
+- **Wheeler**: Point the way to adventure!
+
+## Description
+The Navigadget can hold any item that can be in a player's inventory, such as Logs, Rocks, Gold Nuggets, Meat, Carrots, and Lost Relics. Once the item is placed in the Navigadget, a compass will appear beneath the player with a red arrow pointing towards either the nearest instance of the item, the nearest structure that can be mined to obtain the item, or the nearest mob that drops that item. The Navigadget can act as an extra slot since it will keep the item placed inside once the Navigadget is removed from the player's hand slot.
+
+## Tips
+- In the base game, Reign of Giants or Shipwrecked worlds, putting Boards inside the Navigadget allows the player to easily find the Wicker Basket, which can be hammered for a Can of Silly String to craft the Skyworthy and travel to other worlds.
+- In base game or Reign of Giants worlds, one can put the Thulecite dropped by Sinkholes into the Navigadget to find Ancient Statues and get more Thulecite.
+- In base game or Reign of Giants worlds, Meat can be put into the Navigadget to find the Ancient Guardian.
+- In Shipwrecked worlds, putting a Doydoy inside the Navigadget allows the player to easily find the other one.
+- In Shipwrecked worlds, the Slot Machine can be found by putting Dubloons inside the Navigadget, as there are always three Dubloons around the Slot Machine.
+- As Gold Nuggets are rare in both Shipwrecked and Hamlet worlds, one can find more by putting a Gold Nugget inside the Navigadget.
+- Bramble Blooms can be found by putting a Bramble Bulb into the Navigadget.
+- Eggs can be placed in the Navigadget to find them inside Rainforest Trees in Hamlet worlds with no risk of finding Vipers or Scorpions.
+
+## Gallery
+![Navigadget (empty)](Navigadget (empty).png "The empty Navigadget.")
+
+## Categories
+- [[Character-Specific]]
+- [[Unstealable Object]]
+- [[Indestructible Object]]
+```
+
+
+
+
+```markdown
+# Exclusivity: Don't Starve Together
+
+## Regrowth
+Regrowth is a new mechanic in **Don't Starve Together**. There are four main mechanisms for regrowth, which work slightly differently: **Regrowth**, **Offspring Regrowth**, **Desolation Regrowth**, and **Resource Renewal**. Only the first three are configurable. On the **World Customization Screen**, the regrowth setting sets a multiplier on how quickly each of these regrowths happen (from Very Slow to Very Fast, 0.15, 0.33, 1, 3, 7). For all types of regrowth, it only decreases the timer for the regrowth time while that entity is in its regrowth season.
+
+### Regrowth
+After one of these entities is destroyed, the game will try to place another one after the regrowth time has passed. It will try somewhere in a 5-tile radius of where they were originally; if it tried to place the entity too close to another entity, or within 5 tiles of a base structure or wall, it will try again after the regrowth time has passed once more. If a player is within 16 tiles, it will wait for them to leave before attempting to place the entity.
+
+| Entity | Regrowth Time | Regrowth Season |
+| --- | --- | --- |
+| ![Carrot](Carrot_planted.png) | 12.5 days | Not Winter or night. |
+| ![Flower](Flower.png) | 30 seconds | While the ground is very wet, but not during rain, night, or Winter. Double rate during Spring. |
+| ![Rabbit Hole](Rabbit_Hole.png) | 5 days | Summer. |
+| ![Light Flower](Light_Flower.png) | 5 days | Any time. |
+| ![Reeds](Reeds.png) | 5 days | Spring. |
+
+### Offspring Regrowth
+This is intended to give the effect of forests growing and reclaiming land. Each tree has a timer after which it will try to spawn a sapling of the same type nearby. If there are fewer than 5 other trees of the same type in the radius that would have 5 such trees at worldgen, then it will succeed in spawning one. Offspring Regrowth doesn't occur within a 2-tile distance of structures, or around a 0.75-tile radius of any object.
+
+| Tree | Regrowth Time | Regrowth Season |
+| --- | --- | --- |
+| ![Evergreen](Evergreen.png) | 5 days | Not Winter. Doubled rate in Summer. |
+| ![Lumpy Evergreen](Lumpy_Evergreen.png) | 8 days | Any season. |
+| ![Twiggy Tree](Twiggy_Tree.png) | 8 days | Any season. |
+| ![Deciduous Tree](Deciduous_Tree.png) | 3 days | Spring. |
+| ![Mushtree](Mushtree.png) | 3 days | Winter. |
+| ![Mushtree](MushtreeRed.png) | 3 days | Summer. |
+| ![Mushtree](MushtreeGreen.png) | 3 days | Spring. |
+| ![Lune Tree](Lune_Tree.png) | 3 days | Highest during full moon. |
+| ![Lunar Mushtree](Lunar_Mushtree.png) | 3 days | Winter. |
+
+### Desolation Regrowth
+Desolation regrowth is intended to spawn trees in areas they belong in after the area has had all or almost all of its trees destroyed, such as by an out of control forest fire. Desolation regrowth cannot occur if there are any of the same type of tree within a 10-tile radius, and base structures or walls within 5 tiles, or any entities at all within a tile.
+
+| Tree | Regrowth Time | Regrowth Season |
+| --- | --- | --- |
+| ![Evergreen](Evergreen.png) | 50 days | Not Winter. Doubled rate in Summer. |
+| ![Lumpy Evergreen](Lumpy_Evergreen.png) | 50 days | Any season. |
+| ![Twiggy Tree](Twiggy_Tree.png) | 50 days | Any season. |
+| ![Deciduous Tree](Deciduous_Tree.png) | 50 days | Spring. |
+| ![Mushtree](Mushtree.png) | 50 days | Winter. |
+| ![Mushtree](MushtreeRed.png) | 50 days | Summer. |
+| ![Mushtree](MushtreeGreen.png) | 50 days | Spring. |
+| ![Lune Tree](Lune_Tree.png) | 50 days | Highest at the full moon.
+
+
+
+
+```markdown
+# Farmer
+
+**Exclusivity:** Hamlet  
+**Display Title:** Farmer  
+
+## Structure Infobox
+
+- **Naughtiness:** 6
+- **Health:** 250
+- **Walk Speed:** 3
+- **Run Speed:** 5
+- **Special Ability:** Gives 1x [[Oinc]] for [[Cut Grass]] or [[Twigs]] once a day.
+- **Drops:** [[Meat]] 75%, [[Pig Skin]] 25%
+- **Spawn From:** [[Farm House]]
+- **Spawn Code:** "pigman_farmer"
+- **Name:** Farmer
+
+## Quotes
+
+- **Wilson:** I hope he doesn't farm pigs.
+- **Willow:** I didn't know pigs did farm work.
+- **Wolfgang:** Pig is good little farmer.
+- **Wendy:** A simple life for a simple creature.
+- **WX-78:** DEALS IN FILTHY ORGANIC MATERIAL
+- **Wickerbottom:** A farm toiling pig.
+- **Woodie:** Someone's gotta do the farming.
+- **Maxwell:** He smells of farming and hard labor.
+- **Wagstaff:** Cultivated a fondness for grasses. Can't say I blame him.
+- **Wigfrid:** Yön time be better spent ön the fruits öf the hunt, pig!
+- **Webber:** I hope the crops are doing well.
+- **Walani:** How are you, farmer-pig-dude?
+- **Warly:** Doing good work, mon amie.
+- **Woodlegs:** Walkin' swine ye be.
+- **Wilba:** COUNTRYPIG LEND ME YOUR STUFFS
+- **Wormwood:** Likes grass friends
+- **Wheeler:** A simple pig with simple desires. Namely, that I don't steal his stuff.
+- **Choose:** [[Wendy]]
+
+## Description
+
+The **Farmer** is a **Pig Trader** **Mob** exclusive to the **Don't Starve: Hamlet** DLC. He stands around the farms near the Pig Village. The player can sell **Cut Grass** or **Twigs** to him for an **Oinc** only once a day. If the player harvests **Berry Bushes**, **Grass**, **Twigs**, or **Farms** near the Farmer, a **Pig Guard** will attack.
+
+As **Farm Houses** cannot be built by the player, even with the **Key to the City**, Farmers are one of the few Pig Traders that cannot be brought to the **Don't Starve** Constant's **mainland** or the **Shipwrecked** worlds.
+
+## Categories
+- [[Category:Hamlet]]
+- [[Category:Diurnals]]
+- [[Category:Passive Creatures]]
+- [[Category:Talkers]]
+```
+
+
+
+
+```markdown
+# Monsters
+
+Monsters are **Mobs** that will attack the player on sight (with a few exceptions), with no warning. They tend to drop useful **Items**, which means that despite their danger, they must eventually be sought out. Many Monsters have variants with different abilities and stronger attacking capability, such as the spider and the higher ranked spider warrior. Mobs with the "Monster" tag, including the playable **characters** **Webber**, **Wortox** and **Werewilba**, will be automatically attacked by **Pigs** and other friendly mobs such as **Bunnymen** and **Catcoon**s.
+
+Some monsters vary depending on the season the player is currently in. For more information, check **Summer**, **Autumn**, **Winter** and **Spring**.
+
+There are also several rare **Boss Monsters**. Most of these creatures will drain **Sanity** when they are nearby.
+
+Monsters often drop **Monster Meat** when killed and can eat Monster Meat without taking any damage.
+
+## Vanilla
+
+### Regular Monsters
+
+| ![Spider](Spider.png) | **Spider** | 
+| ![Spider Warrior](Spider_Warrior.png) | **Spider Warrior** |
+| ![Tentacle](Swampmonster.png) | **Tentacle** |
+| ![Hound](Hound.png) | **Hound** |
+| ![Red Hound](Red_Hound.png) | **Red Hound** |
+| ![Blue Hound](Blue_Hound.png) | **Blue Hound** |
+| ![Krampus](Krampus.png) | **Krampus** |
+| ![Ghost](Ghost_Build.png) | **Ghost** |
+| ![Clockwork Knight](Clockwork_Knight.png) | **Clockwork Knight** |
+| ![Clockwork Bishop](Clockwork_Bishop.png) | **Clockwork Bishop** |
+| ![Clockwork Rook](Clockwork_Rook.png) | **Clockwork Rook** |
+| ![Damaged Knight](Damaged_Knight.png) | **Damaged Knight** |
+| ![Damaged Bishop](Damaged_Bishop.png) | **Damaged Bishop** |
+| ![Damaged Rook](Damaged_Rook.png) | **Damaged Rook** |
+| ![Baby Tentacle](Baby_Tentacle.png) | **Baby Tentacle** |
+| ![Cave Spider](Cave_Spider.png) | **Cave Spider** |
+| ![Spitter](Spitter.png) | **Spitter** |
+| ![Dangling Depth Dweller](Dangling_Depth_Dweller.png) | **Dangling Depth Dweller** |
+| ![Batilisk](Batilisk.png) | **Batilisk** |
+| ![Depths Worm](Depths_Worm.png) | **Depths Worm** |
+| ![Ewecus](Ewecus.png) | **Ewecus** |
+| ![Crawling Horror](Crawling_Horror.png) | **Crawling Horror** |
+| ![Terrorbeak](Terrorbeak.png) | **Terrorbeak** |
+
+### Hostile creatures
+
+Creatures that will attack on sight, but are not classified as a monster in-game:
+
+| ![Eyeplant](Eyeplant.png) | **Eyeplant** |
+| ![MacTusk](MacTusk.png) | **MacTusk** |
+| ![WeeTusk](WeeTusk.png) | **WeeTusk** |
+| ![Shadow Splumonkey](Shadow_Splumonkey.png) | **Shadow Splumonkey** |
+| ![Slurper](Slurper.png) | **Slurper** |
+| ![Tallbird](Tallbird.png) | **Tallbird** |
+| ![Frog](Frog.png) | **Frog** |
+| ![Mosquito](Mosquito.png) | **Mosquito** |
+| ![Killer Bee](Killer_Bee.png) | **Killer Bee** |
+| ![Guardian Pig](Guardian_Pig.png) | **Guardian Pig** |
+| ![Werepig](Werepig.png) | **Werepig** |
+| ![Merm](Merm.png) | **Merm** |
+
+### Boss Monsters
+
+| ![Treeguard](Treeguard.png) | **Treeguard** |
+| ![Spider Queen](Spider_Queen.png) | **Spider Queen** |
+| ![Deerclops](Deerclops.png) | **Deerclops** |
+| ![Ancient Guardian](Ancient_Guardian.png) | **Ancient Guardian** |
+
+## Reign of Giants
+
+### Regular Monsters
+
+| ![Varg](Warg.png
+
+
+
+
+```markdown
+# Console Commands for Don't Starve Together
+
+## Exclusivity Notice
+Please note: This page only contains console commands for **Don't Starve Together**. For a list of console commands for the **base game** (or its **DLC**s), refer to [Console Commands](#).
+
+## Notice
+![Hound](File:Hound.png)  
+**Please note:** This page only contains console commands for **Don't Starve Together**.
+
+## Command Console
+
+The **Command Console** is enabled by default. If for whatever reason it is not, you first need to do some tweaking in your `settings.ini` of your save. This can be found in the "DoNotStarveTogether" folder, located in the following paths:
+
+- **Windows, Mac:** `<Documents>\Klei\DoNotStarveTogether\client.ini`
+- **Linux:** `~/.klei/DoNotStarve/client.ini`
+
+Locate the `settings.ini` and open it with Notepad or other text editors. Locate the `[MISC]` section, and make sure you are having `console_enabled = true` under it. If it appears to be `false`, change and save it.
+
+The default key to open the console in-game on English keyboards is "~". This can be changed at any time in the controls menu.
+
+### Notes:
+- You have to re-enter almost every command after loading a world.
+- Lua supports variable numbers of arguments to functions, so if, for example, you only want to spawn one of a prefab, you can leave out the "amount": `c_spawn('beefalo')`.
+- If you are not the host (or it's a dedicated server that you're an admin for), most commands need to be run remotely. Pressing ctrl with the console open switches to remote command mode. A few commands (such as revealing the map) are still done locally.
+
+Many [Don't Starve Commands](#) are still available in DST, so you can also read it.
+
+To run the debug commands, e.g., `d_resetruins`, you must first run `require("debugcommands")`.
+
+## Simple Commands
+
+### Spawn Prefab
+`c_spawn("[[Console/Prefab List|prefab]]",amount)`
+
+*Improved DebugSpawn("prefab"), spawns amount of selected "prefab" under the mouse cursor.*
+
+### Give Item
+`c_give([[Console/Prefab List|"prefab"]],amount)`
+
+*Spawns amount of selected "prefab" in your inventory. Only works with [[Backpack]]s and [[Items]] that can be stored in the inventory.*
+
+### Go Adventuring
+`c_goadventuring()`
+
+*Gives a set of starting items to the player.*
+
+### Scenario
+`c_doscenario(scenario)`
+
+*Apply a scenario script to the selection and run it.*
+
+### Set Your Health
+`c_sethea​lth(percent)`
+
+*Sets your health to a selected percentage. Note: Use fractional numbers 0.90 = 90%.*
+
+### Set Your Sanity
+`c_setsanit​y(percent)`
+
+*Sets your sanity to a selected percentage. Note: Use fractional numbers 0.90 = 90%.*
+
+### Set Your Hunger
+`c_sethunger(pe​rcent)`
+
+*Sets your hunger to a selected percentage. Note: Use fractional numbers 0.90 = 90%.*
+
+### Set Your Moisture
+`c_setmoisture(pe​rcent)`
+
+*Sets your wetness to a selected percentage. Note: Use fractional numbers 0.90 = 90%.*
+
+### Temperature
+`c_settemperature(degrees)`
+
+*Sets your temperature to a selected percentage. Note: Use fractional numbers 0.90 = 90%.*
+
+### God Mode [c_godmode]
+`c_godmode()`
+
+*It won't drain [[Sanity]], [[Hunger]] or [[Health]] when attacked anymore. You cannot change your stats with commands while in godmode. If you are dead, revives you (Reviving via c_godmode() doesn't put you in godmode once revived).* To deactivate God Mode use the command again.
+
+### Super God Mode
+`c_supergodmode()`
+
+*Same as God Mode but also sets all your stats to full, even when turning it off. Similar to c_godmode(), it revives you as well (Reviving via c_supergodmode() doesn't put you in godmode once revived).* To deactivate God Mode use the command again.
+
+### Maintain Your Health
+`c_maintainhealth(The
+
+
+
+
+```markdown
+# Exclusivity: Hamlet
+
+## Hunter
+
+### Structure Infobox
+- **Naughtiness**: 6
+- **Image**: ![Pig Hunter](Pig Hunter.png)
+- **Imagewidth**: 150
+- **Health**: 250
+- **Damage**: 
+- **Drops**: 
+  - Meat 75%, ![Pig Skin](Pig Skin.png) 25%
+- **Walk Speed**: 3
+- **Run Speed**: 5
+- **Special Ability**: Gives 5x Oinc for Hound's Tooth, Stinger, Hippopotamoose Antler once per day
+- **Spawn From**: ![The Boar's Tusk Weapon Shop](The Boar's Tusk Weapon Shop Build.png), ![Town House](Town House.png)
+- **Spawn Code**: "pigman_hunter"
+- **Name**: Hunter
+
+### Quotes
+- **Wilson**: Do you have killing implements available here?
+- **Willow**: Fire is the best weapon.
+- **Wolfgang**: Weapons make Wolfgang mightier.
+- **Wendy**: I see you have dedicated your life to destructive paraphernalia.
+- **WX-78**: SELLER OF KILLING MECHANISMS
+- **Wickerbottom**: I suppose you enjoy killing things.
+- **Woodie**: Don't try to sell me no axes. I ain't interested.
+- **Maxwell**: I would like to peruse your deadliest weapons, please.
+- **Wagstaff**: Willing to trade in canine cuspids and arthropod stingers.
+- **Wigfrid**: Ah! A pig after mine öwn heart!
+- **Webber**: There's a lot of weapons in here.
+- **Walani**: Harsh. You got alot of weapons in here.
+- **Warly**: I'm not a fan of your wares.
+- **Woodlegs**: I be in need of proper piratin' gear.
+- **Wilba**: HE HATH LET DOWN HIS GUARD
+- **Wormwood**: Wants sharp things
+- **Wheeler**: Looks like someone who's been in a lot of fights.
+- **Choose**: Wigfrid
+
+The **Hunter** is a Pig Trader Mob exclusive to the Hamlet DLC. He will give the player five Oincs for each Hound's Tooth or Stinger. He will accept one trade per day.
+
+### Behavior
+One Hunter may spawn from a Town House, and will wander randomly around their house and eat any edible items left on the ground, including Pig Skin. Every so often they will drop one Manure where they are standing, and if the player picks up that manure the Hunter will approach them and give them one Oinc, along with an accompanying Quote.
+
+Whenever there is a hostile mob nearby, or a player targets them or another Pig Trader or Royal Guard near them, they will enter a panicked state. They will begin to move around semi-randomly in a direction away from the aggressor.
+
+They will attempt to return to their house in the evening, and if they cannot reach their house or their house is destroyed they will seek the nearest light source and stand next to it until night, when they will sleep on the ground.
+
+### Categories
+- Diurnals
+- Passive Creatures
+- Talkers
+```
+
+
+
+
+```markdown
+# Beard Hair
+
+**Resource mainly acquired by shaving Wilson's Beard with a Razor. It can also be acquired by killing Beardlings and Beardlords.**
+
+## Gathering
+Beard Hair is a resource that can be obtained through several methods:
+- Shaving Wilson's beard with a Razor.
+- Killing Beardlings and Beardlords when Sanity drops below 40%.
+- Killing Shadow Splumonkeys during the Nightmare Phase.
+
+When shaving Wilson's beard, the amount of Beard Hair received depends on the beard's length:
+- After 4 days: 1 Beard Hair
+- After 8 days: 3 Beard Hair
+- After 16 days: 9 Beard Hair
+
+Gathering Beard Hair from Beardlings and Beardlords requires Sanity to drop below 40%. At this point, Beardlings appear and can be caught in Traps like normal Rabbits. Beardlings only drop Beard Hair 20% of the time, requiring on average 20 or so to be killed in order to acquire enough for a Meat Effigy. Beardlords always drop 2 Beard Hair upon being killed.
+
+For gathering Beard Hair from Beardlings (Rabbits), there are few methods more advisable - and enjoyable - than the combined use of a Boomerang and a Nightmare Amulet. By equipping the amulet just before the boomerang deals the fatal blow, and unequipping it immediately after, the loot of a Beardling is guaranteed, and the Nightmare Amulet will take very little durability loss.
+
+Additionally, while in the Ruins, the player can wait for the Nightmare Phase around a Splumonkey Pod to fight the Shadow Splumonkeys that spawn. Caution should be taken as they are very dangerous in large numbers and can overwhelm the player. Each Shadow Splumonkey drops 1 Beard Hair upon death.
+
+As Wilson is the only character with a beard that can be shaved to obtain Beard Hair, playing as any other character will require the player to lose sanity and hunt Beardlings and Beardlords to build a Meat Effigy, find the odd Set Piece that might have one or two of them, or hunt down Shadow Splumonkeys.
+
+## Downloadable Content
+- **Reign of Giants DLC**: Beard Hair has a chance to be obtained when harvesting Tumbleweeds.
+- **Shipwrecked DLC**: Beard Hair is obtained by killing Beardling Crabbits (20% chance).
+- **Don't Starve: Hamlet DLC**: Beard Hair is required to craft Beard Hair Rugs. Webber is also able to craft the Shamlet Mask using Beard Hair. It is obtained by killing Spider Monkeys or transforming back from Werepig form as Wilba.
+
+## Usage
+Beard Hair can be used for the construction of Meat Effigies or simply as Campfire fuel.
+
+**Meat Effigy Recipe:**
+- 4 Beard Hair
+- 4 Boards
+- 4 Cooked Meat
+- Tool: Prestihatitator
+
+**Beard Hair Rug Recipe (Hamlet):**
+- Beard Hair
+- Cut Grass
+- Tool: Science Machine
+
+**Beard Hair Rug Recipe (DST):**
+- 2 Beard Hair
+- Cut Grass
+- Tool: Science Machine
+
+**Shamlet Mask Recipe (Hamlet):**
+- Beard Hair
+- Pig Skin
+- 2 Twigs
+- Character: Webber
+
+## Gallery
+<gallery captionalign="center" hideaddbutton="true">
+Beard Hair Promo.png|A teaser image of "Wilson's Beard Hair" posted on June 20, 2012.
+</gallery>
+```
+
+
+
+
+```markdown
+# Clippings
+
+## Exclusivity
+- **Hamlet**
+
+## Structure Infobox
+- **icon**: Clippings.png
+- **image**: Clippings Dropped.png
+- **foodType**: Veggie ![Veggie](Veggie.png)
+- **canBeBurned**: 1
+- **hpRestored**: 1
+- **hungerRestored**: 4.6875
+- **sanityRestored**: 0
+- **spoil**: Does not spoil
+- **burnTime**: 30/15 sec
+- **droppedBy**: '''Hedge''' x2 (Shears) / x1 (Razor)
+- **stack**: 40
+- **spawnCode**: "clippings"
+
+## Quotes
+- **wilson**: Evidence of my hard labor.
+- **willow**: I bet I could burn those.
+- **wolfgang**: Wolfgang work hard!
+- **wendy**: Traces of toil.
+- **wx78**: BY PRODUCTS OF LABOR
+- **wickerbottom**: Surplus clippings to be used in bartering.
+- **woodie**: There's always a bit of mess left from a hard day's work.
+- **maxwell**: I suppose I'm the domestic help now.
+- **wagstaff**: Clippings of a perennial plant which provide evidence I have performed a service.
+- **wigfrid**: Debris from hard work.
+- **webber**: Mom says to always clean up after yourself.
+- **walani**: All my hard work.
+- **warly**: I could sell these and buy some real food.
+- **woodlegs**: A bit o' plant bilge.
+- **wilba**: MOST KINDEST CUTTINGS OF ALL
+- **wormwood**: Can sell this hair
+- **wheeler**: Swell. A handful of leaves. Maybe someone will want them.
+- **choose**: wilson
+
+Clippings are Food Items exclusive to the Don't Starve: Hamlet DLC. They are acquired by trimming Hedges in the Pig City. Clippings can be gathered by using the Razor or Shears. The Razor yields one Clipping while the Shears yield two, but the Razor has infinite durability while the Shears only have twenty uses.
+
+As with other Foods, Pigs will eat Clippings if left on the ground, producing Manure similar to Vegetables and other plant based edibles.
+
+## Usage
+Clippings can be sold to the Shopkeep for 1 Oinc each. There is no limit to how many the player can sell per day. They can also be used to craft several variations of Hedges using the Key to the City.
+
+## Recipes
+
+### Selling to Shopkeep
+- **item**: Clippings
+- **tool**: Pig Shopkeep
+- **result**: Oinc
+
+### Crafting Hedges
+- **item1**: Clippings (9)
+- **item2**: Nitre (1)
+- **tool**: Key to the City
+- **result**: Block Hedge (3)
+- **result**: Cone Hedge (3)
+- **result**: Layered Hedge (3)
+
+## Prototype Tips
+- Clippings can be eaten to gain a small amount of Hunger. However, they never spoil, so they can make for a good emergency source of food. A full stack of Clippings will take some time to eat but will restore 40 Hp and 188 Hunger.
+- Clippings are good to sell for lots of quick Oincs, but if one needs manure for farms, fuel, and fertilization, one can drop some Clippings on the floor. Pigs will eat them and produce Manure, which one can then pick up for one Oinc each.
+
+## Categories
+- [Food](vi:Lá Xén)
+- [Healing]
+- [Fuel]
+```
+Remember, this markdown transformation is based on the given text and aimed to represent the structure and content in a clear and organized manner. Some elements may not be fully represented in markdown due to the differences in formatting capabilities between wiki markup and markdown.
+
+
+
+
+```markdown
+# Thulecite
+
+Thulecite is a valuable resource found in **ruins**, renowned for its versatility and scarcity. To optimize Thulecite and **Thulecite Fragments** collection and usage, heed the following tips.
+
+## Gathering
+
+- **Initial Acquisition**: The first Thulecite/Thulecite Fragments are obtained upon mining the **sinkhole** plug in the **Ruins**.
+- **Ancient Statues**: These statues yield Thulecite when mined, but avoid mining them during high nightmare cycles to prevent shadow creature spawns. Note that the gems they contain change with the nightmare cycle until mined.
+- **Ornate Chests**: Found in Labyrinths, these chests may contain Thulecite and Fragments. Be prepared for **Dangling Depth Dwellers**, which can form large, unavoidable groups in the maze.
+- **Thulecite Walls**: Smashing these walls in the depths can yield Fragments. Always carry a **Hammer** for this purpose.
+- **Ancient Pseudoscience Stations**: Locate the closest station to the entrance of the ruins and protect it. Smash any other stations you find, as they may drop Thulecite and other precious gems.
+
+## Guide
+
+For more detailed guidance on Thulecite gathering and utilization, refer to the provided guide.
+```
+
+
+
+
+```markdown
+# Summer Survival Guide in Reign of Giants (RoG)
+
+## Overview
+Summer is generally considered the toughest of all the RoG seasons, but with a little practice, you'll master surviving them in no time.
+
+## Changes in Summer
+- **Temperature Rise**: The temperature will rise dramatically, which can result in Overheating.
+- **Sudden Fires**: Sudden Fires might break out.
+- **Plant Decay**: Plants will die quickly, and will require more fertilizer.
+- **Extended Daytime**: Summer has the longest days and the shortest evenings.
+
+## Preparation
+If you can, go into the caves. Although in Don't Starve RoG you will overheat, wildfires will not start (in DST, overheating will not be an issue, and like in RoG, wildfires will not start). Though spelunking carries its own, albeit, easily managed, challenges.
+
+Summer starts on day 21 if your world started in Spring, or day 56 if it's your fourth season. Getting prepared will be a lot more difficult if starting in Spring. For beginners, it is advised to start in Autumn as the extra seasons to prepare for Summer are valuable.
+
+You will need plenty of Cut Stone, Gold, Gears, Nitre, Ice, and Cut Grass to start preparations. Start by building an Endothermic Fire Pit close to your original Fire Pit if there is enough room. This will require Nitre, Cut Stone, and Electrical Doodads. This essentially functions as a regular Fire Pit, except that it will keep you cool instead of warm, the light will have a blue tint, and you **cannot cook food on it**.
+
+Next, you will want an Ice Flingomatic. This useful device flings ice at fires and plants, fertilizing them automatically. It has a limited range, so you may need two or three if you have a large base. This will help put out wildfires caused in Summer. Be warned, it will also put out Campfires or Fire Pits, so place it a safe distance from your Fire Pit.
+
+To make an Ice Flingomatic requires 2 Gears, 2 Electrical Doodads, and 15 Ice. It is best to gather Ice during winter, as Mini Glaciers melt shortly after Spring begins.
+
+Food isn't as much an issue in Summer as it is in Winter. Farms will still function, and Berry Bushes will grow back, provided you fertilize them. Rabbits start running again after Spring ends.
+
+You will also want a Thermal Stone. This will lower your temperature if it's frozen. To freeze it, either place it on the ground by a lit Endothermic Fire, or place it in an Ice Box. Certain clothing items will also help keep your temperature at bay, such as the Eyebrella and Umbrella. There are also items like the Fashion Melon and Ice Cube, but these will increase your Wetness, which effectively lowers your temperature at the cost of Sanity.
+
+## The First 5 Days
+The first few days of Summer are alright. The days won't be as long as they could be, you won't Overheat as quickly as in mid-summer, and the first 2 days have no wildfires. Remember to use your Endothermic Fire Pit instead of your regular one. The temperature doesn't lower much during the night, and you will overheat if you stand by a normal fire.
+
+After Spring, rabbit holes will open up again. This allows them to be used as a food source once more. Place Traps in front of their holes to capture them for food.
+
+Just as you should always keep materials for a Fire with you during Winter, always keep the materials for an Endothermic Fire with you during Summer (AKA grass and nitre). Remember that food can't be cooked on an Endothermic Fire, however, normal fires and Crock Pot will work as normal.
+
+## Late Summer
+The days will be getting longer and hotter by this time. You might even get a visit by the Dragonfly if playing Don't Starve, not Don't Starve Together. I recommend not fighting her unless you're feeling confident.
+
+Most likely, all you want to do by now is just sit at your base and wait the rest of the season out. If you have enough food and resources to sustain yourself for a few days, go for it by all means. If you haven't already, you should consider building a Siesta Lean-To with Boards, Grass, and Silk to avoid overheating and restore sanity and Health in the process.
+
+It may also be an opportune time to head to the caves where there is no risk of overheating.
+
+## Congratulations!
+You have survived your first summer! 😊
+
+## Feedback and Suggestions
+Anything I forgot, missed? Feel free to comment your feedback below! Also, feel free to edit this article and add anything you feel is missing! :)
+```
+
+**Categories:**
+-
+
+
+
+
+```markdown
+# Seed Pod / Cooked Seed Pod
+
+## Description
+The **Seed Pod** is a [Food] [Item] exclusive to the **Hamlet** DLC, which drops from [Tea Trees] and can be replanted to grow another one. Eating a Seed Pod can temporarily negate the effects of [Hay Fever] for 60 seconds. Seed Pod and Cooked Seed Pod cannot be used in a [Crock Pot].
+
+## Food Infobox
+- **Health1**: 1
+- **Health2**: 3
+- **Hunger1**: 9.375
+- **Hunger2**: 9.375
+- **Sanity1**: 0
+- **Sanity2**: 0
+- **Spawn Code1**: "teatree_nut"
+- **Spawn Code2**: "teatree_nut_cooked"
+- **Spoil1**: 20 days
+- **Spoil2**: 6 days
+- **Perk**: Can be planted; Negates the effects of Hay Fever for 60/120 seconds.
+- **Stack Limit1**: 40
+- **Stack Limit2**: 40
+
+## Quotes
+- **Wilson**: Stops the seasonal sneezing.
+- **Willow**: I'd burn it but it helps my allergies.
+- **Wolfgang**: Is good for Wolfgang's mighty sneezes.
+- **Wendy**: Makes life barely more livable in allergy season.
+- **WX-78**: MULTI-USE ENERGY CONTAINER
+- **Wickerbottom**: A good antihistamine.
+- **Woodie**: Helps with allergies, eh.
+- **Maxwell**: I'll need this for hayfever season.
+- **Wagstaff**: My stomach condition prevents me from partaking in its health benefits.
+- **Wigfrid**: Its lack of meat offends me.
+- **Webber**: It helps with our sneezes.
+- **Walani**: I heard it's good for allergies.
+- **Warly**: More useful as medicine than in my recipe.
+- **Woodlegs**: A botan'cal barber-surgeon.
+- **Wilba**: TO EAT OR NOT TO EAT
+- **Wormwood**: Want in belly? Or dirt?
+- **Wheeler**: Good enough to eat. Or fire out the Pew-matic.
+
+## Cooked Seed Pod
+Cooked Seed Pod is a Food item made by Cooking a Seed Pod on a Campfire, Fire Pit, or other viable source of fire. Cooked Seed Pods have better restoring values than its raw counterpart, as it restores 10 hunger and 3 health, and will prevent sneezing for 120 seconds (instead of 60) when eaten. However, its spoilage time is much shorter (6 days).
+
+## Quotes (Cooked)
+- **Wilson**: Take that, tiny tree!
+- **Willow**: I set it on fire so now I can eat it.
+- **Wolfgang**: Wolfgang eat tiny tree baby.
+- **Wendy**: I killed it to prolong my own life.
+- **WX-78**: BIOLOGICAL ENERGY PACKET
+- **Wickerbottom**: I'd prefer a proper cup of tea.
+- **Woodie**: Too late to plant this now.
+- **Maxwell**: I'll eat it but I won't like it.
+- **Wagstaff**: Of a chewy consistency. Evidently, it's good for you.
+- **Wigfrid**: Even touched by fire, I will not consume it!
+- **Webber**: Yummy.
+- **Walani**: A good meal for little effort.
+- **Warly**: Not the finest of fine foods.
+- **Woodlegs**: Grub.
+- **Wilba**: FWOOSH'DED NUT O' THE SQUIRRELY TREE
+- **Wormwood**: Not for dirt now
+- **Wheeler**: For chewing or pew-ing.
+
+## Tips
+- **Wigfrid** is currently unable to eat Seed Pods, so the player will want to have a **Gas Mask** prepared before the **Lush Season** begins to avoid **Hay Fever**. **Wormwood** is immune to Hay Fever, so he doesn't need to eat Seed Pod.
+- Utilizing nothing but raw Seed Pods the player will need to amass 96 of them to sustain each **Lush Season**. In actual fact this number is slightly lower due to the slight delay of Hay Fever's effects.
+- Utilizing nothing but cooked Seed Pods the player will need to amass 48 of them to sustain each **Lush Season**. In actual fact this
+
+
+
+
+```markdown
+# Mactusk Forest
+
+- **Don't Starve Together Exclusivity**: This biome is exclusive to Don't Starve Together.
+- **Description**: Forest hunters.
+- **Image**: ![DST_Forest_hunters_Icon](DST_Forest_hunters_Icon.jpg)
+- **Abundant Resources**:
+  - ![Evergreen](Evergreen.png)
+  - ![Lumpy Evergreen](Lumpy Evergreen.png)
+  - ![Grass Tuft](Grass Tuft.png)
+  - ![Sapling](Sapling.png)
+  - ![Flower](Flower.png)
+  - ![Carrot](Carrot.png)
+  - ![Crow](Crow.png)
+  - ![Redbird](Redbird.png)
+  - ![Berry Bush](Berry Bush.png)
+- **Occasional Resources**:
+  - ![Pond](Pond.png)
+  - ![Rabbit Hole](Rabbit Hole.png)
+  - ![Burrow](Burrow.png)
+  - ![Juicy Berry Bush](Juicy Berry Bush.png)
+  - ![Flint](Flint.png)
+  - ![Boulder](Boulder.png)
+  - ![Twiggy Tree](Twiggy Tree.png)
+  - ![Spider Den](Spider Den.png)
+  - ![Pig House](Pig House.png)
+  - ![Evil Flower](Evil Flower.png)
+  - ![Headstone](Headstone.png)
+  - ![Suspicious Moonrock](Suspicious Moonrock.png)
+  - ![Moon Rubble](Moon Rubble.png)
+- **Rare Resources**:
+  - ![Sinkhole](Sinkhole.png)
+  - ![Worm Hole](Worm Hole.png)
+  - ![Totally Normal Tree](Totally Normal Tree.png)
+  - ![Walrus Camp](Walrus Camp.png)
+  - ![Moon Stone](Moon Stone.png)
+- **Turf Types**:
+  - ![Grass Turf](Grass Turf Texture.png)
+  - ![Forest Turf](Forest Turf Texture.png)
+
+The Mactusk Forest is a biome that always spawns in the world, consisting of 3 different turfs that divide the biome into several parts. On this biome, you can find Conspicuous Chest Set Piece, Junk Yard, and Chess Set Piece.
+
+On Forest Turf, you can find Evergreens, Lumpy Evergreens, Grass Tufts, Saplings, and other common forest objects. With some chance, you can find a Totally Normal Tree here. You can also find a lot of Spider Dens here and Pig Houses. Sometimes you can find Spider Dens. On Forest Turf, there is always a little Grass Turf area with a Moon Stone at the center and some Moon Rubles and Suspicious Moonrocks.
+
+On Grass Turf, you can always find one Walrus Camp.
+
+## Gallery
+
+| Image | Description |
+|-------|-------------|
+| ![MoonStoneSetPiece](MoonStoneSetPiece.png) | The Moon Stone set piece. |
+| ![Activated Moon Stone](Activated Moon Stone.png) | An activated Moon Stone during a Full Moon. |
+
+## Biomes
+```
+
+
+
+
+```markdown
+# Scorpion
+
+**Exclusive to:** Don't Starve: Hamlet DLC
+
+## Mob Infobox
+
+- **Image:** Scorpion.png
+- **Health:** 200
+- **Damage:** 20
+- **Attack Period:** 3
+- **Attack Range:** 3
+- **Walk Speed:** 3
+- **Run Speed:** 5
+- **Sanity Aura:** -25
+- **DLC:** Hamlet
+- **Special Ability:** Inflicts poison
+- **Drops:**
+  - Monster Meat: 100%
+  - Venom Gland: 30%
+  - Stinger: 30%
+  - Chitin: 30%
+- **Spawns From:**
+  - Rainforest Tree
+  - A Smashing Pot
+- **Spawn Code:** "scorpion"
+
+## Quotes
+
+- Wilson: That better not be poisonous.
+- Willow: Ugh, gross!
+- Wolfgang: Stay away from Wolfgang!
+- Wendy: One sting and it could be over.
+- WX-78: STINGY INSECT UNIT
+- Wickerbottom: Scorpiones. But I'm not sure of which subspecies.
+- Woodie: Keep out of my boots.
+- Maxwell: You'll not be stinging me.
+- Wagstaff: A wonderful example of a predatory arachnid! And poisonous to boot!
+- Wigfrid: Yöur pöinty tail is nö match för me!
+- Webber: Hello, fellow arachnid.
+- Walani: Too close, scary dude!
+- Warly: Fried scorpion? Too dangerous.
+- Woodlegs: 'Tis a terrible foe t'be sure.
+- Wilba: THEREBY HANGS A TAIL
+- Wormwood: Stabby bzzter
+- Wheeler: Keep your stinger to yourself, mister!
+- Choose: Wendy
+
+## Description
+
+The **Scorpion** is a hostile mob exclusive to the "Don't Starve: Hamlet" DLC. It can be found in Ruins, under Stone Slabs, or from chopped Rainforest Trees. It can also spawn in all sorts of caves, such as Cave Clefts or Mant Hills, or falling from above during a Cave-in.
+
+This mob is very aggressive and will attack nearly everything that crosses its path, with the ability to inflict poison when attacking with its sting. It also has the ability, after being hit, to reel back against its attacker and charge again shortly after, making it difficult to kite in tight spaces. The charge cannot poison, however, and it must attack within melee range to inflict the status.
+
+After reeling back, the Scorpion will only charge the player if they are outside of its normal attack range. An effective tactic is to hit them and then chase them during their retreat. This will force them to perform a normal melee attack instead of a charge, which can be easily avoided with a back step and followed up with another strike on the Scorpion. Take care when using this method, as their follow-up attack may be a stinger attack, inflicting poison. Scorpion is one of the few mobs that have the ability to dodge stunlocks.
+
+Scorpions can be caught in Traps, killing them instantly and giving their drops as if they had died in combat.
+
+## Trivia
+
+- It appears to use the same model of behavior as the Spider, as they do the same death, eat, hit, and sleep actions.
+- Even though scorpions are not insects in real life, the Scorpion is tagged as an "insect" in the game files. Additionally, Wormwood calls it a "bzzter."
+
+## Gallery
+
+<gallery>
+Scorpion Sleeping.png|A sleeping Scorpion.
+Scorpion Dead.png|A dead Scorpion.
+</gallery>
+
+## Categories
+
+- Hamlet
+- Monsters
+- Hostile Creatures
+- Venomous
+- Sanity Loss
+- Nocturnals
+```

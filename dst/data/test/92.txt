@@ -1,0 +1,64 @@
+```markdown
+# Beefalo Horn
+
+## Navbutton/Separation
+
+## Structure Infobox
+- **icon**: Beefalo Horn.png
+- **image**: Beefalo Horn Dropped.png
+- **droppedBy**: Beefalo (33%)
+- **soldBy**: The Sty Oddities Emporium (Oinc ×5) Hamlet icon
+- **durability**: 10 uses (Playing Tools)
+- **stack**: Does not stack
+- **spawnCode**: "horn"
+
+## Quotes
+- **Wilson**: It sounds like a beefalo field in there.
+- **Willow**: I can hear those hairy beasts inside.
+- **Wolfgang**: Is hair-cow horn. Wolfgang hear hair-cow.
+- **Wendy**: It sounds like there's a beefalo trapped inside.
+- **WX-78**: UNHYGIENIC
+- **Wickerbottom**: What an excellent specimen! I can almost hear the beefalo.
+- **Woodie**: I don't know if I should put my mouth on that.
+- **Maxwell**: Call forth the beasts!
+- **Wagstaff**: Durable and convenient for carving, similar to the tusks from home.
+- **Wigfrid**: Höw I löng för battle.
+- **Webber**: If this makes a mating call we're in trouble.
+- **Walani**: It's a big animal horn.
+- **Warly**: There's still some hairs inside.
+- **Woodlegs**: Play th' song o'th'Beefalo.
+- **Wilba**: COME'ST FROM BIG MONSTER
+- **Wormwood**: Branch?
+- **Wheeler**: Meh. I like horn mine better.
+- **Winona**: Watch out for the business end!
+- **Wortox**: Phew! Not one of mine.
+- **Wurt**: Toot toot!
+- **Walter**: That'll make a decent bugle.
+- **Wanda**: It belonged to a beefalo in the past.
+- **Choose**: Wilson
+
+## File: Wilson using a Beefalo Horn
+![Wilson using a Beefalo Horn](Wilson blowing Beefalo Horn.jpg)
+
+## File: Beefalo Hold
+![Using the Beefalo Horn to lead Beefalo into a pen](Beefalo Hold.png)
+
+A Beefalo Horn is an Item dropped 33% of the time after killing a Beefalo. When blown, the Beefalo Horn uses 10% of its durability and causes up to 5 grown Beefalo to follow the character for the rest of the current day or until they meet up with the player, as at night Beefalo will stop following and go to sleep. They will move at their walking speed and will not fight hostile creatures the way that following Pigs do. Baby Beefalo still follow their parents, which means that they will also move; however, the Horn will not cause them to leave their parents.
+
+The Beefalo will stay in the general area they last slept. This way, it is possible to lead them into a walled "pen" (so they won't wander off) close to a camp for a steady supply of Manure, Beefalo Wool, and/or Meat. Be careful, though - when mating season comes, having them too close to camp can be a nightmare, as they will smash walls and cause a lot of damage before the player has much time to react.
+
+Beefalo Horns can also be used to calm Beefalo who have been angered. However, a Beefalo in heat will continue to attack if too close.
+
+## Usage
+### Recipe 
+- **item1**: Beefalo Wool
+- **count1**: 8
+- **item2**: Beefalo Horn
+- **tool**: Science Machine
+- **result**: Beefalo Hat
+
+## Tips
+- Use the Beefalo Horn during mating season to make killing Treeguard, the Deerclops, Spider Queens, and other Monsters easier.
+- Beefalo will follow the player through Worm Holes when the horn is used, making it handy to move herds to new locations where they may be sparse.
+- When herding Beefalo into a pen, it is helpful to have them follow at dusk. Even though only 5 of them will follow the player at once, the remaining herd will follow suit as they attempt to keep the group together. As an additional benefit, the entire herd will stay wherever they were put when they go to sleep.
+- If penning Beefalo in a walled area, it is best to keep the pen several screen lengths away from a base camp. During mating season, the herd will break down walls to get to any mob that wanders too close. By keeping them a few screens away, they are

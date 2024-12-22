@@ -1,0 +1,54 @@
+```markdown
+# Star Caller's Staff
+
+The **Star Caller's Staff** is a craftable [[Item]] found in the [[Ancient Tab]]. It requires 4 [[Nightmare Fuel]], 2 [[Living Log]]s, 2 [[Yellow Gem]]s, and a broken [[Ancient Pseudoscience Station]] to craft. It also can randomly drop from an Ancient Pseudoscience Station when damaged with a [[Hammer]], [[Gunpowder]] etc., and has a 25% chance to be found inside a [[Large Ornate Chest]]. Like all items from the Ancient Tab, Star Caller's Staves cannot be prototyped and can only be made near an Ancient Pseudoscience Station.
+
+With each use of the staff, the Survivor holding it will lose 20 {{sanity}} and the Staff will lose 5% of its [[Durability]] to summon a Dwarf Star. Due to the nature of [[Darkness]], the Dwarf Star cannot be summoned directly in the middle of Darkness, so more preemptive measures are needed to avoid being bitten by the Night Monster.
+
+## Dwarf Star
+
+### Object Infobox
+- **name**: Dwarf Star
+- **image**: Dwarf Star.gif
+- **perk**: Provides light, heat.<br>Can cook.
+- **durability**: 3.5 days
+- **sanitybonus**: +25/min<br>+35/min ([[File:Willow Portrait.png|24px|link=Willow]])
+- **spawnCode**: "stafflight"
+- **spawnFrom**: {{pic24|Star Caller's Staff}}, {{pic|24|Ancient Pseudoscience Station}} ({{pic24|Hammer}})
+
+When equipping the Star Caller's Staff in the hand slot, it can be used on any visible point on the ground to summon a Dwarf Star (it can also be randomly summoned by hitting an [[Ancient Pseudoscience Station]] with a hammer).
+
+A single Dwarf Star will last 28 minutes (3.5 in-game days). With 20 uses, this means a single staff will yield a total of 70 days of Dwarf Stars. During that time it provides a fluctuating radius of light, heat equivalent to that of a 3rd tier [[Campfire]] fire (180 units; the 4th and highest tier is 220 units of heat) and a [[Sanity]] boost of 25 {{sanity}} per minute while standing near it.
+
+The Dwarf Star can also be used to [[Cooking|cook]] [[Food]], similar to a Campfire. It can also burn flammable objects that are too close to it, so caution is advised as to where the staff is used.
+
+## Downloadable Content
+
+In the ''[[Reign of Giants]]'' DLC, the Dwarf Star provides the highest amount of heat instead (more than a fully fueled Fire Pit) and standing near it for too long can cause [[Overheating]], even during [[Winter]].
+
+## Tips
+
+* It's a good idea to equip a [[Construction Amulet]] when crafting this Staff, to save one [[Yellow Gem]].
+* While the Staff cannot be used in the dark, it can still be used a few seconds before complete darkness settles in. The light given off when summoning the Dwarf Star will provide protection from [[Charlie]].
+* Staying close to the Dwarf Star will cause a net bonus of 30{{sanity}}. Excluding outside factors, this results in no Sanity cost from using the Staff.
+  * [[Willow]]'s Sanity regeneration perk works with the Dwarf Star too resulting in 50{{sanity}} recovered.
+  * There is no limit to the amount of Dwarf Stars that players can summon at the same time and their Sanity boosts stack with each-other. This means that players can summon multiple Dwarf Stars at the same spot to boost their Character's Sanity quicker.
+
+## Trivia
+
+* The Star Caller's Staff was added in the ''[[Don't Starve/Version History|Hungry For Your Hunger]]'' update. Its crafting requirement was changed during the ''[[Don't Starve/Version History|Stuff of Nightmares]]'' update.
+
+## Gallery
+
+<gallery captionalign="center" hideaddbutton="true">
+Star Caller.jpg|[[Wolfgang]] holding the Star Caller's Staff.
+Star Caller's Staff Usage.png|Wolfgang using a Star Caller's Staff.
+Star Cooking.png|[[Wickerbottom]] cooking a [[Carrot]] with a Dwarf Star.
+Star_Caller_Staff_Trailer.jpg|Willow holding a Star Caller's Staff, as seen in the ''A New Reign: Part 1'' trailer.
+Dwarf Star Old.png|Old Dwarf Star appearance.
+Star-day.png|Old Dwarf Star during [[Day]].
+Star-dusk.png|Old Dwarf Star during Dusk.
+Star-night.png|Old Dwarf Star during Night.
+</gallery>
+
+[[vi

@@ -1,0 +1,2702 @@
+```markdown
+# TEX File Format
+
+**TEX** is a file format used for compressing textures in *Don't Starve* and *Don't Starve Together*. It is derived from the DXT ([Wikipedia:S3 Texture Compression](https://en.wikipedia.org/wiki/S3_Texture_Compression)) file format. Sometimes unimplemented items and character portraits can be found by opening TEX files from the game files.
+
+Most images or icons in this wiki are directly converted from TEX files.
+
+## TEX Location
+
+TEX files in *Don't Starve* are usually located under `Don't Starve\data`.
+
+Here is a list of useful TEX locations:
+- `Don't Starve\data\bigportraits`
+- `Don't Starve\data\images`
+- `Don't Starve\data\inventoryimages`
+- `Don't Starve\data\minimap`
+- `Don't Starve\data\portraits`
+
+When doing actions involving core game files, one should be careful and make a backup.
+
+## TEX Decompression
+
+To read a TEX file, it is required to decompress it into any visible image format (usually PNG).
+
+Here is the tool provided by Matt, [TEXTool](http://forums.kleientertainment.com/files/file/73-matts-tools/).
+
+## Gallery
+
+| Image | Description |
+|-------|-------------|
+| ![Deerclops tex file](Deerclops%20build%20.Tex%20file.png) | [[Deerclops]]' tex file |
+| ![Spider Queen tex file](Spider%20queen%20.tex%20.png) | [[Spider Queen]] tex file |
+| ![Hound Tex file](Hound%20build%20.tex.png) | [[Hound]] Tex file |
+| ![Splumonkey Tex file](Splumonkey%20raw%20files.png) | [[Splumonkey]] Tex file |
+| ![Depths Worm Tex file](WormRaw.png) | [[Depths Worm]] Tex file |
+| ![Krampus Tex file](Krampus_build_.Tex_file.png) | [[Krampus]] Tex file |
+| ![Water Beefalo Tex file](Water%20Beefalo%20TEX.png) | [[Water Beefalo]] Tex file |
+| ![Yaarctopus Tex file](Yaarctopus_TEX_File.png) | [[Yaarctopus]] Tex file |
+| ![Diseased Sapling tex file](Deseased%20Sapling%20tex.png) | [[Disease]]d [[Sapling]] Tex file |
+| ![Unused Screecher files for the Child](Child.png) | Unused [[Screecher]] files for the Child | [Screecher] |
+| ![Unused Screecher files for the demon child](Demon%20child.jpg) | Unused [[Screecher]] files for the demon child |
+| ![Unused Screecher files for the Camp Leader](Campleader.png) | Unused [[Screecher]] files for the Camp Leader |
+| ![WX-78 Tex files](Wx-78.png) | [[WX-78]] Tex files |
+| ![Unused files for the Slipstor](Slip%20Texture.png) | Unused files for the Slipstor |
+
+### Category: Programming
+```
+
+
+
+
+# Making the Best and Most Advanced Base/World for Experienced Players
+
+Take a look at my other guide, [Renewable Farming](https://example.com/Guides/Renewable Farming), for ways to make efficient farms in detail for things this guide doesn't cover.
+
+## Location, Location, Location
+
+Before you improve your base, you need to have one. But where should you build it? You COULD just build anywhere, but the best bases are located in specific locations. The best place to build your base would be somewhere that has resources that cannot be moved to your base, like rabbit holes or Boons. However, people who want to just survive easily may just build where there is, for example, a beefalo herd or a lot of berry bushes. Now I will list some places you should build your base and the benefits of doing so. Keep in mind that some of the places could be spawn near each other in world generation, which are the best spots for main bases.
+
+### Rabbit Holes
+
+It can be beneficial to build a base near large groups of rabbit holes, which are normally found in the [Savanna Biome](https://example.com/Savanna). During the day, these holes will spawn [Rabbits](https://example.com/Rabbits), which have a variety of uses. They can be caught with [Traps](https://example.com/Traps) and harvested for [Morsel](https://example.com/Morsel)s, or kept alive and used to craft a [Prestihatitator](https://example.com/Prestihatitator) or [Rabbit Earmuffs](https://example.com/Rabbit Earmuffs). It is also a good idea to have chests designated for rabbits and or birds as they can be stored alive indefinitely (Note that this is not possible in DLC-enabled worlds). Additionally, if the player's sanity is low enough, rabbits will turn into [Beardlings](https://example.com/Beardlings), which are a source for [Beard Hair](https://example.com/Beard Hair). Since rabbits will spawn in any season except [Spring](https://example.com/Spring), having rabbit holes close-by can also be advantageous during [Winter](https://example.com/Winter), when other sources of food may be scarce. It is possible to place traps on the rabbit hole to avoid using resources to bait the trap.
+
+### Tallbird Nests
+
+You may find tallbird nests in rocky biomes. It is best to be near, but not too close because the tallbirds can be a trouble if you build your base right on top of one. The tallbirds can be killed to receive meat and will respawn after 2.5 days. The eggs can be harvested to provide a good boost to hunger or be hatched to provide a smallbird follower. But players will need to be wary since as the smallbird gets older, it will act aggressive and can possibly kill the player if not prepared.
+
+### [Pig Villages](https://example.com/Pig Villages)
+
+Pig Villages are home to [Pigs](https://example.com/Pigs), sentient creatures that can be allied with [Meat](https://example.com/Meat) and can be used to help in combat or chores. Most Pig Villages also have lots of [Berry Bush](https://example.com/Berry Bush)es, [Grass](https://example.com/Grass)/[Twigs](https://example.com/Twigs), [Flowers](https://example.com/Flowers), [Carrots](https://example.com/Carrots), sometimes a [Touch Stone](https://example.com/Touch Stone), or rarely a [Pig King](https://example.com/Pig King), who is a valuable source of [Gold Nuggets](https://example.com/Gold Nuggets) due to trading. Giving him [Gravedigger Items](https://example.com/Gravedigger Items) or Meat will result in being rewarded with lots of Gold Nuggets which comes in useful for crafting several Science items.
+
+Be aware, however, that the only non-replicable benefit of a Pig Village is the Pig King, which exists up to once per world. Therefore, once players have a sufficient supply of Gold Nuggets, building a Pig Village of your own is more practical.
+
+### [Walrus Camp](https://example.com/Walrus Camp)
+
+The Walrus Camp is a structure only active during Winter, in which it becomes the Walrus Camp, which will start spawning the [Mactusk N' Son](https://example.com/Mactusk N' Son) Walrus Hunting Party, a
+
+
+
+
+```markdown
+# Exclusivity: Don't Starve Together
+
+## Removed
+
+![Tab Icon](Icon Engineering.png "Tab Icon"){: width="104px" height="104px"}
+
+> "Not a bad result considering the materials." - Winona
+
+## Engineering Tab
+
+The **Engineering Tab** was a **Don't Starve Together** exclusive tab that was only available to **Winona**.
+
+As of the **March 2022 QoL update**, the Engineering Tab has been removed from **Don't Starve Together**. The items are now found under the **Survivor Items Filter** as well as under item-specific **filters**.
+
+## Craftable Items and Structures
+
+The following items and structures could be crafted in the Engineering Tab:
+
+| Item/Structure | Image | Link |
+|----------------|-------|------|
+| Trusty Tape | ![Trusty Tape](Trusty Tape.png "Trusty Tape") | [Trusty Tape](Trusty Tape) |
+| Winona's Catapult | ![Winona's Catapult](Winona's Catapult.png "Winona's Catapult") | [Winona's Catapult](Winona's Catapult) |
+| Winona's Spotlight | ![Winona's Spotlight](Winona's Spotlight.png "Winona's Spotlight") | [Winona's Spotlight](Winona's Spotlight) |
+| Winona's Generator | ![Winona's Generator](Winona's Generator.png "Winona's Generator") | [Winona's Generator](Winona's Generator) |
+| Winona's G.E.M.erator | ![Winona's G.E.M.erator](Winona's G.E.M.erator.png "Winona's G.E.M.erator") | [Winona's G.E.M.erator](Winona's G.E.M.erator) |
+
+## Trivia
+
+* A concept for a mechanized **Bernie** structure for **Winona** was shown during **Rhymes with Play** #228. It was part of an idea that Winona would provide upgrades to the other survivors' abilities, which was scrapped in favor of exclusive structures unique to Winona.
+
+## Gallery
+
+![Early concept art for Winona's gadgets from Rhymes With Play #228](RWP 228 Winona's Gadgets.png "Early concept art for Winona's gadgets from Rhymes With Play #228")
+
+[vi:Thẻ Kỹ Thuật]
+```
+
+
+
+
+```markdown
+# Farm Soil
+
+## Object Infobox
+- **Name:** Farm Soil
+- **Image:**
+  - ![](Farm_Soil.png) Normal
+  - ![](Farm_Soil_Planted_Seed.png) Seeded
+  - ![](Farm_Soil_Collapsed.png) Collapsed
+- **Perk:** Support for farming
+- **Spawn Code:** `farm_soil`
+
+## Description
+Farm Soil is an object exclusive to **Don't Starve Together**, introduced in the **Return of Them** update.
+
+Farm Soil only appears on Farm Soil Turf. It is created with a Garden Digamajig or with a Garden Hoe. It is the base support to farm Farm Plant by planting Plant Seeds or regular Seeds.
+
+A Fruit Fly plants Weeds on all Farm Soil in its sight.
+
+## Farm Soil Turf
+### Turf Infobox
+- **Name:** Farm Soil
+- **Image:** ![](Soil_Texture.png)
+- **Perk:**
+  - Can be hilled by Garden Hoe
+  - Can be fertilized
+
+### Description
+Farm Soil Turf is a Turf exclusive to **Don't Starve Together**, introduced in the **Return of Them** update.
+
+Farm Soil Turf is created by a Garden Digamajig. It contains Farm Soil used to grow. It can be removed with a Pitchfork but yields no item. The original tile is conserved under the Farm Soil Turf.
+
+Each farm soil tile has its own moisture and quantity of nutrients, and there are no exchanges between tiles. Plant growth is affected only by the tile on which they are planted.
+
+## Trivia
+- The Farm Soil and the Farm Soil Turf were introduced in the **Reap What You Sow** update.
+
+## Gallery
+<details>
+  <summary>Click to expand gallery</summary>
+  <img src="Growth_Formula_Overlay_Full.png" alt="Full growth formula overlay, as seen with a Premier Gardeneer Hat.">
+  <img src="Compost_Overlay_Full.png" alt="Full compost overlay, as seen with a Premier Gardeneer Hat.">
+  <img src="Manure_Overlay_Full.png" alt="Full manure overlay, as seen with a Premier Gardeneer Hat.">
+</details>
+
+## Structures and Turfs
+<details>
+  <summary>Click to expand structures and turfs</summary>
+
+### Structures
+- (Structures list here)
+
+### Turfs
+- (Turfs list here)
+</details>
+
+## External Link
+- [vi:Farm Soil](#)
+```
+
+
+
+
+```markdown
+# Jungle Turf
+
+**Exclusivity:** Shipwrecked  
+**Item Info:**
+- **Dropped by:** Jungle Turf tiles
+- **Stack:** 10
+- **Burn Time:** 90/45 sec
+- **Spawn Code:** "turf_jungle"
+
+**Turf Info:**
+- **Image:** Jungle Turf Texture.png
+- **Pitchfork:** 1
+- **Planted:** 1
+
+**Quotes:**
+- Wilson: "Very gnarled ground."
+- Willow: "The ground is boring."
+- Wolfgang: "Step stones."
+- Wendy: "A gnarled and twisted surface."
+- WX-78: "TANGLY"
+- Wickerbottom: "The ground. You step on it."
+- Woodie: "Just some ground, eh?"
+- Maxwell: "It appears to be some turf."
+- Wagstaff: "Fertile land."
+- Wigfrid: "Yöu cöuld löse yöürself in this..."
+- Webber: "Some ground we dug up."
+- Walani: "Gnarled-ly."
+- Warly: "It's like an ingredient for the ground."
+- Woodlegs: "Me ain't no ground lubber."
+- Wilba: 'TIS GROUND
+- Wormwood: "Dirt"
+- Wheeler: "Do I really need to drag this dirt around with me?"
+- Choose: Wilson
+
+## Description
+Jungle Turf is one of the Turf Items exclusive to the Don't Starve: Shipwrecked DLC, acquired by digging Jungle tiles with a Pitchfork. Like other Turfs, it can be placed on any bare ground tile or used as fuel.
+
+Plants like Berry Bushes, Grass Tufts, Saplings, Spiky Bushes, Lureplants, Bamboo Roots, Viney Bush Roots, Coconuts, and Jungle Tree Seeds can be planted on these Turfs. It will not also stop the Lureplants' Eyeplants from spawning. Floods, however, can spawn on this turf.
+
+When placed on the Surface World covering a large enough area, Parrots and Parrot Pirates are the only Birds that will spawn and land on these turfs. During Hurricane Season, there are no birds that spawn and land on these turfs.
+
+## Gallery
+<details>
+<summary>Click to expand gallery</summary>
+<img src="Jungle Turf Texture.png" alt="Jungle Turf texture">
+<img src="Jungle Stand.png" alt="Wilson standing on Jungle Turf">
+<img src="Jungle Map.png" alt="Jungle Turf as seen on the Map">
+</details>
+
+## Categories
+- Turfs
+- Items
+- Naturally Spawning Objects
+- Non-Renewable
+- Fuel
+- Flammable Objects
+- Shipwrecked
+
+[es: Suelo de Jungla]
+```
+
+
+
+
+```markdown
+# Temperate Season
+
+The **Temperate Season** is one of three **Seasons** in the **Don't Starve: Hamlet** DLC, starting at day 1 and ending on day 11, for a total of 11 days. Temperate Season is the first season players encounter and is the equivalent to **Autumn** in **Don't Starve: Reign of Giants**, or **Mild** in **Don't Starve: Shipwrecked**.
+
+## Overview
+During this season, rain and thunderstorms will occur for short periods of time. **Glowflies** will spawn from **Exotic Flowers** during this season, and near the end of the season they will form cocoons in the **Rainforest** which will produce **Rabid Beetles** when the season ends.
+
+## Transition
+Temperate Season leads to **Humid Season**, so players should spend their first Temperate Season preparing for the coming fog and lightning storms. The first 20 or so days should be spent collecting rare resources, such as gold, gems, and silk.
+
+## Gameplay Information
+- [vi:Mùa Ôn Hòa](#)
+```
+
+
+
+
+```markdown
+# Down Feather
+
+## Overview
+- **Item**: Down Feather
+- **Source**: Don't Starve: Reign of Giants DLC
+- **Dropped By**: Moose and Mosling
+- **Sold By**: The Sty Oddities Emporium in Pig City for 40 Oincs each
+- **Stack**: 10
+- **Spawn Code**: goose_feather
+- **Exclusivity**: Reign of Giants, Hamlet, Don't Starve Together
+
+## Quotes
+- Wilson: Fluffy!
+- Willow: So snuggly!
+- Wolfgang: Tickle tickle tickle!
+- Wendy: Plucked like Abigail was from me.
+- WX78: FEATHERS FROM STRANGE LIFEFORMS
+- Wickerbottom: Soft body down! Makes me wish I could sleep.
+- Woodie: Pillowy plumage.
+- Maxwell: I could use a pillow filled with these.
+- Wagstaff: Holds a strange connection to the elements.
+- Wigfrid: A shieldmaiden deserves a soft bed of down.
+- Webber: Tickle torture.
+- Walani: It's soft but... a bit grimy.
+- Warly: A plucked goose was here.
+- Woodlegs: That bird must be huge!
+- Wilba: WHEREFORE REST OF BIG BIRD?
+- Wormwood: Tickles. Hehe!
+- Wheeler: This would be useful if I could find more of them.
+- Winona: I could think of one or two uses for that, tops.
+- Wortox: This feather may help one brave hot weather.
+- Wurt: Stole it from goose, florp!
+- Walter: Goosey.
+- Wanda: I'm sure I'll find a use for it sooner or later.
+
+## Usage
+Down Feathers can be used to craft a Luxury Fan or a Weather Pain.
+
+### Luxury Fan Recipe
+- **Down Feather**: 5
+- **Cut Reeds**: 2
+- **Rope**: 2
+- **Tool**: Alchemy Engine
+- **Result**: Luxury Fan
+
+### Weather Pain Recipe
+- **Down Feather**: 10
+- **Volt Goat Horn**: 1
+- **Gears**: 1
+- **Tool**: Alchemy Engine
+- **Result**: Weather Pain
+
+## Trivia
+- Down is a layer of soft feathers underneath a bird's exterior feathers used as an insulator and padding.
+
+## Categories
+- Items
+- Mob Dropped Items
+- Reign of Giants
+- Boss Dropped Items
+- Resources
+```
+
+
+
+
+```markdown
+# Caves Exploration in Don't Starve
+
+## Time
+While time passes in caves, it's hard to keep track of the actual time. You can gauge the passage of days by listening to the game's music. Despite the clock not showing, you still need to wait for nighttime to sleep in tents to regain sanity. Day/night cycles can be determined by the mushrooms that are up for harvest and the behavior of bunnymen. If the sun is up, you can see the clock by walking under a 'light hole'.
+
+## Weather
+In the base game, there is no weather in caves, making them a good place to hide during winter. However, in the Reign of Giants expansion, outside weather and temperature affect caves to a lesser extent. Rain increases wetness, heat can cause crops to wither and overheat the player, and cold can freeze the player.
+
+## Light
+Caves lack natural light, and standard lighting rules still apply. You must always carry a light source to avoid encounters with Charlie. A Miner Hat is the best initial light source, but with the addition of Lanterns, you can use torches to find the first Light Bulbs required for your first Lantern. An Alchemy Engine is needed to prototype the Lantern, so having one ready is advised.
+
+Remember, you cannot turn off placed Lanterns if there's not enough light to see them, and you won't be able to turn them back on or pick them up. You can refuel your Lantern with Light Bulbs or Slurtle Slime, the latter being preferable due to the limited uses for Light Bulbs. Light Bulbs perish in 6 days, so stockpiling them is risky.
+
+## Armor and Weapons
+Spelunking is a late-game activity, so you should have at least a log suit equipped and a backup in your inventory. With a lantern and helmet, wearing a backpack is fine. Tentacle spikes are good weapons for caves, and a ham bat can be used to gauge time.
+
+## Sanity
+Sanity is gradually drained while spelunking and requires multiple solutions to maintain. It can be regained by sleeping in a tent or eating Taffy. Taffy restores 15 sanity, but it rots, so it's only a short-term option. The Tam o' Shanter restores sanity at a rate that offsets the drain from being in a cave, allowing for long-term cave dwelling.
+
+Flowers and bees can help maintain sanity. Carrying live butterflies into caves, planting them as flowers, and releasing bees can produce flowers that restore 5 sanity each. Edible meat sources like ponds for frogs and fish can be used to make jerky on drying racks. Small jerky restores 10 sanity, while large jerky restores 15.
+
+Underground mushrooms are a valuable source of sanity but are non-renewable. In Reign of Giants, mushrooms will respawn due to rain in caves.
+
+## Food
+Food is a concern in caves. Stock up on jerky and consider building a small base camp with a crockpot and jerky rack. Farms work underground, but plants take longer to grow in complete darkness. Building farms in fields of Light Flowers can help. Guano is plentiful underground, allowing for faster plant growth.
+
+## Depths Worm
+Depths Worms are a significant threat in caves. They have 900 health and can cause 75 damage per bite. Tooth traps are ineffective, but bee mines work well. Building Rabbit Hutches in areas known to have Depth Worms is the best defense, as Bunnymen will attack them.
+
+## Spiders
+Caves have Cave Spiders and spitters. Cave Spiders retreat into their shells when attacked, and their nests can be destroyed with a pickaxe. Rock Lobsters can be hired to kill Cave Spiders.
+
+## Slurtles & Snurtles
+Slurtles move slowly but have high health. It's recommended to have a weapon better than a spear and carry a Log Suit or higher. They retreat into their shells when attacked, and broken shells drop as fragments.
+
+## Bunnymen
+Bunnymen are hostile if you carry meat. Carrots can make them short-term allies. They are easy to kill if you hire Rock Lobsters, and they make efficient defenses against Depth Worms.
+
+## Rock Lobsters
+Rock Lobsters are great for clearing paths in caves. Hiring 4-5 at a time is recommended. Due to their slow movement speed, you must kite enemies towards the Rock Lobsters.
+
+## Batilisks
+Batilisks behave differently at different times. They are worth farming for their drops and Guano, which is better for fertilizing crops than manure.
+
+## Sinkholes
+Sinkholes are the entrance to caves, usually found near graveyards and the Pig King. There are three sinkholes in the world. They can be mined with a pickaxe to access the cave. Beware of batilisks and other mobs during dusk/night. Build a h
+
+
+
+
+```markdown
+# Painted Biome
+
+## Exclusivity
+- Exclusive to the **Hamlet** DLC.
+
+## Incomplete
+- Information may be incomplete.
+
+## Biome Information
+### Overview
+- **Box Title:** Painted Biome
+- **Image:** ![Painted Icon](Painted Icon.png)
+- **Abundant:**
+  - ![Tuber Tree](data:image/png;base64,...) (32x32)
+  - ![Thundernest](data:image/png;base64,...) (32x32)
+  - ![Thunderbird](data:image/png;base64,...) (32x32)
+  - ![Iron Ore](data:image/png;base64,...) (32x32)
+  - ![Crow](data:image/png;base64,...) (32x32)
+  - ![Kingfisher](data:image/png;base64,...) (32x32)
+- **Occasional:**
+  - ![Gnat Mound](data:image/png;base64,...) (32x32)
+  - ![Gnat Swarm](data:image/png;base64,...) (32x32)
+  - ![Pangolden](data:image/png;base64,...) (32x32)
+  - ![Sparkling Pool](data:image/png;base64,...) (32x32)
+  - ![Rocks](data:image/png;base64,...) (32x32)
+  - ![Flint](data:image/png;base64,...) (32x32)
+  - ![Nitre](data:image/png;base64,...) (32x32)
+- **Rare:**
+  - ![Gold Nugget](data:image/png;base64,...) (32x32)
+  - ![Cave Cleft](data:image/png;base64,...) (32x32)
+
+### Description
+The **Painted Biome** is a biome exclusive to the **Hamlet** DLC. It is covered in **Painted Sand Turf** which can be dug up with a **Pitchfork**.
+
+The most common resources found in this biome are **Iron Ore**, **Tuber Trees**, and **Gnat Mounds**. One may also find **Rocks**, **Flint**, **Nitre**, and **Gold Nuggets** lying on the ground. **Sparkling Pools** can also be found here, but **Pangoldens** generally drink them before the player can spot them.
+
+The mobs commonly found in this biome are **Thunderbirds**, but **Pangoldens** and **Gnat Swarms** are also found here.
+
+**Crows** and **Kingfishers** are the only birds that land in this biome.
+
+> 'Tis material för metalwörk. - Wigfrid
+
+### Additional Languages
+- Vietnamese: **Vùng Sơn Màu**
+
+### Related Links
+- [Biomes](Biomes)
+```
+
+
+
+
+```markdown
+# Asparagus Soup
+
+**Asparagus Soup** is a **Crock Pot** dish introduced in the **[Don't Starve: Hamlet](Don't%20Starve:%20Hamlet)** DLC. It requires at least one raw or cooked **[Asparagus](Asparagus)**, and at least another 0.5 **[Vegetables](Vegetables)**. Asparagus Soup takes 10 seconds to cook and restores 20 Health, 18.75 Hunger, and 5 Sanity when eaten.
+
+## Prerequisites
+- Requires: ![Asparagus](Asparaguses.png)
+- Requires: ![Vegetables](Crock%20Pot%20Vegetables%20(no%20Mandrake).png)
+
+## Recipe
+| Item | Quantity |
+| --- | --- |
+| Asparaguses | 1 |
+| Vegetables | 0.5 |
+| Filler | 2 |
+| Tool | Crock Pot |
+| Result | Asparagus Soup |
+
+## Examples
+### Example 1
+| Item | Quantity |
+| --- | --- |
+| Asparagus | 1 |
+| Red Cap | 1 |
+| Red Cap | 2 |
+| Tool | Crock Pot |
+| Result | Asparagus Soup |
+
+### Example 2
+| Item | Quantity |
+| --- | --- |
+| Asparagus | 1 |
+| Aloe | 1 |
+| Twigs | 1 |
+| Twigs | 2 |
+| Tool | Crock Pot |
+| Result | Asparagus Soup |
+
+### Example 3
+| Item | Quantity |
+| --- | --- |
+| Asparagus | 1 |
+| Radish | 1 |
+| Monster Meat | 1 |
+| Monster Meat | 2 |
+| Tool | Crock Pot |
+| Result | Asparagus Soup |
+
+## Trivia
+- Asparagus Soup was introduced to **Don't Starve Together** in the **[Warly Character Update](Don't%20Starve%20Together/Version%20History#July%2025,%202019%20-%20Warly%20Character%20Update)**.
+- During the **[Pig Fiesta](Pig%20Fiesta)** event in **Hamlet**, Asparagus Soup takes on a more festive appearance.
+
+## Categories
+- [Crock Pot Recipes](Category:Crock%20Pot%20Recipes)
+- [Perishables](Category:Perishables)
+- [Healing](Category:Healing)
+- [Sanity Boost](Category:Sanity%20Boost)
+
+[[vi:Súp Măng Tây]]
+```
+Note: I've transformed the provided text into markdown format, including headers, tables, and categories. Images and links are represented with their respective markdown syntax.
+
+
+
+
+```markdown
+# Powdercake
+
+![Powdercake](Powdercake.png)
+
+## Structure Infobox
+- **canBeBurned**: 1
+- **foodRecipe**: ![Corns](Pic|32px|Corns) x1 ![Honey](Pic|32px|Honey) x1 ![Twigs](Pic|32px|Twigs) x1 ![Filler](Pic|32px|Filler) x1
+- **foodType**: [Veggie](Veggie)
+- **icon**: Powdercake.png
+- **image**: Powder Cake Dropped.png
+- **spoil**: 18750 Days
+- **stack**: 40
+- **hpRestored**: -3
+- **hungerRestored**: 0
+- **sanityRestored**: 0
+- **cooktime**: 10 sec
+- **priority**: 10
+- **spawnCode**: "powcake"
+
+## Quotes
+- **Wilson**: Science help us.
+- **Willow**: I wonder if it is flammable.
+- **Wolfgang**: Is made of nothings!
+- **Wendy**: I would have to be desperate.
+- **WX-78**: IT NEVER GOES BAD
+- **Wickerbottom**: The crowning achievement of the agricultural-industrial complex.
+- **Woodie**: I like the ones made with real sugar better.
+- **Maxwell**: What foul manifestation of evil is this?
+- **Wagstaff**: This would give my stomach a turn. I dare not eat it.
+- **Wigfrid**: What in the name of the unicorn is this?
+- **Webber**: Mum never let me have these.
+- **Walani**: I'll eat whatever.
+- **Warly**: I would not feed this to my worst enemies. Or would I...
+- **Woodlegs**: This really be food?
+- **Wilba**: BLOW, CAKE!
+- **Wormwood**: Ka-pow!
+- **Wheeler**: Looks good enough to fire through the air.
+- **Winona**: Gotta eat what you can around here.
+- **Wortox**: Hyuyu! This cake packs a wallop!
+- **Wurt**: Gives tummy-ache, but... smell so good...
+- **Walter**: This could go badly.
+- **Wanda**: This never ends well.
+- **Choose**: Maxwell
+
+## Description
+Powdercake is a [Food] item cooked in a [Crock Pot] by combining 1 [Corn], 1 [Honey], and 1 [Twigs|Twig]. It takes 10 seconds to cook. It takes the longest time to [rot] out of all [Food|foods] and was implemented as a joke.
+
+Adding any [Fishes] may result in [Fishsticks] or [Fish Tacos], while adding a [Mandrake] may result in [Mandrake Soup].
+
+Powdercake restores 0 Hunger, 0 Sanity, and -3 Hp upon consumption. It takes 18750 days to spoil.
+
+## Prerequisites
+- Requires: [Corn](Corn)
+- Requires: [Honey](Honey)
+- Requires: [Twig](Twig)
+
+## Recipe
+| Item | Quantity |
+| --- | --- |
+| Corns | 1 |
+| Honey | 1 |
+| Twigs | 1 |
+| Filler | 1 |
+| Tool | Crock Pot |
+| Result | Powdercake |
+
+## Examples
+### Example 1
+| Item | Quantity |
+| --- | --- |
+| Corn | 1 |
+| Honey | 1 |
+| Twigs | 2 |
+| Tool | Crock Pot |
+| Result | Powdercake |
+
+### Example 2
+| Item | Quantity |
+| --- | --- |
+| Corns | 1 |
+| Honey | 1 |
+| Twigs | 1 |
+| Berry | 1 |
+| Tool | Crock Pot |
+| Result | Powdercake |
+
+### Example 3
+| Item | Quantity |
+| --- | --- |
+| Corn | 1 |
+| Honey | 1 |
+| Twigs | 1 |
+| Fish | 1 |
+| Tool | Crock Pot |
+| Result | Powdercake |
+| Note | 33% chance to result in [Fishsticks], 33% chance to result in [Fish Tacos] |
+
+### Example 4
+| Item | Quantity |
+| --- | --- |
+| Corn | 1 |
+| Honey | 1 |
+| Twigs | 1 |
+| Mandrake | 1 |
+| Tool | Crock Pot |
+|
+
+
+
+
+```markdown
+# Grim Galette
+
+**Exclusivity:** Don't Starve Together
+
+**Structure Infobox:**
+- **Food Portable Crock Pot:** 1
+- **Can Be Burned:** 1
+- **Food Recipe:** ![Nightmare Fuel](Nightmare Fuel) x2, ![Onions](Onions) x1, ![Potatoes](Potatoes) x1
+- **Food Type:** [Veggie](Veggie)
+- **Icon:** ![Grim Galette Icon](Grim Galette.png)
+- **Image:** ![Grim Galette Image](Grim Galette Dropped.png)
+- **Stack:** 40
+- **Spawn Code:** "nightmarepie"
+- **HP Restored:** 1
+- **Hunger Restored:** 25
+- **Sanity Restored:** 5
+- **Cook Time:** 40 sec
+- **Priority:** 30
+- **Spoil:** 10 days
+- **Perk:** Swaps the player's current Health and Sanity.
+
+**Quotes:**
+- **Wilson:** "It's a little spooky."
+- **Willow:** "I'm sure he wouldn't mind if I stole a nibble."
+- **Wolfgang:** "Wolfgang must eat with eyes closed."
+- **Wendy:** "It tastes like melancholy. Mmm."
+- **WX-78:** "NOW SLIDE IT INTO MY MOUTH"
+- **Wickerbottom:** "It tastes a bit like magic."
+- **Woodie:** "Whatcha think, Lucy? Should we try a bite?"
+- **Maxwell:** "I'm going to have dreams about this pie nightmare."
+- **Wigfrid:** "I am wary of this pie."
+- **Webber:** "It's scary, but tasty."
+- **Winona:** "Lookit that, Warly's at it again."
+- **Warly:** "It's really not as scary as it sounds."
+- **Wortox:** "Hyuyu, humans sure are strange."
+- **Wormwood:** "Scare nibbles"
+- **Wurt:** "Hee-hee, it has funny face."
+- **Walter:** "Looks good!"
+- **Wanda:** "I usually trust Warly's dishes, but this one seems suspect."
+
+The **Grim Galette** is a **Warly**-specific **Vegetable** **Food** **Item** cooked in the **Portable Crock Pot** that is exclusive to **Don't Starve Together**. It requires two **Nightmare Fuel**, a **Potato**, and an **Onion** to cook. Upon consuming a Grim Galette, the player's current **Health** and **Sanity** percentage values are swapped. Grim Galettes will not swap sanity and age of **Wanda**.
+
+Wearing a **Nightmare Amulet** or the **Bone Helm** and eating a Grim Galette will cause instant death.
+
+## Recipe
+**![Cookbook](Cookbook) Recipe:**
+- **Item 1:** Nightmare Fuel (2)
+- **Item 2:** Onions
+- **Item 3:** Potatoes
+- **Tool:** Portable Crock Pot
+- **Result:** Grim Galette
+
+## Trivia
+- Grim Galette was added to **Don't Starve Together** in Warly's **Character Update** on July 25, 2019.
+- The Grim Galette and **Mushy Cake** are the only dishes in **DST** with only one possible recipe.
+- Grim Galette, besides **Jellybeans**, is the only food item that can be used to restore **Wormwood**'s health.
+- **Galette** is a term used in French cuisine to designate various types of flat round or freeform crusty cakes.
+- Despite the name of this item, its appearance and ingredients used are more similar to **butter pie** than true galettes, with the Nightmare Fuel in the place of the butter.
+
+## Gallery
+<gallery captionalign="center" hideaddbutton="true">
+![A Grim Gallete as seen in a drawing from Art Stream # 78](Art Stream 78 Warly.png)
+</gallery>
+
+**Clear**
+
+**Edible Items**
+
+**Categories:**
+- Portable Crock Pot Recipes
+- Perishables
+- Healing
+- Sanity Boost
+- Flammable Objects
+- Health Loss
+- Sanity Loss
+- Don't Starve Together
+- Food
+- Items
+```
+I have transformed the given text into markdown format, including headings, lists, quotes, and a gallery. Please note that some elements like images and links may need
+
+
+
+
+# (new update************)
+
+So as the title suggests, I'm quite an experienced player with **WX-78**. So I will talk about how to survive for long periods of times within Don't Starve but not Together as I have yet to play Together. I might update this in the future to include Don't Starve Together. So without further talking, let's talk about how you should play as **WX-78**.
+
+## What does WX-78 work well with?
+
+WX-78 is very easy to play, especially once you get gears. WX-78 has an ability known as **SYSTEM OVERLOAD**, and when paired with a walking cane provides great amounts of speed. Gears can upgrade WX-78 as well as heal them. WX-78 can be upgraded 15 times. WX-78 can also eat spoiled and stale food without consequences, making WX-78 a good character if you somehow don't find gears for an ice box to make food spoil less. So what are their cons?
+
+## What weaknesses does WX-78 have?
+
+One of their main Weaknesses is **Rain** and **Spring**. Let's talk about how Spring and Rain causes problems for WX-78.
+
+### Spring
+
+During Spring it rains a lot, and most players would have got the **Eyebrella** from Winter. But what if one doesn't get it? Well then here's the problem, WX-78 takes damage from Rain, paired with a huge sanity drain if one is not prepared. You can survive Spring without the Eyebrella or any Rain reducing affect if you ate 15 gears before (trust me I did this before when my Eyebrella got destroyed but I DO NOT recommend!!!!). Spring will most likely be the Season where WX-78 suffers the most.
+
+## How does one get gears to upgrade?
+
+Simple. Fight **Clockwork Knights**. You can increase the number of clockworks to more on settings but it is not recommended unless you're experienced with Clockworks or just want a challenge. **Gears** can be used as heals and to restore hunger if you somehow ran out of food, but DO NOT eat them all the time as Gears are not renewable in Vanilla Don't Starve (they are in RoG but it's a tiny percent to get them from **Tumbleweeds**). So now that we know this let's talk about what one should do to survive for a long lasting world.
+
+## Heals, Food etc.
+
+Okay so to preserve Gears your going to need to rely on foods for heals and healing items.
+
+### Great Healing foods
+
+Some great foods for healing are: **Dragonpie**, **Waffles**, **Pierogi**, and **Mandrake Soup** (Mandrake soup heals god but it's not worth it wasting a rare plant for soup). These are great foods to replace gears so you can use them for other stuff.
+
+### Heals
+
+You can also use **Healing Salves** and **Honey Poultice**, but why spend time making heals when you can make foods that heal much more?
+
+## What not to do as WX-78
+
+Okay so here are some things you SHOULD not do.
+
+- Don't gobble all your gears or else no more **Ice Flingos**
+
+- Don't try and rely on gears when you are low health (unless you're in a pinch). They have better purposes
+
+- Don't attempt to fight clockwork bishops when you set clockworks to more, you may die and lose your world to them
+
+- Make sure to have food on you at all times to not waste gears
+
+- Always try and craft wetness resistance items if you didn't get the Eyebrella
+
+## Actual survival
+
+During your first days, be nomadic as possible and avoid Bishops and Rooks if you put Clockworks on more. Gather as much materials and stone and wood for Survival. Once you get enough stuff for a Science machine, make one and get a Spear and all the essentials and pre craft the alchemy engine. Once you find a good place and found as much setpieces you could, place your alchemy engine and make wood armor and the essentials. After that hunt some Pigs for materials for a ham bat, make one and start killing/finding clockworks for their gears. Once you found some and killed them, eat at least 15 gears and no more to reach max level. Then you would survive as normal like every other character. Remember to clear the area of clockworks if you set the on more.
+
+## And that's all
+
+This is my guide for WX-78. Hope you learned something. This guide was made by Pvzfanmade.
+
+
+
+
+```markdown
+# Woodie's Quotes
+
+This page lists Woodie's quotes spoken when the player examines an in-game item or object in Hamlet. For items exclusive to other expansions, see the pages listed above.
+
+## Tools
+
+- **Shears**: "Don't get jealous, Lucy."
+
+## Lights
+
+- **Cork Candle Hat**: "Now I can chop trees in the dark."
+- **Cowl**: "It's a little batty."
+
+## Survival
+
+- **Bug B'Gone**: "Huh. Better than a flyswatter, I guess."
+- **Bird Whistle**: "Ugh. Those birds don't deserve this."
+
+## Food
+
+- **Sprinkler**: "Good for watering."
+
+## Science
+
+- **Smelter**: "Hrumph. A big production for a little metal."
+- **Oscillating Fan**: "Yep. That's a nice breeze."
+
+## Fight
+
+- **Halberd**: "Well, it's no axe."
+- **Cork Bat**: "Pretty light, eh?"
+- **Weevole Mantle**: "Nice use of bug carcasses."
+- **Mant Mask**: "I hope no one recognizes this guy."
+- **Mant Suit**: "This feels a tad psychotic."
+- **Fancy Helmet**: "It's a little cold."
+- **Tin Suit**: "Feel a little funny in this."
+- **Blunderbuss**: "Yeesh. Bit of overkill."
+
+## Structures
+
+- **Cork Barrel**: "Kinda small, eh, Lucy?"
+
+## Refine
+
+- **Claw Palm Sapling**: "Too small to chop right now."
+
+## Magic
+
+- **Hogus Porkusator**: "Well that's neat."
+- **Pugalisk Wand**: "Freeze you colder than winter in Winnipeg."
+- **Skyworthy (non-Hamlet world)**: "That's where we came in."
+- **Skyworthy (Hamlet world)**: "It goes somewhere else."
+- **Living Artifact**: "This looks interesting eh, Lucy?"
+- **Root Trunk**: "It moves all my stuff for me. That's nice."
+- **Vortex Cloak**: "Pretty roomy in there, eh."
+
+## Dress
+
+- **Gas Mask**: "Keeps my lungs clear."
+- **Pith Hat**: "It's tougher than a touque."
+- **Thunderhat**: "How do I look?"
+
+## Nautical
+
+- **Cork Bowl Canoe**: "Only good for a short trip."
+
+## Treasure Hunting
+
+- **Disarming Tools**: "Well that's smart, eh?"
+- **Ball Pein Hammer**: "For when you need a gentle touch."
+- **Gold Pan**: "Haven't done any prospectin' in a while."
+- **Magnifying Glass**: "Pretty clever."
+
+## City Planning
+
+- **Lamp Post (off)**: "Looks like a street lamp."
+- **Lamp Post (on)**: "A little bit of safe haven."
+- **Town House**: "Not as good as a cabin in the woods."
+- **Town House (burning)**: "Hope no one's been hurt."
+- **The Sterling Trough Deli**: "I could go for some lunch."
+- **The Sterling Trough Deli (burning)**: "It's on fire."
+- **Pigg and Pigglet's General Store**: "I wouldn't mind popping in."
+- **Pigg and Pigglet's General Store (burning)**: "A mighty blaze there, eh?"
+- **Curly Tails Mud Spa**: "A decent healthcare system."
+- **Curly Tails Mud Spa (burning)**: "Wonder what started that."
+- **Swinesbury Fine Grocer's**: "Want anything, Lucy?"
+- **Swinesbury Fine Grocer's (burning)**: "A mighty blaze there, eh?"
+- **Miss Sow's Floral Arrangements**: "I like this shop."
+- **Miss Sow's Floral Arrangements (burning)**: "That's a burner."
+- **'The Sty' Oddities Emporium**: "Some strange things in there."
+- **'The Sty' Oddities Emporium (burning)**: "They'll need to rebuild that."
+- **The Flying Pig Arcane Shop**: "All that magic stuff seems a little loonie."
+- **The Flying Pig Arcane Shop (burning)**: "They'll need to rebuild that."
+- **The Boar's Tusk Weapon Shop**: "Nothing in there as good as you Lucy."
+- **The Boar's Tusk Weapon
+
+
+
+
+```markdown
+# Inedible Items in Crock Pot Recipes
+
+In **Don't Starve**, there is only one **Inedible** item that can be used to cook in the **Crock Pot**: **Twigs**. Additional inedible items are introduced in the **Shipwrecked**, **Hamlet**, and **Don't Starve Together** DLCs.
+
+## Inedible Items
+
+- **Twigs**
+- **Dorsal Fin** (Shipwrecked)
+- **Weevole Carapace** (Hamlet)
+- **Bone Shards** (Don't Starve Together)
+- **Nightmare Fuel** (Don't Starve Together)
+- **Volt Goat Horn** (Don't Starve Together)
+
+## Crock Pot Meals that Require Inedible Items
+
+| Food | Name | DLC | Health | Hunger | Sanity | Perish Time (days) | Cook Time (sec) | Priority | Recipe | Restrictions |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| ![Banana Pop] | **Banana Pop** | Shipwrecked/Don't Starve Together | +20 | +12.5 | +33 | 3 | 10 | 20 | Banana ×1, Ice ×1, Inedibles ×1 | No Meats, No Fishes |
+| ![Fancy Spiralled Tubers] | **Fancy Spiralled Tubers** | Don't Starve Together | +3 | +37.5 | +15 | 10 | 15 | 10 | Potatoes ×1, Twigs ×1 | No Meats, No Monster Foods, Maximum 1 Inedible |
+| ![Fishsticks] | **Fishsticks** |  | +40 | +37.5 | +5 | 10 | 40 | 10 | Fishes ×0.25, Twigs ×1 | Maximum 1 Inedible |
+| ![Hard Shell Tacos] | **Hard Shell Tacos** | Hamlet | +20 | +37.5 | +5 | 15 | 20 | 1 | Weevole Carapace ×2, Vegetables ×0.5 |  |
+| ![Jelly-O Pop] | **Jelly-O Pop** | Shipwrecked | +20 | +12.5 | 0 | 3 | 10 | 20 | Jellyfish ×1, Ice ×1, Inedibles ×1 |  |
+| ![Kabobs] | **Kabobs** |  | +3 | +37.5 | +5 | 15 | 40 | 5 | Meats ×0.25, Twigs ×1 | No Inedibles, No Monster Food |
+| ![Melonsicle] | **Melonsicle** | Reign of Giants | +3 | +12.5 | +20 | 3 | 10 | 10 | Watermelon ×1, Ice ×1, Twigs ×1 | No Meats, No Eggs, No Vegetables |
+| ![Powdercake] | **Powdercake** |  | -3 | 0 | 0 | 18750 | 10 | 10 | Corn ×1, Honey ×1, Twigs ×1 |  |
+
+## Portable Crock Pot Meals that Require Inedible Items
+
+| Food | Name | DLC | Health | Hunger | Sanity | Perish Time (days) | Cook Time (sec) | Priority | Recipe | Special Effects |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| ![Bone Bouillon] | **Bone Bouillon** | Don't Starve Together | +32 | +150 | +5 | 10 | 40 | 30 | Bone Shards ×2, Onions ×1 |  |
+| ![Grim Galette] | **Grim Galette** | Don't Starve Together | +1 | +25 | +5 | 10 | 40 | 30 | Nightmare Fuel ×2, Potato ×1, Onion ×1 | Swaps Sanity and HP values |
+| ![Volt Goat Chaud-Froid] | **Volt Goat Chaud-Froid** | Don't Starve Together | +3 | +37.5 | +10 | 10 | 40 | 30 | Volt Goat Horn ×1, Sweetener ×2 | Converts damage dealt by player to electric type for 5 minutes |
+
+[Category: Items]
+```
+
+
+
+
+```markdown
+# Exclusivity: Hamlet
+
+## Professor
+![Pig Professor](Pig Professor.png)
+
+### Structure Infobox
+- Naughtiness: 6
+- Health: 250
+- Walk Speed: 3
+- Run Speed: 5
+- Special Ability: Gives 1 Tenpiece Oinc for Lost Idol, Lost Totem, or Relic Fragment, no limit
+- Drops: **Meat (75%), Pig Skin (25%)**
+- Spawn From: Swinesbury Academy, Town House
+- Name: Professor
+- Damage: 
+- Spawn Code: "pigman_professor"
+
+### Quotes
+- Wilson: How are you still alive?
+- Willow: A lot of old stuff in here.
+- Wolfgang: You have old things for Wolfgang?
+- Wendy: You'll be seeing Abigail soon.
+- WX-78: OUTMODED SELLER OF OBSOLETE TECHNOLOGY
+- Wickerbottom: How refreshing to deal with a mature adult.
+- Woodie: Good day, sir.
+- Maxwell: I better hurry this up, he looks like he could drop at any time.
+- Wagstaff: Appears educated, but reluctant to answer any of my many questions.
+- Wigfrid: Dö thöust have anything fröm the öld cöuntry?
+- Webber: Mom told me always to respect my elders.
+- Walani: Whoa, dude. You are old.
+- Warly: You look like you've enjoyed many a fine meal.
+- Woodlegs: Arr, yer a grizzled one, ain't ye.
+- Wilba: HATH SMACK OF AGE IN HIM
+- Wormwood: Wise old Twirly Tail
+- Wheeler: Ah! Someone who appreciates all my archeological finds.
+- Choose: Willow
+
+The **Professor** is a Pig Trader Mob exclusive to the Don't Starve: Hamlet DLC. He is an elderly pig that buys relics for a Tenpiece Oinc, with no limit to the amount of trades in a day. He can be found at the Academy (signified by a triangle in a circle on the Map) in the Pig Village.
+
+### Behavior
+One Professor may spawn from a Town House, and will wander randomly around their house and eat any edible items left on the ground, including Pig Skin. Every so often they will drop one Manure where they are standing, and if the player picks up that manure the Professor will approach them and give them one Oinc, along with an accompanying Quote.
+
+Whenever there is a hostile mob nearby, or a player targets them or another Pig Trader or Royal Guard near them, they will enter a panicked state. They will begin to move around semi-randomly in a direction away from the aggressor.
+
+They will attempt to return to their house in the evening, and if they cannot reach their house or their house is destroyed they will seek the nearest light source and stand next to it until night, when they will sleep on the ground.
+
+### Categories
+- Hamlet
+- Passive Creatures
+- Diurnals
+- Talkers
+
+```
+
+
+
+
+```markdown
+# Creating a Self-sustaining Settlement: A Comprehensive Guide
+
+## General Layout
+
+![Self-sustaining Base](/Self-sustaining%20Base.png "General Layout")
+
+The aim of this guide is to create a self-sustaining settlement, where you will have a continuous food source, safety from monsters and every resource at your fingertips. This guide only requires an area that has Rabbits and Beefalos to start. Everything else will fall in place with time. It is important to use time efficiently, especially in the starting days, so there is an emphasis placed on what resources you harvest, when you harvest, and how many you harvest.
+
+However, if you want to survive well in winter, please look into [Winter Guide](Guides/Winter%20Guide).
+
+This guide aims to achieve these goals in the fastest and safest way possible, and by using only the most widely available resources, thus being applicable to all starting worlds. It makes it possible to 'beat the game' at the very first play-through in any newly created world.
+
+## Day 1: Finding a Good Location
+
+It is best to start by collecting as much Flint and Grass and as many Twigs (in that order of priority) as possible. An area that has lots of Rabbits (at least 5, the more the better) and is near to some Beefalos (decent walkable distance) is desirable. Make sure you're not too close to the Beefalos since whenever they are in Mating Season, they will attack you in great numbers and with great strength.
+
+In the absence of Beefalos, an area with just a great deal of grass will suffice as well. Saplings will be helpful if replanted near base, but Grass Tufts probably shouldn't be dug up. Also, you may need to make an early weapon to help against the Hounds later on, since you won't have the beefalos to protect you. Alternatively, you can opt to be near Pigs and feed them plant items (e.g. Petals) to make them poop Manure.
+
+Explore the vicinity and continue collecting resources. You will not need a lot of food on the first day, so twigs and grass will be a priority. Also, it should always be kept in mind that cooked food nearly always restores more Hunger than raw food does. Also remember that raw Meat nearly always costs the player Sanity, while Vegetables/Fruits do not rot as quickly when they are raw.
+
+Create an Axe and chop down 1 large Tree (just one is enough). This will yield just enough logs for you to create a Campfire for the night. If a good area has not yet been located, collect food for 2–3 days, e.g. 15 items, as that is about how long wandering around for a location is not too unproductive.
+
+When dusk falls, return to your prospective settlement area. Create a campfire such that the rabbit holes are just at the edge of illumination at maximum fuel (roughly about half a screen away). Create as many Traps as you can and place each one as near to a rabbit hole as possible (1 trap for each hole). It is possible to place the trap in such a way that the rabbit is trapped as soon as it pops out of its hole. Hover over the hole, and then slowly move your mouse down until the game allows you to set the trap. Add a log to the campfire to get it up to near maximum fuel. Take note of the light radius and start planning the layout of your settlement. Finish laying your traps if they are within the light radius. You will be able to go slightly beyond the light area safely, so make use of that. Cook some food items (about 5) using your campfire, it is a good idea to keep some cooked food in your inventory too. Keep hunger at around 50% to 80%, don't waste food by going over 100%. If there is still time, start planting saplings (not grass), clustering them as close as possible. Saplings do not require manure to start growing, unlike grass. Spend the night planting saplings and thinking about how great your settlement will soon become. Drop the saplings and grass on the ground of your settlement to free up your inventory. Don't worry, they won't disappear.
+
+Even though this guide only requires rabbits and beefalos to start, sometimes it is still difficult to find such an area. Feel free to wander around to find better areas. But aim to settle down latest by Day 3. Wandering around is an unnecessary drain on resources. Also, since this guide relies on killing rabbits only, there may be a risk of spawning a Krampus. It may be wise to pace the killing of rabbits to avoid the spawn in the early days. Krampus spawns at around 30 to 50 rabbit kills. Every minute of not killing anything decreases the spawn chance. Thus,
+
+
+
+
+```markdown
+# Bottlenose Ballphins
+
+**Exclusivity**: Shipwrecked
+
+**Structure Infobox**:
+- Naughtiness: 2
+- Imagewidth: 150px
+- SpawnCode: "ballphin"
+- Drops: **Fish Morsel** ×2, **Dorsal Fin**, **Empty Bottle** (50%)
+- Damage: 25
+- Health: 200
+- AttackPeriod: 6
+- WalkSpeed: 5
+- RunSpeed: 8
+- SpawnFrom: [Ocean#Shipwrecked|Ocean], **Ballphin Palace**
+- Sanitybonus: +25/min (when allied)
+- SpecialAbility: Can be befriended with **Fishes**. Has a chance to resurrect a drowning player when allied.
+
+**Quotes**:
+- Wolfgang: Come and fight with me, sea-friends!
+- Wilson: Such a round, rubbery fellow.
+- Willow: You don't look particularly flammable.
+- Woody: Hey buddy, you know any tricks?
+- Maxwell: They're much craftier than they appear at first glance.
+- Wendy: What a chipper little fellow. Does he know life has no meaning?
+- Woodlegs: These devil's really have a ball.
+- Wickerbottom: What an adorable cetacean!
+- Webber: Playful rubber blobs. We'll watch from afar.
+- Warly: Chipper fellows.
+- WX78: STOP BEING FRIENDLY. IT'S REPELLANT
+- Walani: My surfing buddies!
+- Wigfrid: A blöw struck may simply böunce öff.
+- Warbucks: I wonder if it's friendly.
+- Wilba: WATER'D UNPIGS
+- Wormwood: EEE! EEE!
+- Choose: Webber | Wagstaff: Theoretically they can be manipulated with food. | Wheeler: Well "Eek Eek" to you too.
+
+**Bottlenose Ballphins** are **Mobs** found in the **Don't Starve: Shipwrecked** DLC. They only spawn in the **Ocean**, and can usually be found swimming next to their **Ballphin Palace**. When killed, a Ballphin drops two **Fish Morsel**s, a **Dorsal Fin**, and has a 50% chance to drop an additional **Empty Bottle**.
+
+Bottlenose Ballphins are considered innocent creatures, and killing one will add 2 (3 if its previous leader is the player) points of **Naughtiness**, which can summon **Krampus** (although this cannot occur while riding on a **Boat**).
+
+## Behavior
+Bottlenose Ballphins generally stay in a single area near a Ballphin Palace during the Day. However, if a Player character ventures near, they will follow them for a relatively short distance, and perform back-flips.
+
+At Dusk, Bottlenose Ballphins will return to a nearby Ballphin Palace. If there aren't any Palaces available, they will continue to wander around as they do during the Day, albeit with a shorter range. At Night, any Bottlenose Ballphins that are not inside a Ballphin Palace will go to sleep.
+
+Bottlenose Ballphins will attack as a herd when angered, similar to **Pengulls**. Additionally, they will attack any hostile creatures or monsters, such as **Stink Rays**, **Crocodog**s and **Sea Hounds**. Therefore, as **Webber** is considered a **Monster**, Bottlenose Ballphins will attack him on sight.
+
+Bottlenose Ballphins will eat any Food item floating on the Ocean, except **Vegetables**. Bottlenose Ballphins can also be befriended with **Fishes**, except **Jellyfish**-related Food items, to follow and work for the Player up to 3 days.
+
+Friendly Bottlenose Ballphins will help the player mine **Coral Reef** coral during the Day. Friendly Ballphins can also be directed to attack anything the Player targets, including other Bottlenose Ballphins. Like **Pigs**, befriended Bottlenose Ballphins will increase the Player's Sanity by 25 per minute while in range.
+
+While **Pig**s are afraid of the darkness, Bottlenose Ballphins are instead afraid of **Lightning**. Any Lightning strike will send every nearby Ballphin into a panic for a short time, either swimming back and forth while screaming, or crowding the nearest source of light if there are any available. This can make it challenging for the Player to keep hired Ballphins pacified during the heavy lightning storms of **Hurricane Season**.
+
+Similar to a **Life Jacket**, befriended Bottlenose Ballphins have an 80% chance of saving the player from drowning, resurrecting them to the nearest island with ingredients to make a **Log
+
+
+
+
+```markdown
+# Magic Water
+
+## Exclusivity
+- Exclusive to the **Hamlet** DLC.
+
+## Structure Infobox
+- **Icon**: ![Magic Water](Magic Water.png)
+- **Image**: ![Dropped Magic Water](Magic Water Dropped.png)
+- **Food Type**: Veggie ![Veggie](Veggie.png)
+- **HP Restored**: 300
+- **Hunger Restored**: 450
+- **Sanity Restored**: 150
+- **Spoil**: Does not spoil
+- **Dropped By**: ![Fountain of Youth](Fountain of Youth.png)
+- **Stack**: Does not stack
+- **Spawn Code**: "waterdrop"
+
+## Quotes
+- **Wilson**: "Water you think it does?"
+- **Willow**: "It should really be a flame."
+- **Wolfgang**: "Is magic water seed."
+- **Wendy**: "A drop of life in this bleak existence."
+- **WX-78**: "A INFANT OF MY ENEMY."
+- **Wickerbottom**: "It appears seed-like."
+- **Woodie**: "Into every life a little rain must fall."
+- **Maxwell**: "What an invigorating little seed."
+- **Wagstaff**: "Evidence would suggest it needs to be planted to be fully implemented."
+- **Wigfrid**: "A dröp öf water, töuched by Freya."
+- **Webber**: "Huh. Is it a water drop, or a seed?"
+- **Walani**: "Huh. Kinda looks like a little seed."
+- **Warly**: "The water of life."
+- **Woodlegs**: "Tis only a wee bit o' water."
+- **Wilba**: "WILBA NEED'ST PUT IN GROUND"
+- **Wormwood**: "For dirt"
+- **Wheeler**: "Another life of adventure!"
+- **Choose**: Wickerbottom
+
+## Description
+**Magic Water** is an item exclusive to the **Hamlet** DLC. It can be obtained by interacting with the **Fountain of Youth**. Interacting with the Fountain also spawns the **Pugalisk** from **Ominous Carving**. Magic Water can be planted to grow a **Magic Flower** that regenerates **Sanity** at the cost of **Hunger** when the player stands close to it. Eating the Magic Water will cure **Poison**.
+
+The Magic Flower also functions as a **Meat Effigy**. It is destroyed upon revival, and will lower the player's maximum health like a Meat Effigy. Magic Water can be retrieved after planting it by digging up the Magic Flower with a **Shovel**.
+
+## Usage
+### Recipe
+- **Infused Iron**: 6
+- **Magic Water**: 1
+- **Tool**: Blueprint
+- **Result**: Living Artifact
+
+## Tips
+- Exploring the Ancient Pig Ruins or Caves (in a **Don't Starve** vanilla or **Reign of Giants** game) with Magic Water and a Shovel is ideal, since it can regenerate the sanity lost by monsters in the ruins or the Caves in general all at the expense of a constant food supply; plus, it works like a Meat Effigy without the necessity of the spending material in making one, and is very easy to remove.
+- If the player doesn't feel prepared to fight the Pugalisk but still desires the Magic Water, all they need is a clear route from the Fountain of Youth to the ruin's exit and an armor, so no monsters or obstacles can stop them when fleeing the Pugalisk. The player should be mindful that the Pugalisk will still be on the other side.
+- Magic Water can fully heal from 1 HP all of the characters except for a completely upgraded WX-78, which still restores their HP by 75%.
+- Players should be careful when leaving the Magic Water on the ground (not planted) in a Pig village, since the inhabitants could eat it.
+- Magic Water will regenerate at the **Fountain of Youth** after using the Magic Flower or taking it to other worlds. This means that, with a **Skyworthy** on both sides of a world, one could get infinite amounts of Magic Water.
+  - Storing the Magic Water inside of a **Bundling Wrap** is also effective for farming them.
+- Wigfrid cannot use Magic Water to heal herself because it is classified as a non-meat food.
+
+## Gallery
+<gallery hideaddbutton="true">
+![Wickerbottom holding Magic Water](Magicwater.png)
+</gallery>
+
+## Categories
+- Food and Edible Items
+- Healing
+- Sanity
+
+
+
+
+```markdown
+# Wilson's Quotes
+
+Wilson's quotes are spoken when the player examines an in-game item or object. The player can alt-click items and objects to examine them.
+
+Due to the amount of text catalogued, this page only contains Wilson's quotes for items found in **{{SUBPAGENAME}}**. For items exclusive to other expansions, see the pages listed above.
+
+## Tools
+
+- Shears: "Shearly delightful."
+
+## Lights
+
+- Cork Candle Hat: "What a bright idea!"
+- Cowl: "A hat, made of bat."
+
+## Survival
+
+- Bug B'Gone: "Take that, bugs!"
+- Bird Whistle: "For the birds."
+
+## Food
+
+- Sprinkler: "Water you think it's for?"
+
+## Science
+
+- Smelter: "I smelt that!"
+- Oscillating Fan: "Fan-tastic."
+
+## Fight
+
+- Halberd: "Now I can't be caught off-guard."
+- Cork Bat: "Put a cork in it."
+- Weevole Mantle: "Yeesh. This is kinda creepy."
+- Mant Mask: "There's still some goo stuck to the insides."
+- Mant Suit: "It's brittle."
+- Fancy Helmet: "Protects my brains."
+- Tin Suit: "Science says I'm safe in here."
+- Blunderbuss: "Well, this will come in handy."
+
+## Structures
+
+- Cork Barrel: "Room for two. Or three."
+
+## Refine
+
+- Claw Palm Sapling: "Science at work."
+
+## Magic
+
+- Hogus Porkusator: "More science for my brain!"
+- Pugalisk Wand: "Sends shivers down my spine."
+- Skyworthy (non-Hamlet world): "Entrance-ing."
+- Skyworthy (Hamlet world): "That's exit-ing!"
+- Living Artifact: "It's alive. ALIVE!"
+- Root Trunk: "It rooted out all my things!"
+- Vortex Cloak: "Ha ha! Take that nightmares!"
+
+## Dress
+
+- Gas Mask: "Now I can breath anywhere."
+- Pith Hat: "Pithy."
+- Thunderhat: "Does this hat make me look scientific?"
+
+## Nautical
+
+- Cork Bowl Canoe: "An accident waiting to happen."
+
+## Treasure Hunting
+
+- Disarming Tools: "A trap for traps!"
+- Ball Pein Hammer: "It's a tiny little hammer."
+- Gold Pan: "Critics panned it."
+- Magnifying Glass: "Science awaits!"
+
+## City Planning
+
+- Lamp Post (off): "Lusterless."
+- Lamp Post (on): "Plain fire. No science involved."
+- Town House: "Both a house, and a home."
+- Town House (burning): "That house is on fire!"
+- The Sterling Trough Deli: "A place to eat."
+- The Sterling Trough Deli (burning): "It's on fire!"
+- Pigg and Pigglet's General Store: "A common store full of common goods."
+- Pigg and Pigglet's General Store (burning): "That shop is on fire!"
+- Curly Tails Mud Spa: "I could use a fix-me-up."
+- Curly Tails Mud Spa (burning): "That spa is on fire!"
+- Swinesbury Fine Grocer's: "There's fresh produce in there."
+- Swinesbury Fine Grocer's (burning): "The food is on fire!"
+- Miss Sow's Floral Arrangements: "A garden variety shop."
+- Miss Sow's Floral Arrangements (burning): "The flowers are burning!"
+- 'The Sty' Oddities Emporium: "A lot of strange things in there."
+- 'The Sty' Oddities Emporium (burning): "It's on fire."
+- The Flying Pig Arcane Shop: "This could put a twinkle in my eye."
+- The Flying Pig Arcane Shop (burning): "The knowledge is burning!"
+- The Boar's Tusk Weapon Shop: "Instruments of destruction."
+- The Boar's Tusk Weapon Shop (burning): "The weapons are on fire!"
+- The Sow's Ear Hat Shop: "A place to hang your hat."
+- The Sow's Ear Hat Shop (burning): "The hats are on fire!"
+- Swinesbury Academy: "I can smell the history."
+- Swinesbury Academy (burning): "The museum is on fire!"
+- Swinesbury Mineral Exchange: "Ah. A useful place for a change."
+- Swinesbury Mineral Exchange (burning): "It's burning."
+- The Tinkerer
+
+
+
+
+```markdown
+# Shadow Manipulator
+
+## Overview
+The Shadow Manipulator is a tier 2 Magic station which unlocks all of the Magic Filter recipes. It requires a Prestihatitator to prototype and costs 3 Living Logs, 1 Purple Gem, and 7 Nightmare Fuel to craft. Prototyping an item using the Shadow Manipulator will increase Sanity by 15, like any other station.
+
+## Structure Infobox
+- Tool: Can be Hammered {{pic|24|Hammer}}
+- Can Be Burned: 1
+- Image: ![Shadow Manipulator Build](File:Shadow Manipulator Build.png)
+- Icon: ![Shadow Manipulator](Shadow Manipulator.png)
+- Ingredient 1: Living Log (Multiplier: 3)
+- Ingredient 2: Purple Gem (Multiplier: 1)
+- Ingredient 3: Nightmare Fuel (Multiplier: 7)
+- Filter: {{Pic32|Prototypers & Stations Filter}} {{Pic32|Magic Filter}} {{Pic32|Structures Filter}}
+- Tier: 4
+- Perk: Unlock additional crafting recipes.
+- Spawn Code: "researchlab3"
+- Description: Is this even science anymore?
+
+## Quotes
+- Wilson: What have I created?
+- Willow: A dark and powerful energy radiates from it.
+- Wolfgang: What has Wolfgang done?
+- Wendy: I have learnt unspeakable things.
+- WX78: PERHAPS IT IS TOO POWERFUL.
+- Wickerbottom: Perhaps I have gone too far.
+- Woody: OK, I kind of get it now.
+- Maxwell: This is where I do my own personal research.
+- Wagstaff: For harnessing the dark forces lurking about.
+- Wigfrid: A mystical thing.
+- Webber: We should be careful around that.
+- Walani: Manipulating shadows sounds tough, glad I don't have to.
+- Warly: It boggles the mind.
+- Woodlegs: Witchcraft wit' this 'un, no two ways about 'er.
+- Wilba: WILBA HAVE'TH THE MAGICS
+- Wormwood: More magics
+- Wheeler: Oooh. Dark and mysterious. I like it.
+- Winona: Not sure how it works, but I'm gonna find out.
+- Wortox: There's magic fun to be had here.
+- Wurt: Glurp... shouldn't play with that.
+- Walter: Is it really magic?
+- Wanda: Shadow magic's just a tool, like anything else.
+
+## Crafting Recipes
+Shadow Manipulator allows the prototyping of the following items and structures. Once prototyped, the craftables become unlocked on the Magic Filter and will no longer require the player to be next to the Shadow Manipulator to craft. As the Second Tier Magic structure, all craftables offered by Prestihatitator can also be accessed and prototyped from a Shadow Manipulator. Some character exclusive items also need to be prototyped using a Prestihatitator or a Shadow Manipulator.
+
+## Skins
+Shadow Manipulator comes with multiple different skins it can be crafted with or later changed using a Clean Sweeper in Don't Starve Together. Ancient Sigil belongs in the Builder's Belongings Chest within the Year of the Carrat collection while Reclaimed Relic was released in the Adventurer's Belongings Chest, included with the Spring Cleaning Bundle. Both skins are of Woven - Elegant rarity and can be woven with 1350 spools, unraveled into 450 spools or obtained from Weekly Drops. Enchanted Crystal was a part of the crystalline collection wave of Twitch Stream drops and can be obtained from [Klei Rewards](https://accounts.klei.com/login?goto=https://accounts.klei.com/account/rewards). Monstrous Horror was a part of the Hollowed Nights Collection as the Twitch Stream drop of Holloween 2021.
+
+## Tips
+- Chopping down a Totally Normal Tree and digging up its stump yields enough Living Logs to craft a Shadow Manipulator without the need to kill a Treeguard. However, making other items such as Dark Swords would require Living Logs.
+
+## Bugs
+- In Winter, snow on top of the device disappears with the rising and falling animations (when the player is near).
+
+## Trivia
+- The Shadow Manipulator was added in the A Little Rain Must Fall update.
+- A Shadow Manipulator can be found in the Miner's Camp set piece.
+- The Shadow Manipulator was the tier 3 Science research lab before Science and Magic research were separated into different categories.
+- In Don't Starve Together, the Clean Sweeper also used to require a Shadow Manipulator to be prototyped until March 2022 Quality of Life update where it was moved to Science Tier 2 and its recipe was changed from 6 Dark Petals and 3 Living Logs to 4 Petals and 1 Twig.
+
+## Gallery
+- ![Shadow Manipulator's
+
+
+
+
+```markdown
+# Navbutton/Character
+
+<center>
+| style="position:relative;" |
+| --- |
+| [Reign of Giants]({{ROOTPAGENAME}}/Quotes/Reign of Giants) | [Shipwrecked]({{ROOTPAGENAME}}/Quotes/Shipwrecked) | [Hamlet]({{ROOTPAGENAME}}/Quotes/Hamlet) | [Together]({{ROOTPAGENAME}}/Quotes/Don't Starve Together) |
+</center>
+
+![That's my twin sister, Abigail.](File:Wendy talking.png)  
+This page lists Wendy's character quotes, which are spoken when the player examines an in-game item or object. The player can alt-click items and objects to examine them.
+
+Due to the amount of text catalogued, this page only contains Wendy's quotes for items found in **Reign of Giants**. For items exclusive to other expansions, see the pages listed above.
+
+## Lights
+- Endothermic Fire and Fire Pit: "I might survive this night!"
+- Endothermic Fire and Fire Pit (high): "A vision of a frozen-over Hell!"
+- Endothermic Fire and Fire Pit (normal): "It's a weird fire."
+- Endothermic Fire and Fire Pit (low): "The gloom encroaches."
+- Endothermic Fire and Fire Pit (embers): "Darkness is looming."
+- Endothermic Fire and Fire Pit (out): "It's not a good sign."
+- Moggles: "So this is what those things see."
+
+## Survival
+- Insulated Pack: "It won't insulate me from the horrors of this world."
+- Luxury Fan: "That'll make quite a draft."
+- Siesta Lean-to: "A siesta is but a preview of death."
+- Siesta Lean-to (can't sleep and in cave): "I'd really rather be in a tent."
+- Siesta Lean-to (monsters): "I couldn't possibly nap. Death is nigh."
+- Siesta Lean-to (hungry): "My stomach is as empty as my heart, I can't nap now."
+- Tent (overheating): "The sun upsets me. I couldn't possibly sleep"
+- Tent and Siesta Lean-to (burnt): "A preview of the fires of Hell."
+- Thermal Stone: "There it sits, just taking up space."
+- Thermal Stone (frozen): "Frozen like my heart."
+- Thermal Stone (cold): "Just a moderately cold lump of rock."
+- Thermal Stone (warm): "As lukewarm and lifeless as every other rock."
+- Thermal Stone (hot): "Those that burn brightest, burn fastest."
+- Pretty Parasol: "The sun beats down."
+
+## Food
+- Crock Pot (burnt): "Burnt to a crisp."
+- Bee Box (burnt): "Burnt honey."
+- Basic and Improved Farm (burnt): "This earth is burnt and dead."
+- Drying Rack (drying in rain): "The rain is keeping it from drying."
+- Drying Rack (burnt): "It's done drying forever."
+- Bucket-o-poop: "A bucket of grime."
+
+## Science
+- Science Machine and Alchemy Engine (burnt): "It's unspeakably burnt to the ground."
+- Thermal Measurer (burnt): "Does that mean my day to die is here?"
+- Rainometer (burnt): "Does that mean sunshine is dead, too?"
+- Ice Flingomatic (off): "Quiet as a corpse."
+- Ice Flingomatic (on): "I don't know why you bother. We're all going to burn."
+- Ice Flingomatic (low fuel): "It's running on fumes."
+- Electrical Doodad: "Electrical doo-what?"
+
+## Fight
+- Scalemail: "I'd like to wear it inside-out."
+- Morning Star: "Danger in the dark."
+- Weather Pain: "Some weather out there."
+
+## Structures
+- Pig House (burnt): "Nothing lasts forever."
+- Rabbit Hutch (burnt): "It didn't cook well."
+- Hay Wall (burnt): "Defenses down."
+- Wood Wall (burnt): "The inevitable is coming."
+- Chest (burnt): "It couldn't even hold ashes."
+- Scaled Chest: "Boom box."
+- Sign (burnt): "Transient, indeed."
+
+## Magic
+- Meat Effigy (burnt): "I'm glad that fail-safe is gone."
+- Prestihatitator (burnt): "Madness brings fire."
+- Shadow Manipulator (burnt): "It's unspeakably burnt to the ground."
+- Old Bell
+
+
+
+
+```markdown
+# Navbutton/Character
+
+- [Reign of Giants Quotes]({{ROOTPAGENAME}}/Quotes/Reign of Giants)
+- [Shipwrecked Quotes]({{ROOTPAGENAME}}/Quotes/Shipwrecked)
+- [Hamlet Quotes]({{ROOTPAGENAME}}/Quotes/Hamlet)
+- [Together Quotes]({{ROOTPAGENAME}}/Quotes/Don't Starve Together)
+
+![I WIN. GOOD.](File:Talking WX-78.jpg)
+
+This page lists WX-78's character quotes spoken when the player examines an in-game item or object. The player can alt-click items and objects to examine them. Due to the amount of text catalogued, this page only contains WX-78's quotes for items found in Hamlet. For items exclusive to other expansions, see the pages listed above.
+
+## Tools
+
+- Shears: "I WILL DEFEAT SOME VEGETATION WITH THIS!"
+
+## Lights
+
+- Cork Candle Hat: "PORTABLE ILLUMINATION UNIT"
+- Cowl: "I WEAR THIS SKULL AS PART OF MY VICTORY!!"
+
+## Survival
+
+- Bug B'Gone: "ANTIVIRUS PROGRAM"
+- Bird Whistle: "FOR INTERFACING WITH FLYING FLESHLINGS"
+
+## Food
+
+- Sprinkler: "AN ENEMY BARRAGE!"
+
+## Science
+
+- Smelter: "HELLO, FRIEND"
+- Oscillating Fan: "COOLING FAN."
+
+## Fight
+
+- Halberd: "AN EVIL KILLING IMPLEMENT"
+- Cork Bat: "PORTABLE BLUDGEONING ACCESSORY"
+- Weevole Mantle: "BIOLOGICAL COMPUTER CASING"
+- Mant Mask: "DECORATION MODULE ACQUIRED"
+- Mant Suit: "INEFFICIENT PROTECTIVE CASING"
+- Fancy Helmet: "SCALPED METAL HEAD"
+- Tin Suit: "ROBOT SKIN ARMOR"
+- Blunderbuss: "LETHAL UPGRADE ACQUIRED"
+
+## Structures
+
+- Cork Barrel: "THREE PORT DESIGN"
+- Cork Barrel (burnt): "ERROR: I HAVE GAZED INTO THE ABYSS"
+
+## Refine
+
+- Claw Palm Sapling: "REQUIRES RESOURCES"
+
+## Magic
+
+- Hogus Porkusator: "PORCINE AVIATORS DO NOT COMPUTE"
+- Pugalisk Wand: "A COOLING FAN OF DOOM"
+- Skyworthy (non-Hamlet world): "ENTRY PORT"
+- Skyworthy (Hamlet world): "EXIT PORT"
+- Living Artifact: "I HAVE ACQUIRED A WORTHY UPGRADE"
+- Root Trunk: "ACCESS TO ROOT DIRECTORY"
+- Vortex Cloak: "ERROR: I HAVE GAZED INTO THE ABYSS"
+
+## Dress
+
+- Gas Mask: "AIR FILTER UNIT ACQUIRED"
+- Pith Hat: "CASING FOR MY METAL HULL"
+- Thunderhat: "I WILL BRING THE THUNDER NOW."
+
+## Nautical
+
+- Cork Bowl Canoe: "IT MOCKS ME"
+
+## Treasure Hunting
+
+- Disarming Tools: "ANTIVIRUS HARDWARE"
+- Ball Pein Hammer: "DELICATE SMASHING ACCESSORY ACQUIRED"
+- Gold Pan: "GOLD GATHERING ACCESSORY"
+- Magnifying Glass: "SEARCH MODE ACCESSORY"
+
+## City Planning
+
+- Lamp Post (off): "NONFUNCTIONING"
+- Lamp Post (on): "PRIMITIVE SOURCE OF ILLUMINATION"
+- Town House: "CONTAINER FOR PIGS"
+- Town House (burning): "NO LONGER FUNCTIONAL"
+- The Sterling Trough Deli: "CONTAINS PREPARED ENERGY PACKETS"
+- The Sterling Trough Deli (burning): "IT BURNS"
+- Pigg and Pigglet's General Store: "PLACE OF TANGIBLE GOODS"
+- Pigg and Pigglet's General Store (burning): "THEIR GOODS ARE NOW LESS TANGIBLE"
+- Curly Tails Mud Spa: "TECHNICAL SUPPORT FOR FLESHLINGS"
+- Curly Tails Mud Spa (burning): "I FEEL NOTHING"
+- Swinesbury Fine Grocer's: "CONTAINS PACKETS OF BIOLOGICAL ENERGY"
+- Swinesbury Fine Grocer's (burning): "BURNING ENERGY PACKETS"
+- Miss Sow's Floral Arrangements: "FULL OF INFANT LIFEFORMS"
+- Miss Sow's Floral Arrangements (burning): "HA HA. THEIR STUFF IS BURNING"
+- 'The Sty' Oddities Emporium: "CONTAINS MANY IRREGULARITIES"
+- 'The Sty' Oddities Emporium
+
+
+
+
+```markdown
+# Meat Effigy
+
+![Meat Effigy Build](File:Meat Effigy Build.png) ![Meat Effigy](Meat Effigy.png)
+
+## Ingredients
+- **Boards**: 4x
+- **Beard Hair**: 4x
+- **Health Decrease**: 40
+
+## Filters
+- ![Healing Filter](Pic32|Healing Filter)
+- ![Magic Filter](Pic32|Magic Filter)
+- ![Structures Filter](Pic32|Structures Filter)
+
+## Details
+- **Tier**: 4
+- **Perk**: Resurrects the player on **Death**.
+- **Durability**: One use
+- **Spawn Code**: "resurrectionstatue"
+- **Description**: Resurrect yourself via the power of meat.
+- **Can Be Burned**: Yes
+
+## Quotes
+- **Wilson**: What a handsome devil!
+- **Willow**: That's my insurance policy.
+- **Wolfgang**: I'm not going to die.
+- **Wendy**: I'm just putting off the inevitable.
+- **WX-78**: MODELLED AFTER THE MEATBRAINED SCIENCE FLESHLING
+- **Wickerbottom**: How very pagan.
+- **Woodie**: I look good in wood.
+- **Maxwell**: I'm not above using this.
+- **Wagstaff**: A chance to learn from failure.
+- **Wigfrid**: I dö nöt knöw why I made this.
+- **Webber**: It's a giant doll of our friend!!
+- **Walani**: You better work.
+- **Warly**: Part of my soul is within.
+- **Woodlegs**: Don't capture me likeness at all!
+- **Wilba**: IT GIVE'TH LIFES
+- **Wormwood**: Regrowing friends
+- **Wheeler**: Adventuring insurance.
+- **Winona**: Looks just like that egghead! Ha!
+- **Wortox**: I can never die! Hyuyu!
+- **Wurt**: Is Funny-hair man... okay?
+- **Wanda**: I'm all for taking precautions, but does it have to look like that?
+
+## Skins
+![Neat Effigy Icon](Neat Effigy Icon.png) **Woven - Elegant Neat Effigy**: "You wouldn't be caught dead with uncoiffed hair!"
+
+## Tips
+- The ability to build Meat Effigies easily is Wilson's greatest advantage over the other characters because he is a walking renewable source of Beard Hair, which is the Meat Effigy's rarest ingredient. However, note that Wilson will have no beard after resurrection.
+- Beard Hair can also be obtained by catching rabbits and lowering sanity, turning them into Beardlings.
+- If the player is concerned about the Meat Effigy being destroyed (e.g. by the Deerclops), it is recommended to place it somewhere seldom visited.
+- When building a Meat Effigy, it is a good idea to leave some supplies near it to make the retrieval of items easier or to prevent freezing to death in winter. For example, having a Walking Cane and Log Suit nearby can help for covering long distances quickly, and can also help with retrieving items from dangerous places.
+  - Additionally, a Lazy Forager can be placed next to a Meat Effigy, as the Lazy Forager can be incredibly useful for retrieving items near enemies, such as hounds.
+- If the player plans to build several Meat Effigies, it is recommended to place them in different areas, not near each other. If several Effigies are placed near each other and there is a danger nearby when the player is revived, they may be killed several times over without being able to collect any equipment.
+
+## Trivia
+- The Meat Effigy's appearance is the same for all the characters; always being modeled after Wilson rather than whoever created it. This is noted by WX-78, Webber, and Woodlegs, who are confused about why it does not resemble them. In Don't Starve Together, characters including WX-78, Webber, Winona, and Wurt recognize the effigy as resembling Wilson.
+- An effigy is a representation of someone in sculpture or another three-dimensional art medium. Effigies are usually constructed for funerary, religious, or caricatural purposes.
+- Despite the appearance of rope on the Meat Effigy, it's not required in the recipe.
+
+## Bugs
+- Sometimes, when an above ground Meat Effigy is activated while in a cave, the game may bug and respawn on the surface at the entrance to the caves. Then the character plays their death animation and is temporarily unable to move.
+- If a Meat Effigy is destroyed while
+
+
+
+
+```markdown
+# Infernal Swineclops
+
+## Mob Information
+- **Spawn Code**: Cannot be spawned
+- **Health**: 42500
+- **Damage**: 200 (250 when buffed)
+- **Spawn From**: ![Forge Portal](Pic32)
+- **Special Ability**: Switches between two stances. Slight resistance to the effects of the Living Staff's Life Blossom. Deliberately avoids touching the Living Staff's Life Blossom.
+
+## Appearance and Quotes
+- **Box Title**: Infernal Swineclops
+- **Image**: ![Infernal Swineclops](Infernal_Swineclops.png)
+- **Image Width**: 400px
+
+Quotes:
+- **Wilson**: I can smell him from here!
+- **Willow**: Bet you think you're safe in all that armor.
+- **Wolfgang**: Is not scaring Wolfgang.
+- **Wendy**: You are a prisoner of your own doomed destiny.
+- **WX-78**: STILL A WEAK FLESHLING UNDERNEATH THAT ARMOR
+- **Wickerbottom**: That lock must be heavy on its snout.
+- **Woodie**: Gotta chop that armor up.
+- **Maxwell**: Back to the dungeons with you!
+- **Wigfrid**: Yöu shall be chained up again, föe!
+- **Webber**: All that armor must be heavy.
+- **Winona**: Go back to your cage.
+
+## Behavior
+The Infernal Swineclops is a mob exclusive to **[The Forge](The Forge)** event in **[Don't Starve Together]**. It serves as the current final boss for the event. It appears to be a boar, bull, and beetle tribrid. It wears spike-covered green battle armor with a huge beetle-like carapace. It also appears to have a golden lock on its snout that moves in both modes, as well as a chain on its torso connecting to the battle armor and the aforementioned carapace, gauntlets on its wrists, and a collar surrounding its neck.
+
+The Infernal Swineclops shows up in the 12th round after the **[Rhinocebro]**s are defeated. **[Battlemaster Pugna]** calls out to the Infernal Swineclops, noting of the survivors' many victories prior to combating the final boss.
+
+## Tips
+- The team's main tank will survive longer by equipping the Blacksmith's Edge, and using the parry ability wisely.
+- **[WX-78]**, a tank, can sometimes shock the Infernal Swineclops. This may let the Infernal Swineclops wreak havoc on the team if the Infernal Swineclops keeps getting shocked while attempting to use a leap attack before sleeping in the Living Staff's Life Blossom, for instance.
+- The Infernal Swineclops will only sleep after performing a jump attack. This can lead to difficult scenarios if the Infernal Swineclops pummels the one of the team's tanks to death inside the Living Staff's Life Blossom, then jumps out of the Life Blossom toward its next victim who gained aggro on the boss.
+
+## Trivia
+- The Infernal Swineclops's spawn code is `"beetletaur"`. However, it's impossible to spawn it in the regular game, while the **[Console]** is not available at all on **[The Forge]** servers.
+- The Infernal Swineclops' appearance is based on the Minotaur, a Greek mythological creature, in similarity to the **[Ancient Guardian]**. This is also interesting to note about its beetle-like appearance, too. The Romanian noun for "taur" is referenced to the real-life stag beetle.
+- The Infernal Swineclops is one of two of the new mobs introduced in the 2018 version of **[The Forge]**. The **[Rhinocebros]** are the other mobs that are new to this event, if the brothers are treated as their own separate mob.
+- The Infernal Swineclops was originally named "Scarabataur the Condemned" in its **[Profile Icons]**.
+
+## Gallery
+<gallery>
+  Infernal_Swineclops_Sleeping.png|Infernal Swineclops sleeping.
+  Swineclops_Dead.png|Defeated Infernal Swineclops.
+  Swineclops_Forge_Ad.png|Infernal Swineclops as seen on The Forge advertisement.
+  RWP 215 Swineclops Concept Art.jpg|Concept art for the Infernal Swineclops from **Rhymes with Play** #215.
+</gallery>
+```
+
+
+
+
+```markdown
+# Rainforest Turf
+
+## Exclusivity
+Exclusive to **Hamlet**.
+
+## Item Info
+- **Burn Time**: 90/45 sec
+- **Dropped By**: Rainforest tiles
+- **Stack**: 10
+- **Spawn Code**: "turf_rainforest"
+
+## Turf Info
+- **Image**: Rainforest Turf Texture
+- **Pitchfork**: 1
+- **Planted**: 1
+
+## Quotes
+- **Wilson**: "It's a chunk of ground."
+- **Willow**: "The ground is boring."
+- **Wolfgang**: "Step stones."
+- **Wendy**: "Some ground."
+- **WX-78**: "GROUND PARTS"
+- **Wickerbottom**: "The ground. You step on it."
+- **Woodie**: "Just some ground, eh?"
+- **Maxwell**: "Turf."
+- **Wagstaff**: "Luscious turf that should be put somewhere."
+- **Wigfrid**: "A piece of the battlefield."
+- **Webber**: "Some ground that we dug up."
+- **Walani**: "Turfy dirt."
+- **Warly**: "It's like an ingredient for the ground."
+- **Woodlegs**: "Me ain't no ground lubber."
+- **Wilba**: "‘TIS GROUND"
+- **Wormwood**: "Dirt"
+- **Wheeler**: "Do I really need to drag this dirt around with me?"
+- **Choose**: Wendy
+
+## Description
+Rainforest Turf is a **Turf** item exclusive to the **Hamlet** DLC, acquired by digging **Rainforest** tiles with a **Pitchfork**. Like other Turfs, it can be placed on any bare ground tile or used as fuel. Additionally, it can be used to craft **Cultivated Turf**.
+
+It spawns naturally in the **Rainforest** **Biome**.
+
+When placed on the **Surface World** covering a large enough area, **Toucan**s, **Parrot**s, and **Kingfisher**s are the only **Birds** that will spawn and land on these turfs.
+
+In SW, **Flooding** Puddles can spawn on this turf.
+
+## Usage
+### Recipe
+- **Item 1**: Rainforest Turf
+  - **Count**: 1
+- **Item 2**: Ashes
+  - **Count**: 1
+- **Result**: Cultivated Turf
+- **Tool**: Alchemy Engine
+
+## Gallery
+<details>
+  <summary>Click to expand gallery</summary>
+  
+  | Image | Description |
+  | --- | --- |
+  | ![Rainforest Turf Texture] | Rainforest Turf texture. |
+  | ![Rainforest Turf] | Wilson standing on Rainforest Turf. |
+  | ![Rainforest Turf Map] | Rainforest Turf as seen on the Map. |
+</details>
+
+## Categories
+- **Fuel**
+- **Non-Renewable**
+- **Flammable Objects**
+- **Naturally Spawning Objects**
+
+[[vi:Rainforest Turf]]
+```
+
+
+
+
+```markdown
+# Ice Box
+
+## Description
+The Ice Box is a craftable structure used to store and preserve food. Items inside will spoil two times slower. It requires 2 Gold Nuggets, a Gear, and a Board to craft and an Alchemy Engine to prototype.
+
+## Structure Info
+
+- **Tool**: Can be Hammered 🔨
+- **Image**: ![Ice Box Build](Ice Box Build.png)
+- **Ingredient 1**: Cut Stone (Multiplier: 1)
+- **Ingredient 2**: Gears (Multiplier: 1)
+- **Ingredient 3**: Gold Nugget (Multiplier: 2)
+- **Icon**: ![Ice Box](Ice Box.png)
+- **Filter**: ![](Structures Filter) ![](Storage Solutions Filter) ![](Cooking Filter)
+- **Tier**: 2
+- **Spawn Code**: "icebox"
+- **Description**: Slows food spoilage.
+- **Perk**: Perishables will only receive 50% of spoilage rate.
+
+## Quotes
+
+- Wilson: "I have harnessed the power of cold!"
+- Willow: "That is the opposite of fire."
+- Wolfgang: "Box what makes cold!"
+- Wendy: "It is as cold as my heart."
+- WX78: "CARRY ON, MY FRIGID BROTHER"
+- Wickerbottom: "It is a crude heat exchanger."
+- Woody: "Ahhhh. Reminds me of home."
+- Maxwell: "A little piece of winter in a box."
+- Wigfrid: "Winter dwells inside!"
+- Webber: "Spoil not, food supplies!"
+- Warly: "The ice box, my second-most loyal culinary companion."
+- Wormwood: "Keeps belly stuff cold"
+- Winona: "It's not factory standard."
+- Wortox: "Freeze mortal foods for midday feasts."
+- Wurt: "Chilly box."
+- Walter: "This should keep our food supplies fresh!"
+- Wanda: "I'm all for making things last longer."
+
+## Scrapbook Info
+A container with 9 slots that can hold food items. Items inside will expire half as fast.
+
+## Usage
+The Ice Box can hold up to 9 items or stacks of food type items. It cannot, however, contain the never spoiling types of food such as Mandrakes or Tallbird Eggs.
+
+## Tips
+- If playing as Warly, crafting Chef Pouches can reduce or eliminate the need for an Ice Box. This is particularly useful when engaging in nomadic play styles, as not all gold is returned when hammering an Ice Box. However, Chef Pouches do not prevent Ice and Hail from melting, unlike Ice Boxes. Additionally, the Chef Pouch only slows the decay of food to 75% of its base duration, instead of 50%.
+- With access to Bundling Wrap, food can be safely stored inside of Chests to save Ice Box room.
+
+## Trivia
+- The Ice Box was added in the "Spoiled Rotten" update. Before "A Little Rain Must Fall" update, constructing one did not require Gears, instead using Cut Stone. Ham Bats and Garlands were able to be stored in Ice Boxes until a November 14, 2013 bugfix/performance update, when the two items were made non-edible.
+
+## Bugs
+- In Pocket Edition, dragging an item from the Ice Box onto an object in the Inventory bar, in order to replace it into the Ice Box, may cause the item in the inventory to teleport onto the ocean.
+- If a customized Ice Box is placed on a boat and opened, the particles it emits will keep flowing out where it has been opened, in the event the boat changes its position. This can be fixed by closing the Ice Box. Opening it again will cause the bug to occur afresh.
+
+## Gallery
+<details>
+  <summary>Click to expand gallery</summary>
+  
+  ![Ice Box as seen in the poster for "Don't Starve's Spoiled Rotten update](Spoiled Rotten.jpg)
+  
+  ![Original HD icon from Bonus Materials from CD Don't Starve](CD icebox.png)
+  
+</details>
+
+## Categories
+- Containers
+- Structures Filter
+- Storage Solutions Filter
+- Cooking Filter
+- Science
+- Non-Flammable
+```
+
+
+
+
+```markdown
+# Managing Your Naughtiness
+
+This guide will teach you all about managing your **Naughtiness**.
+
+> **Quote**: "If you've been naughty, Santa won't bring you presents!" - Literally Every Parent Ever, When Talking To Their Naughty Children
+
+## What is Naughtiness?
+In Don't Starve (including all DLCs) and Don't Starve Together, there is a hidden but ever-present stat, **Naughtiness**, which is not visible in the statistics area. Getting a high enough naughtiness level will allow **Krampus** to spawn, which can be base-ruining to newer players.
+
+## How Do I Get Naughtiness?
+A certain amount of naughtiness points is assigned to the player upon killing certain ‘Innocent Creatures’, and upon obtaining a certain amount of them (a randomly generated number ranging from 31-50), one or more Krampii will spawn in an attempt to “punish” the troublemaker. These are the best creatures for gaining Naughtiness:
+
+### Baby Beefalo
+**Baby Beefalo** are spawned during Mating Season (Either Winter or Spring), and give a Naughtiness of 6. They only come around once a game-year, so it's best not to only use this as the primary source for Krampus Farms.
+
+![Baby Beefalo](64x64.png)
+
+`x6-9`
+
+![Krampus](64x64.png)
+
+### Smallbirds
+**Smallbirds** are a relatively cheap source of Naughtiness (One trip to a Tallfort can give about 20 Eggs), but hatching them all is very tedious. Once they are all hatched though, since it's so easy to get large numbers of them, it is very easy to spawn many Krampii in one go.
+
+![Smallbird](64x64.png)
+
+`x6-9`
+
+![Krampus](64x64.png)
+
+### Glommer
+**Glommer**, well-known for its whopping 50 Naughtiness point value, will spawn a Krampus every time one is killed by the player. However, due to the fact that it will only respawn during each full moon (which occurs once every 18 days), Glommer killing isn't a reliable source of Krampii due to having to wait nearly an entire season between spawning attempts. Ideally, one should try to kill Glommer on the day immediately preceding the full moon night to maximize the Sanity gained from Glommer’s +6.25/min sanity aura.
+
+![Glommer](64x64.png)
+
+`x32`
+
+![Krampus](64x64.png)
+
+### Birds
+**Birds** can be caught and killed fairly quickly and can therefore spawn many Krampii with the right setup. If you can, create several Bird Traps (10 is a good start) and bait them with seeds in each one. Check back on the traps after several days and they will likely be full with lots of birds. If one manages to obtain a total of 16-25 birds at once (i.e before they all starve to death), one can easily spawn a Krampus just by murdering all the birds in a short enough period of time. As a bonus, you’ll also end up with lots of morsels and feathers from killing the birds! (If you want to, you can instead cook your birds over a fire pit instead of simply murdering them if you **really** don’t want feathers.) **Wickerbottom** players can use **Birds of the World** to quickly summon high numbers of birds and **Books#Sleepytime Stories** to put said birds to sleep which can lead to even
+
+![Redbird](64x64.png)
+
+`x16-25`
+
+![Krampus](64x64.png)
+
+### Shipwrecked
+
+### Pirate Parrot
+In this respect, the **Parrot Pirate** is an amalgamation of a bird and a smallbird. It can be caught the same way any other bird can be caught, but gives 6 naughtiness.
+
+![Parrot Pirate](64x64.png)
+
+`x6-9`
+
+![Krampus](64x64.png)
+
+### Doydoy
+**Doydoys** spawn on separate islands, and must be relocated to each other to begin population. The 50 Naughtiness bonus may be tempting, but remember that one must bring them to each other for any chance of getting the benefits of Doydoys long-term. However, it should be noted that once populated, one may take one to two Doydoys with them into their RoG/Vanilla world, and spawn Krampus without suffering the consequences.
+
+![Doydoy](64
+
+
+
+
+Here is the text transformed into markdown format:
+
+```markdown
+# Mushtree Forest
+
+![Mushtree Forest Icon](Mushtree Forest Icon.png)
+
+- Abundant: ![Mushtree](Mushtree.png) ![MushtreeRed](MushtreeRed.png) ![MushtreeGreen](MushtreeGreen.png) ![Mushrooms](Mushrooms.png) ![Light Flower](Light Flower.png) ![Fern](Fern.png)
+- Occasional: 
+- Rare: ![Tentapillar](Tentapillar.png)
+
+> "Even the trees down here are weird." - Wendy
+
+The Mushtree Forest is a biome that can only be found in a cave. It has been named after the numerous Mushtrees that can naturally be found in the area. Red, Blue, and Green Mushtrees are abundant in these environments, and the ground is covered with a combination of Red, Blue, and Green Fungal Turfs. These areas are also the best place to find Red, Green, or Blue Mushrooms in abundance, and occasionally, players may also find Light Flowers here.
+
+Sometimes depending on the world generation, the Mushtree Biome has different variations. For example, one branch or area may only contain one type of Mushtree and one type fungal turf or maybe no Mushrooms at all.
+
+In Don’t Starve Together, the Blue Mushtree Forest will always have a connection to the Lunar Grotto.
+
+## Red Mushtree Forest
+
+![Red Mushtree Forest Icon](Red Mushtree Forest Icon.png)
+
+- Abundant: ![MushtreeRed](MushtreeRed.png) ![Red Mushroom](Red Mushroom.png) ![Light Flower](Light Flower.png) ![Fern](Fern.png)
+- Rare: ![Tentapillar](Tentapillar.png) ![Toadstool Cap](Toadstool Cap.png)
+- Occasional: ![Stalagmite](Stalagmite.png) ![Spilagmite](Spilagmite.png) ![Frog Pond](Frog Pond.png)
+
+## Green Mushtree Forest
+
+![Green Mushtree Forest Icon](Green Mushtree Forest Icon.png)
+
+- Abundant: ![MushtreeGreen](MushtreeGreen.png) ![Green Mushroom](Green Mushroom.png) ![Light Flower](Light Flower.png) ![Fern](Fern.png)
+- Rare: ![Tentapillar](Tentapillar.png) ![Toadstool Cap](Toadstool Cap.png)
+- Occasional: ![Rabbit Hutch](Rabbit Hutch.png) ![Carrot](Carrot.png) ![Spider Den](Spider Den.png) ![Frog Pond](Frog Pond.png)
+
+## Blue Mushtree Forest
+
+![Blue Mushtree Forest Icon](Blue Mushtree Forest Icon.png)
+
+- Abundant: ![Mushtree](Mushtree.png) ![Blue Mushroom](Blue Mushroom.png) ![Light Flower](Light Flower.png) ![Fern](Fern.png)
+- Occasional: ![Blue Mushtree Webbed](Blue Mushtree Webbed.png) ![Dangling Depth Dweller](Dangling Depth Dweller.png) ![Frog Pond](Frog Pond.png)
+- Rare: ![Tentapillar](Tentapillar.png) ![Toadstool Cap](Toadstool Cap.png)
+
+## Gallery
+
+| Blue Variation of Mushtree Forest | Red Variation of Mushtree Forest | Mushtree Biome with three variations of Mushtrees |
+| --- | --- | --- |
+| ![Blue Type of Mushtree Forest](Blue Type of Mushtree Forest.png) | ![Red Type of Mushtree Forest](Red Type of Mushtree Forest.png) | ![Mushtree Forest Abundant with Three Variants of Mushtrees](Mushtree Forest Abundant with Three Variants of Mushtrees.png) |
+
+## Biomes
+
+- [es:Bosque de hongos](es:Bosque de hongos)
+- [vi:Rừng Nấm Cây][vi:Rừng Nấm Cây]
+- [[Category:Biomes]]
+```
+
+
+
+
+Here is the extracted text transformed into Markdown format:
+
+# Sweetening Food Items
+
+There are 2 basic **Sweetening** food items in-game (3 in Don't Starve Together). None of them can be cooked.
+
+- **Royal Jelly**: Sweetener value of 3
+- **Honey** and **Honeycomb**: Sweetener value of 1
+
+| ![Honey] | ![Honeycomb] | ![Royal Jelly] |
+|----------|--------------|----------------|
+| Honey    | Honeycomb    | Royal Jelly    |
+
+# Crock Pot Meals that require Sweeteners
+
+| Food     | Name         | DLC       | Health  | Hunger  | Sanity  | Perish time (days) | Cook time (sec) | Priority | Recipe                               | Filler<br />Restrictions       |
+|----------|--------------|-----------|---------|---------|---------|-------------------|-----------------|---------|--------------------------------------|----------------------------|
+| Taffy    | Taffy        |           | -3      | +25     | +15     | 15d               | 40s             | 10      | Sweetener×3                        | no Meats                   |
+| Pumpkin Cookies | Pumpkin Cookies |          | 0    | +37.5  | +15     | 10d               | 20s             | 10      | Pumpkin×1 Sweetener×2               |                            |
+| Ice Cream | Ice Cream    | Reign of Giants | 0  | +25     | +50     | 3d                | 10s             | 10      | Ice×1 Dairy_product×1 Sweetener×1 | no Meats Vegetables Twigs Eggs |
+| Honey Nuggets | Honey Nuggets |         | +20     | +37.5  | +5      | 15d               | 40s             | 2       | Honey×1 Meatsx0.5                | no Twigs maximum Meatsx1.5 |
+| Honey Ham | Honey Ham    |           | +30     | +75     | +5      | 15d               | 40s             | 2       | Honey×1 Meatsx2                 | no Twigs                   |
+| Powdercake | Powdercake  |           | -3      | 0       | 0       | 18750d            | 10s             | 10      | Corn/Popperfish/Corn Codx1 Twigsx1 Honey×1 | |
+| Jellybeans | Jellybeans  | Don't Starve Together | 2 + 120 (over 2 minutes) | 0       | +5      | Does not spoil    | 50s             | 12      | Royal Jellyx1                 | no Monster_Foods Twigs    |
+| Fresh Fruit Crepes | Fresh Fruit Crepes | Shipwrecked/Don't Starve Together | +60     | +150   | +15     | 10d               | 40s             | 30      | Fruit×1.5 Butter×1 Honey×1     | |
+| Gummy Cake | Gummy Cake  | Hamlet    | -3      | +150    | -5      | 20d               | 40s             | 1       | Gummy Slug Sweetener×1.0        | No Meats                   |
+| Tea      | Tea         | Hamlet    | +3      | +12.5   | +33     | 1d (Iced Tea)      | 10s             | 25      | Piko×2 Sweetener×1.0           | No Meats Vegetables Ice Inedible |
+| Iced Tea | Iced Tea     | Hamlet    | +3      | +12.5   | +33     | 6d                | 10s             | 30      | Piko×2 Ice×1 Sweetener×1.0      |                            |
+| Volt Goat Chaud-Froid | Volt Goat Chaud-Froid | Don't Starve Together | +3      | +37.5  | +10     | 10d               | 40s             | 30      | Volt Goat Horn×1 Sweetener×2.0 | No Meats Cooked in Portable Crock Pot |
+| Jelly Salad | Jelly Salad | Don't Starve Together | 0      | +37.5  | +50     | 6d                | 40s             | 50      | Leafy Meats×2 Sweetener×2.0     |                            |
+| Soothing Tea | Soothing Tea | Don't Starve Together | +3      | 0       | +15 + 30 over 1 min | 3d               | 20s             | 1       | Forget-Me-Lots×1 Sweetener×1
+
+
+
+
+```markdown
+# Wolfgang's Quotes in Hamlet
+
+This page lists quotes spoken by **Wolfgang** when examining items or objects in the game **Hamlet**. For items exclusive to other expansions, see the pages listed in the navigation buttons below.
+
+{{Navbutton/Character}}
+
+![Wolfgang](Wolfgang talking.png "My mighty brain could make this better!")
+
+## Tools
+
+- **Shears**: "Is for cutting plant things."
+
+## Lights
+
+- **Cork Candle Hat**: "Now Wolfgang hands free for punching."
+- **Cowl**: "Is funny little bat hat."
+
+## Survival
+
+- **Bug B'Gone**: "Is for punching teensy bugs."
+- **Bird Whistle**: "Wolfgang sings like little birdies."
+
+## Food
+
+- **Sprinkler**: "Weeee. Wolfgang play in sprinkler!"
+
+## Science
+
+- **Smelter**: "Fire make metal bricks."
+- **Oscillating Fan**: "Is cool on Wolfgang skin."
+
+## Fight
+
+- **Halberd**: "Sword is for weak no-muscle men."
+- **Cork Bat**: "Wolfgang hardly feel this at all."
+- **Weevole Mantle**: "Wolfgang win!"
+- **Mant Mask**: "Make Wolfgang look like Bug Man."
+- **Mant Suit**: "Wolfgang just want to fit in."
+- **Fancy Helmet**: "Is funny little tin hat."
+- **Tin Suit**: "No one beat Wolfgang now!"
+- **Blunderbuss**: "Is making big boom."
+
+## Structures
+
+- **Cork Barrel**: "Is tiny little chest."
+
+## Refine
+
+- **Claw Palm Sapling**: "Is grow up big and strong."
+
+## Magic
+
+- **Hogus Porkusator**: "Hee hee. Funny little piggie."
+- **Pugalisk Wand**: "Is freezing ray made of mighty beast."
+- **Skyworthy (non-Hamlet world)**: "Is way in."
+- **Skyworthy (Hamlet world)**: "Is way out."
+- **Living Artifact**: "Mighty Wolfgang can get mightier!"
+- **Root Trunk**: "Wolfgang's stuff many places now!"
+- **Vortex Cloak**: "Scary cloak! Wolfgang wear it anyway."
+
+## Dress
+
+- **Gas Mask**: "Is good for Wolfgang lungs."
+- **Pith Hat**: "Is hard like Wolfgang head."
+- **Thunderhat**: "Wolfgang look good in hat."
+
+## Nautical
+
+- **Cork Bowl Canoe**: "Is weakling."
+
+## Treasure Hunting
+
+- **Disarming Tools**: "Wolfgang beat booby trap now."
+- **Ball Pein Hammer**: "Wolfgang not good with subtlety."
+- **Gold Pan**: "Is for eating from?"
+- **Magnifying Glass**: "Hehe! Wolfgang eye is big now!"
+
+## City Planning
+
+- **Lamp Post (off)**: "Is lamp for night lights."
+- **Lamp Post (on)**: "Wolfgang does not like the dark."
+- **Town House**: "Little pig! Little pig! Let Wolfgang come in!"
+- **Town House (burning)**: "Wolfgang not start fire!"
+- **The Sterling Trough Deli**: "Is food!"
+- **The Sterling Trough Deli (burning)**: "Food is on fire!"
+- **Pigg and Pigglet's General Store**: "Many things inside little shop."
+- **Pigg and Pigglet's General Store (burning)**: "Is not supposed to do that!"
+- **Curly Tails Mud Spa**: "Wolfgang need stuff for boo-boos."
+- **Curly Tails Mud Spa (burning)**: "Is supposed to be on fire?"
+- **Swinesbury Fine Grocer's**: "Shop of food!"
+- **Swinesbury Fine Grocer's (burning)**: "Fire! Wolfgang see fire!"
+- **Miss Sow's Floral Arrangements**: "Is shop for little growing things."
+- **Miss Sow's Floral Arrangements (burning)**: "Is full of fire!"
+- **'The Sty' Oddities Emporium**: "Strange things inside."
+- **'The Sty' Oddities Emporium (burning)**: "Was not Wolfgang fault."
+- **The Flying Pig Arcane Shop**: "Is place for magics things."
+- **The Flying Pig Arcane Shop (burning)**: "The magics is fire!"
+- **The Boar's Tusk Weapon Shop
+
+
+
+
+```markdown
+# Wilson's Quotes
+
+Wilson's quotes are spoken when the player examines an in-game item or object. The player can alt-click items and objects to examine them.
+
+Due to the amount of text catalogued, this page only contains Wilson's quotes for items found in **Reign of Giants**. For items exclusive to other expansions, see the pages listed above.
+
+## Lights
+- Endothermic Fire and Fire Pit: "Sure beats darkness."
+- Endothermic Fire (high): "That fire is getting out of hand!"
+- Endothermic Fire Pit (high): "Good thing it's contained!"
+- Endothermic Fire and Fire Pit (normal): "Nice and comfy."
+- Endothermic Fire and Fire Pit (low): "The fire's getting a bit low."
+- Endothermic Fire and Fire Pit (embers): "I should put something on the fire before it goes out."
+- Endothermic Fire (out): "Well, that's over."
+- Endothermic Fire Pit (out): "At least I can start it up again."
+- Moggles: "A wretched stench but excellent visibility."
+
+## Survival
+- Insulated Pack: "The fur keeps the temperature inside stable."
+- Luxury Fan: "Down, to bring the temperature down."
+- Siesta Lean-to: "A nice place for an afternoon rest out of the heat."
+- Siesta Lean-to (can't sleep): "Night is for sleeping, not taking siestas."
+- Siesta Lean-to (monsters): "It's too dangerous right now!"
+- Siesta Lean-to (hungry): "I'm too hungry for a siesta!"
+- Siesta Lean-to (in cave): "I don't think I could really relax down here."
+- Tent (burnt): "Nothing left to sleep in."
+- Siesta Lean-to (burnt): "It won't provide much shade now."
+- Thermal Stone: "I could manipulate its temperature."
+- Thermal Stone (frozen): "It's colder than ice."
+- Thermal Stone (cold): "That's a cold stone."
+- Thermal Stone (warm): "It's quite warm and cuddly... for a rock!"
+- Thermal Stone (hot): "Nice and toasty hot!"
+- Pretty Parasol: "This will keep my hair moderately dry, at least."
+
+## Food
+- Crock Pot (burnt): "The pot got cooked."
+- Bee Box (burnt): "How did it get burned?!!"
+- Basic and Improved Farm (burnt): "I don't think anything will grow in a pile of ash."
+- Drying Rack (drying in rain): "Meat takes even longer to dry in rain."
+- Drying Rack (burnt): "The rack got dried."
+- Bucket-o-poop: "That is definitely a bucket full of poop."
+
+## Science
+- Science Machine (burnt): "It won't be doing much science now."
+- Alchemy Engine (burnt): "The extra science didn't keep it alive."
+- Thermal Measurer (burnt): "Its measuring days are over."
+- Rainometer (burnt): "The measuring parts went up in a cloud of smoke."
+- Ice Flingomatic (off): "All quiet on the flinging front."
+- Ice Flingomatic (on): "Fling on!"
+- Ice Flingomatic (low fuel): "The fuel tank is getting a bit low."
+- Electrical Doodad: "It's whirring with electricity."
+
+## Fight
+- Scalemail: "Hot mail!"
+- Morning Star: "It's electric!"
+- Weather Pain: "Spinning doom."
+
+## Structures
+- Pig House (burnt): "Not so fancy now, pig!"
+- Rabbit Hutch (burnt): "That's not a real roasted carrot."
+- Hay Wall (burnt): "That won't do at all."
+- Wood Wall (burnt): "Burnt!"
+- Chest (burnt): "That trunk was truncated."
+- Scaled Chest: "Next best thing to a lockbox!"
+- Sign (burnt): "I can't read it any longer."
+
+## Magic
+- Meat Effigy (burnt): "Not much use anymore."
+- Prestihatitator (burnt): "Fire doesn't really solve naming issues..."
+- Shadow Manipulator (burnt): "Whatever it was, it's burnt now."
+- Old Bell: "Dingalingaling."
+
+## Dress
+- Cat Cap: "Ears hat!"
+- Fashion Melon: "Let the juice run down your face."
+- Ice Cube: "Stay cool, boy."
+- Rain Coat: "Keeps the rain where it
+
+
+
+
+```markdown
+# Eye of the Tiger Shark
+
+**Exclusivity: Shipwrecked**
+
+## Structure Infobox
+
+- **Food Type:** Meat ![Meat](https://example.com/Meats.png)
+- **Icon:** ![Eye of the Tiger Shark](https://example.com/Eye_of_the_Tiger_Shark.png)
+- **Image:** ![Dropped Eye of the Tiger Shark](https://example.com/Eye_of_the_Tiger_Shark_Dropped.png)
+- **Stack:** 10
+- **Spawn Code:** "tigereye"
+- **Name:** Eye of the Tiger Shark
+- **Dropped By:** ![Tiger Shark](https://example.com/Tiger_Shark.png)
+- **HP Restored:** 60
+- **Hunger Restored:** 75
+- **Sanity Restored:** -15
+- **Spoil:** Does not spoil
+
+## Quotes
+
+- **Wolfgang:** "Is giving me dirty look."
+- **Wilson:** "More eyes means better sight... right?"
+- **Willow:** "Don't look at me like that!"
+- **Woodie:** "Don'tcha know it's rude to stare?"
+- **Maxwell:** "Not something a gentleman handles without gloves."
+- **Wagstaff:** "Theoretically, it's edible. But I believe there could be a better use for it."
+- **Wendy:** "Tyger, tyger, burning bright..."
+- **Woodlegs:** "Reminds me o'me ol'first mate, Wildeye Weston."
+- **Wickerbottom:** "The ocular lens of a large creature."
+- **Webber:** "What're you looking at?"
+- **Warly:** "Well, it's edible."
+- **WX-78:** "A WORTHWHILE ACQUISITION, IN HINDSIGHT"
+- **Walani:** "Nasty."
+- **Wigfrid:** "I've göt the eye öf the tigershark!"
+- **Wilba:** "TO EAT OR NOT TO EAT?"
+- **Wormwood:** "(poke)"
+- **Wheeler:** "I hope this is useful because my hands are all gooey now."
+- **Choose:** Wilson
+
+The **Eye of the Tiger Shark** is a **Food Item** introduced in the **Don't Starve: Shipwrecked** DLC. It is dropped by the **Tiger Shark** and can be used to craft the **Super Spyglass**. When eaten, it will restore 60 Health, and 75 hunger at the cost of 15 Sanity. It is considered **Meats**, therefore if left on the ground, nearby **Wildbore**s, **Spider**s and **Snake**s will be attracted to it and will eat it.
+
+## Usage
+
+**Recipe for Super Spyglass:**
+
+- **Item 1:** Eye of the Tiger Shark
+- **Item 2:** Gold Nugget
+- **Item 3:** Spyglass
+- **Tool:** Science Machine
+- **Result:** Super Spyglass
+
+## Tips
+
+- If the player wishes to deliberately spawn Crocodogs or Sea Hounds, dropping the Eye of the Tiger Shark in the ocean repeatedly is the quickest way of doing so due to its high hunger value. Each time it is dropped, there is a 37.5% chance of spawning the mobs.
+
+## Trivia
+
+- The name might be a reference to the song **Eye of the Tiger**.
+- Food-wise, this item can be considered the Shipwrecked counterpart to the **Deerclops Eyeball**.
+
+## Categories
+
+- **Food and Edible Items**
+- **Mob Dropped Items**
+- **Sanity Loss**
+- **Boss Dropped Items**
+- **Meats**
+- **Healing**
+```
+
+
+
+
+```markdown
+# Spicy Vegetable Stinger
+
+### Overview
+- **DLC**: Don't Starve: Hamlet
+- **Crock Pot Item**
+- **Food Type**: Veggie
+- **Recipe**: Asparaguses x1, Vegetables x1.5, Ice x1 or Toma Root x1, Vegetables x1.5, Ice x1
+- **Can Be Burned**: Yes
+- **Stack**: 40
+- **HP Restored**: 3
+- **Hunger Restored**: 25 (40 for Winona)
+- **Sanity Restored**: 33
+- **Spoil Time**: 15 days
+- **Priority**: 15
+- **Cook Time**: 10 seconds
+- **Spawn Code**: "vegstinger"
+
+### Quotes
+- Wilson: "Can you use the celery as a straw?"
+- Willow: "Fire for my tongue."
+- Wolfgang: "Hoo! Is spicy!"
+- Wendy: "Doesn't spice up my life."
+- WX-78: "THE VEGETATION IS REDUNDANT"
+- Wickerbottom: "It's quite piquant."
+- Woodie: "Hoo! Spicy!"
+- Maxwell: "I do enjoy a drink."
+- Wagstaff: "Ah. A daily dose of vegetables restores the mental faculties."
+- Wigfrid: "Thy spicyness intrigues me nöt!"
+- Webber: "It's a drink with vegetables in it."
+- Walani: "Cheers!"
+- Warly: "Add a little spice."
+- Woodlegs: "Has the kick to't"
+- Wilba: "HATH A FURY IN'T"
+- Wormwood: "Tangy water"
+- Wheeler: "It could be spicier."
+- Winona: "I could use one of these after a long day."
+- Wortox: "I can't decide if it's for sipping or souping."
+- Wurt: "Fancy spicy juice!"
+- Walter: "I've never had a spicy drink before."
+- Wanda: "A little something to sip on."
+
+### Recipe
+#### Don't Starve
+- **Ingredients**: Asparaguses, Vegetables (1.5), Ice
+- **Tool**: Crock Pot
+- **Result**: Spicy Vegetable Stinger
+
+#### Don't Starve Together
+- **Ingredients**: Toma Roots, Vegetables (1.5), Ice
+- **Tool**: Crock Pot
+- **Result**: Spicy Vegetable Stinger
+- **Note**: Filler cannot be Meats, Egg, or Inedible.
+
+### Examples
+1. **Asparagus, Carrot, Green Cap, Ice**
+2. **Toma Root, Ice, Carrot (Pot: Yes)**
+3. **Toma Root, Ice, Ripe Stone Fruit, Ripe Stone Fruit**
+
+### Tips
+- Without a reliable source of honey, this can be a reliable means for recovering sanity. However, the ingredients required can provide more hunger when cooked individually, so it's a trade-off one should consider when planning their diet.
+- In Don't Starve Together, if one has an Onion and a Toma Root, then Salsa Fresca should be considered instead of this dish, as it requires 0.5 less vegetable value, while having the same benefits.
+
+### Trivia
+- Vegetable Stinger was introduced to Don't Starve Together in the Warly Character Update.
+- During the Pig Fiesta event in Hamlet, Spicy Vegetable Stinger takes on a more festive appearance.
+```
+
+I have transformed the provided text into a structured markdown format, organizing the information into sections with appropriate headings and bullet points for clarity.
+
+
+
+
+```markdown
+# Grave and Headstone
+
+## Overview
+Graves, also known as Mounds, are naturally-appearing objects found individually in Forests or in large groups in Graveyards. They can be dug up once using a Shovel to reveal resources or spawn a Ghost.
+
+## Structure Infobox: Grave
+- **Name**: Grave
+- **Image**:
+  - Buried: ![Mound](Mound.png)
+  - Dug: ![Grave Dug](Grave Dug.png)
+- **Tool**: Can be Dug using a Shovel ![Shovel](Shovel)
+- **Sanity Drain**: -10 after digging
+- **Resources**:
+  - Trinkets (50%)
+  - Red Gem, Blue Gem (15.35% each)
+  - Life Giving Amulet, Gears, Nightmare Fuel (3.07% each)
+  - Recipe Card, Lost Scrapbook Page (10%)
+- **Spawns**: Ghost (10%)
+- **Biome**: Graveyard, Forest, Labyrinth
+- **Spawn Code**: "mound"
+
+## Quotes: Grave
+- **Wolfgang**: Scary! Is probably full of bones!
+- **Wilson**: I bet there's all sorts of good stuff down there!
+- **Willow**: It's full of dead stuff, I bet.
+- **Woodie**: I should probably leave that alone.
+- **Maxwell**: What lies beneath?
+- **Wagstaff**: Could potentially yield secret property. And a poltergeist.
+- **Wendy**: Some day, I will join you.
+- **Woodlegs**: Not a bad place to hide your silver.
+- **Wickerbottom**: A burial mound.
+- **Webber**: Our loot sense is tingling.
+- **Warly**: I cannot help wondering what might be down there.
+- **WX-78**: MEATLINGS ARE SO SUPERSTITIOUS
+- **More...** (select Willow, source: when examining a Grave)
+
+## Dug Grave Quotes
+- **Wolfgang**: I am sorry, dead peoples.
+- **Wilson**: I should probably feel bad about that.
+- **Willow**: Better it than me.
+- **Woodie**: Sorry! Don't haunt me!
+- **Maxwell**: Already got that one.
+- **Wagstaff**: Defiled for the sake of knowledge.
+- **Wendy**: The earth has vomited up its secrets.
+- **Woodlegs**: I had to check for treasure!
+- **Wickerbottom**: A desecrated burial mound.
+- **Webber**: We're sorry about that.
+- **Warly**: What have I become?
+- **WX-78**: WORMS AND ICHOR
+- **More...** (select Wilson, source: when examining a dug Grave)
+
+## Structure Infobox: Headstone
+- **Name**: Headstone
+- **Image**:
+  - ![Headstone 1](Headstone 1.png)
+  - ![Headstone 2](Headstone 2.png)
+  - ![Headstone 3](Headstone 3.png)
+  - ![Headstone 4](Headstone 4.png)
+- **Renew**: Cannot be destroyed
+- **Biome**: Graveyard, Forest, Labyrinth
+- **Spawns**: Pipspook
+- **Spawn Code**: "gravestone"
+
+## List of Possible Epitaphs
+- "Here lies some guy. Blah blah blah."
+- "This headstone is blank"
+- "It says: 'Milk. Eggs. Bacon.'"
+- "Hey that's my name!"
+- Developer names (Set Piece)
+- "Not sick, just coffin."
+- It says "Catch you later."
+- "Five more minutes."
+- "And don't come back."
+- "This world could not hold me."
+- It reads "Right behind you..." and "Made you look!"
+- "Quoth the tall bird, Evermore."
+- There's just a big "W" etched in it.
+- It says "Come on in."
+- More...
+
+## Skins
+- Woven - Distinguished Gothic Gravestone
+  - Add these stones to create a grave atmosphere.
+  - ![Ingame](Gothic Gravestone.png)
+- Woven - Distinguished Sleepy Headstone
+  - The stone reads: "RIP V. Winkle."
+  - ![Ingame](Sleepy Headstone.png)
+
+## Tips
+- Digging Graves is one of the quickest ways to go insane for farming Nightmare Fuel, although due to the limited number of Graves in the world, it is not a repeatable method
+
+
+
+
+```markdown
+# {{Navbutton/Character}}
+
+<center>
+| style="position:relative;"
+{{Navbutton|Reign of Giants|{{ROOTPAGENAME}}/Quotes/Reign of Giants|type=2}}
+{{Navbutton|Shipwrecked|{{ROOTPAGENAME}}/Quotes/Shipwrecked|type=2}}
+{{Navbutton|Hamlet|{{ROOTPAGENAME}}/Quotes/Hamlet|type=2}}
+{{Navbutton|Together|{{ROOTPAGENAME}}/Quotes/Don't Starve Together|type=2}}
+|}</center>
+
+{{Quote|We will put you in our web!|Webber}}
+![Hey, wanna play?](File:Webber Chatter.png|thumb|Hey, wanna play?)
+
+This page lists [[Webber|Webber's]] [[character quotes|Quotes]] which are spoken when the player examines an in-game item or object. The player can alt-click on PC, press Y on Xbox One, or press the Triangle button on PS4 to examine items and objects.
+
+Due to the amount of text catalogued, this page only contains Webber's quotes for items found in '''Hamlet'''. For items exclusive to other expansions, see the pages listed above.
+
+## ==[[File:Icon Tools.png|32px]]Tools==
+
+- {{Pic32|Shears}}Shears- "It's for chores like trimming hedges or cutting grass."
+
+## ==[[File:Icon Light.png|32px]]Lights==
+
+- {{Pic32|Cork Candle Hat}}Cork Candle Hat- "Cool hat! Now our hands are free."
+- {{Pic32|Cowl}}Cowl- "Cool. Now we're like a Bat Spider Boy."
+
+## ==[[File:Icon Survival.png|32px]]Survival==
+
+- {{Pic32|Bug B'Gone}}Bug B'Gone- "For those little bugs."
+- {{Pic32|Bird Whistle}}Bird Whistle- "Now we can sing to the little birdies."
+
+## ==[[File:Icon Food.png|32px]]Food==
+
+- {{Pic32|Sprinkler}}Sprinkler- "Let's run through it."
+
+## ==[[File:Icon Science.png|32px]]Science==
+
+- {{Pic32|Smelter}}Smelter- "Yeesh, that's hot!"
+- {{Pic32|Oscillating Fan}}Oscillating Fan- "That breeze feels nice on our fur."
+
+## ==[[File:Icon Fight.png|32px]]Fight==
+
+- {{Pic32|Halberd}}Halberd- "Swoosh!"
+- {{Pic32|Cork Bat}}Cork Bat- "Coach said we're not allowed to cork a bat."
+- {{Pic32|Weevole Mantle}}Weevole Mantle- "For when we need protection."
+- {{Pic32|Mant Mask}}Mant Mask- "This seems a little mean."
+- {{Pic32|Mant Suit}}Mant Suit- "We could always use a spare thorax."
+- {{Pic32|Fancy Helmet}}Fancy Helmet- "A fancy helmet to protect our head."
+- {{Pic32|Tin Suit}}Tin Suit- "Now we're Sir Webber!"
+- {{Pic32|Blunderbuss}}Blunderbuss- "Whoa. This looks pretty dangerous."
+
+## ==[[File:Icon Structures.png|32px]]Structures==
+
+- {{Pic32|Cork Barrel}}Cork Barrel- "That'll be good for something."
+
+## ==[[File:Icon Refine.png|32px]]Refine==
+
+- {{Pic32|Claw Palm Sapling}}Claw Palm Sapling- "I bet it'll grow up big and strong."
+
+## ==[[File:Icon Magic.png|32px]]Magic==
+
+- {{Pic32|Hogus Porkusator}}Hogus Porkusator- "Yay! More things to learn!"
+- {{Pic32|Pugalisk Wand}}Pugalisk Wand- "We could have a staring contest with that scary big snake."
+- {{Pic32|Skyworthy}}Skyworthy (non-Hamlet world)- "I hope it goes somewhere cool."
+- {{Pic32|Skyworthy}}Skyworthy (Hamlet world)- "That leads somewhere else."
+- {{Pic32|Living Artifact}}Living Artifact- "Neat! We can be a robot!"
+- {{Pic32|Root Trunk}}Root Trunk- "Now we don't have to carry our stuff everywhere."
+- {{Pic32|Vortex Cloak}}Vortex Cloak- "Kinda like a security blanket. But also kinda scary."
+
+## ==[[File:Icon Dress.png|32px]]Dress==
+
+- {{Pic32|Gas
+
+
+
+
+```markdown
+# Wigfrid's Quotes in Hamlet
+
+Below are some of the quotes that can be heard from Wigfrid when interacting with various items and objects in the game 'Hamlet'. 
+
+## Tools
+
+- **Shears**: "Tis a weapon to use against a mighty hedge!"
+
+## Lights
+
+- **Cork Candle Hat**: "Mine hands are now free to pillage ruins!"
+- **Cowl**: "To see through the eyes of mine enemy!"
+
+## Survival
+
+- **Bug B'Gone**: "A mighty weapon to vanquish the bugs."
+- **Bird Whistle**: "It soothes the feathered beasts."
+
+## Food
+
+- **Sprinkler**: "Rain comes from within its workings."
+
+## Science
+
+- **Smelter**: "The tools of dwarves."
+- **Oscillating Fan**: "Conquers the heat!"
+
+## Fight
+
+- **Halberd**: "Tis no spear, yet tis still valorous!"
+- **Cork Bat**: "'Tis a weapon of much lightness."
+- **Weevole Mantle**: "Armor made from the skin of mine enemy."
+- **Mant Mask**: "Mine helm would have sufficed."
+- **Mant Suit**: "This armor is not worthy of a shieldmaiden!"
+- **Fancy Helmet**: "'twill protect mine head!"
+- **Tin Suit**: "Armor worthy of my deeds."
+- **Blunderbuss**: "A thunderous weapon!"
+
+## Structures
+
+- **Cork Barrel**: "It holds my stuff!"
+
+## Refine
+
+- **Claw Palm Sapling**: "May it grow as tall as Thor."
+
+## Magic
+
+- **Hogus Porkusator**: "What wisdom does this pig hide?"
+- **Pugalisk Wand**: "Prepare to be stunned by my gaze!"
+- **Skyworthy (non-Hamlet world)**: "Onward to adventure!"
+- **Skyworthy (Hamlet world)**: "Outward to adventure!"
+- **Living Artifact**: "I will be unbeatable on the battlefield!"
+- **Root Trunk**: "The spoils of the battle now follow me!"
+- **Vortex Cloak**: "A cloak worthy of a warrior!"
+
+## Dress
+
+- **Gas Mask**: "Poisonous air shall not consume me!!"
+- **Pith Hat**: "A helm. Not mine own."
+- **Thunderhat**: "Tis a hat worthy of Thor."
+
+## Nautical
+
+- **Cork Bowl Canoe**: "'Tis more like a stage prop than a viking vessel."
+
+## Treasure Hunting
+
+- **Disarming Tools**: "A weapon for traps!"
+- **Ball Pein Hammer**: "This hammer is only good for bashing tiny things."
+- **Gold Pan**: "It shall vanquish the pieces of tiny gold!"
+- **Magnifying Glass**: "It giveth me mighty eyesight."
+
+## City Planning
+
+- **Lamp Post (off)**: "Nary a glimmer."
+- **Lamp Post (on)**: "It shines bright this night."
+- **Town House**: "A village home worthy of a shield maiden's protection."
+- **Town House (burning)**: "Aflame with the fires of Hel!"
+- **The Sterling Trough Deli**: "Fine cuts of meat reside within!"
+- **The Sterling Trough Deli (burning)**: "Aflame!"
+- **Pigg and Pigglet's General Store**: "Let the bartering commence!"
+- **Pigg and Pigglet's General Store (burning)**: "The great Loge is near!"
+
+... (rest of the quotes are listed in a similar format)
+
+## Removed Quotes
+
+- **Cork Barrel**: "I shall filleth it!"
+- **Claw Palm Tree**: "This tree does 'Tis the hand of a giant?"
+- **Sick Rainforest Tree**: "'Tis unwell."
+- **Tea Tree**: "'Tis an adequate tree."
+- **Tall Grass**: "Surely 'tis the grass of Jötunheim!"
+- **Scorpion**: "Thine pointy tail is no match for me!"
+- **Snaptooth Seedling**: "I shall defeat thee!"
+- **Pog**: "Thy cuteness shalt not overpower me!"
+- **Beautician**: "Shieldmaidens have no use for thee."
+- **Collector**: "Thine wonders are naught
+
+
+
+
+```markdown
+# Setting Up a Dedicated Server with Forest and Caves in Don't Starve Together
+
+This is a step-by-step guide for setting up a dedicated server that has both Forest and Caves, playable from the in-game Browse Games screen. We will also set up a script file that can be used to easily launch the server. (In technical terms, we are making a [cluster] of 2 shards.) There will be a bare minimum amount of knobs that you can tweak in this process. If you would like to see more configuration options after completing this guide, refer to [Don’t Starve Together Dedicated Servers].
+
+This guide assumes that you own a copy of Don't Starve Together on Steam, and have a Klei account bound to it. This guide is applicable to Windows.
+
+## Installing the Server
+1. Click the **Library** tab
+2. Click the **Game** dropdown menu on the left panel above all your games
+3. Check the **Tools** Filter
+4. Scroll to **Don't Starve Together Dedicated Server**, right-click and select **Install Game...**
+5. Follow the steps to install like any other Steam game
+
+Take note of where the server is installed to. You find this by using Steam's **Browse local files** function, and copy the location from the file explorer window address bar. By default, this is `C:/Program Files (x86)/Steam/steamapps/Don't Starve Dedicated Server`.
+
+From now on, this path will be denoted as **GAME_DIR**, so for example `GAME_DIR/bin/dontstarve_dedicated_server_nullrenderer.exe` refers to `C:/Program Files (x86)/Steam/steamapps/Don't Starve Dedicated Server/bin/dontstarve_dedicated_server_nullrenderer.exe`.
+
+## Preparing a Cluster Token
+Open Don't Starve Together the game client. Press tilde (~) (or ù on Azerty keyboards) in the game client to open the developer console. Execute this command:
+```
+TheNet:GenerateClusterToken()
+```
+And then navigate to `Documents/Klei/DoNotStarveTogether/cluster_token.txt`, the content inside this file is your **cluster token** which will be useful below. **Do not share it with others** as it is an identification that links the particular server instance with your Klei account.
+
+## Server Configuration Files
+Pick a location on your disk in which all of the server save files and config files will go. This can be anywhere in the system, for example `C:/MyDSTServer`. From now on, this path will be denoted as **SERVER_DIR**.
+
+We will create the following folders and files (a trailing slash '/' means this item is a folder, and without it this is a file):
+```
+SERVER_DIR/
+ |- Master/
+ |  |- server.ini
+ |  \- worldgenoverride.lua
+ |- Caves/
+ |  |- server.ini
+ |  \- worldgenoverride.lua
+ |- cluster.ini
+ \- cluster_token.txt
+```
+
+### SERVER_DIR/cluster.ini
+Write this in `SERVER_DIR/cluster.ini`. You may copy paste all code snippets that appear in this guide, with the exception that text which are *italicized* must be replaced by you with reasonable values. What do they do will be documented in the paragraphs above each code snippet.
+
+Replace *YOUR SERVER PASSWORD* with the password of your server. This is the password that players enter when they join the server in-game. Leave this empty to use no password.
+
+Replace *YOUR SERVER NAME* with the name of your server. This appears as the server name in the in-game Browse Games screen. Do not leave empty.
+
+Replace *YOUR SERVER DESCRIPTION* with an apt description. This appears as the server description in the in-game Browse Games screen. Leave empty to not have a description.
+
+Replace *GAME MODE* with one of `survival`, `endless`, or `wilderness`. This field is the equivalent of the Game Mode field on the “Host Game screen.
+
+```ini
+[GAMEPLAY]
+pause_when_empty = true
+game_mode = 'GAME MODE'
+
+[NETWORK]
+cluster_password = 'YOUR SERVER PASSWORD'
+cluster_name = 'YOUR SERVER NAME'
+cluster_description = 'YOUR SERVER DESCRIPTION'
+autosaver_enabled = true
+
+[SHARD]
+shard_enabled = true
+cluster_key = defaultPass1
+```
+
+### SERVER_DIR/cluster_token.txt
+Copy and paste your *cluster token* into `cluster_token.txt`.
+
+### SERVER_DIR/Master/server.ini
+```ini
+[NETWORK]
+server_port = 10998
+
+[SHARD]
+is_master = true
+name = Master
+id = 1
+
+[STEAM]
+master_server_port = 27016
+authentication_port = 8766
+
+[ACCOUNT]
+encode_user_path = true
+
+
+
+
+
+```markdown
+# An Aquatic Base in Don't Starve: Shipwrecked
+
+## Finding a Location
+An aquatic base in Don't Starve: Shipwrecked can provide numerous benefits for survival. A good location for an aquatic base is a coral reef, as it offers easy access to coral and allows you to hire Bottlenose Ballphins for sea combat assistance. If playing as Webber, avoid coral reefs with Ballphin Palaces due to hostility. The reef where the Yaarctopus resides is also a good option.
+
+## Setting Up the Base
+
+### Sea Lab
+The first structure to place in an aquatic base is the Sea Lab. This is equivalent to an Alchemy Engine and can only be placed in water. It serves as a crafting station for all other structures and items needed for the base.
+
+### Tar Extractor
+Search the waters around your base for tar slicks and use tar extractors to collect this precious fuel. Tar is necessary for the next item in your base, so ensure to gather enough.
+
+### Buoyant Chiminea
+Equip your aquatic base with a Buoyant Chiminea. Unlike boats that can be equipped with boat torches, boat lanterns, and tar lamps, a Buoyant Chiminea is not affected by strong winds and can be used for cooking food. It also provides enough light to keep Charlie away.
+
+### Sea Chests
+Craft Sea Chests using leftover tar. These are cheap to craft and are your only source of storage at sea, aside from Packim Baggins.
+
+### Fish Farms
+Use fish farms as a reliable source of food while at sea. Spider Dens are common in Jungle biomes, and silk can be easily obtained. Killing multiple spiders to create multiple fish farms is recommended, as silk is a relatively common drop.
+
+### Sea Yard
+The third structure requiring tar is a Sea Yard. Although resource-intensive, it allows you to repair your boat without harming bees, and all repair ingredients can be found at sea. Keep your sound on while repairing to know when your boat is fully repaired.
+
+### Boat and Raft
+By the time you consider a water base, you should have at least a row boat, or possibly a cargo boat, armored boat, or the 'Sea Legs'. However, using your boat to travel short distances around your base can decrease its durability rapidly. Make a raft and keep it at your base for moving around.
+
+### Sea Walls
+The final addition to your aquatic base is sea walls. Requiring only limestone and seaweed to craft, sea walls can keep basic threats at bay and also enhance the aesthetic of your base. While not required, these walls add a nice touch and can separate different areas of your base.
+```
+
+
+
+
+# Seaworthy Guide for First-Time Users
+
+## What is Seaworthy?
+
+The Seaworthy is a **Structure** that can be found in the **Shipwrecked** world, or built using a **Shadow Manipulator** from the **Magic Tab** in a **Reign of Giants** or **Don't Starve | Base Game** World!
+
+**Note**: This is not a **Don't Starve Together** Guide. This Guide is about starting in a SW World and then jumping into a RoG or Base Game World, not the other way around.
+
+## Good to Know
+
+Before jumping into the Seaworthy, you should be aware that when you pop up in the RoG world, there will not be another Seaworthy that can help you home again; you must build one to get back into your SW World. It can be prototyped using a **Shadow Manipulator** and requires a **Sea Worther**, 4 **Nightmare Fuel**, and 4 **Living Logs**.
+
+The Sea Worther can be obtained by hammering the **Sunken Boat** using a **Hammer**, or fishing from the **Flotsam** using a **Fishing Rod**. The flotsam can be found floating in the **ocean** very close to the Sunken Boat.
+
+## Preparing
+
+As the Seaworthy requires a Shadow Manipulator to prototype, it is very useful to have a Shadow Manipulator pre-built before jumping through, and you may also want to bring some Nightmare Fuel and Living Logs so you can place your Seaworthy down as soon as you have obtained the Sea Worther.
+
+Prebuilding a Shadow Manipulator will require a **Piratihatitator** unless it hasn't already been prototyped.
+
+When clicking on the Shadow Manipulator in the Magic Tab, it is pre-built, and you lose the materials used to build it, you can then click (by default settings) MOUSE2 on PC, B on Xbox, or Circle on Playstation, to just leave it there. You can now at any time open the Magic Tab, click on the Shadow Manipulator, and place it.
+
+Bringing a decent amount of **Coffee** will prove very helpful, as the player can quickly explore the outer edge of the world until the Sunken Boat is found.
+
+It is recommended to bring any kind of **Backpack** to have enough space to store the basic resources, the Living Logs, and the Nightmare Fuel, as well as **Food**, **Tools**, and a **Weapon**. Having some extra space left for the Sea Worther as well as other items the player finds and wants to collect is advised. **Armor** may be handy too. You can wear a **Sea Sack** to store your Coffee and Food inside, as it will spoil x0.5 slower in there.
+
+It's not required, but bringing a **Super Spyglass** may help a bit with the exploring; it also works down in the **Caves**, as there is a day and night cycle there. The Spyglass will, however, go to waste if used in the **Ruins**, as it is always considered night down there.
+
+## I'm in RoG! What to do now?
+
+When you've made it into RoG, if you have Coffee or not doesn't really matter, it's just going to take much longer. Hopefully, you have at least one speed-boosting item, such as the **Sleek Hat**, **Walking Cane**, or perhaps you are playing **WX-78** and have gotten many days of **Overcharge** thanks to the **Hurricane Season**.
+
+Now, just explore the edge of the world until you find the Sunken Boat. If it's any season but Winter, the **Parrot Pirate** Wolly will be sitting on it; you may trade items with him, but that's not what you're here for!
+
+If you brought a Spyglass, use it up immediately to free the inventory space.
+
+If you hammer the Sunken Boat, Wolly will fly away, and the option to trade with him is no more. Why you still should hammer the Sunken Boat will be explained further below.
+
+As soon as you've obtained the Sea Worther, head into what seems like the center of the world, place down the Shadow Manipulator, then prototype and place your fully functioning, ready-to-go Seaworthy!
+
+## Why would I want to hop to RoG now again?
+
+As you have your Base in SW, you don't have to worry about items being "non-renewable" in RoG because if you can find all the **Things** and place them in the **Teleportato**, you will get a new RoG world where everything is there again! This makes **Thulecite** and the Sunken Boat easily renewable!
+
+You can also mine **Boulders** for **Flint**, **Rocks**

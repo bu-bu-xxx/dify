@@ -1,0 +1,2482 @@
+```markdown
+# Mr. Skitts
+
+![Mr. Skitts Image](Mr. Skits.png)
+
+**Spawn Code:** `shadowskittish`
+
+Mr. Skitts is a small, serpent-like Shadow Creature that can appear at any time while the player's Sanity is below 82.5%. He cannot attack or be attacked. When approached, he will turn and slither away, disappearing from the screen. His only purpose is to remind players of their Sanity level and provide a scare.
+
+- Mr. Skitts will sometimes flicker on the screen for a fraction of a second, then disappear.
+- He can also be seen flying into [[Obelisk]]s as they are raised and flying back out of them when they are lowered.
+- He can also be seen coming out of chests in trapped set pieces and ornate chests when the player opens them, springing the trap.
+
+## Trivia
+
+### In-Game
+- A group of Mr. Skitts will briefly appear when [[Maxwell (character)|Maxwell]] summons a puppet using his [[Codex Umbra]].
+- Mr. Skitts was shown as the "author" of the [[Lost Fragment]] mod.
+- Although Shadow Creatures cannot be examined, there are unused examination quotes for Swimming Horrors and Mr. Skittish in the game files.
+
+### Lore
+- Shadow Creatures make several appearances throughout the [[William Carter Puzzles]].
+  - Mr. Skitts and a Terrorbeak appear briefly in an intermission animation in the eighth puzzle.
+
+## Gallery
+
+<gallery captionalign="center" hideaddbutton="true">
+![Mr. Skitts flying into an Obelisk](Bitetower.png)
+![Mr. Skitts and a Terrorbeak in front of the intermission curtain in the eighth William Carter Puzzle](Mr Skits + Terrorbeak in the William Carter.png)
+</gallery>
+
+{{clear}}
+
+{{Mobs}}
+```
+
+
+
+
+```markdown
+# Guardian's Horn
+
+## Overview
+The **Guardian's Horn** is a type of **Meat** item dropped by the [[Ancient Guardian|Ancient Guardian]] found in the [[Ruins]]. It can be used to craft a [[Houndius Shootius]].
+
+### Image
+![Guardian's Horn Dropped](Guardian's Horn Dropped.png)
+![Guardian's Horn](Guardian's Horn.png)
+
+### Quotes
+- **Wilson**: Wow! I'm glad that didn't gore me!
+- **Willow**: I wonder if the rings are an indication of age.
+- **Wolfgang**: Is trophy from mighty foe.
+- **Wendy**: All that remains of a once great beast.
+- **WX-78**: A TROPHY TO REMEMBER GOOD TIMES. LIKE WHEN YOU DIED
+- **Wickerbottom**: An amazingly large horn. I wonder if the nightmare helped fuel the growth.
+- **Woodie**: That's a nice horn, eh.
+- **Maxwell**: A regrettable end, my old friend.
+- **Wagstaff**: It's emitting strange wavelengths of energy.
+- **Wigfrid**: Can I add this to my helmet?
+- **Webber**: It's quite tender.
+- **Walani**: It was an ordeal to get this.
+- **Warly**: I wonder, if ground up into a powder...
+- **Woodlegs**: Aye, a treasure indeed!
+- **Wilba**: FROM THE HORNED BEAST.
+- **Wormwood**: Ouch!
+- **Wheeler**: Seems a shame to waste it.
+- **Winona**: That's a doozy!
+- **Wortox**: Harumph. It doesn't even spiral.
+- **Wurt**: Mine now, flort!
+- **Walter**: This is amazing! A real monster horn!
+- **Wanda**: I'm glad I managed to not meet my end at the business end of this horn.
+- **Choose**: Wigfrid
+
+### Properties
+- **Dropped By**: [[Ancient Guardian|Ancient Guardian]]
+- **Stack**: 10
+- **Hunger Restored**: 75
+- **Does not spoil**
+- **HP Restored**: 60
+- **Sanity Restored**: -15
+- **Spawn Code**: "minotaurhorn"
+
+### Crafting
+**Houndius Shootius**
+- **Ingredients**:
+  - Guardian's Horn
+  - Deerclops Eyeball
+  - Thulecite (5)
+- **Tool**: Ancient Pseudoscience Station
+
+### Usage
+As a Meat item, Pigs and Spiders will try to eat a Guardian's Horn, and Bunnymen will be hostile to players carrying it in their inventory.
+
+### Categories
+- [[Category:Food]]
+- [[Category:Sanity Loss]]
+- [[Category:Meats]]
+- [[Category:Boss Dropped Items]]
+- [[Category:Healing]]
+
+```
+
+
+
+
+Here is the transformed text in Markdown format:
+
+```markdown
+# Dragonfly
+
+- **Health**: 27500
+- **Damage**: 75 Swipe and 37.5 x3 (112.5) Ring of Fire (to player)<br>150 Swipe and 75 x3 (225) Ring of Fire (to mobs)<br>Double damage when enraged
+- **Attack Period**: 4 (3 when enraged)
+- **Walk Speed**: 6.5 (9.1 when enraged)
+- **Attack Range**: 4 (6 when enraged)
+- **Spawn Code**: "dragonfly"
+- **Special Ability**: Spits lava. Engulfs herself in fire when all lavae are killed.
+- **Drops**: Scales, Blueprint for Scaled Furnace, Lavae Egg x0-1, Meat x6, Gold Nugget x4-8, Red Gem x2, Blue Gem x2, Purple Gem x1-2, Orange Gem x1-2, Yellow Gem x1-2, Green Gem x1-2, Sketch for Dragonfly Figure
+
+![Dragonfly](Dragonfly.png) ![Enraged Dragonfly](Dragonfly Fire.png) ![Winter's Feast Dragonfly](Dragonfly Winter's Feast.png) ![Winter's Feast Enraged Dragonfly](Dragonfly Winter's Feast Fire.png)
+
+---
+
+## Quotes
+
+- Wilson: That's one fly dragon!
+- Willow: It's filled with fire!
+- Wolfgang: I confuse... Is dragonfly, or dragon-fly?
+- Wendy: It's burning on the inside.
+- WX-78: HIGH TEMPERATURE RADIATING FROM FLY BEAST.
+- Wickerbottom: It's some kind of mythical variant of a Diptera.
+- Woodie: She'll burn all the trees before I can chop them!
+- Maxwell: A fiery fly.
+- Wigfrid: Ah, dragön! At last we meet!
+- Webber: Oh, don't you just drag on.
+- Warly: I'm not cut out for this.
+- Wormwood: Patuey fly!
+- Winona: Get a load of this flying welding torch!
+- Wortox: Fear me! I'm a scary imp!
+- Wurt: Scaled-folk shouldn't fight, florp!
+- Walter: Woah! It's a giant bug!
+- Wanda: Ohhhh I was really hoping to avoid dodging fiery bug monsters today.
+
+---
+
+In **Don't Starve Together**, Dragonfly is no longer tied to Summer. Instead, she is present year-round as part of **Dragonfly Nest** in the **Desert**. Upon death, she will also drop all types of **Gems**, **Gold Nugget**s, **Lavae Egg**(s), a blueprint for a **Scaled Furnace**, and a **Sketch** for a **Dragonfly Figure** in addition to Meat and Scales.
+
+Dragonfly also increases her freezing threshold by two each time she is frozen, and has four added to the threshold when enraged.
+
+Dragonfly's year-round presence makes her an effective but dangerous way to get rid of other giants. On the other hand, due to Dragonfly's year-round presence, utilizing the other Giants strength to heavily damage Dragonfly is a viable strategy.
+
+If Dragonfly is attacked by a nearby enemy and any player is nearby, Dragonfly will target them after killing the enemy that attacked her, even if the player is not fighting her in any way.
+
+## Behavior
+
+Dragonfly will wander within 15 units of its own spawner point. If it leaves this range, the dragonfly will try to fly back.
+
+Dragonfly will actively attack only the player.
+
+If the dragonfly flies away and disappears, the Dragonfly spawner point will immediately refresh a new dragonfly:
+- Dragonfly is more than 60 units away from her spawner point;
+- More than 4 units away from land;
+- Server reset (rollback, single exit reenter, etc.).
+
+If Dragonfly is killed, she will re-spawn 20 days later (with the default World Generation setting for Dragonfly, 10 days if setting is "more", and 5 days for "lots", 40 days for "less").
+
+## Combat
+
+Dragonfly will always spawn **Lavae** when reaching 80%, 50% and 20% of her Max HP. However, if all the larvae die before reaching the next thresholds, she may spawn more. Lavae are spawned from the Magma pools within range (approximately 13 pitchforks) of Dragonfly when she attempts to spawn them. The order is random and she will often revisit pools. If no pools are within range she will spawn them where she is.
+
+The number of Lavae spawned is 5 during the first wave, and increases by one for each subsequent wave. The rate at which they
+
+
+
+
+```markdown
+# Eggplant
+
+![Eggplant Dropped](Eggplant Dropped.png) ![Eggplant](Eggplant.png)
+
+| Attribute | Description |
+|-----------|-------------|
+| Can Be Burned | Yes |
+| HP Restored | 8 |
+| Hunger Restored | 25 |
+| Sanity Restored | 0 |
+| Stack | 20 |
+| Spoil | 10 Days |
+| Spawn Code | "eggplant" |
+| Dropped By | ![Eggplant Stalk](Eggplant Stalk.png) ![Giant Eggplant](Giant Eggplant.png) |
+| Food Type | Veggie ![Veggie](Veggie.png) |
+| Food Value | Vegetables × 1 |
+
+An **Eggplant** is an uncommon vegetable that can be farmed from Basic Farms and Improved Farms by planting Seeds for an 11% chance of growing or using Eggplant Seeds (Swirly Seeds). It can be used as an ingredient in several Crock Pot recipes. Feeding an Eggplant to a bird in a Birdcage will produce 1–2 Eggplant Seeds, as well as a 50% chance to get a plain seed. In Don't Starve Together, you will always get 1 Eggplant Seed.
+
+# Braised Eggplant
+
+![Braised Eggplant Dropped](Braised Eggplant Dropped.png) ![Braised Eggplant](Braised Eggplant.png)
+
+| Attribute | Description |
+|-----------|-------------|
+| Can Be Burned | Yes |
+| HP Restored | 20 |
+| Hunger Restored | 25 |
+| Sanity Restored | 0 |
+| Spoil | 6 Days |
+| Stack | 40 |
+| Spawn Code | "eggplant_cooked" |
+| Food Type | Veggie ![Veggie](Veggie.png) |
+| Food Value | Vegetables × 1 |
+
+**Braised Eggplant** is a vegetable food item made by cooking an Eggplant on a fire (Campfire, Fire Pit, or a Dwarf Star). It restores much more health than its raw counterpart. It can also be used as an ingredient in several Crock Pot recipes. In most circumstances, it is far more efficient to cook the Eggplant, as a Braised Eggplant heals 12 more health and can regenerate spoilage time.
+
+## Usage
+
+- **Cooking**: transforms Eggplant into Braised Eggplant
+- **Birdcage**: transforms Eggplant into Swirly Seeds
+- **Manure**: transforms Eggplants into Manure
+
+## Recipes
+
+### Crock Pot Recipes
+
+**Stuffed Eggplant** (Cannot include Mandrake)
+
+| Ingredient 1 | Ingredient 2 | Ingredient 3 (Filler) |
+|--------------|--------------|----------------------|
+| Eggplants    | Vegetables   | 2                    |
+
+## Gallery
+
+<gallery>
+Original HD Eggplant icon from Bonus Materials from CD Don't Starve.
+Original HD Eggplant Cooked icon from Bonus Materials from CD Don't Starve.
+</gallery>
+
+## Categories
+
+- Vegetables
+- Food
+- Healing
+- Flammable Objects
+- Perishables
+```
+
+
+
+
+```markdown
+# Stone Splint Mail
+
+![Stone Splint Mail](Stone Splint Mail Dropped.png)
+
+## Protection
+- Blocks damage by 85%.
+
+## Spawn Code
+- `lavaarena_armorheavy`
+
+## Game Exclusivity
+- Exclusive to **Don't Starve Together**.
+
+## Event
+- Introduced in **The Forge**.
+
+## Description
+Stone Splint Mail is an armor item added to The Forge in Don't Starve Together. It provides significant protection, blocking 85% of incoming damage, and has no additional special effects.
+
+## Tips
+- **Prototypical**: This armor ranks third in terms of protection among all Crucible armors. Players who often take damage (tanks) are advised to switch from wood armor to chain mail as soon as possible.
+
+## The Forge Content
+- Part of the **The Forge** content in Don't Starve Together.
+```
+
+
+
+
+```markdown
+# Woven Garland
+
+- **Perk:** +20% health gain for all characters standing in the bloom of life.
+- **Spawn Code:** "lavaarena_tiaraflowerpetalshat".
+- **Exclusivity:** Don't Starve Together.
+- **Event:** The Forge.
+
+## Description
+
+The Woven Garland is an item added to The Forge in Don't Starve Together. It is worn on the head and increases the health gain of all characters standing in the bloom of life by 20%.
+
+## Trivia
+
+- The effect is applied during the use of the staff of life, if at that moment the wreath was on the healer's head. After that, you can change the winding wreath to a crystal tiara to reduce the recharge time of the staff.
+```
+
+
+
+
+```markdown
+# Light Bulb
+
+## Overview
+
+The **Light Bulb** is a **Veggie** food item obtained by harvesting a **Light Flower** or as a drop from various creatures. It is primarily used for other purposes than consumption, such as crafting **Lanterns** and fueling **Miner Hats** and **Lanterns**.
+
+## Characteristics
+
+- **Icon**: ![Light Bulb](Light Bulb.png)
+- **Image**: ![Light Bulb Dropped](Light Bulb Dropped.png)
+- **Food Type**: Veggie
+- **Dropped By**: 
+  - ![Light Flower](Light Flower.png)
+  - ![Slurper](Slurper.png)
+  - ![Tentapillar](Tentapillar.png)
+  - ![Bulbous Lightbug](Bulbous Lightbug.png)
+  - ![Skittersquid](Skittersquid.png) (33%)
+  - ![Crustashine](Crustashine.png) (25%)
+- **HP Restored**: 1
+- **Hunger Restored**: 0
+- **Sanity Restored**: 0
+- **Stack**: 40
+- **Perk**: Provides a small area of light when placed on the ground.
+- **Spoil**: 6 Days
+- **Burn Time**: 1.5 min.
+- **Spawn Code**: "lightbulb"
+- **CanBeBurned**: 1
+- **EmitsLight**: 1
+
+## Quotes
+
+- **Wilson**: "It's strangely tasty looking."
+- **Willow**: "It's called a 'lightbulb' but it's kinda heavy."
+- **Wolfgang**: "Is food?"
+- **Wendy**: "It's slowly burning out."
+- **WX-78**: "BIOLUMINESCENCE IS GROSS"
+- **Wickerbottom**: "Is this animal or vegetable?"
+- **Woodie**: "It looks chewy."
+- **Maxwell**: "It will run out eventually."
+- **Wagstaff**: "Chemiluminescence at work."
+- **Wigfrid**: "Glöw!"
+- **Webber**: "Bright and delicious."
+- **Walani**: "Naturally bright. Just like me!"
+- **Warly**: "Looks like candy."
+- **Woodlegs**: "Bright night light."
+- **Wilba**: "A LIGHT WHAT WILBA CAN'ST HOLDETH"
+- **Wormwood**: "Glowy food"
+- **Wheeler**: "Glowing projectiles. Perfect."
+- **Winona**: "Not at all like the lightbulbs I'm used to."
+- **Wortox**: "Magnificent, I do dare say."
+- **Wurt**: "What you mean, 'don't put in your mouth'?"
+- **Walter**: "I wonder if these are used by gnomes."
+- **Wanda**: "It will give me a few precious minutes of light."
+
+## Usage
+
+### Crafting Recipes
+
+1. **Manure**
+   - **Tool**: Pig Icon
+   - **Result**: Manure
+   - **Item**: Light Bulb
+
+2. **Lantern**
+   - **Tool**: Alchemy Engine
+   - **Result**: Lantern
+   - **Items**: 
+     - Twigs (3)
+     - Rope (2)
+     - Light Bulb (2)
+
+3. **Table Lamp**
+   - **Tool**: Sawhorse
+   - **Result**: Table Lamp
+   - **Items**:
+     - Twigs (2)
+     - Cat Tail (2)
+     - Light Bulb (2)
+
+4. **Illumination Circuit**
+   - **Tool**: Bio Scanalyzer
+   - **Result**: Illumination Circuit
+   - **Items**:
+     - Light Bulb (1)
+     - Bio Data (6)
+   - **Character**: WX-78
+
+5. **Lux Aeterna**
+   - **Result**: Lux Aeterna
+   - **Items**:
+     - Light Bulb (2)
+     - Papyrus (2)
+   - **Character**: Wickerbottom
+
+6. **Bulbous Lightbug Item**
+   - **Result**: Bulbous Lightbug Item
+   - **Items**:
+     - Light Bulb (1)
+     - Health Decrease (10)
+   - **Character**: Wormwood
+   - **Note**: ![Lunar Cultivator II](Lunar Cultivator II.png)
+
+## Tips
+
+- Light Bulbs spoil quickly
+
+
+
+
+```markdown
+# Honey
+
+![Honey](Honey.png)
+
+## Properties
+- **Spoilage**: 40 Days
+- **Stack**: 40
+- **Health Restored**: 3
+- **Hunger Restored**: 9.375
+- **Sanity Restored**: 0
+- **Food Value**: Sweetener × 1.0
+- **Dropped By**: 
+  - Bee (16.7%)
+  - Killer Bee
+  - Beehive ×3
+  - Killer Bee Hive ×3
+  - Bee Box ×3-6
+  - Gigantic Beehive (Hammer)
+  - Bee Queen ×3-4
+- **Food Type**: Generic
+
+## Quotes
+- Wilson: "Looks delicious!"
+- Willow: "Sweet and delicious!"
+- Wolfgang: "Is yum!"
+- Wendy: "A sweet, but fleeting treat."
+- WX-78: "IT IS A GOOD LUBRICANT FOR MY GEARS"
+- Wickerbottom: "Sweetened plant nectar."
+- Wigrald: "Sticky and gröss."
+- Woody: "Mmmmmm-mmmm. Bee syrup."
+- Maxwell: "Sticky and sweet."
+- Wagstaff: "Suitable for an ingredient, but raw honey actuates my stomach problems."
+- Webber: "Sticky and sweet."
+- Walani: "Sticky, sweet and good to eat!"
+- Warly: "Nectar of the gods!"
+- Woodlegs: "Sweet an' sticky."
+- Wilba: "‘TIS STICKY NUM NUMS"
+- Wormwood: "Buzz Juice"
+- Wheeler: "That's a lot of honey, honey."
+- Winona: "The sweet results of honest work."
+- Wortox: "It can help heal injuries if I use it right."
+- Wurt: "Hello my honey!"
+- Walter: "Wish I had some toast."
+- Choose: Winona, Wanda "A little something to satisfy my sweet tooth."
+
+## Harvesting
+Harvesting honey is a slow process with low risk. The **Beekeeper Hat** is designed to reduce damage from bees. The best source for honey is Bee Boxes; however, early in the game when these are not available yet, Bees and Beehives are a good alternative. Ideally, honey should be collected when all the bees are working outside.
+
+### Bee Boxes
+Bee Boxes contain 4 Bees. The first leaves immediately in the morning and one leaves every 37.5 seconds after. The best time to harvest then becomes about 4 hours into the day or right before dusk. Harvesting is perfectly safe any time during Winter, since the Bees will not come out of their boxes.
+
+### Beehives
+Destroying Beehives is trickier because it is harder to find an opportune time when all the Bees are out. With 6 Bees and one leaving every 50 seconds, the last worker will exit the hive 8.3 game hours (250 seconds) into the day, but dusk usually comes before this can happen. However, one or two Bees can be safely ignored for the short time it takes to smash the hive if one uses protective gear.
+
+### Killer Bee Hives
+Since Killer Bees do not leave their hive to collect nectar, there is no perfect time to attack a Killer Bee Hive. Getting close to a hive will cause all the Killer Bees to leave the hive and chase the player a short distance before retreating unless there is another Mob nearby.
+
+## Usage
+Honey can be used in Crock Pot recipes that require sweeteners, such as Taffy, Pumpkin Cookies, and Ice Cream. In addition, the following recipes specifically require Honey:
+
+1. Honey Poultice
+   - 2x Honey
+   - 1x Papyrus
+   - Tool: Alchemy Engine
+
+2. Honey Nuggets
+   - Honey
+   - Meats
+   - 2x Filler
+   - Tool: Crock Pot
+   - Note: Meat value of 1.5 or less.
+
+3. Honey Ham
+   - Honey
+   - 2x Meats
+   - Filler
+   - Tool: Crock Pot
+   - Note: Meat value of more than 1.5.
+
+4. Powdercake
+   - Honey
+   - Corns
+   - Twigs
+   - Filler
+   - Tool: Crock Pot
+
+5. Honey Crystals
+   - 3x Honey
+   - Tool: Portable Grinding Mill
+   - Result: Honey Crystals ×2
+
+6. Vigor Mortis
+   - 2x Honey
+   - 1x Mourning Glory
+   - Character: Wendy
+
+7. Healing Glop
+   - 2x Honey
+
+
+
+
+```markdown
+# Koalefant
+
+## Overview
+The **Koalefant** is a neutral animal in the game that can be found at the end of tracks left by **Suspicious Dirt Piles**. It drops 8 Meat and a Koalefant Trunk upon death, which can be used to craft a Breezy Vest. If killed with fire, it drops 8 Cooked Meat and Ashes. Alive, they periodically drop Manure, similar to Beefalo.
+
+## Appearance and Behavior
+- **Diet**: Veggie ![Veggie](Veggie.png)
+- **Health**: 1000
+- **Damage**: 50
+- **Drops**: Meat ×8, Koalefant Trunk/Winter Koalefant Trunk, Periodic: Manure
+- **Attack Period**: 4
+- **Walk Speed**: 1.5
+- **Run Speed**: 7
+
+## Quotes
+- Wilson: "Adorably delicious."
+- Willow: "We will be great friends!"
+- Wolfgang: "Nose meat!"
+- Wendy: "A beast of solitude."
+- WX-78: "POSSESSES AMPLE ENERGY RESERVES"
+- Wickerbottom: "Koalefanta proboscidea."
+- Woody: "He looks tasty."
+- Maxwell: "A distant cousin of the beefalo."
+- Wagstaff: "Ah ha! I have discovered the maker of all those tracks."
+- Wigfrid: "Dear creature... I am going to eat you."
+- Webber: "Maybe it's lost."
+- Walani: "Hang ten, big guy."
+- Warly: "Ah, you have fattened up nicely!"
+- Woodlegs: "Woodlegs be knowin' yer fur be mighty warm."
+- Wilba: 'TIS FAT AND TASTY
+- Wormwood: "Bruamp! Bruamp!"
+- Wheeler: "Mystery solved."
+- Winona: "Hey! You look tasty!"
+- Wortox: "A gentle beast with tiny horns."
+- Wurt: "What big ears you have!"
+- Walter: "The trail led us right to it."
+- Wanda: "It's in the spring of its life."
+
+## Winter Koalefant
+During Winter, the Koalefant is replaced by the Winter Koalefant, which has a seasonally appropriate color change. It drops 8 Meat and a Winter Koalefant Trunk, which can be used to craft a Puffy Vest.
+
+## Hunting
+Koalefants can be discovered by investigating Suspicious Dirt Piles that randomly spawn nearby. Once examined, it is replaced by a footprint pointing to another pile approximately two screens away. The final footprint will lead to the Koalefant.
+
+## Combat
+Using a ranged weapon is the easiest way to initiate a fight, but the animal can also be cornered and struck with a melee weapon to engage. After being angered, the Koalefant will attempt to close distance with the attacker and strikes with the same timing as a Beefalo, although with more damage.
+
+## Tips
+- At night, the Koalefant will be sleeping, and although it will wake up and run away if approached, the time it takes to perform this action gives an opportunity for a melee strike.
+- Cornering the Koalefant can be difficult with varying land tile layouts; it's more reliable to trap it along a precipice.
+- Another killing method is to chase it into hostile Mobs such as mating Beefalos, Killer Bees, Tallbirds, etc.
+- If one has an excess supply of Meat, the Koalefant can be guided to the base and kept for future use. As long as the Koalefant is alive, its Meat will never spoil.
+
+## Trivia
+- The name "Koalefant" is a portmanteau of "koala" and "elephant".
+- According to Wickerbottom, its scientific name is Koalefanta proboscidea.
+- A Koalefant can be chased into a pen to be kept as a pet. The Telelocator Staff and Telelocator Focus can also be used to achieve this.
+
+## Gallery
+![A yawning Koalefant](koalephantidle.jpg)
+![Sleeping Koalefant](Koalefant Asleep.png)
+![Frozen Koalefant](Frozen Koalefant.PNG)
+![Frozen Winter Koalefant](Frozen Winter Koalefant.PNG)
+![Dead Koalefant](Dead Koalefant.png)
+![A Koalefant Pen](2015-09-06 Koalefant Pen.png)
+![Two Koalefant prints in one screen](2 koalefant prints 1 screen.jpg)
+![An example of a cheap and effective Koalefant pen](koelefant
+
+
+
+
+```markdown
+# Ectoherbology Tab
+![Tab Icon](Icon Ectoherbology.png)
+
+> "This time... I can protect you." - Wendy
+
+The Ectoherbology Tab was a Don't Starve Together exclusive tab that was only available to [Wendy](Wendy).
+
+As of the [March 2022 QoL update](Don't Starve Together/Version History#March 24, 2022 - March 2022 QoL Update), the Ectoherbology Tab has been removed from Don't Starve Together.
+
+## Craftable Items
+
+| ![Revenant Restorative](Revenant Restorative.png) | [Revenant Restorative](Ghostly Elixir#Revenant Restorative) |
+| ![Spectral Cure-All](Spectral Cure-All.png) | [Spectral Cure-All](Ghostly Elixir#Spectral Cure-All) |
+| ![Unyielding Draught](Unyielding Draught.png) | [Unyielding Draught](Ghostly Elixir#Unyielding Draught) |
+| ![Distilled Vengeance](Distilled Vengeance.png) | [Distilled Vengeance](Ghostly Elixir#Distilled Vengeance) |
+| ![Nightshade Nostrum](Nightshade Nostrum.png) | [Nightshade Nostrum](Ghostly Elixir#Nightshade Nostrum) |
+| ![Vigor Mortis](Vigor Mortis.png) | [Vigor Mortis](Ghostly Elixir#Vigor Mortis) |
+```
+
+
+
+
+```markdown
+# Frogs
+
+## Overview
+
+Frogs are hostile animals that spawn from green Ponds during the day and occasionally from Tumbleweeds when picked.
+
+## Characteristics
+
+- **Health:** 100
+- **Damage:** 10
+- **Drops:** [Frog Legs](#)
+- **Attack Period:** 1
+- **Attack Range:** 3
+- **Walk Speed:** 4
+- **Run Speed:** 8
+
+## Quotes
+
+- **Wilson:** "He's so cute!"
+- **Willow:** "He's too damp to burn."
+- **Wolfgang:** "Hey little froggy, froggy."
+- **Wendy:** "He's little and warty."
+- **WX-78:** "POTENTIAL BUNWICH."
+- **Wickerbottom:** "A amphibian tetrapod."
+- **Woodie:** "I don't trust anything that can't decide between air and water."
+- **Maxwell:** "It jumps and licks things."
+- **Wagmaff:** "A impressive criminal of the animal kingdom!"
+- **Wigfrid:** "I'd like frög bööts sömeday."
+- **Webber:** "Ack! Sticky tongue!"
+- **Walani:** "Keep your tongue to yourself, bucko."
+- **Warly:** "Frog. A delicacy."
+- **Woodlegs:** "Dun hop near Woodlegs!"
+- **Wilba:** "TIS A LITTLE FROGGY."
+- **Wormwood:** "Ribbit"
+- **Wheeler:** "Sir, you seem to have accidentally stolen my stuff!"
+- **Winona:** "Yep! That's a frog."
+- **Wortox:** "I hop, you hop. Friends til the end!"
+- **Wurt:** "How you do?"
+- **Walter:** "That doesn't look like the frogs in my handbook..."
+- **Wanda:** "Don't even try it frogs, I'm one step ahead of you."
+
+## Behavior
+
+Frogs are normally slow-moving, but if the player (or any other mob) gets too close, they will become aggressive and begin to chase at a considerable speed. When a Frog is attacked while there are other Frogs in the vicinity, they will all turn hostile and attack.
+
+## Combat
+
+Frogs attack with their long tongues, dealing 10 damage. A successful hit by their tongue will knock off the player's first item out of the inventory and onto the ground. If there is a stack of the affected items, only one will be knocked out.
+
+## Hunting
+
+Frogs cannot be stunlocked and will continue attacking their enemy. This means that to kill a Frog without taking damage, the player must run in, attack, and run out again quickly while the Frog attacks, known as kiting.
+
+## Frog Rain
+
+In any Adventure Mode world with Rain, heavy rainfall can rain Frogs. This can be dangerous, since there is very little area to run once Frogs begin raining. It is easy to be killed by getting close to any of them and having them all become aggressive at once.
+
+## Trivia
+
+- Frogs will Sleep forever if a Pan Flute is used on them.
+- Frogs can hit Krampus or other item-holding mobs and knock items out of their inventory.
+- Frog Rain might be a reference to the biblical story of Moses, in which Egypt was plagued by millions of frogs.
+- Frogs resemble real-life South American Horned Frogs in both appearance and aggression.
+
+## Gallery
+
+![Frozen Frog](Frozen Frog.PNG)
+![Frog Rain](Raining-frogs.png)
+![Frog Ponds](Frogponds small.jpg)
+![Frog Pond and Mosquito Pond](Mosquito Pond and Frog Pond.png)
+![Dead Frog](Dead Frog.png)
+![Sleeping Frog](Sleeping Frog.png)
+![Frog Attack](Frog Attack.png)
+![Frog Farming](Frog Farming.png)
+![Glitched Frog](Gfrog.png)
+
+__NOTOC__
+```
+
+
+
+
+```markdown
+# Krampus Sack
+
+- **Type**: Backpack item
+- **Equip Slot**: Body
+- **Image**: ![Krampus Sack Dropped](Krampus_Sack_Dropped.png)
+- **Icon**: ![Krampus Sack](Krampus_Sack.png)
+- **Stack**: Does not stack
+- **Dropped By**: 
+  - Krampus (1%)
+  - Loot Stash (10%)
+- **Perk**: +14 inventory slots
+- **Spawn Code**: `krampus_sack`
+
+## Quotes
+
+- Wilson: "Ew. It has Krampus slime all over it."
+- Willow: "The holidays came early this year!"
+- Wolfgang: "I have goat man's sack."
+- Wendy: "It smells of goat."
+- WX78: "STORAGE MODULE 2.0"
+- Wickerbottom: "It seems bigger inside than out."
+- Woody: "I feel bad taking someone else's sack."
+- Maxwell: "It's really light."
+- Wagstaff: "Holds more supplies but weighs less than a backpack. It defies all known laws of physics!"
+- Wigfrid: "I can fit everything in here!"
+- Webber: "We could put more in but we're scared to touch the stuff he left inside."
+- Walani: "A bag of stolen goods."
+- Warly: "Infinite pocket space!"
+- Woodlegs: "Woodlegs'll ne'er leave treasure behind again!"
+- Wilba: "BELONGETH TO WILBA NOW!"
+- Wheeler: "A treasure trove of extra storage!"
+- Wormwood: "Full of stuff?"
+- Winona: "I could carry a whole warehouse in that thing!"
+- Wortox: "He should have known I would not hold back."
+- Wurt: "It jingles!"
+- Walter: "It smells... goat-y."
+- Wanda: "For me? You shouldn't have!"
+- Choose: Wagstaff
+
+## Description
+
+The Krampus Sack is a Backpack item. It is an extremely rare drop from Krampus, with only a 1% chance to drop from their small loot table. In Don't Starve Together, it has a 10% chance to drop from bundled supplies received from Klaus's Loot Stash.
+
+A Krampus Sack has 14 inventory slots, 6 more than a Backpack and 2 more than a Piggyback. It cannot be placed in the player's inventory or in Chests, it doesn't sink in water, and it can't be lit on fire.
+
+Even though the importance of only two extra slots may be minimal, the Krampus Sack doesn't slow the player down like the Piggyback does, making it a much better alternative. However, with a lowly 1% drop rate and a significant time investment to spawn a Krampus, it should be said that during any given game it's possible that the player might spend more time trying to get the item than would be saved by walking slower with the Piggyback. It may be better to ultimately treat the Krampus Sack as an unexpected bonus and/or something to only strive for in one's spare time. In some versions of the game, there are strategies to acquire a Krampus Sack quickly by using rollback/save features.
+
+## Skins
+
+- The Woven - Elegant Voidbag skin was introduced in the An Eye for An Eye update in 2021, as a crossover collaboration with Re-Logic's Terraria. Its rarity was Inspired - Elegant initially, but received a change in August 19, 2022.
+
+## Tips
+
+- A quick way to spawn and farm Krampus is by killing a Glommer, so players should take advantage of every full moon cycle to retrieve the Glommer's Flower and kill the Glommer in an area where any spawned Krampus will quickly die. Neutral mobs will be aggressive towards Krampus, so a Pig or Bunnyman village would be an ideal location to kill a Glommer. Do take note if using this strategy that any Pigs or Bunnymen approached during a full moon will be aggressive towards the player. Tooth Traps work as well, but because Krampus might steal the traps instead of setting them off, it is a good idea to build traps around a chest, then put something common into that chest and spawn Krampus.
+
+- This process can be sped up significantly in Don't Starve Together and Don't Starve: Pocket Edition by saving right before killing the Glommer and rollbacking/forcefully closing the server or app if none of the Krampii drop a sack. For the former, it must be noted that the player should load a rollback from the server menu rather than the in-game options, or else repeatedly loading a rollback can cause the game to always load the previous one.
+
+- When Moonstorm is
+
+
+
+
+```markdown
+# Living Staff
+
+- **Damage**: 10
+- **Equip Slot**: Hands
+- **Perk**: Heals allies and puts enemies to sleep in spell circle. (Drops at the end of Round 3.)
+- **Spawn Code**: "healingstaff"
+
+## Exclusivity
+
+Don't Starve Together
+
+## Event
+
+The Forge
+
+The **Living Staff** is an item added to **The Forge** event in **Don't Starve Together**. Dropped from the last killed Pit Pig during the inferno on the third wave.
+
+This item fires flower-like projectiles that deal 10 damage (like a punch) at the target. Like darts, these projectiles cannot miss their target.
+
+## Staff of Life Special Ability - Life Blossom
+
+When used, a small circle of green flowers appears in which all characters and allies can regenerate health. At the same time, all enemies that fall into the radius of action fall asleep until the end of flowering or until they are attacked.
+
+## Tips
+
+- Since lifebloom is pretty much the only way to boost players' health, the staff of life is the most important item in The Forge. You need to put a flower field as often as possible so that allies can restore more health. Crystal tiara and wood armor with silk will help with this, reducing the cooldown of the special ability.
+- A player who uses a staff of life can be called a healer. Almost any character who knows how to handle staves can become it, however, only two have bonuses that somehow affect healing - Wickerbottom and Winona: Wickerbottom's enhanced spell restores health 20% faster, and 10% to the recharge speed of all items Winona allows you to put the flowering of life more often. Therefore, contrary to popular belief, Wilson is not the best healer.
+- In a pinch, the staff can be picked up by Maxwell to summon a wave of shadow clones early on, attacking enemies from a distance.
+- After the winding wreath drops, it is advisable for the team healer to change the crystal tiara to it, since this wreath adds 20% to outgoing healing. Experienced players may want to alternate headgear for greater effectiveness, however it is not clear when exactly the healing is calculated, during the casting of the spell or all the time.
+- If someone in the team has died, it is recommended to place the bloom of life directly on the corpse: this will put enemy warriors to sleep trying to prevent the resurrection, as well as restore some health to the resurrected while the rise animation lasts.
+- First of all, it is necessary to treat tanks and scorpionmen that have fallen into the acid (blooming completely removes the effect of the acid).
+- During the boss fight, it's recommended to place a bloom right under the Boarrior's feet to make him fall asleep (all players must stop attacking), which will give the team time to heal. In its final fifth phase, the Boarrior begins to bypass the bloom, so players should use the cornering strategy: it's hard for the champion to get out of the corner without standing in the bloom.
+
+## The Forge Content
+```
+
+
+
+
+```markdown
+# Slurtle Slime
+
+## Description
+- **Icon**: ![Slurtle Slime](Slurtle Slime.png)
+- **Image**: ![Slurtle Slime Dropped](Slurtle Slime Dropped.png)
+- **Can Be Burned**: Yes (1)
+- **Perk**: Explosive
+- **Dropped By**: 
+  - ![Slurtle](Slurtle) (x1)
+  - ![Snurtle](Snurtle) (x1)
+  - ![Slurtle Mound](Slurtle Mound) (x3)
+  - ![Tentapillar](Tentapillar) (10%)
+- **Stack**: 40
+- **Burn Time**: ![Light Bulb](Light Bulb.png) 45 sec.
+- **Spawn Code**: "slurtleslime"
+- **Damage**: 50
+- **Damage As**:
+  - Wigfrid: 50
+  - Wes: 50
+  - Wolfgang: 50
+
+## Quotes
+- Wilson: "If it wasn't useful, I wouldn't touch it."
+- Willow: "I love this stuff!"
+- Wolfgang: "Boom snot!"
+- Wendy: "It shimmers with slimy anticipation."
+- Wx78: "NOT LOGICAL."
+- Wickerbottom: "Their mucus is explosive for some reason."
+- Woody: "Someone needs a tissue."
+- Maxwell: "There must be a better way."
+- Wagstaff: "An astounding explosive fuel produced from snail mucus!"
+- Wigfrid: "Yes. Slime."
+- Webber: "Slime-time!"
+- Warly: "Nature giveth, and nature grosseth."
+- Wormwood: "For hungry machines"
+- Winona: "I hock those up after a long day at the factory."
+- Wortox: "A useful slime, I think, I say."
+- Wurt: "Splodey loogies!"
+- Walter: "Slurtle snot!"
+- Wanda: "Oh botheration, I think I got some on the bottom of my shoe..."
+
+## Usage
+Slurtle Slime can be used to:
+- Explode for 50 damage when lit.
+- Fuel Lanterns and Miner Hats.
+
+## Recipe
+### Slimy Salve
+- **Slurtle Slime**: 1
+- **Nitre**: 1
+- **Marble**: 1
+- **Healing Salve**: 1
+- **Tool**: Alchemy Engine
+- **Result**: Slimy Salve
+
+## Trivia
+- This item may be explosive because Slurtles and Snurtles consume Nitre, an ingredient for explosives like Gunpowder.
+- When the player becomes insane, Slurtle Slime will appear to be grayish blue.
+
+## Gallery
+- ![Blue slime](Blue slime.png)
+- ![Efficient Slurtle Farm](Efficient Slurtle Farm.png)
+
+## Categories
+- Resources
+- Fuel
+- Flammable Objects
+- Limited Use
+- Earthshakers
+- Area of Effect
+```
+
+
+
+
+```markdown
+# Resplendent Nox Helm
+
+- **Perk**: +15% physical damage, -10% reload speed, +10% movement speed
+- **Spawn Code**: `lavaarena_crowndamagerhat`
+- **Exclusivity**: Don't Starve Together
+- **Event**: The Forge
+
+The Resplendent Nox Helm is an item added in The Forge event in Don't Starve Together. It drops in the middle of the tenth wave from a random enemy unit with a 50% chance; a flowering wreath may drop instead. If not dropped, it is guaranteed to drop from the Great Furnace Warrior Hog.
+
+- **Usage**: It is put on the cell of the head. Increases physical damage by 15%, reduces ability recharge speed by 10%, and increases character's movement speed by 10%.
+
+## Tips
+
+- **Blooming Wreath**: This is a better option for a successful run, but if you get a Magnificent Helm of Might instead, don't despair. It is recommended that this helmet be worn by a player practicing darts (like Wilson or Wendy) to deal more damage to enemies and accumulate the special ability of darts more often. The speed bonus can help you dodge the Warrior Hog's fire lines after it hits the ground with its grappling hooks while moving around the boss.
+
+# The Forge Content
+```
+
+
+
+
+## Character Info
+### Winona
+- **Image**: ![Winona Original Portrait](Winona_Original_Portrait.png)
+- **Items**: 
+  - ![Trusty Tape](Trusty_Tape.png)
+  - ![Winona's Catapult](Winona's_Catapult.png)
+  - ![Winona's Spotlight](Winona's_Spotlight.png)
+  - ![Winona's Generator](Winona's_Generator.png)
+  - ![Winona's G.E.M.erator](Winona's_G.E.M.erator.png)
+- **Start Item**: ×3 ![Trusty Tape](Trusty_Tape.png)
+- **Health**: 150
+- **Hunger**: 150
+- **Sanity**: 200
+- **Favorite Food**: ![Vegetable Stinger](Vegetable_Stinger.png)
+- **Spawn Code**: winona
+- **Links**: 
+  - [Quotes](Winona_quotes)
+  - [Clothes](Winona_clothes)
+
+## Special Abilities
+
+1. Crafts items and structures at twice the speed, with a small hunger cost.
+2. Dodges a single hit from Charlie after walking away from a light source.
+3. Properly identifies Wagstaff's tools during the Moonstorm event.
+4. Has access to five special items in her Winona Filter.
+
+### Special Items
+
+- **[[Trusty Tape]]**: Used for repairing clothes and patching boat leaks; starts with three in inventory.
+- **[[Winona's Catapult]]**: Area-of-effect damage structure requiring generator power.
+- **[[Winona's Spotlight]]**: Illumination structure requiring generator power.
+- **[[Winona's Generator]]**: Powers unique structures for up to one day, fueled by Nitre.
+- **[[Winona's G.E.M.erator]]**: Powers unique structures for up to six days, fueled by Gems (except Iridescent Gem).
+
+## Disadvantages
+
+- Crafts at half speed and without hunger cost if hunger is below 50.
+
+## Insight Skill Tree
+
+### Shelf 1
+
+| Skill | Prerequisites | Description | Notes |
+|-------|---------------|-------------|-------|
+| Hotlight | ![Hotlight](Hotlight.png) | Upgrade Spotlights to give off heat. | Light from Spotlights radiates 88 units for all players and Thermal Stones at light. |
+| Spacious Spotlight | ![Spacious Spotlight](Spacious_Spotlight.png) | Upgrade Spotlights to illuminate a larger area. | Spotlights will illuminate a larger and further area. |
+| Portability | ![Portability](Portability.png) | Easily dismantle machines and build a Handy Remote. | Winona can dismantle and rebuild all her structures and craft Handy Remote. |
+
+### Shelf 2
+
+| Skill | Prerequisites | Description | Notes |
+|-------|---------------|-------------|-------|
+| Rapid-Fire I | Learn 3 skills on Shelf 1 | Tune-up Catapults to increase firing rate by 5%. | Catapults' firing rate increases by 5%, 10%, or 20%. |
+| Explosive Volley I | Learn 3 skills on Shelf 1 | Modify Catapults to deal damage to a 25% larger area. | Catapults deal damage to a 25%, 50%, or 100% larger area. |
+| Greater Generator I | Learn 3 skills on Shelf 1 | Boost efficiency of Generators and G.E.M.erators by 25%. | Efficiency increases by 25%, 50%, or 100%. |
+
+### Shelf 3
+
+| Skill | Prerequisites | Description | Notes |
+|-------|---------------|-------------|-------|
+| Shadow Seeker I | Learn 6 skills on Shelf 2 | Build a device to track down hidden supply caches. | Winona can craft and use Rose-Colored Glasses. |
+| Nightmare Generator | Learn 6 skills on Shelf 2 | Utilize Nightmare Fuel as a fuel source for Generators. | Winona can use Nightmare Fuel to charge Winona's Generator. |
+
+## Tips
+
+- Winona's perks make her an effective base-builder.
+- Utilizes Nitre effectively, which is otherwise limited in use.
+- No hunger drain when standing still after crafting.
+- Prioritize crafting large amounts of items when needed.
+- Prepare extra food when exploring the map.
+- Increased crafting speed is helpful when building complex structures or fleeing from threats.
+- Can be in the dark longer to farm Nightmare Fuel from Shadow Creatures.
+- Starts with 3 Trusty Tapes, useful for early structure crafting.
+- Effective for repairing clothing items where Hounds are not available.
+- Webber can supply the Silk needed for Trusty Tape.
+- Trusty Tape
+
+
+
+
+```markdown
+# Down Feather
+
+<center>
+<img src="Down Feather Dropped.png" style="position:relative;">
+</center>
+
+## Overview
+A **Down Feather** is an **Item** from the **Don't Starve: Reign of Giants** DLC. It is dropped by both the **Moose/Goose** and her **Mosling**s. Its main purpose is to craft a **Luxury Fan** or a **Weather Pain**.
+
+## Usage
+### Crafting Recipes
+
+#### Weather Pain
+- **Down Feather** x10
+- **Volt Goat Horn**
+- **Gears**
+- Tool: **Alchemy Engine**
+- Result: **Weather Pain**
+
+#### Luxury Fan
+- **Down Feather** x5
+- **Cut Reeds** x2
+- **Rope** x2
+- Tool: **Alchemy Engine**
+- Result: **Luxury Fan**
+
+#### Down Quill Float
+- **Down Feather**
+- Tool: **Tackle Receptacle**
+- Result: **Down Quill Float**
+
+#### Practical Rain Rituals (Wickerbottom)
+- **Down Feather** x2
+- **Papyrus** x2
+- Result: **Practical Rain Rituals**
+
+#### Warrior's Reprise (Wigfrid)
+- **Papyrus** x1
+- **Feather Pencil** x1
+- **Down Feather** x3
+- Result: **Warrior's Reprise**
+
+## Quotes
+- **Wilson**: Fluffy!
+- **Willow**: So snuggly!
+- **Wolfgang**: Tickle tickle tickle!
+- **Wendy**: Plucked like Abigail was from me.
+- **WX-78**: FEATHERS FROM STRANGE LIFEFORMS
+- **Wickerbottom**: Soft body down! Makes me wish I could sleep.
+- **Woodie**: Pillowy plumage.
+- **Maxwell**: I could use a pillow filled with these.
+- **Wagstaff**: Holds a strange connection to the elements.
+- **Wigfrid**: A shieldmaiden deserves a söft bed öf dunn.
+- **Webber**: Tickle torture.
+- **Walani**: It's soft but... a bit grimy.
+- **Warly**: A plucked goose was here.
+- **Woodlegs**: Thet bird must be 'uge!
+- **Wilba**: WHEREFORE REST OF BIG BIRD?
+- **Wormwood**: Tickles. Hehe!
+- **Wheeler**: This would be useful if I could find more of them.
+- **Winona**: I could think of one or two uses for that, tops.
+- **Wortox**: This feather may help one brave hot weather.
+- **Wurt**: Stole it from goose, florp!
+- **Walter**: Goosey.
+- **Wanda**: I'm sure I'll find a use for it sooner or later.
+
+## Trivia
+Down is a layer of soft feathers underneath a bird's exterior feathers used as an insulator and padding.
+
+## Categories
+- Items
+- Mob Dropped Items
+- Reign of Giants
+- Boss Dropped Items
+- Resources
+```
+
+
+
+
+```markdown
+# Snowbird
+
+## Structure Infobox
+- Tool: Can be **Trapped** with a Bird Trap.
+- Naughtiness: 2
+- Name: Snowbird
+- Diet: Seeds, Meat (Only on Cage)
+- Health: 25
+- Drops: Morsel (50%), Azure Feather (50%)
+- Image: Snowbird Build.png
+- Special Ability: Drops and eats Seeds
+- Spawn Code: "robin_winter"
+- Icon: Snowbird.png
+- Spoil: 5 days
+- Stack: Does not stack
+
+## Quotes
+
+- **Wilson:** Life in the frozen wastes.
+- **Willow:** It looks cold out here. I bet it wants a fire.
+- **Wolfgang:** Is pretty white color bird.
+- **Wendy:** Life in the barren, frozen wastes.
+- **WX-78:** A FOOLISH BIRD
+- **Wickerbottom:** A winter coat for the Cardinalis? How peculiar!
+- **Woodie:** Go fly south or something!
+- **Maxwell:** I don't recognize that one.
+- **Wagstaff:** There's a strange relation between birds and the proximity of seeds here.
+- **Wigfrid:** This bird knows about the cold.
+- **Webber:** What pretty white feathers.
+- **Walani:** You have a lovely voice!
+- **Warly:** This little fellow seems quite frigid.
+- **Woodlegs:** She's a beaut.
+- **Wilba:** 'TIS PRETTY ICE BIRDY
+- **Wormwood:** Snow Tweeter
+- **Wheeler:** How do you fly in this weather?
+- **Winona:** She ain't bothering no one.
+- **Wurt:** Snowy bird.
+- **Wortox:** That's a bird, or so I've heard.
+- **Walter:** My handbook doesn't show them in this colour...
+- **Wanda:** Some kind of blueish white bird.
+- **Choose:** Wickerbottom
+
+## Quotes (when held)
+
+- **Wilson:** It's so soft.
+- **Willow:** It's so fluffy.
+- **Wolfgang:** Is fluffy bird. Nice bird.
+- **Wendy:** It's so soft. It is my enemy.
+- **WX-78:** JUST A FEATHERY BLOB
+- **Wickerbottom:** It's so delicate.
+- **Woodie:** It's stealing my warmth.
+- **Maxwell:** Quiet, you.
+- **Wagstaff:** If only I could see through those eyes.
+- **Wigfrid:** Such fluffy feathers.
+- **Webber:** We will name it Francis.
+- **Walani:** You're not too squished, are you?
+- **Warly:** Let me lend you my warmth, feathered friend.
+- **Woodlegs:** She's a cold birdy.
+- **Wilba:** WILBA CATCHETH
+- **Wormwood:** Needs home
+- **Wheeler:** Fly me away.
+- **Winona:** You're just feather and bone.
+- **Wortox:** Mind my fingers.
+- **Wurt:** It likes to be pet.
+- **Walter:** They're extra downy.
+- **Wanda:** Don't peck on my pocket watches while you're in there!
+- **Source:** when held
+- **Choose:** Webber
+
+## Usage
+
+- **Hand:** Morsel or Azure Feather
+- **Fire:** Cooked Morsel
+
+## Resources
+
+Birds can drop a variety of basic resources instead of seeds to help new players when they fly away. If the world is younger than 3 days, seeds will drop instead of other items. These common items are randomly chosen, and a given item won't drop if there is already a type of the same item within a radius of 2 tiles. Items will also not drop if 2 of the same type of items are within a radius of 5 tiles. The item depends on the age of the oldest player within a 5 tiles radius:
+
+| Player Age | Birds Item |
+|------------|------------|
+| < 1 day    | Seeds (13%), Flint (3.5%), Twigs (2.3%), Cut Grass (1.2%) |
+| 1 day      | Seeds (15%), Flint (2.5%), Twigs (1.7%), Cut Grass (0.8%) |
+| 2 days     | Seeds (17%), Flint (1.5%), Twigs (1%), Cut Grass (0.5%)
+
+
+
+
+```markdown
+# Suspicious Dirt Pile
+
+## Description
+{{Navbutton/Separation}}
+{{Structure Infobox
+|picked = Investigate.
+|Box title = Suspicious Dirt Pile
+|image = <gallery>
+Suspicious Dirt Pile.png|Suspicious Dirt Pile
+Animal Track.png|Animal Track
+Suspicious Dirt Pile with Tooth.png|Suspicious Dirt Pile
+Animal Clawed Tracks.png|Animal Clawed Tracks
+</gallery>
+|spawns = {{Pic32|Koalefant}} {{Pic32|Winter Koalefant}} {{Pic32|Ewecus}} {{Pic32|Varg}} {{Pic|24|Volt Goat}}
+|perk = Leads to certain mobs.
+|spawnCode = "dirtpile"<br>"animal_track"
+}}
+
+## Quotes
+**Wilson:** It's a pile of dirt... or IS it?
+**Willow:** Who just leaves dirt lying around in the forest?
+**Wolfgang:** Dirty dirt.
+**Wendy:** Oh look. More dirt.
+**WX-78:** UNKNOWN PILE FORMAT
+**Wickerbottom:** Unhygienic!
+**Woodie:** Hey! A clue!
+**Maxwell:** That looks out-of-place.
+**Wagstaff:** I speculate that dirt pile is newly formed.
+**Wigfrid:** A small hill of earth.
+**Webber:** A pile of dirt. I bet it's hiding something.
+**Walani:** Well, would you look at that. A pile of dirt.
+**Warly:** It's making a bit of a mess, isn't it?
+**Woodlegs:** That be lookin like a pile o' treasures.
+**Wilba:** 'TIS DIRT
+**Wormwood:** What's hiding?
+**Wheeler:** Dirt piles. Sure sign of something suspicious.
+**Winona:** Time to get my hands dirty.
+**Wortox:** I could get my claws in there.
+**Wurt:** Somebody in there?
+**Walter:** Woby, did you dig something up?
+**Wanda:** There's something just irresistibly suspicious about it...
+
+## Details
+Suspicious Dirt Piles are naturally spawning objects. They can be found randomly in the world and will change locations if nearby players are more than 200 units away. Once examined, the Suspicious Dirt Pile will be uncovered by the Character and replaced by an Animal Track pointing towards the next Suspicious Dirt Pile in the hunt, which is spawned 40 units away from the current Suspicious Dirt Pile as soon as it is uncovered. Hunts can vary in length, from 6 to 12 Animal Tracks before the creature appears.
+
+During the hunt, the final few Suspicious Dirt Piles may contain a Hound's Tooth, signaling the appearance of either a Ewecus or a Varg with equal chance. The chance for a dangerous hunt starts at 5% on Day 1 and increases gradually to 33% at Day 100.
+
+| Custom Setting | Day 1 | Day 100+ |
+|---------------|-------|----------|
+| Never         | 0%    | 0%       |
+| Less          | 1.25% | 8.25%    |
+| Default       | 5%    | 33%      |
+| More          | 10%   | 66%      |
+| Lots          | 70%   | 90%      |
+
+Upon uncovering the final footprint, the character will alert the player that the creature is close. In non-dangerous hunts, if the current season is Winter the creature will always be a Winter Koalefant. If the creature appears in the Oasis Desert during the rain in Spring, it will always be a Volt Goat. Otherwise, the creature will be a regular Koalefant. The spawned creature will remain in the world until it is killed.
+
+The track will disappear after 37.5 seconds, causing the player to fail the hunt. While it is raining or the ground is wet, the track will disappear after 22.5 seconds instead. After failing a hunt, there is a 5-second delay before a new set of tracks may spawn.
+
+After completing a hunt, there is a 432-720 second cooldown until the next Suspicious Dirt Pile may spawn.
+
+## Lunar Rift
+While the Lunar Rift is active, every hunt will be guaranteed to be a dangerous hunt with a Varg at the end.
+
+## Year of the Varg
+During the Year of the Varg event in Don't Starve Together, if a trail of Suspicious Dirt Piles is investigated while an active Varg Shrine is in the world, it will always lead to the event-exclusive Set Piece consisting of a Clay Varg and twelve Clay Hounds.
+
+## Gallery
+<gallery captionalign="center" hide
+
+
+
+
+```markdown
+> Spiders understand us.  
+> *Webber*
+
+# Spiders
+
+Spiders are common **Mobs** found in **Don't Starve** and **Don't Starve Together**. They are hostile toward players. **Webber** can befriend all types of spider by giving them any kind of meat including their own **Monster Meat**. There are 5 types of spiders, with an additional three introduced in **Don't Starve Together**:
+
+| ![Spider](Spider Build.png) | ![Spider Warrior](Spider Warrior Build.png) | ![Cave Spider](Cave Spider Build.png) |
+|-----------------------------|----------------------------------------|-------------------------------------|
+| **Spider** | **Spider Warrior** | **Cave Spider** |
+
+| ![Spitter](Spitter Build.png) | ![Dangling Depth Dweller](Dangling Depth Dweller Build.png) | ![Shattered Spider](File:Nurse Spider Build.png) |
+|-----------------------------|----------------------------------------|-------------------------------------|
+| **Spitter** | **Dangling Depth Dweller** | **Shattered Spider** |
+
+| ![Nurse Spider](File:Nurse Spider Build.png) | **DST** | ![Sea Strider](File:Sea Strider Build.png) | **DST** |
+|------------------------------------------|--------|------------------------------------------|--------|
+| **Nurse Spider** |  | **Sea Strider** |  |
+
+| ![Spider Warrior (Venomous)](File:Spider_Warrior_(Venomous).png) | **SW** |
+|----------------------------------------|--------|
+| **Spider Warrior (Venomous)** |  |
+
+- **fr:araignée**
+- **ru:Паук**
+
+## Categories
+
+- **Cave Creatures**
+- **Followers**
+- **Hostile Creatures**
+- **Mobs**
+- **Monsters**
+- **Sanity Loss**
+- **Spiders**
+- **Surface Creatures**
+- **Nocturnals**
+- **Multipage articles**
+- **Disambiguations**
+- **Naturally Spawning Objects**
+```
+
+
+
+
+```markdown
+# Tam o' Shanter
+
+- **Type**: Hat Item
+- **Equip Slot**: Head
+- **Image**: ![Tam o' Shanter Dropped](Tam o' Shanter Dropped.png) ![Tam o' Shanter](Tam o' Shanter.png)
+- **Durability**: 25 days
+- **Perk**: Restores Sanity over time, Delays Freezing.
+- **Dropped By**: MacTusk (25% chance) (Fully Decorated Festive Tree)
+- **Sanity Drain**: +6.67/min
+- **Freezing Resistance**: 120
+- **Stacking**: Does not stack
+- **Repairable**: Repaired by Sewing (1)
+- **Spawn Code**: walrushat
+
+## Quotes
+
+- **Wilson**: It's covered with walrus hairs.
+- **Willow**: I kind of like the look of it.
+- **Wolfgang**: Sea cow man hat!
+- **Wendy**: What feverish thoughts transpired beneath this?
+- **WX-78**: SMELLS LIKE MAMMAL
+- **Wickerbottom**: Should auld acquaintance be forgot?
+- **Woodie**: My granddad wore a hat like this.
+- **Maxwell**: Made in Scotland.
+- **Wagstaff**: Marvelously constructed to prevent psychic attack.
+- **Wigfrid**: Highland filth!
+- **Webber**: Reminds me of grandpa.
+- **Warly**: Smells a little musty...
+- **Wormwood**: Floppy head thing
+- **Winona**: Oddly comforting.
+- **Wortox**: Do I look good in plaid?
+- **Wurt**: Hee-hee, it go with my scales!
+- **Walter**: It's very... plaid?
+- **Wanda**: It still smells like walrus.
+
+## Skins
+
+| ![Cawnival Tammie](Cawnival Tammie Icon.png) | **Woven - Elegant Cawnival Collection Cawnival Tammie**: This bonny cap will have you crowing with delight. [[See ingame]](Cawnival Tammie Wilson.png) |
+| :--- | :--- |
+| ![Seabreeze Tammie](Seabreeze Tammie Icon.png) | **Woven - Elegant Seabreeze Tammie**: Trade in your old moth-eaten Tam o' Shanter for a new moth-eaten Tam o' Shanter! [[See ingame]](Seabreeze Tammie Wilson.png) |
+
+## Trivia
+
+- The Tam o' Shanter was added in the "A Winter's Tale" update.
+- A Tam o' Shanter, often abbreviated T.O.S. or Tam, is a nineteenth-century Scottish traditional bonnet worn by men.
+- Because of MacTusk's death animation, when the Shanter drops, the player will actually see two of them drop from the walrus. One is the item that the player can pick up, while the other is part of the animation and will disappear with MacTusk.
+- As the Tam o' Shanter isn't craftable, the only way to use an alternate skin on one is with a Clean Sweeper.
+
+## Gallery
+
+| ![Tam o' Shanter Equipped](Tam o' Shanter Equipped.png) | ![Wilson](Tam o' Shanter Wilson.png) | ![Willow](Tam o' Shanter Willow.png) | ![Wolfgang](Tam o' Shanter Wolfgang.png) |
+| :--- | :--- | :--- | :--- |
+| ![Wendy](Tam o' Shanter Wendy.png) | ![WX-78](Tam o' Shanter WX-78.png) | ![Wickerbottom](Tam o' Shanter Wickerbottom.png) | ![Woodie](Tam o' Shanter Woodie.png) |
+| ![Wes](Tam o' Shanter Wes.png) | ![Maxwell](Tam o' Shanter Maxwell.png) | ![Wigfrid](Tam o' Shanter Wigfrid.png) | ![Webber](Tam o' Shanter Webber.png) |
+| ![Walani](Tam o' Shanter Walani.png) | ![Warly](Tam o' Shanter Warly.png) | ![Wilbur](Tam o' Shanter Wilbur.png) | ![Woodlegs](Tam o' Shanter Woodlegs.png) |
+| ![Wilba](Tam o' Shanter Wilba.png) | ![Wormwood](Tam o' Shan
+
+
+
+
+```markdown
+# Crow
+
+## Overview
+Crows are birds that appear in any season and can land in most Turfs except Grass Turf. They fly down from off-screen and peck the ground for a few moments, then fly away. When they take flight, there is a chance that seeds are left behind, unless it's Winter. Crows will also be attracted to Seeds left on the ground. If the player or most other mobs get too close, birds will be frightened away. Birds won't land on Sticky Webbing and will swiftly fly away if they already lands.
+
+## Usage
+Crows can be hunted for their feathers, morsels, or jet feathers. They can be caught using a Bird Trap or killed with a Boomerang or other ranged weapons. When killed, crows drop a Morsel or a Jet Feather, and all other birds nearby will fly away. They are considered innocent creatures and killing them directly adds points to the player's naughtiness level, which causes Krampus to appear. Killing a Crow adds 1 point to the player's naughtiness level.
+
+## Quotes
+- Wilson: Creepy!
+- Willow: I think it's waiting for me to die.
+- Wolfgang: I do not like birds.
+- Wendy: Take thy beak from out my heart!
+- WX-78: IT IS SMARTER THAN MOST HUMANS
+- Wickerbottom: Corvus brachyrhynchos.
+- Woodie: He's planning something. I can tell.
+- Maxwell: I don't know how they got here.
+
+## Resources
+Crows can drop a variety of basic resources instead of seeds to help new players when they fly away. If the world is younger than 3 days, seeds will drop instead of other items. These common items are randomly chosen, and a given item won't drop if there is already a type of the same item within a radius of 2 tiles. Items will also not drop if 2 of the same type of items are within a radius of 5 tiles. The item depends on the age of the oldest player within a 5 tiles radius:
+
+| Player age | Birds Item |
+|------------|------------|
+| < 1 day    | Seeds (13%), Flint (3.5%), Twigs (2.3%), Cut Grass (1.2%) |
+| 1 day      | Seeds (15%), Flint (2.5%), Twigs (1.7%), Cut Grass (0.8%) |
+| 2 days     | Seeds (17%), Flint (1.5%), Twigs (1%), Cut Grass (0.5%) |
+| ≤ 20 days  | Seeds (20%) |
+| ≤ 1 year   | Seeds (16%) |
+| > 1 year   | Seeds (12%) |
+
+The actual value is the duration of Autumn, which is 20 days in the default settings.
+
+## Hunting
+Crows can be caught using a Bird Trap. Placing the trap on the ground will eventually catch a bird even without bait. Adding bait such as Seeds or Berries will greatly decrease the time it takes to catch one. They can be Murdered by right-clicking them in inventory to produce a Jet Feather or Morsel, or be cooked on a fire for a Cooked Morsel. Birds in the player's inventory can be dropped on the ground and will flop on the ground belly-up for a short while before flying off. They can also be imprisoned in Bird Cages.
+
+Hunting Birds requires a ranged weapon such as a Boomerang. Birds will not land within melee range (even if bait is placed on the ground) and will fly away when the player approaches. However, if they are put to sleep when using characters with a normal damage modifier, they can be killed in 1 hit with a sufficient melee weapon.
+
+If a bird is in flight while in range of a sleeping item's effect, it will plummet to the ground and can be picked up as an item.
+
+Wearing a Feather Hat will increase the number of Birds spawning as well as decreasing the time between spawns. Using Birds of the World (while playing as Wickerbottom) will also cause a large number of them to land.
+
+One can send a Smallbird to attack a Bird. This can be done without the bird getting frightened and without raising naughtiness.
+
+They take one blast from the Ice Staff to be frozen and one Sleep Dart to be put to sleep.
+
+## Tips
+- When bait-trapping Birds for their Feathers, players should make sure to do so on Turf in which specific Birds will spawn, so that they get specific Feathers. Redbirds and Snowbirds spawn most commonly on Grass Turf, while Crows spawn on Rocky Turf and all player-made turfs.
+- If one can manage to bring a Damaged Bishop from the Ruins, their ranged
+
+
+
+
+```markdown
+# Key to the City
+
+## Exclusivity: Hamlet
+
+## Incomplete
+
+### Item Infobox
+- **Stack**: Does not stack
+- **Perk**: Grants access to the [City Planning Tab](City_Planning_Tab).
+- **Spawn Code**: "key_to_city"
+
+### Quotes
+- **Wilson**: City engineering isn't a real science.
+- **Willow**: A whole city of my own to burn down!
+- **Wolfgang**: Wolfgang have his own city now!
+- **Wendy**: I'll build a necropolis. 
+- **WX-78**: I CONTROL THE MAINFRAME!!
+- **Wickerbottom**: The ideal city would be full of libraries.
+- **Woodie**: Need lots of trees in our city.
+- **Maxwell**: Building a city is a step down for me.
+- **Wagstaff**: The gift of urban planning in the palm of my hand!
+- **Wigfrid**: I shall build a great city to sing my praises.
+- **Webber**: Now we can make our very own city!
+- **Walani**: Sweet. I can build my own personal city!
+- **Warly**: I shall make a whole city of delicatessen!
+- **Woodlegs**: Woodlegs be the Admiral for this town.
+- **Wilba**: MY KINGDOM FOR A TOWN!
+- **Wormwood**: For Twirly Tail Town
+- **Wheeler**: Swell. Now I can be responsible for a whole city.
+- **Choose**: Wilba
+
+The **Key to the City** is an **Item** exclusive to the **Don't Starve: Hamlet** DLC. It can be acquired by opening the respective **Royal Gallery Exhibit** with a **Royal Gallery Key** in the **Pig Queen** **Palace**. The Key to the City serves as a portable crafting station, unlocking the **City Planning Tab** when being held in the **inventory** or standing next to it. The **City Planning Tab** is not accessible when one is in **Interiors**. **Town Houses** crafted with the Key to the City will give 1 **Oinc** every 10 days if **My City Hall** is built.
+
+If taken to other worlds (either **Don't Starve: Reign of Giants** forest or **Don't Starve: Shipwrecked** tropical islands), it is possible to make a pig city in these selective worlds.
+
+### Prototype Tips
+- It is possible to farm trinkets by making **The Sty Oddities Emporium** or the **The Flying Pig Arcane Shop**, buying the trinkets, and then destroying them with the **Executive Hammer**. As long as one has lots of pig skin, farming trinkets should be a breeze.
+
+### Mosquito Bugs
+- The Key to the City will not work if being held in a backpack or any other kind of added storage.
+
+### Blueprint Gallery
+
+![Gallery](gallery_image_url)
+
+### Categories
+- **Crafting Stations**
+- **Unstealable Object**
+- **Indestructible Object**
+```
+
+
+
+
+```markdown
+# Reed Tunic
+
+![Reed Tunic](Reed Tunic.png)
+
+- **Perk**: Reduces the cooldown speed of all abilities by 5%.
+- **Spawn Code**: `lavaarena_armorlight`
+
+The Reed Tunic is an item added to The Forge in Don't Starve Together. It is available immediately from Maxwell and Wickerbottom.
+
+### Details
+
+- **Armor Type**: Body cell
+- **Damage Reduction**: 50%
+
+### Tips
+
+- **Damage Absorption**: This armor is the worst in terms of damage absorption. Armor wearers should avoid melee combat, and melee characters (Wolfgang, WX-78) should not equip armor in favor of better damage protection.
+- **Ability Cooldown**: The 5% ability cooldown speed can slightly help Wickerbottom and Maxwell turn enemies to stone or plant lifeblooms more often until Wood Armor with Silk drops. Other characters can pick it up to flurry more often, at the expense of mobility.
+
+### Clear
+
+### The Forge Content
+```
+
+
+
+
+```markdown
+# Beehive
+
+## Object Infobox
+- **Can Be Burned**: Yes
+- **Name**: Beehive
+- **Image**: Beehive.png
+- **Health**: 200
+- **Resources**: Honeycomb, Honey x3
+- **Renew**: No
+- **Biome**: Grassland
+- **Spawn Code**: beehive
+- **Spawns**: Bee, Killer Bee
+
+# Killer Bee Hive
+
+## Object Infobox
+- **Can Be Burned**: Yes
+- **Name**: Killer Bee Hive
+- **Image**: Killer Bee Hive.png
+- **Health**: 250
+- **Resources**: Honeycomb, Honey x3
+- **Renew**: No
+- **Biome**: Grassland
+- **Spawn Code**: wasphive
+- **Spawns**: Killer Bee
+
+# Quotes
+- **Wilson**: It's buzzing with activity.
+- **Willow**: It's full of bees!
+- **Wolfgang**: Oh, beehive!
+- **Wendy**: A wretched hive of scum and pollen.
+- **WX-78**: HOW INDUSTRIOUS
+- **Wickerbottom**: The natural home of the bee.
+- **Woodie**: They're all comfy-cozy in there.
+- **Maxwell**: Not the bees!
+- **Wagstaff**: It vibrates with activity.
+- **Wigfrid**: Always buzzing, always plötting.
+- **Webber**: It's a hive of activity.
+- **Walani**: The bees must sleep in there.
+- **Warly**: I can hear the activity within.
+- **Woodlegs**: A den o'honey makers.
+- **Wilba**: A PLAGUE ON BEES HOUSES!
+- **Wormwood**: Buzz home
+- **Wurt**: Home for stingers.
+- **Wheeler**: I like it better when it's making me honey.
+- **Winona**: Hard at work.
+- **Wortox**: One swift kick and it becomes a great prank.
+- **Walter**: I reeaally shouldn't get closer...
+- **Wanda**: I'm sure the bees are working like clockwork in there.
+- **Choose**: Wickerbottom
+
+# Beehives
+Beehives are naturally occurring structures only found in Grassland Biomes, holding up to 6 Bees or Killer Bees. They have 200 health, and drop 1 Honeycomb and 3 Honey when destroyed. Unlike Bee Boxes, Bees have no effect on the items dropped. Beehives do not respawn.
+
+Attacking a Beehive will anger nearby Bees, and spawn Killer Bees from the nest itself. Even though Honeycomb and Honey are not flammable, burning a Beehive will yield 4 Ashes. Beehives can be repaired with healing items.
+
+# Killer Bee Hive
+Killer Bee Hives are naturally occurring structures found only in Grasslands biomes (usually next to Beehives) holding up to 6 Killer Bees. They appear in Survival Mode and more frequently in Adventure mode. Like normal Beehives, Killer Bee Hives drop 1 Honeycomb and 3 Honey. They also do not respawn.
+
+# Spawning Mechanics
+A Beehive will (re)spawn a new Bee every game hour (30 seconds) up to the maximum population of 6 Bees per hive. Bees will leave their hive during the daytime, one at a time every 50 seconds. They return to their hive at dusk. During Winter, Bees do not leave their hive.
+
+A Killer Bee Hive will (re)spawn a new Bee every 20 seconds up to the maximum population of 6 per hive. Killer Bees normally stay inside their hive all day. If the player wanders too close to their home they will immediately swarm out and attack even at Night and during Winter. Other creatures do not trigger this behavior.
+
+If a Bee or a Killer Bee is attacked or captured with a Bug Net, all members of the hive will emerge as Killer Bees to engage the offender. Additionally, Bees from the same hive, that are less than a screen away, and any "homeless" bees (killer or otherwise) will also join the fight. Up to 10 Bees and Killer Bees will engage the offender, however additional offences, such as attacking one of the defenders is considered a new offence and additional Bees may join the fight.
+
+If a hive is attacked, all Bees inside the hive will emerge as Killer Bees to attack the offender. Bees that were already outside (before the hive was attacked) will ignore the threat to the hive itself, but not the threat to the Killer Bees defending the hive; They will join the
+
+
+
+
+```markdown
+# Fish Morsel
+
+![Fish Morsel](Fish Morsel.png)
+
+**Food Value:** Fish &times; 0.5 Meat &times; 0.5  
+**Type:** Meat  
+**Dropped by:** Freshwater Fish, Runty Guppy, Needlenosed Squirt, Bitty Baitfish, Smolt Fry, Spittlefish, Crustashine (25%)  
+**HP Restored:** 1  
+**Hunger Restored:** 12.5  
+**Sanity Restored:** 0  
+**Spoil Time:** 3 days  
+**Stack:** 40  
+**Spawn Code:** "fishmeat_small"
+
+**Quotes:**
+- Wilson: A small bit of fish.
+- Willow: I like sushi, but I prefer it flame-broiled.
+- Wolfgang: Fish lump for eating.
+- Wendy: There are other fish in the sea. Bigger ones, hopefully.
+- WX78: SWIMMING MEAT SWIMS NO MORE
+- Wickerbottom: Fish flesh.
+- Woodie: I hope I don't attract bears.
+- Maxwell: Have I been reduced to this?
+- Wagstaff: Even miniscule amounts of raw fish will cause my intestines harm.
+- Wigfrid: This sea meat will serve me well.
+- Webber: It's a little fishy.
+- Walani: Small fish from a big pond.
+- Warly: I will honor this ingredient.
+- Woodlegs: 'Tis hardly a bite'o'fish.
+- Wilba: 'TIS A TEENY FISH
+- Wormwood: Wee Glub Glub
+- Wheeler: Just a tiny bit fishy.
+- Winona: You sure that's fish? Looks pretty shrimpy to me.
+- Wortox: Looks like the soul's already left this one.
+- Wurt: Was so little...
+- Walter: Maybe I could use it as bait for a bigger fish.
+- Wanda: Not much more than a quick fishy snack.
+
+## Cooked Fish Morsel
+
+![Cooked Fish Morsel](Cooked Fish Morsel.png)
+
+**Food Value:** Fish &times; 0.5 Meat &times; 0.5  
+**Type:** Meat  
+**HP Restored:** 1  
+**Hunger Restored:** 12.5  
+**Sanity Restored:** 0  
+**Spoil Time:** 6 days  
+**Stack:** 40  
+**Spawn Code:** "fishmeat_small_cooked"
+
+**Quotes:**
+- Wilson: A small bit of cooked fish.
+- Willow: Fish and fire go well together.
+- Wolfgang: Looks better now.
+- Wendy: It will... tide... me over for now.
+- WX78: CITRUS SPRITZING REQUIRED
+- Wickerbottom: Most nutritious.
+- Woodie: Looks good to me.
+- Maxwell: ...Bottoms up.
+- Wagstaff: Ah. It should be okay for me to consume it now.
+- Wigfrid: This meat will swim in my belly!
+- Webber: Boney.
+- Walani: Is it snacktime?
+- Warly: Could use fresh herbs and butter...
+- Woodlegs: 'Tis a bit better.
+- Wilba: FWOOSH'DED TEENY FISHY
+- Wormwood: Cute little belly stuff
+- Wheeler: Swell. The bone is still in.
+- Winona: I won't turn down a bite!
+- Wortox: I do not wish to eat this fish.
+- Wurt: Glurgh... who do such thing!
+- Walter: It smells good!
+- Wanda: I don't know why I took the time to cook something so small.
+
+## Recipes
+
+1. **Cook Fish Morsel**  
+   - Result: Cooked Fish Morsel  
+   - Tool: Cooking
+
+2. **Make Small Jerky**  
+   - Item: Fish Morsel  
+   - Result: Small Jerky  
+   - Tool: Drying Rack
+
+3. **Use Birdcage**  
+   - Item: Fish Morsels  
+   - Result: Egg
+
+## Trivia
+
+- Fish Morsels were added to Don't Starve Together in the Hook, Line, and Inker update.
+```
+
+
+
+
+```markdown
+# Pigeon
+
+![Pigeon](Pigeon Build.png)
+
+- **Health**: ???
+- **Special Ability**: Eats Blue Seeds, Fluffy Seeds, Oblong Seeds, Pointy Seeds, Round Seeds, Spiky Seeds, Seed Pods
+- **Drops**: Meat Scraps
+- **Tool**: Can be Trapped with Bird Trap (Only Bird Trap)
+- **Spawn Code**: Cannot be spawned
+- **Icon**: Pigeon.png
+- **Spoil**: ???
+- **Stack**: Does not stack
+- **Spawn Code**: "quagmire_pigeon"
+
+Exclusive to **Don't Starve Together** and the **The Gorge** event.
+
+**Quotes:**
+- Wilson: "He's just winging it."
+- Wolfgang: "Silly bird does not matter to Wolfgang."
+- Willow: "I haven't got any crumbs for you."
+- Wendy: "Would you like to be a pie, little bird?"
+- Wickerbottom: "An agreeable member of the Columbidae family."
+- Woodie: "It's a filthy pigeon."
+- WX78: "THIS ORGANIC IS EXTRA FILTHY"
+- Maxwell: "How are birds getting in here?"
+- Wigfrid: "Be yöu tasty?"
+- Webber: "I should leave it alone."
+- Winona: "You seen one, you seen'em all."
+- Wortox: "I've heard they make good pie"
+- Wormwood: "Grey Flap Tweeter"
+- Wurt: "Hello birdy"
+
+### Usage
+
+Pigeons are an exclusive bird Mob found in **The Gorge** event for DST. They can be caught with Bird Traps that can be purchased from Billy for five Old Coins. Alternatively, they can be purchased alive from Billy for three Old Coins. Pigeons can be Murdered to yield one **Meat Scrap** which can be used in a variety of recipes to satiate **The Gnaw**. They fly down from off-screen and peck the ground for a few moments, then fly away.
+
+#### Recipes
+
+- Hand: Meat Scraps
+- Fire: Cooked Meat Scraps
+
+### Trivia
+
+* Pigeons in **Hamlet** have different sprites than Pigeons from **The Gorge**.
+
+### The Gorge Content
+
+#### Mobs
+
+[Mobs]
+```
+
+
+
+
+```markdown
+# Buzzards
+
+## Overview
+- **Diet:** All food except Elementals, Roughage, Gears, Burnt, Wood
+- **Image:** ![Buzzard](File:Buzzard.png)
+- **Spawn Code:** "buzzard"
+- **Health:** 250
+- **Damage:** 15
+- **Attack Period:** 2
+- **Attack Range:** 2
+- **Walk Speed:** 4
+- **Run Speed:** 8
+- **Drops:** Drumstick, Jet Feather (33%), Morsel (33%)
+
+## Quotes
+- Wilson: What a bizarre buzzard!
+- Willow: Your neck is gross.
+- Wolfgang: Carry on.
+- Wendy: I hear they feed on the dead.
+- WX-78: GARBAGE COLLECTOR LIFEFORM
+- Wickerbottom: Cathartes, of course.
+- Woody: Stay away from my meat snacks!
+- Maxwell: Carrion connoisseur.
+- Wagstaff: Its eyes are particularly piercing.
+- Wigfrid: Yöu and I, we meat feast tögether.
+- Webber: You won't find any carrion here. We're stuck like this.
+- Walani: Not dead yet, friend!
+- Warly: If only you were more turkey than vulture...
+- Woodlegs: Ye carrion-eatin' devil!
+- Wilba: TAKETH NAUGHT WILBA'S MEAT!
+- Wormwood: Meat Tweeter
+- Wheeler: Nice wings. Wanna give me a ride?
+- Winona: It lives off the hard work of others.
+- Wortox: It doesn't want to feed on death. It just has to.
+- Wurt: Pretty bird!
+- Walter: That seems like a bad sign.
+- Wanda: You're wasting your time following me, buzzard.
+
+## Description
+Buzzards are neutral mobs found in the Desert and Rockyland biomes. They circle the skies in search of Meats, appearing as shadows on the ground. When a circling Buzzard spots meat, it will land and begin to eat it. Once done eating all Meats, Seeds, Rot, Glommer's Goop, or unharvested Mandrakes in its vicinity, it will take off again. If the player approaches a Buzzard while it is eating, it will squawk in anger and peck at the player, causing damage. The Buzzard will not, however, pursue the player. When killed, 1 Buzzard drops 1 Drumstick, 1-2 Morsels, and possibly 1 Jet Feather.
+
+## Hunting
+### Attracting
+When a piece of meat is placed in the vicinity of a Buzzard shadow, it is possible one might fly down next to the meat. If the Buzzard is far away from it, it will hop slowly towards the meat. Buzzards that are approached preemptively will fly away. When attacked before squawking in anger, Buzzards will either fly away or fight back.
+
+### Attacking
+It is recommended to melee the Buzzard only once to get its peck on cooldown unless the player is positioned just right to hit the Buzzard an additional two times while it is landing. After it has landed one can then kite it with two hits in between pecks. Boomerangs and other ranged weapons are a safe bet as the Buzzards will not flee when attacked while eating.
+
+## Trivia
+- "Buzzard" can either refer to a number of broad-winged hawks or, usually in North America, a New World vulture, typically a turkey vulture. Since Klei is located in Canada, Buzzards of Don't Starve are based on the latter, and they appear to be and behave like vultures rather than hawks.
+- Wickerbottom refers to it as Cathartes, which is a genus of New World vultures which includes the turkey vulture (aka buzzard), the lesser yellow-headed vulture, and the greater yellow-headed vulture.
+- Real buzzards hiss instead of squawk since they lack vocal chords.
+
+## Gallery
+![Buzzards Circling](Buzzards Circling.png) | ![Buzzard Feeding](Buzzard Feeding.png) | ![Buzzard Glare](Buzzard Glare.png) | ![Buzzard Flight](Buzzard Flight.png) | ![Buzzard Frozen](Buzzard Frozen.png) | ![Buzzard Sleeping](Buzzard Sleeping.png) | ![Dead Buzzard](Dead Buzzard.png) | ![Buzzard-icons](Buzzard-icons.png) | ![Buzzard glitch](buzzard glitch.png) | ![Buzzards bug](Buzzards-bug.jpg) | ![Buzzards fighting](Buzzards fighting3.jpg) | ![Buzzard vulture](buzzardvulture.png) |
+
+
+
+
+```markdown
+# Ghosts
+
+## Structure Infobox
+
+- **Image**: Ghost_Build.png
+- **Health**: 200
+- **Damage**: 15
+- **Special Ability**: AoE attack
+- **Drops**: None
+- **Attack Period**: 1.2
+- **Attack Range**: 1.5
+- **Run Speed**: 2
+- **Sanity Aura**: -40
+- **Sanity Aura as Wendy DST**: 0
+- **Spawn Code**: "ghost"
+- **Spawn From**: Grave, Skeleton
+
+## Quotes
+
+- Wilson: This offends me as a scientist.
+- Willow: I can't kill what's already dead.
+- Wolfgang: Aaaaaaaaaaah!
+- Wendy: He has risen from the grave!
+- WX-78: ERROR: UNKNOWN
+- Wickerbottom: It must be fake. I don't believe it.
+- Woodie: Boo! Ha ha!
+- Maxwell: It remembers me!
+- Wagstaff: A poltergeist not affected by the dark fuel.
+- Wigfrid: A spirit trapped between worlds.
+- Webber: That's not a fun ghost!
+- Walani: You deserve a rest.
+- Warly: Could I offer you a ghost pepper?
+- Woodlegs: Ye 'ave ney business wit' me, spirit!
+- Wilba: ALAS, POOR GHOST!
+- Wormwood: Floaty man!
+- Wheeler: I'll end up one of those if I don't get out of here soon.
+- Winona: I don't want nothing to do with that.
+- Wortox: An unclaimed soul!
+- Wurt: Glorph, go away!
+- Walter: Ha, and people tried to tell me ghosts aren't real.
+- Wanda: Stay away from me! I won't become like you!
+- Choose: Wendy
+
+## Behavior
+
+Ghosts are aggressive mobs that can appear with a 10% chance when digging up a Grave with the Shovel or Regal Shovel, or when all the graves are dug in Maxwell's Graveyard. They make unique whispering noises when attacked or defeated. They do not attack like regular mobs, instead inflicting damage whenever next to the player or mob. This damage comes in the form of small attacks that are dealt very quickly over time. Ghosts don't drop anything upon "death".
+
+Every Grave in the world will spawn a ghost during a Full Moon. These ghosts despawn when nighttime ends, this counts as a death for the purposes of summoning Abigail.
+
+In Don't Starve Together, Ghosts are neutral towards Wendy.
+
+## Strategy
+
+| Weapon | Number of Hits |
+|--------|---------------|
+| Immune | Immune        |
+| Fire Dart, Fire Staff | 48   |
+| Fishing Rod, Bug Net | 15   |
+| Lucy the Axe | 12   |
+| Shovel, Pitchfork, Hammer, Torch, Umbrella, Walking Cane, Willow's Lighter | 8   |
+| Axe, Pickaxe, Luxury Axe, Opulent Pickaxe | 7   |
+| Boomerang | 6   |
+| 4-7 | 5   |
+| 3 or 5 | 4   |
+| 4 | 3   |
+| 3 | 2   |
+| 1 | 1   |
+
+## Tips
+
+- Because Ghosts will disappear after a while and do not drop anything, it is best to just let them be. The easiest way to kill a Ghost is by luring it to a few Pigs or a Beefalo; this way the Pigs or Beefalo will kill the Ghost.
+- A Ghost can also be used as a grinder; let it kill whatever enemy it comes across, then take the drops.
+- Ghosts are very slow and can be easily outrun. After the player has run a distance, the pursuing Ghost will likely have found another mob to be aggressive against.
+- Despite levitating above the ground, Ghosts are not immune to Tooth Traps.
+
+## Trivia
+
+- In Don't Starve Together, Ghosts cannot be revived with a Telltale Heart, and attempting to do so will result in a unique quote from the player character.
+
+## Bugs
+
+- Ghosts try to kill planted Mandrakes, despite them being invulnerable while planted; this causes them to simply hover above it.
+- In Don't Starve, it's possible for a Ghost to damage the player even after being killed.
+
+## Gallery
+
+<details>
+  <summary>Click to expand gallery</summary>
+  <img src="Spawner ghost cemetery.png" alt="Ghosts spawned in Maxwell's Graveyard Set Piece.">
+  <img src="Wilson examining a Ghost and stating that offends him.png" alt="Ghost lured to Mandrakes.">
+  <img src="red ghost.jpg" alt="
+
+
+
+
+```markdown
+# Wilson
+
+![Wilson Portrait](Wilson_Original_Portrait.png)
+
+## Character Stats
+- Health: 150
+- Hunger: 150
+- Sanity: 200
+
+## Favorite Food
+![Bacon and Eggs](Bacon_and_Eggs)
+
+## Spawn Code
+`wilson`
+
+## Filter
+![Wilson Filter](Wilson_Filter)
+
+## Unlocking
+Wilson is available for free like most characters in Don't Starve Together.
+
+## Perks
+- Wilson grows a beard over time. It provides varying degrees of Freezing resistance depending on the length, and can be shaved with a Razor to yield Beard Hair and restore +10 sanity. The statistics of each stage of growth are shown below:
+
+| Stage   | Growth Time | Beard Hair Yield | Insulation |
+|---------|-------------|-----------------|------------|
+| Short   | 4 days      | 1 (0.25/day)     | 15         |
+| Long    | 8 days      | 3 (0.43/day)     | 45         |
+| Magnificent | 16 days  | 9 (0.6/day)       | 135        |
+
+- Wilson's favourite food is Bacon and Eggs, which restores an additional +15 hunger than usual.
+
+## Insight Skill Tree
+
+### Torch
+| Skill           | Prerequisites       | Description                   | Notes                            |
+|-----------------|---------------------|-------------------------------|-----------------------------------|
+| Torch Longevity I| Available from start| Torches last a little longer. | Increases durability of Torches by 16% (total of 87 seconds). |
+| Torch Longevity II| Unlock "Torch Longevity I"| Torches last a fair amount longer. | Increases durability of Torches by 32% (total of 99 seconds). |
+| Torch Longevity III| Unlock "Torch Longevity II"| Torches last a lot longer. | Increases durability of Torches by 48% (total of 111 seconds). |
+| Torch Range I    | Available from start| Torches are a little brighter.| Increases the light radius of Torches to 1.5 tiles. |
+| Torch Range II   | Unlock "Torch Range I"| Torches are a fair amount brighter. | Increases the light radius of Torches to 2 tiles. |
+| Torch Range III  | Unlock "Torch Range II"| Torches are a lot brighter. | Increases the light radius of Torches to 2.5 tiles. |
+| Torch Toss       | Unlock a total of 3 "Torch" skills | Uses a scientifically formulated trajectory to always land right side up. | Unlocks the ability to throw Torches on the ground, where they continue to burn and emit light until picked up. |
+
+### Alchemy
+| Skill           | Prerequisites       | Description                   | Notes                            |
+|-----------------|---------------------|-------------------------------|-----------------------------------|
+| Transmutation   | Available from start| Transform 3 Twigs into a Log. Transform a Log into 2 Twigs. | Unlocks the following crafting recipes for Logs and Twigs. |
+| Transmute Ore I  | Unlock "Transmutation"| Transform 3 Rocks into a Flint. Transform 2 Flint into Rocks. | Unlocks the following crafting recipes for Flint and Rocks. |
+| Transmute Ore II | Unlock "Transmute Ore I"| Transform 3 Nitre into a Gold Nugget. Transform 2 Gold Nuggets into Nitre. | Unlocks the following crafting recipes for Gold Nuggets and Nitre. |
+| Transmute Ore III| Unlock "Transmute Ore II"| Transform 2 Cut Stone into Marble. Transform Marble into Cut Stone. Transform 2 Marble into Moon Rock. | Unlocks the following crafting recipes for Marble, Cut Stone, and Moon Rock. |
+| Transmute Gems I | Unlock "Transmutation"| Transform 2 Red Gems into a Blue Gem. Transform 2 Blue Gems into a Red Gem. Transform a Blue and Red Gem into a Purple Gem. | Unlocks the following crafting recipes for Red, Blue, and Purple Gems. |
+| Transmute Gems II| Unlock "Transmute Gems I"| Transform 3 Purple Gems into an Orange Gem. Transform 3 Orange Gems into a Yellow Gem. | Unlocks the following crafting recipes for Orange and Yellow Gems. |
+| Transmute Gems III| Unlock "Transmute Gems II"| Transform 3 Yellow Gems into a Green Gem. Transform 6 Gems of different colors into an Iridescent Gem. | Unlocks the following crafting recipes for Green and Iridescent Gems. |
+| Transmute Icky I  | Unlock "Transmutation"| Transform 3 Morsels into a Meat. Transform a Meat into 2 Morsels. | Unlocks the following crafting recipes for Meat and Morsels. |
+| Transmute I
+
+
+
+
+```markdown
+# Clockwork Bishop
+
+![Clockwork Bishop Image](Clockwork Bishop.png)
+
+## Mob Information
+- **Health**: 900  
+- **Damage**: 40  
+- **Drops**: [[Gears]] ×2, [[Purple Gem]] ×1  
+- **Attack Period**: 4  
+- **Attack Range**: 6  
+- **Walk Speed**: 5  
+- **Special Ability**: Ranged attack.  
+- **Spawns From**: Marble Sculptures  
+- **Spawn Code**: "bishop"
+
+## Quotes
+- **Wilson**: Back off, preacherman!
+- **Willow**: It's a bishop!
+- **Wolfgang**: Padre!
+- **Wendy**: What does he pray for?
+- **WX-78**: REVEREND AUTOMATON
+- **Wickerbottom**: A clockwork clergyman.
+- **Woodie**: It's been a while since my last confession.
+- **Maxwell**: I'm especially proud of that piece.
+- **Wagstaff**: A marvel in clockwork machinery!
+- **Wigfrid**: This öne needs a gööd smack.
+- **Webber**: You don't play by the chess rules grandpa taught me.
+- **Walani**: Don't get any bright ideas.
+- **Warly**: You don't strike me as particularly spiritual.
+- **Woodlegs**: Ye need a squirt o'oil mate, yer joints arrre squeakin'.
+- **Wilba**: WHAT O'CLOCK 'TIS THAT?
+- **Wormwood**: A Pointy Hat Machine Man!
+- **Wheeler**: I'm not in the mood to play games, mister!
+- **Winona**: How industrial.
+- **Wortox**: You sure look mean, you nasty fiend!
+- **Wurt**: Zappy Ironfolk!!
+- **Walter**: It's a Martian!
+- **Wanda**: What an irresponsible use of clockwork!
+- **Chosen**: Maxwell
+- **Source**: When examining a Clockwork Bishop
+
+## Behavior
+When any creature gets near its sight range, the Bishop will suddenly wake up and stare at them as a warning. Getting closer will make the Bishop attack by firing lightning bolts from its head. The Bishop will chase its enemy a short distance from its spawn area before returning and going back to sleep.
+
+## Hunting Tips
+The Bishop is overall the most difficult of the Chess Pieces, it is a strong ranged mob, and very accurate, making it almost impossible to kite effectively so it is recommended to be armored. Another way to kill a Bishop would be to aggravate a nearby Clockwork Rook without waking the Bishop and get the Rook to ram the Bishop. It is possible to dodge the Bishop's lighting bolts if the player is quick enough.
+
+## Tips
+- Clockwork Bishops (as well as knights and rooks) can be lit on fire with a [[Torch]]. If on fire, bishops and knights jump around until the flame extinguishes without attacking.
+
+## Trivia
+- The Clockwork Bishop was originally added in the [[Don't Starve/Version History#Doorway to Adventure|Doorway to Adventure]] update.
+- According to quotes, the bishop is Maxwell's favorite clockwork.
+
+## Gallery
+<details>
+<summary>Click to Expand</summary>
+<img src="World 6 Maxwell Statue After Mined.png" alt="Clockwork Bishops appearing after a Maxwell Statue was mined.">
+<img src="Frozen Bishop.png" alt="Frozen Clockwork Bishop.">
+<img src="Bishop Sleeping.jpg" alt="Bishop sleeping while no mobs are nearby.">
+<img src="Bishop Shooting.jpg" alt="The Bishop's electric projectile.">
+<img src="Dead Bishop.png" alt="A dead Bishop.">
+<img src="Art Stream 33 Clockwork Monsters.png" alt="A Clockwork Bishop as seen in a drawing from Art Stream # 33.">
+<img src="Doorway to Adventure.jpg" alt="Clockwork Bishop as seen in the poster for the Doorway to Adventure update.">
+<img src="Broken Clockworks before revision.jpg" alt="Older versions of Broken Clockworks.">
+<img src="Bishop Death Animation.gif" alt="Death animation of Clockwork Bishop">
+<img src="Don't Starve Concept Art 3.jpg" alt="Clockwork bishop concept art">
+<img src="Mob concept art.jpg" alt="Clockwork Bishop concept art">
+<img src="Don't Starve Concept Art 2.jpg" alt="Clockwork Bishop concept art">
+<img src="CD concept ds new2.png" alt="On Concept Art from Bonus Materials from CD Don't Starve.">
+<img src="Ds rug world.png" alt="On Concept Art from Bonus Materials from CD Don't
+
+
+
+
+```markdown
+# Exclusivity: Don't Starve Together
+
+## Biome Infobox
+![Despawnhop.JPG](Despawnhop.JPG)
+- Abundant: 
+  - ![Spiky Tree](Navbox_Burnt_Spiky_Tree.png)
+  - ![Spiky Bush](Navbox_Burnt_Spiky_Bush.png)
+  - ![Magma](Navbox_Magma.png)
+  - ![Scorched Skeleton](Scorched_Skeleton.png)
+- Rare: 
+  - ![Dragonfly](Navbox_Dragonfly.png)
+- Turf: 
+  - ![Sandy Turf](Sandy_Turf_Texture.png)
+  - ![Dirt](Dirt_Texture.png)
+
+The Dragonfly **Desert** biome features a set piece with numerous **Magma Ponds**, burnt **Trees**, burnt **Spiky Bushes**, and a few **Crispy Skeletons**. The ground is marked with numerous burnt swipes and slashes. A **Dragonfly** inhabits and respawns here, regardless of the season.
+
+### Blueprint Gallery
+| Image | Description |
+|-------|-------------|
+| ![Despawnhop.JPG](Despawnhop.JPG) | Dragonfly Nest during the day, with two **Lavae**. |
+| ![Dragonpreset.JPG](Dragonpreset.JPG) | Dragonfly Nest at dusk. |
+| ![Crispyskelly.JPG](Crispyskelly.JPG) | A Crispy **Skeleton**. |
+
+## Biomes
+```
+
+
+
+
+```markdown
+# Eye Bone
+
+![Eye Bone](Eye Bone on ground.png "Eye Bone as found naturally in the world")
+
+## Quotes
+- **Wilson**: It's looking at me.
+- **Willow**: It's rude to stare.
+- **Wolfgang**: It is eye bone. Eye bone connect to face bone.
+- **Wendy**: It's looking into my soul.
+- **WX-78**: IT IS THE DRM KEY FOR THE STORAGE UNIT
+- **Wickerbottom**: Oculus Mysterium.
+- **Woodie**: No one ever told him it was rude to stare.
+- **Maxwell**: Stop looking at me!
+- **Wagstaff**: Quite alluring. Especially to my furry companion.
+- **Wigfrid**: Whö are yöu?
+- **Webber**: Peekaboo.
+- **Walani**: I get the feeling I'm being watched.
+- **Warly**: The eye follows me wherever I go...
+- **Woodlegs**: Ye got a nice eye.
+- **Wilba**: WEIRD BONE EYE
+- **Wormwood**: Blinky!
+- **Wheeler**: It's missing an eye. And everything else.
+- **Winona**: Toolbox controls.
+- **Wortox**: My, my, what do you see?
+- **Wurt**: Neat!
+- **Walter**: No chewing on this bone, okay Woby?
+- **Wanda**: Do you ever blink?
+
+## Description
+The **Eye Bone** is an item that spawns **Chester** in **Don't Starve**. It is a naturally spawned item that can be found anywhere on the map, typically lying on the ground near a cobblestone road. To obtain the Eye Bone early, one must find a cobblestone road and follow it to a **Grasslands** biome surrounded by **Beehives** and **Ponds**. Note: there are cases where it is not found in the Grasslands biome. In this case, it will spawn randomly near the player in a **Marsh** biome.
+
+Once spawned, **Chester** will continue to follow the player as long as the Eye Bone is in their inventory. The Eye Bone can be dropped on the ground or placed inside Chester to make him stop following the player.
+
+At night or in the **Ruins**, Chester will sleep until enough distance separates him and the Eye Bone. If Chester is killed, he will drop all stored items, and the Eye Bone will no longer open its eye (it remains closed). The eyelid will reopen after Chester respawns in one day.
+
+**Splumonkeys** will not steal the Eye Bone, and **Eyeplants** will not eat it. **Krampus** can only steal the Eye Bone if it's in a **Backpack**. The Eye Bone cannot be teleported with the player via **Wooden Thing** (it will turn to **Ashes** upon arrival to the next world).
+
+As long as **Webber** is the one carrying the Eye Bone, spiders will not attack Chester. This does not apply to the **Spider Queen**, or the spiders spawned by her.
+
+## Skins
+| Narwalrus Eye Bone | Woolly Eye Bone | Twisted Eye Bone |
+|-------------------|----------------|-----------------|
+| Eye Bone bound with Narwalrus Chester | Eye Bone bound with Woolly Chester | It looks like it has a bone to pick with you. |
+
+## Trivia
+- Chester and the Eye Bone were added in the **Spoiled Rotten** update.
+- The eye on the bone might belong to Chester. This could explain why it closes when Chester dies and the reason for him to follow the player.
+- An Eye Bone spawned via Console will only spawn Chester one time.
+- It is possible to get multiple functioning Chesters with the console, first by spawning a Chester without the Eye Bone (he will run away instead of following if the player gets close), then using the console to get another Eye Bone. This will cause the skittish Chester to connect to that particular Eye Bone and begin following it as normal.
+- In DST, Eye Bone will sink in the water, however, it will return to the coast.
+
+## Animations
+### Eye Bone
+![Alive](Eye Bone Dropped.png)
+![Dead](Eye Bone Dropped Dead.png)
+![Idle](Eye Bone Idle.gif)
+![Shadow Alive](Shadow Eye Bone Dropped.png)
+![Shadow Dead](Shadow Eye Bone Dropped Dead.png)
+![Shadow Idle](Eye Bone Shadow Idle.gif)
+![Snow Alive](Snow Eye Bone Dropped.png)
+![Snow Dead](Snow Eye Bone Dropped Dead.png)
+![Snow Idle](Eye Bone Snow Idle.gif)
+
+##
+
+
+
+
+```markdown
+# Large Casserole Dish
+
+- **Dropped By**: Can be bought from Pipton for 4 [Coins] or 3 [Coins] for Wes, or obtained from a [Safe].
+- **Stack**: Does not stack.
+- **Spawn Code**: "quagmire_casseroledish"
+
+Exclusive to "Don't Starve Together" and featured in "The Gorge" event, the Large Casserole Dish is an upgraded version of the regular brazier. It holds 4 ingredients, allowing for the cooking of more complex dishes compared to a small casserole dish. You can also use only 3 ingredients to cook on a small brazier. It can be purchased from Pipton or found in locked safes.
+
+The characteristics of a large casserole dish are similar to that of a [Small Casserole Dish].
+
+## Gallery
+
+![Large Casserole Dish on fire](attachment:Large Casserole Dish on fire.png)
+
+![Large Casserole Dish with rotten food](attachment:Large Casserole Dish with rotten food.png)
+
+Note: This content is part of "[The Gorge]".
+
+[vi:Large Casserole Dish]
+```
+
+
+
+
+```markdown
+# MacTusk n' Son
+![MacTusk N' Son](MacTuskNSon.jpg)
+MacTusk n' Son is a Walrus Hunting Party consisting of MacTusk, Wee MacTusk, and two Blue Hounds. They spawn from Walrus Camps in Winter.
+
+## Command structure
+| Walrus Camp | MacTusk | Wee MacTusk | Blue Hound | Blue Hound |
+|-------------|---------|------------|------------|------------|
+| ![Walrus Camp](Navbox Walrus Camp.png) | ![MacTusk](Navbox MacTusk.png) | ![Wee MacTusk](Navbox_WeeTusk.png) | ![Blue Hound](Navbox Blue Hound.png) | ![Blue Hound](Navbox Blue Hound.png) |
+
+## Behavior
+They're only active during daytime and, if not engaged, will return to their igloo at dusk. However, they can be forced out by attacking the sleeping Hounds. Although the Walrus Camp emits light at dark, the Hounds will attack anyone close by. The group, being hostile towards almost any Mob, follows a nearby target; if one keeps walking away, they will not attack. When the leader, MacTusk, becomes hostile, he makes a slashing gesture, he then shoots and pursues the target, while Wee MacTusk commands the Hounds to attack. Both walruses will flee when approached. Should MacTusk and Wee MacTusk die, the Hounds will attack freely until they respawn. If the Hounds are killed but MacTusk survives, he will come out the next day. Dead members respawn in 2.5 days.
+
+## Tips
+- MacTusk can be chased towards his igloo to block his path; he can then be stun-locked and taken out with a melee weapon.
+- In the Reign of Giants DLC, dispatching two Blue Hounds in quick succession (like with the Chester method above) will freeze the attacker, this can be avoided by waiting out the pale hue before killing the second one.
+- MacTusk can be stun-locked while doing the battle cry animation.
+- One can use a combo of Ice Staff and a weapon on MacTusk.
+- Should one come across a dormant Walrus Camp, it would be prudent to set up defenses, such as Tooth Traps.
+- It is possible to construct a MacTusk drop farm using at least 4 Pig Houses. Stone Walls can be used to keep them closer to each other, allowing easy access to the non-food drops. It also makes basing near the Walrus Camp more beneficial.
+
+## Trivia
+- MacTusk N' Son was introduced in the A Winter's Tale update.
+- MacTusk deals 33 damage with his Blow Dart, whereas the player deals 100 damage with the same weapon. This is because MacTusk uses an identical weapon in the code with 0 damage, which takes his damage output. Without it, he would hurt the player instantly.
+- Wolfgang refers to MacTusk as "Sea Cow man!". Sea Cow is a marine mammal unrelated to the Walrus.
+- As seen by his quotes, Maxwell knows MacTusk and perhaps created him.
+- Both walruses share the same hunchback model as Pigs, Merms, and Bunnymen.
+- In the trailer for A Winter's Tale, Wee MacTusk also attacks the player.
+
+## Bugs
+- MacTusk will become passive and return to his camp if chased outside of his wandering range, ignoring enemies.
+- In Don't Starve, WeeTusk won't drop Meat when killed because the wrong set of brackets is used in his loot table.
+- If the Walrus Camp is close to the shore, MacTusk may respawn and walk on the ocean, unable to get back on land. This bug also occurs to other mobs (such as Pigs and Wildbore) if their housing structure is too close to the ocean.
+- When the season changes, the group may be locked out of their camp, and therefore, be active outside of Winter.
+
+## Gallery
+![On Wallpaper](Wallpaper 05 1920x1200.jpg)
+![MacTusk](MacTusk.png)
+![A happy MacTusk](Screenshot (5).png)
+![An aggressive MacTusk](Walrus Bad.png)
+![MacTusk using his Blow Dart](Walrus Dart.png)
+![Frozen MacTusk](Frozen MacTusk.PNG)
+![Dead MacTusk](Deadmactusk.jpg)
+![MacTusk sleeping](Walrus Sleep.png)
+![WeeTusk](Wallrus.png)
+![A happy WeeTusk](Walrus Happy.png)
+!
+
+
+
+
+```markdown
+# MacTusk
+
+![MacTusk](https://upload.wikimedia.org/wikipedia/commons/M/MacTusk.png){width=90px}
+
+**Health:** 150  
+**Diet:** Meat  
+**Damage:** 33  
+**Drops:** Meat, Blow Dart, Walrus Tusk (50%), Tam o' Shanter (25%)  
+**Attack Period:** 3  
+**Walk Speed:** 2  
+**Run Speed:** 4  
+**Spawn From:** Walrus Camp  
+**Spawn Code:** "walrus"  
+**Box Title:** MacTusk  
+**DST Health:** 300
+
+**See Also:** MacTusk N' Son
+
+## Quotes
+
+- Wilson: Walruses are natural predators.
+- Willow: Stop following me!
+- Wolfgang: Ha ha. Is blubbery flubbery man.
+- Wendy: An old man of the sea.
+- WX78: I DON'T LIKE THE LOOK OF HIM
+- Wickerbottom: Odobenus rosmarus; Gaelic variety.
+- Woody: Oh no. Walruses again!
+- Maxwell: Don't you recognize me?
+- Wagstaff: I wish I could converse with them, but they appear hostile to strangers.
+- Wigfrid: Thöse tusks cöuld pierce even the finest armör.
+- Webber: I don't think he wants to be friends with us.
+- Walani: Hey grey belly! How's life treatin' ya?
+- Warly: They move faster than you'd think.
+- Woodlegs: Whut's yer story, mate?
+- Wilba: WILBA WANT'TH HIS HAT
+- Wormwood: Grows mouth branches?
+- Wheeler: If only I could grow a mustache like that.
+- Winona: Maybe you oughta retire.
+- Wortox: His horns are on the wrong way.
+- Wurt: He look big and important, florp.
+- Walter: I need a closer look at those tusks!
+- Wanda: He's a mean old thing.
+
+## Behavior
+
+MacTusk is an aggressive mob that spawns from Walrus Camps during Winter. They are only active during daytime and, if not engaged, will return to their igloo at dusk. They can be forced out by attacking the sleeping Hounds. Although the Walrus Camp emits light at dark, the Hounds will attack anyone close by.
+
+The group, being hostile towards almost any mob, follows a nearby target; if one keeps walking away, they will not attack. When the leader, MacTusk, becomes hostile, he makes a slashing gesture, he then shoots and pursues the target, while Wee MacTusk commands the Hounds to attack. Both walruses will flee when approached.
+
+Should MacTusk and Wee MacTusk die, the Hounds will attack freely until they respawn. If the Hounds are killed but MacTusk survives, he will come out the next day. Dead members respawn in 2.5 days.
+
+## Hunting
+
+A simple way to distract the party is to use Chester as bait, by placing him between MacTusk and the player. This makes it much easier to kill both Hounds.
+
+Recruiting Pigs or even a single Pig is another option. With the Hounds engaged, one can hunt down MacTusk personally.
+
+An Ice Staff or Sleep Dart is more effective with a strong melee weapon; alternatively, MacTusk can be killed with 3 Blow Darts. As he always drops a Blow Dart, this would only cost a net of 2 Dart(s).
+
+The party can also be chased or led into other Mobs (e.g. Merms, Pengulls, Tentacles etc.), or into Tooth Traps.
+
+## Tips
+
+- MacTusk can be chased towards his igloo to block his path; he can then be stun-locked and taken out with a melee weapon.
+- MacTusk can be stun-locked while doing the battle cry animation.
+- One can use a combo of Ice Staff and a weapon on MacTusk.
+- It is possible to construct a MacTusk drop farm using at least 4 Pig Houses. Stone Walls can be used to keep them closer to each other, allowing easy access to the non-food drops. It also makes basing near the Walrus Camp more beneficial.
+
+## Trivia
+
+- MacTusk was introduced in the A Winter's Tale update.
+- MacTusk deals 33 damage with his Blow Dart, whereas the player deals 100 damage with the same weapon. This is because MacTusk uses an identical weapon in the code with 0 damage, which takes his damage output. Without it, he would hurt the player instantly.
+- Wolfgang refers to MacTusk as "Sea Cow man!" Sea Cow is a
+
+
+
+
+```markdown
+# Pith Pike
+
+- **Perk**: User rushes forward, dealing 30 damage to anything in its path. (Pyre Poker attack flips Snortoises, disabling them for some time or until they're attacked.)
+- **Equip Slot**: Hands
+- **Spawn Code**: `spear_gungnir`
+- **Damage**: 25
+- **Exclusive to**: Don't Starve Together
+- **Event**: The Forge
+
+## Description
+
+The **Pith Pike** is an item added to The Forge in Don't Starve Together. Available immediately from Wigfrid when playing as her. This item is a melee weapon. When attacking, the character swings his pike and deals 25 damage to the target.
+
+The main ability of the powerful pike is a fiery dash (**Pyre Poker**). When used, a character makes a dash forward, causing damage to all enemies in the path of the dash. This ability is capable of flipping over Snortoises, rendering them unable to attack or move for long periods of time.
+
+## Tips
+
+- This weapon is the most powerful starting weapon of all. In the initial stages of the battle with the army of the Warlord, you can increase the damage of the pike even more by wearing a spiked helmet and/or sharp-toothed wood armor.
+- Unlike the hammer of the Crucible, the powerful pike does not penetrate the armor of enemy warriors. It is recommended to focus the attack on the creature that the player with the hammer is attacking in order to deal more damage.
+- If the team does not have a character with a tome of petrification, on wave 7 you can turn over a small group of grunts so that they do not interfere with the team dealing with the rest.
+
+## The Forge Content
+
+- **Category**: The Forge
+```
+
+
+
+
+```markdown
+# Slurper
+
+![Slurper Image](File:Slurper.png)
+
+The Slurper is a creature found only in the Ruins, in Wilds, Village and rarely in the Mushtree Forest biome. It attacks by rolling to and biting the target and then jumping up and engulfing the player's head with its mouth. It is a veggie diet creature.
+
+### Attributes
+
+- **Health**: 200
+- **Damage**: 30
+- **Attack Period**: 5
+- **Attack Range**: 8
+- **Walk Speed**: 9
+- **Special Ability**: Provides light while awake.
+- **Drops**: 
+  - [[File:Light Bulb.png|24px|link=Light_Bulb]] ×2
+  - [[File:Slurper Pelt.png|24px|link=Slurper Pelt]] 50%
+
+### Abilities and Mechanics
+
+- **Spawn Code**: "slurper"
+- **Sanity Bonus**: -25/min
+- **Hunger Bonus**: -100/min
+- **Durability**: Unlimited
+- **Perk**: Emits light.
+- **Stack**: Cannot stay in inventory
+
+When equipped as a head item, it drains Hunger at a rate of 1.7 per second or 5 every 3 seconds (about ten times faster than normal hunger drain). It gives off light with a radius similar to a Miner Hat when attached to a head.
+A Slurper may attach itself to the head of a Bunnyman or Pig. Slurpers can be removed by attempting to unequip them from the head slot with the mouse. They always drop two Light Bulbs when killed and sometimes also a Slurper Pelt.
+
+### Quotes
+
+- Wolfgang: "No! No! Stay off head!"
+- Wilson: "It's so hairy!"
+- Willow: "Do they have little fires in their bellies?"
+- Woodie: "I think it's living hair."
+- Maxwell: "Simple creatures. They exist only to sleep and feed."
+- Wickerbottom: "A classic example of symbiosis."
+
+### Tips
+
+- Slurpers can be brought to the surface while attached to a player's head. They cannot break walls, and therefore can easily be kept as pets that provide an almost infinite light source.
+- An equipped Slurper will not prevent the player from eating, or reading if playing as Wickerbottom or Maxwell, or shaving their beard if playing as Webber or Wilson.
+
+### Trivia
+
+- Slurpers were added in the 'Hungry For Your Hunger' update and are the reason why this update was dubbed so.
+- Slurpers may be a reference to Facehuggers from the Alien franchise, which attach to their victim's face and eventually lead to their death.
+
+### Gallery
+
+<gallery>
+![Slurper All Sides](Slurper All Sides.png)
+![Frozen Slurper](Frozen_Slurper.png)
+![Slurper Sleep](Slurper_Sleep.gif)
+![Slurper Move](Slurper Move.gif)
+![Slurper Death](Slurper Death.gif)
+![Slurper Equipped](Slurper Equipped.png)
+</gallery>
+
+### References
+
+For more information, see the following categories:
+- [[Category:Mobs]]
+- [[Category:Sanity Loss]]
+- [[Category:Hostile Creatures]]
+- [[Category:Ruins Creatures]]
+- [[Category:Items]]
+- [[Category:Equipable Items]]
+- [[Category:Light Sources]]
+- [[Category:Hats]]
+- [[Category:Nightmare State Indicator]]
+```
+
+
+
+
+```markdown
+# Mosquito
+
+## Overview
+![Mosquito](Mosquito_Build.png)  
+The Mosquito is a hostile [Mob] that spawns from [Ponds], at [Dusk] and Night, in [Marsh] [Biomes]. Mosquitoes are fast-moving and aggressive.
+
+## Attributes
+- **Health**: 100
+- **Damage**: 3 (by hit) / 34 (by explosion)
+- **Spoil**: 2 days
+- **Tool**: Can be [Catched] with [Net Tools](Bug Net)
+- **Drops**: [Mosquito Sack] 50%
+- **Attack Period**: 2
+- **Attack Range**: 4
+- **Walk Speed**: 8
+- **Run Speed**: 12
+- **Special Ability**: Explodes after sucking enough blood.
+- **Spawns From**: [Pond]
+- **Dropped By**: [Tumbleweed] (0.1%)
+- **Stack**: 20
+- **Spawn Code**: `mosquito`
+
+## Quotes
+- **Wilson**: Disgusting little bloodsucker.
+- **Willow**: So annoying!
+- **Wolfgang**: Reminds me of uncle!
+- **Wendy**: It thieves others' life to maintain its own.
+- **WX-78**: IT ENJOYS DRAINING THE LIFE FROM ORGANICS. DITTO
+- **Wickerbottom**: A thirsty female Haemagogus Devorator.
+- **Woodie**: That'll take a pint out of me!
+- **Maxwell**: Bloody bloodsucking bloodsuckers.
+- **Wagstaff**: Fascinating. Do they carry diseases like the ones I know?
+- **Wigfrid**: Ugh! These things are useless!
+- **Webber**: Shoo!
+- **Walani**: Filthy bloodsucker!
+- **Warly**: We disagree on where my blood is best used.
+- **Woodlegs**: 'Is buzzin' makes me nervous.
+- **Warbucks**: Blasted bugs! Away with you!
+- **Wilba**: THY NAUGHT FEAST ON WILBA BLOOD!
+- **Wormwood**: Bzzt
+- **Wheeler**: You don't deserve to fly.
+- **Winona**: Once you've dealt with bedbugs, mosquitoes aren't so bad.
+- **Wortox**: Please do not bite me.
+- **Wurt**: Wouldn't like my blood, florp!
+- **Walter**: Tiny vampires of the insect world.
+- **Wanda**: It's trying to drain the life right out of me!
+- **Choose**: WX-78
+
+## Hunting
+The most effective way to deal with Mosquitoes is to capture them with a [Bug Net]. When caught, the Mosquito will turn into an [Item] in the player's [Inventory], which can be Murdered for a 50% chance of getting a Mosquito Sack. Due to their fast flying speed, Mosquitoes are difficult to hit with melee [weapons]. When hit, the Mosquito will be "stunlocked" and spin around for a moment before recovering. This makes them very easy to kill in a 1v1 fight.
+
+| Weapon | No. of hits for [Mosquito] |
+|--------|--------------------------|
+| Fishing Rod | Bug Net | 24 |
+| Lucy the Axe | 6 |
+| Shovel | Pitchfork | 4 |
+| Hammer | Torch | Umbrella | 3 |
+| Walking Cane | Willow's Lighter | 2-4 |
+| Axe | Pickaxe | 2 or 3 |
+| Luxury Axe | Opulent Pickaxe | 2 |
+| Boomerang | PickSlashAxe | 1 |
+| Spear | Bat Bat | Fire Dart | Fire Staff | 1 |
+
+Mosquitoes take one blast from the [Ice Staff] to be frozen and one [Sleep Dart] to be put to sleep.
+
+## Usage
+### Recipe 1
+- **Item 1**: Mosquito
+- **Tool**: Hand
+- **Result**: Mosquito Sack
+
+### Recipe 2
+- **Item 1**: Mosquito
+- **Count 1**: 1
+- **Item 2**: Red Cap
+- **Count 2**: 1
+- **Item 3**: Sanity Decrease
+- **Count 3**: 10
+- **Result**: Sanguine Experiment
+- **Tool**: Mad Scientist Lab
+- **Note**: [Hallowed Nights]
+
+## Trivia
+- Mosquitoes were added in [A Little
+
+
+
+
+```markdown
+# Varg
+The Varg, also known as the Warg, is an aggressive Mob in the Reign of Giants DLC. When tracking Suspicious Dirt Piles, there is a chance for a Varg to be found instead of a Koalefant or a Ewecus. This chance starts at 2.5% on Day one, and gradually increases to 16.5% chance on Day 100. When killed, the Varg drops around 4-6 Monster Meat and 1-3 Hound's Tooth.
+
+## Characteristics
+- Health: 1800
+- Damage: 50
+- Attack Period: 3
+- Attack Range: 5
+- Run Speed: 5.5
+- Drops: Hound's Tooth ×1-3, Monster Meat ×4-6
+- Spawns: Hound, Red Hound, Blue Hound
+- Spawn Code: warg
+- Spawns From: Suspicious Dirt Pile
+
+## Quotes
+- Wilson: You might be something to reckon with, big dog.
+- Willow: You're a big mean jerk!
+- Wolfgang: Big puppy!
+- Wendy: A true bastion of evil.
+- WX-78: IT LIVES TO EAT LARGE THINGS
+
+## Attack Pattern
+The Varg will howl, calling forth two Hounds to the battle. Vargs are able to summon both normal and special Hounds (based on the season), which is decided at random. A single Varg can summon up to five hounds and will not summon any more until they are killed, no matter how far apart the Hounds are from their Varg.
+
+At close range, it attacks by biting, with a two-hit delay. It moves slowly, but attacks quickly and has a large range for its jaws.
+
+## Usage
+The Varg can effectively be used as a way to spawn Hounds if there are no nearby Hound Mounds (or all the Hound Mounds in the current world are destroyed).
+
+## Tips
+- A Varg has a limit of 6-8 Hound followers, after which it will stop summoning them. If any of its spawn dies, or moves too far away from the Varg, it will attempt to summon more.
+- Sleeping Vargs may be woken up by the barking of any nearby Hounds. They may also awaken if the player stands too close to them for too long, similar to Beefalo in heat.
+- The Varg will always howl to summon Hounds when it can do so. It is even able to do so for a brief moment after it has died after its death animation.
+
+## Trivia
+- The Warg is a wolf-like creature from Norse mythology. The term was used to refer to Fenrir and his offspring.
+- J. R. R. Tolkien popularized Wargs in his fantasy novels set in Middle Earth, like The Hobbit and The Lord of the Rings. They are also popular in Dungeons & Dragons, where they are known as "Worgs" or "Dire Wolves".
+- If a Varg is spawned in the Caves or Ruins, it will summon Depths Worms instead of Hounds.
+- Out of all the creatures that drop Monster Meat, a Varg can drop the second highest number, with a maximum of six, beaten only by the Pugalisk, which can drop up to 16.
+- Vargs were added to Don't Starve Together before the rest of the Reign of Giants DLC in the Stuck in the Middle with Ewe update.
+- Vargs were featured during the Year of the Varg event for Don't Starve Together in early 2018.
+
+## Gallery
+![Varg Howling](Varg_Howl.png)
+![Varg Attacking](Varg_Attack.png)
+![Varg Sleeping](Varg_Sleeping.png)
+![Varg Frozen](Varg_Frozen.png)
+![Varg Dead](Varg_Dead.png)
+![Trapped Varg](Warg_Pen.png)
+![Varg in Reign of Giants Trailer](Varg_ROG_Trailer.jpg)
+![Varg in Art Stream 21](Art_Stream_21_Varg.jpg)
+```

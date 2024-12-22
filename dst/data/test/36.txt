@@ -1,0 +1,70 @@
+```markdown
+# {{Navbutton/Separation}}
+
+## Structure Infobox
+- **equipslot**: hands
+- **image**: Brush Dropped.png
+- **icon**: Brush.png
+- **description**: Relieve beefalo of their hair buildup.
+- **tier**: 2
+- **tab**: Tools
+- **filter**: {{Pic32|Tools Filter}} {{Pic32|Beefalo Riding Filter}}
+- **ingredient1**: Steel Wool
+  - **multiplier1**: 1
+- **ingredient2**: Walrus Tusk
+  - **multiplier2**: 1
+- **ingredient3**: Gold Nugget
+  - **multiplier3**: 2
+- **durability**: 75 uses<br>25 uses ([[Damage]])
+- **stack**: Does not stack
+- **spawnCode**: "brush"
+- **damage**: 27.2
+
+## Quotes
+- **wilson**: I bet the beefalo really like this.
+- **willow**: It smells like burnt hair.
+- **wolfgang**: For brush really strong hair!
+- **wendy**: Oh, to rid the world of fluff.
+- **wx78**: HAIR IS AN EXTRANEOUS ADDON
+- **wickerbottom**: Microscopic barbs allow for optimal hair retrieval.
+- **woodie**: You could debark a log with this thing.
+- **maxwell**: It's like showing affection, without actually touching it.
+- **wagstaff**: Theoretically, the brushing of an animal's fur will endear me to them.
+- **wigfrid**: Time för hair and makeup!
+- **webber**: It's more scratchy than anything.
+- **walani**: Brushing beefalo hair is so relaxing.
+- **warly**: For tidying unkempt beast hair.
+- **woodlegs**: Na' fer Woodleg's beard.
+- **warbucks**: I do wish I had one of these for my mustache.
+- **wilba**: 'TIS BRUSH FOR THE HAIRY BACK BEASTIES
+- **wormwood**: Soft
+- **wheeler**: Not my idea of a good hair brush but those beefalo seem to like it.
+- **winona**: Repetitive tasks are soothing.
+- **wortox**: Keeps imp chest tufts plush.
+- **wurt**: Hair so weird, flurp.
+- **walter**: Woby loves getting her fur brushed.
+- **wanda**: Caring for animals is so time consuming!
+- **choose**: maxwell
+
+The **Brush** is a craftable **Item** found in the **Tools Tab**. It requires 1 **Steel Wool**, 1 **Walrus Tusk** and 2 **Gold** to craft, and an **Alchemy Engine** to prototype. When used on a **Beefalo** one **Beefalo Wool** will be obtained, obedience level increased by 40% and domestication by 1.6% (domestication level only increases once per day).
+
+## {{pic32|Prototype}} Tips
+- The Brush can be used multiple times on the same Beefalo, but will only be beneficial the first time it is used per day. Thus, it should be used once per day on each Beefalo that is being tamed.
+- Using a **Deconstruction Staff** will give back all the materials, enabling the creation of endless brushes with only 1 required Steel Wool.
+
+## {{pic32|Placeholder}} Trivia
+- The Brush was first introduced to **Don't Starve Together**. It was later added to **Don't Starve** in the **Don't Starve/Version History|Quality of Life** update.
+- The Brush is considered to be part of **A New Reign**, even though it was introduced before the official start of the beta branch.
+
+## {{pic32|Blueprint}} Gallery
+<gallery captionalign="center" hideaddbutton="true">
+![Brush Equipped](Brush Equipped.png)
+![Wilson holding and standing next to a Brush](Brush weilded by Wilson Screenshot.jpg)
+</gallery>
+
+## Tools and Weapons
+{{Tools and Weapons}}
+|-|
+## Craftable Items
+{{Craftable Items|tool}}
+```

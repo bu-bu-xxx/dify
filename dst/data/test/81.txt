@@ -1,0 +1,46 @@
+# Freezing
+
+![Wilson shivering from the cold.](Shivering Wilson.png)
+
+"Freezing" is a game mechanic which makes surviving **Winter** more difficult. Freezing can also occur during the last night of **Autumn** or during heavy rainfall in **Spring**, in the **Don't Starve: Reign of Giants** DLC. Whenever the player is away from a heat source for too long they will begin to freeze.
+
+## Mechanics
+Freezing occurs when body temperature drops below **0°**. At **5°**, the edges of the screen will become encrusted with ice, as a warning to the player that they are about to freeze. If a source of heat cannot be found, a second layer of ice crust will form over the edges when body temperature drops below **0°**, causing the player to take damage of **1.25** Health per second. Freezing stops when the body temperature goes above **0°**.
+
+In the absence of a heat source or insulated clothing, the player's body temperature will decrease at a rate of **1°** per second. This rate can be slowed by carrying a charged **Thermal Stone**, wearing insulated **Clothing** or growing a **Beard**. Near a sufficiently warm heat source, the player's body temperature will increase at a maximum rate of **1°** per second when body temperature is above **0°**. If body temperature is below **0°**, it will warm at a maximum rate of **5°** per second.
+
+## Survival
+
+### Fire
+The best way to have a reliable and steady source of fire is by having a **Campfire**, **Fire Pit** or a **Star Caller's Staff** Dwarf Star.
+
+In emergencies, objects and even creatures can also be set on fire for an immediate source of warmth. A single flammable item can be dropped on the ground by holding the **CTRL** key and clicking the **LMB**. Once on the ground, such items can be lit on fire with a Torch to provide a small, but limited, amount of heat. With enough fuel, small fires like this can provide enough warmth to get to a better source of heat. This might be dangerous (or advantageous) however as nearby flammable objects can catch fire as well.
+
+### Insulated Clothing
+One of the best options for traveling away from a fire during Winter is to wear clothing that provides insulation. These items reduce the rate at which body temperature decreases. Having several items equipped at the same time provides a cumulative bonus. Insulated clothing only delays Freezing, however, and sooner or later the player will be forced to return to a source of warmth. There are three tiers of clothing, each allowing the player to be away from a fire longer than the lower tiers.
+
+### Other Options
+- **Thermal Stones** can be used to store heat.
+- **Wilson**'s and **Webber**'s **Beards** provide additional insulation, depending on their length. In **Don't Starve Together** only, **Woodie**'s beard will also provide insulation.
+- **Werebeaver** has additional insulation.
+- **Willow's Lighter** produces a very small amount of heat, but can also be used to light surroundings on fire for emergency heat.
+- When **WX-78** is experiencing System Overload, they are immune to Freezing. (Not applicable in **Don't Starve Together**)
+- (Single-Player version only) Items can be set on fire in the inventory to warm oneself, but as your character is technically on fire, only Willow can benefit from this and one should avoid flammable objects to avoid setting them aflame.
+
+## Game Mechanics
+
+Freezing mechanics are based on the temperature implementations in the game. A player character has a **body temperature**, which ranges from **-20°** to **40°** (**90°** in DLCs and DST). Any time body temperature falls below **0°**, the character will take **1.25** damage per second.
+
+### Rate of Temperature Change
+Ambient temperature is a key factor influencing a character's body temperature. Body temperature will attempt to match the ambient temperature at one of two rates: the **ambient delta** which is determined by all heat and cold sources, or the **insulated rate** which depends on insulation values of clothing worn by the character. The rate is in degrees per second, and the game will choose whichever value is larger.
+
+#### Ambient Delta
+The **ambient delta** is a rate that takes into account the total effect of all heat sources affecting the player, including the weather, campfires, and Thermal Stones. It is also a function of the player's current temperature.
+
+The rate determined by the ambient delta is given by:
+
+```
+ambient_delta = min('warming_cap', sum(net_temp_eff('source') for all sources))
+```
+
+where the **

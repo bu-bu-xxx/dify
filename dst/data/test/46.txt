@@ -1,0 +1,90 @@
+```markdown
+# Blueprint
+
+| Style | Position | Relative |
+| --- | --- | --- |
+| Navbutton | Link | Blueprint |
+| Text | Don't Starve |  |
+
+| Style | Position | Relative |
+| --- | --- | --- |
+| Navbutton | Link | Blueprint/DST |
+| Text | DST |  |
+
+## Structure Infobox
+
+- Burn Time: 15 sec.
+- Image: Blueprint Dropped.png
+- Name: Blueprint
+- Icon: Blueprint.png
+- Perk: Unlocks Crafting recipes upon using.
+- Stack: Does not stack
+- Spawn Code: "[Console/Prefab List|prefab name]_blueprint"
+- Sanity Drain: 15
+- Dropped By: RoG: Tumbleweed, SW: X Marks The Spot, Chest of the Depths
+
+## Quotes
+
+- Wilson: It's scientific!
+- Willow: This will save some experimentation.
+- Wolfgang: Pretty pictures!
+- Wendy: Whoever drew this is probably dead.
+- WX78: KNOWLEDGE WAITING TO BE ABSORBED
+- Wickerbottom: A detailed technical drawing.
+- Woody: I'm not one for book learning.
+- Maxwell: I know all about that. I just forgot.
+- Wagstaff: What an ingenious design!
+- Wigfrid: Öh, a map! Nö, wait. That's wrong.
+- Webber: "Follow the instructions", mum always said.
+- Walani: It's making my brain hurt just looking at it.
+- Warly: A recipe for technology!
+- Woodlegs: I ain't a learned man.
+- Wilba: 'TIS PARCHMENT O' PLAN'D THINGS
+- Wormwood: Paper for stuff making
+- Wheeler: Wish it was plans for a new flying machine.
+- Winona: Blueprint paper just smells right.
+- Wortox: What knowledge will I find within?
+- Wurt: Has pictures on it!
+- Walter: I'm great at following directions!
+- Wanda: This looks interesting.
+
+## Description
+
+A Blueprint is an Item that lets the player learn a craftable recipe without having to prototype it first. When used, it restores 15 sanity. Blueprints themselves do not actually create an item; they only allow the player to craft the item away from the station normally used to prototype it.
+
+Blueprints can be found in some Set Pieces and at the beginning of each world in Adventure Mode. The player can find more than one Blueprint that unlocks the same recipe, and all Blueprints will restore Sanity when used, even if the player has already researched the item.
+
+The Bundling Wrap recipe can only be obtained from a Blueprint dropped by a Bee or Killer Bee.
+
+## Downloadable Content
+
+In the Reign of Giants DLC, Blueprints can also be obtained by destroying Tumbleweeds in Sandbox Mode. It is possible to find Blueprints for items in the Ancient Tab, but an Ancient Pseudoscience Station will still be needed to actually craft the item. Ancient Tab Blueprints do not restore any Sanity. The Old Bell recipe can only be obtained from a Blueprint dropped by a mined Glommer's Statue.
+
+In the Shipwrecked DLC, Blueprints can be obtained from X Marks the Spot treasure chests.
+
+In the Hamlet DLC, both the Vortex Cloak and Living Artifact recipes can only be obtained from Blueprints which drop from the Ancient Herald and the Large Iron Hulk, respectively.
+
+## Trivia
+
+- If the player uses the console to make all recipes available, all random Blueprints spawned will be called "MISSING NAME".
+- There are currently 21 items that can only be researched through Blueprints, which are the Bundling Wrap, the Old Bell in Reign of Giants, the Vortex Cloak and Living Artifact in Hamlet, and the End Table, Red Funcap, Green Funcap, Blue Funcap, Glowcap, Mushlight, Napsack, Desert Goggles, Scaled Furnace, 6 Replica Relics, The Lazy Deserter, and the Strident Trident in Don't Starve Together.
+- There are different console commands for each prototypical item in the game. e.g., to spawn a Blueprint for a Spear, the following command should be used: c_spawn("spear_blueprint").
+
+## Gallery
+
+- Blueprint as seen in the poster for the The End is Nigh update.
+- Blueprint as seen on the 2018 Valentine Cards.
+- Blueprint found near a Set Piece in Adventure Mode.
+
+## Categories
+
+- Adventure Mode
+- Naturally Spawning Objects
+- Flammable Objects
+- Non-Renewable
+- Sanity Boost
+- Boss Dropped Items
+- Fuel
+- A New Reign
+- Return of Them
+```

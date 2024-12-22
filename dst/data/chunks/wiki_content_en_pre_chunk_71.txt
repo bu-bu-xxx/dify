@@ -1,0 +1,2728 @@
+```markdown
+# Recipe Card
+
+The **Recipe Card** is an item in *Don't Starve Together* that allows you to learn recipes. It can be found by naturally spawning in the world near the Skeleton, as well as by digging up Graves or opening Tumbleweeds and Sunken Chests. The recipe card merely lists its recipe when examined, it does not automatically add it to your Cookbook.
+
+## Quotes
+- **Wilson**: Science help me, I can't decipher this handwriting.
+- **Willow**: Can't read it, into the fire it goes!
+- **Wolfgang**: Wolfgang can't read puny writing!
+- **Wendy**: The writing has been smudged away, the words forgotten.
+- **WX-78**: ERROR: RECIPE UNREADABLE
+- **Wickerbottom**: Oh dear, I can't seem to make any sense of it.
+- **Woodie**: Looks like somethin' was written here, but it faded away.
+- **Maxwell**: The writing is too faint to read.
+- **Wigfrid**: 'Tis but a jumbled mess of words.
+- **Webber**: We can't read what it says!
+- **Warly**: Ah, non! I cannot make out the recipe!
+- **Wormwood**: Hmmm. No good
+- **Winona**: I can't make heads or tails of it.
+- **Wortox**: How mysterious, the card is blank!
+- **Wurt**: Glurgh... can't read it!
+- **Walter**: Woby, I can't read the recipe if you chew on the cards!
+- **Wanda**: Whatever was written here has been lost to time.
+
+## All Recipes
+
+| Icon | Name | Card Recipe |
+|------|------|-------------|
+| ![Butter Muffin] | Butter Muffin | ![Butterfly Wings] ![Carrot] ![Carrot] ![Berries] |
+| ![Froggle Bunwich] | Froggle Bunwich | ![Frog Legs] ![Red Cap] ![Red Cap] ![Carrot] |
+| ![Taffy] | Taffy | ![Honey] ![Honey] ![Honey] ![Berries] |
+| ![Pumpkin Cookies] | Pumpkin Cookies | ![Pumpkin] ![Honey] ![Honey] ![Berries] |
+| ![Stuffed Eggplant] | Stuffed Eggplant | ![Eggplant] ![Potato] ![Onion] ![Garlic] |
+| ![Fishsticks] | Fishsticks | ![Fish Morsel] ![Fish Morsel] ![Fish Morsel] ![Twigs] |
+| ![Honey Nuggets] | Honey Nuggets | ![Honey] ![Honey] ![Morsel] ![Morsel] |
+| ![Honey Ham] | Honey Ham | ![Honey] ![Honey] ![Meat] ![Meat] |
+| ![Dragonpie] | Dragonpie | ![Dragon Fruit] ![Dragon Fruit] ![Potato] ![Pepper] |
+| ![Kabobs] | Kabobs | ![Meat] ![Onion] ![Eggplant] ![Twigs] |
+| ![Bunny Stew] | Bunny Stew | ![Meat] ![Ice] ![Ice] ![Toma Root] |
+| ![Turkey Dinner] | Turkey Dinner | ![Drumstick] ![Drumstick] ![Meat] ![Berries] |
+| ![Fish Tacos] | Fish Tacos | ![Fish Morsel] ![Fish Morsel] ![Corn] ![Onion] |
+| ![Powdercake] | Powdercake | ![Honey] ![Honey] ![Corn] ![Twigs] |
+| ![Trail Mix] | Trail Mix | ![Roasted Birchnut] ![Roasted Birchnut] ![Berries] ![Berries] |
+| ![Spicy Chili] | Spicy Chili | ![Meat] ![Meat] ![Toma Root] ![Pepper] |
+| ![Guacamole] | Guacamole | ![Moleworm] ![Ripe Stone Fruit] ![Ripe Stone Fruit] ![Corn] |
+| ![Asparagus Soup] | Asparagus Soup | ![Asparagus] ![Asparagus] ![Potato] ![Onion] |
+| ![Banana Pop] | Banana Pop | ![Cave Banana] ![Ice] ![Ice] ![Twigs] |
+| ![Stuffed Pepper Poppers] | Stuffed Pepper Poppers | ![Pepper] ![Morsel] ![Morsel] ![Potato] |
+| ![California Roll] | California Roll | ![Kelp Fronds] ![Kelp Fronds] ![Fish Morsel] ![Fish Morsel] |
+| ![Barnacle Nigiri] |
+
+
+
+
+## Wilba
+
+### Character Overview
+
+- **Name**: Wilba
+- **Image**: ![Wilba](Wilba.png)
+- **Start Item**: {{Pic32|Silver Necklace}}
+- **Health**: 150
+- **Hunger**: 200
+- **Sanity**: 100
+- **Sanity Multiplier in Darkness**: -1.5×
+- **Spawn Code**: "wilba"
+
+### Werewilba
+
+- **Name**: Werewilba
+- **Image**: ![Werewilba](Werewilba.png)
+- **Perks**: Night vision, Immune to weather effects
+- **Hunger**: 200
+- **Sanity**: 100
+- **Health**: 350
+- **Damage**: 5.95x
+- **Speed**: 1.5x
+- **Hunger Multiplier**: -5x
+- **Sanity Multiplier in Darkness**: 0
+- **Spawn Code**: Cannot be spawned
+
+### Abilities and Characteristics
+
+- **Silver Necklace**: Prevents transformation into Werepig but drains Sanity.
+- **Pig Princess**: Pigs do not panic or attack, occasionally gift basic resources.
+- **Eating Monster Meats**: No negative effects on health and sanity.
+- **Transformation**: Werewilba form during Full Moon, Aporkalypse, or after eating two Monster Food items within half a day. Restores health to full.
+
+### Werewilba Abilities
+
+- **Action**: Chop, dig, mine, hammer, and hack objects, fight Mobs.
+- **Night Vision**: Immune to Night Monster.
+- **Self-Healing**: 0.5 {{Hp}} per second if not starving.
+- **Attack Strength**: Equivalent to a Thulecite Club (59.5 damage).
+
+### Disadvantages
+
+- **Fear of Darkness**: Loses Sanity at 1.5 times the normal rate.
+- **Equipment**: Unable to equip items in Werepig form.
+- **Hunger Drain**: 5 times faster in Werepig form.
+- **Monster Status**: Causes Pigs and other friendly mobs to attack.
+- **Interaction Limitations**: Cannot use structures like Campfires, Crock Pots, Farms, or Chests.
+
+### Tips and Tricks
+
+- **Sanity Restoration**: Collect Flowers and Seashells to restore sanity.
+- **Wetness**: Werewilba gets wet in Rain or Fog, causing Sanity drain.
+- **Poison Resistance**: Healing speed outpaces health loss from poison.
+- **Hunger Management**: Balance starving and regeneration to minimize food usage.
+- **Transformation Cycle**: Requires 375 Hunger points worth of food to last through a full transformation without starving.
+- **Nightmare Fuel Farming**: High attack and speed allow for easy farming of Nightmare Fuels.
+- **Tree Chopping**: Requires fewer chops to chop down trees, including Poison Birchnut Trees.
+- **Food Preparation**: Prepare food beforehand as Werewilba cannot open containers or cook.
+- **Krampus**: Can still raise "naughtiness" rating to cause Krampus to arrive.
+
+### Bugs and Quirks
+
+- **Adventure Mode**: Text uses masculine pronouns after completing as Wilba.
+- **Boat Transformation**: Does not transform into Werepig while on a Boat.
+
+### See Also
+
+- [Werewilba]({{See also|Werewilba}})
+
+
+
+
+```markdown
+# Quarry Lodgings
+
+Exclusive to the **Hamlet** DLC, Quarry Lodgings are naturally-occurring **Structures** that spawn in Pig Miners.
+
+## Attributes
+
+- **Image**: ![Farm House](Farm House.png)
+- **Spawns**: {{Pic32|Pig Miner}}
+- **Resources**: 
+- **Renew**: No
+- **Spawn Code**: "pighouse_mine"
+
+## Quotes
+
+- Wilson: "I have no quarry with them."
+- Willow: "Is that a mine?"
+- Wolfgang: "Mining mustache pig is live there."
+- Wendy: "A home for otherworldly creatures."
+- WX78: "A PLACE WHERE MINERALS ARE CONTAINED"
+- Wickerbottom: "The a residence for miners.[sic]"
+- Woodie: "What are they mining in there?"
+- Maxwell: "Little pig, little pig, let me in."
+- Wagstaff: "I wonder if they are up to any digging in there?"
+- Wigfrid: "A höuse för Dwarfish things."
+- Webber: "That's where the miners live."
+- Walani: "They work too hard in there."
+- Warly: "Mining is a dangerous job."
+- Woodlegs: "Them b'th'mines."
+- Wilba: "CONTAINETH PIGS O' THE ROCKS"
+- Wormwood: "Twirly Tail home"
+- Wheeler: "Looks like they put all those rocks into building a house."
+- Choose: Wilba
+
+## Destruction and Repair
+
+- Quarry Lodgings can be destroyed with a **hammer**, but they do not get fully removed. They can be repaired again by the player using a hammer, or by a nearby worker Pig.
+- To fully remove the Quarry Lodgings, one must obtain the **Executive Hammer** from the **Palace**. There is currently no way to reconstruct the Quarry Lodgings.
+
+## Deconstruction
+
+- The Quarry Lodgings can be deconstructed using a **Deconstruction Staff** for 4 **Pig Skins**, 2 **Pickaxes**, and 3 **Cut Stones**.
+
+## Naturally Spawning Objects
+
+[[vi:Nhà Thợ Mỏ]]
+```
+
+
+
+
+```markdown
+# Exclusivity: Shipwrecked
+
+## Object Infobox
+- **Image**: ![Sea Chest Build](File:Sea Chest Build.png)
+- **Renew**: Yes
+- **Name**: Octopus Chest
+- **Spawn Code**: octopuschest
+
+## Quotes
+- **Wolfgang**: Give Wolfgang your treasures!
+- **Wilson**: I hope that thing is waterproof.
+- **Willow**: It's filled with sea treats!
+- **Woodie**: Thanks for the stuff, guy!
+- **Maxwell**: It looks... rotten.
+- **Wagstaff**: Theoretically, it contains the product of my negotiations.
+- **Wendy**: That doesn't look like a reliable place to store things.
+- **Woodlegs**: Whut's in thar fer ol'Woodlegs?
+- **Wickerbottom**: Looks as though it's been sitting at the bottom of a reef.
+- **Webber**: Let's look inside!
+- **Warly**: Any cold drinks in there?
+- **WX78**: HOW DOES HE FILL IT?
+- **Walani**: Booty-ya!
+- **Wigfrid**: The chest hölds offerings.
+- **Wilba**: WHATFORE INSIDES?
+- **Wormwood**: Stuff from Big Arms guy!
+- **Wheeler**: I have to admit, that's a cool magic trick.
+- **Choose**: Wilson
+
+## Octopus Chest
+The **Octopus Chest** (also called **Octo Chest**) is a special **chest** **structure** pulled from the sea by **Yaarctopus** after trading with him. It has 4 storage slots. After the player empties the chest from items, it will sink into the ocean. For details on contents of the Octopus Chests, see [Yaarctopus Exchange Rates](Yaarctopus#Exchange Rates).
+
+### Prototype Tips
+- The Chest will not sink as long as it has any item inside. This can be used to the player's advantage when gathering items, especially **Trinkets**, with a **Trawl Net**. Before trawling, a cheap item can be put inside to prevent the chest from sinking. The player should then aim to finish trawling near Yaarctopus, so that any unused trinkets can be easily put in the chest for later trade.
+- Trading additional trinkets with Yaarctopus will not cause any already existing Octopus Chests to sink, allowing multiple chests to be spawned. This further benefits the player by allowing virtually unlimited free storage near Yaarctopus.
+
+### Placeholder Trivia
+- When spawned with a console it will be empty, as the Yaarctopus is responsible for spawning the items in it.
+- Octopus Chest can be moved by **Sealnado**.
+- The Octopus Chest used to have 9 storage slots.
+- The **Sea Chest** shares textures with the Octopus Chest.
+
+## Categories
+- **Containers**
+- **Non-Flammable**
+- **Indestructible Object**
+- **Structures**
+- **章鱼宝箱 (Chinese)**
+```
+
+
+
+
+```markdown
+# Gnarwail Horn
+
+## Exclusivity
+*Don't Starve Together*
+
+## Structure Infobox
+- **Icon:** ![Gnarwail Horn](Gnarwail Horn.png)
+- **Image:** ![Gnarwail Horn Dropped](Gnarwail Horn Dropped.png)
+- **Equipslot:** hands
+- **Dropped by:** ![Gnarwail](pic|40|Gnarwail), ![Sunken Chest](pic|40|Sunken Chest)
+- **Perk:** Creates [Waves](Waves#Dont Starve Together).
+- **Stack:** Does not stack
+- **Durability:** 10 uses
+- **Spawn Code:** "gnarwail_horn"
+
+## Quotes
+- **Wilson:** "Gnarly!"
+- **Willow:** "Ha ha, cool."
+- **Wolfgang:** "Will make good pokey spear!"
+- **Wendy:** "It's so sharp..."
+- **WX-78:** "I SHOULD INSTALL A STABBING IMPLEMENT ON MY HEAD"
+- **Wickerbottom:** "A gnarwail's 'horn' is actually a tooth, you know."
+- **Woodie:** "Never saw a horn on a fish before."
+- **Maxwell:** "Impressive."
+- **Wigfrid:** "A fine hörn, indeed!"
+- **Webber:** "Maybe it's magic?"
+- **Winona:** "I'm sure I can use this for somethin'."
+- **Warly:** "I was nearly run through with that thing!"
+- **Wortox:** "It makes a compelling point, hyuyu!"
+- **Wormwood:** "Sharp!"
+- **Wurt:** "Ha ha! Mine now!"
+- **Walter:** "If they're not using it anymore, might as well keep it."
+- **Wanda:** "Who ever heard of a whale with a horn?"
+- **Choose:** Winona
+
+The **Gnarwail Horn** is an **Item** exclusive to **Don't Starve Together**, introduced in **Return of Them**. It is dropped by killing a **Gnarwail** or attacking its horn when it pokes through the **Boat**. The Gnarwail Horn can also be found in **Sunken Chest**.
+
+The Gnarwail Horn can be used to create two **Waves** in the **Ocean** to push items away, or to craft the **Strident Trident**.
+
+### Usage
+#### Recipe
+- **Item 1:** Gnarwail Horn (x3)
+- **Item 2:** Kelp Fronds (x4)
+- **Item 3:** Twigs (x2)
+- **Result:** Strident Trident
+
+### Trivia
+- The Gnarwail Horn was introduced in the **Return of Them#Hook, Line, and Inker** update.
+- Playing the Gnarwail Horn can tend all the **Farm Plant**s within 5 tiles radius. However, a Gnarwail Horn can only be used in the ocean.
+
+### Gallery
+<gallery captionalign="center" hideaddbutton="true">
+![Gnarwail Horn Texture](Gnarwail Horn Texture.png)
+</gallery>
+
+### Mob Dropped Items
+
+#### See Also
+- [[vi:Gnarwail Horn]]
+- [[zh:一角鲸的角]]
+- [[Category:Return of Them]]
+```
+
+
+
+
+```markdown
+# {{Navbutton/Separation}}
+
+## Structure Infobox
+- **Icon**: ![Butter](Butter.png)
+- **Image**: ![Butter Dropped](Butter Dropped.png)
+- **HP Restored**: 40
+- **Hunger Restored**: 25
+- **Sanity Restored**: 0
+- **Spoil**: 40 Days
+- **Stack**: 40
+- **Food Type**: Generic
+- **Food Value**: Dairy × 1
+- **Dropped By**: Butterfly (2%)
+- **Spawn Code**: "butter"
+
+## Quotes
+- **Wilson**: "I can't believe it's butter!"
+- **Willow**: "Tasty, and just a little bit insecty."
+- **Wolfgang**: "Is buttery, and taste like insect."
+- **Wendy**: "I wasn't expecting that."
+- **WX-78**: "THIS IS IMPROBABLE"
+- **Wickerbottom**: "Lepidopterous lipids?"
+- **Woodie**: "I prefer margarine."
+- **Maxwell**: "Some puns are irresistible."
+- **Wagstaff**: "Butter does wonders for my stomach."
+- **Wigfrid**: "Butter. Might it be gööd ön steak?"
+- **Webber**: "Butter is better."
+- **Walani**: "Haha. Slippery!"
+- **Warly**: "I thought I would never see you again, old friend!"
+- **Woodlegs**: "Look whut churned up!"
+- **Wilba**: "FRUITS O' THE BUTTERFLY"
+- **Wormwood**: "Where are wings?"
+- **Wheeler**: "Practically screaming to be launched through the air."
+- **Winona**: "This makes everything better."
+- **Wortox**: "Essence of slipperiness."
+- **Warbucks**: "A dab of butter makes it better."
+- **Wurt**: "Taste like bugs... not bad, florp."
+- **Walter**: "This makes far more sense, honestly."
+- **Wanda**: "If only I had some tea and toast."
+- **Choose**: Maxwell
+
+## Butter
+**Butter** is a rare Dairy Food item that has a 2% chance of being dropped by a Butterfly.
+
+## Usage
+Butter can be used in Crock Pot recipes that require any Dairy, such as Ice Cream. In addition, the following recipes specifically require Butter.
+
+### Waffles
+- **Butter**
+- **Eggs**
+- **Berry**
+- **Filler**
+
+### Fresh Fruit Crepes
+- **Butter** (1)
+- **Fruit** (2)
+- **Honey** (1)
+- **Tool**: Portable Crock Pot
+
+### Lobster Dinner (DST)
+- **Butter**
+- **Wobster (DST)**
+- **Filler** (2)
+- **Tool**: Crock Pot
+
+## Tips
+As Butter only comes from Butterflies, it's highly recommended not to pick flowers near one's base, as more flowers equates to more chances for Butter.
+
+## Trivia
+- The fact that it comes from Butterflies, as stated by Maxwell, is a pun on the word "Butterfly".
+- Butter's striped appearance, and the fact that it comes from butterflies may also be a reference to the browser-based MMO Glitch, that ran from 2009 to 2012.
+- Butter gave 80 research points when used on a Science Machine in the early beta of Don't Starve.
+- Wilson's quote "I can't believe it's butter!" is a reference to the margarine brand "I Can't Believe It's Not Butter!"
+
+## Gallery
+<gallery>
+  Original HD icon from Bonus Materials from CD Don't Starve: ![CD butter](CD butter.png)
+</gallery>
+
+## Categories
+- Dairy
+- Perishables
+- Healing
+
+[[vi:Butter]]
+[[Category:Dairy]]
+[[Category:Perishables]]
+[[Category:Healing]]
+```
+
+
+
+
+```markdown
+# Rabbit Hole
+
+## Object Infobox
+- **Name**: Rabbit Hole
+- **Image**:
+  - Normal: ![Rabbit Hole](Rabbit Hole.png)
+  - Collapsed: ![Collapsed](Rabbit Hole Collapsed.png)
+- **Spawns**: 
+  - [Rabbit](File:Rabbit.png)
+  - [Winter Rabbit](File:Winter Rabbit.png)
+  - [Beardling](File:Beardling.png)
+- **Biome**: Savanna, Grasslands
+- **Spawn Code**: "rabbithole"
+- **Renew**: Yes
+- **Tool**: Can be Dug with [[Shovel]](Tools#Dug_Tools)
+
+## Quotes
+- **Wolfgang**: You can not hide forever, jumping meat!
+- **Wilson**: That must lead to the Kingdom of the Bunnymen.
+- **Willow**: Stupid rabbits. Come out so I can eat you.
+- **Woodie**: I doubt there are trees down there.
+- **Maxwell**: There's a world going on under there.
+- **Wagstaff**: Based on past experience, I can deduce there are rabbits within.
+- **Wendy**: I'm too big to fall down there.
+- **Woodlegs**: Think they got treasures down thar?
+- **Wickerbottom**: It looks like a small animal's burrow.
+- **Webber**: Come out! We just want to be friends.
+- **Warly**: Thump twice if you are fat and juicy.
+- **WX78**: THEY ARE ALL CONNECTED VIA UNDERGROUND TUNNELS
+- **Walani**: It's rabbit-shaped.
+- **Wigfrid**: Shöwtime, rabbits!
+- **Wilba**: WHEREFORE ART RABBITS HID'DED?
+- **Wormwood**: Bouncy Squee Hopper home?
+- **Wheeler**: Maybe they're part of an underground resistance.
+- **Winona**: Lots of excavation work around here.
+- **Wortox**: Hopping wonders live within.
+- **Wurt**: Rabbit house.
+- **Walter**: We found its den!
+- **Wanda**: I'd better watch my step, wouldn't want to fall down a rabbit hole.
+- **Choose**: Wilson
+
+## Quotes (Collapsed Rabbit Hole)
+- **Wilson**: The Kingdom of the Bunnymen is closed for the season.
+- **Willow**: Stupid rabbits must be stuck down there.
+- **Wolfgang**: Is busy time in rabbit home.
+- **Wendy**: It's closed up. No one is falling down there, now.
+- **WX78**: UNDERGROUND TUNNEL NETWORK HAS COLLAPSED
+- **Wickerbottom**: I hope the small animal is still all right down there!
+- **Woodie**: Nothing going in or out.
+- **Maxwell**: The entrance has collapsed in on itself.
+- **Wagstaff**: I deduce the muddy season has caused this hole to collapse.
+- **Wigfrid**: It must be intermissiön für the rabbits.
+- **Webber**: I hope they're okay in there.
+- **Walani**: I guess they needed Me Time.
+- **Warly**: What a pity rabbit season has ended.
+- **Woodlegs**: Them lil' rabbits ain't comin' out.
+- **Wilba**: WHEREFORE ART RABBIT HOLE?
+- **Wormwood**: Where'd they go?
+- **Wheeler**: Hope they're relaxing in little mud baths down there.
+- **Winona**: Guess it wasn't structurally sound.
+- **Wortox**: You'll not be hopping through that hole!
+- **Wurt**: Anybody home, florp?
+- **Walter**: Looks like a cave-in.
+- **Source**: when examining a Collapsed Rabbit Hole.
+- **Wanda**: No more rabbit hole, for now.
+- **Choose**: Wilson
+
+## Description
+Rabbit Holes are the home and spawning place for [[Rabbits]]. They run back to their holes at dusk, or when they are frightened. When a Rabbit is captured or killed, another will eventually respawn from the hole. A Rabbit Hole can be dug up with a Shovel to force a Rabbit out; however, this will destroy the hole, preventing future Rabbits from spawning there. If a Rabbit is caught outside its hole after dark for any reason, it will fall asleep.
+
+A Rabbit Hole will spawn a new rabbit every 2.5 days. Since a Morsel restores 12.5 hunger and the necessary calorie value per day is 75, this means that having access to 15 Rabbit Holes
+
+
+
+
+```markdown
+# Ratatouille
+
+## Structure Infobox
+- **Icon**: ![Ratatouille](Ratatouille.png)
+- **Image**: ![Ratatouille Dropped](Ratatouille Dropped.png)
+- **Spoil**: 15 Days
+- **Stack**: 40
+- **HP Restored**: 3
+- **Hunger Restored**: 25
+- **Sanity Restored**: 5
+- **Cook Time**: 20 sec
+- **Priority**: 0
+- **Spawn Code**: `ratatouille`
+- **CanBeBurned**: 1
+- **Food Type**: [Veggie](Veggie)
+
+## Food Recipe
+- **Vegetables**: x0.5
+- **Filler**: x3
+
+## Quotes
+- Wilson: An excellent source of fibre.
+- Willow: Vegetables. So many vegetables.
+- Wolfgang: Is food. Sort of.
+- Wendy: A whole bunch of cooked vegetables. Riveting.
+- WX-78: SUSTENANCE IDENTIFIED
+- Wickerbottom: Nicoise, so nutritious!
+- Woodie: It's like a forest in a bowl.
+- Maxwell: Roughage.
+- Wagstaff: Finally a simple dish which won't cause me intestinal distress.
+- Wigfrid: A pile of vegetables. No thanks.
+- Webber: Do we have to eat our veggies?
+- Walani: I'd rather get curvy than scurvy.
+- Warly: A veritable village of vegetables!
+- Woodlegs: Scurvy-fightin' super food!
+- Wilba: 'TIS FANCY MEAL
+- Wormwood: Belly party!
+- Wheeler: I don't think there are any rats in it, but you never know around here.
+- Winona: Lots of fresh veggies.
+- Wortox: Physical food doesn't sit well with me.
+- Wurt: This the best!!
+- Walter: Apparently there's no actual rats in it.
+- Wanda: That's a fun name for a bunch of chopped vegetables.
+
+## Recipe
+**Ratatouille** is a **Vegetable** **Food** item cooked in the **Crock Pot** by adding any **Vegetable**. It takes 20 seconds to cook. Adding 1 **Meat** will result in **Meatballs** instead. Adding **Twigs** will result in **Wet Goop**. Adding 1 **Mandrake** will result in **Mandrake Soup**. Adding any **Dragon Fruit** will result in **Dragonpie**. Adding **Eggplant** will result in **Stuffed Eggplant**. Adding 1 **Butterfly Wings** will result in **Butter Muffin**. Adding 2 **Monster Food**s will result in **Monster Lasagna**.
+
+### Examples
+- **Mushrooms** x4: Crock Pot → **Ratatouille**
+- **Carrots** x1 + **Berry** x3: Crock Pot → **Ratatouille**
+- **Mushrooms** x1 + **Ice** x3: Crock Pot → **Ratatouille**
+
+## Tips
+- **Ratatouille** is one of the few Crock Pot recipes that can be made from foods that have a neutral or negative effect, such as mushrooms and ice, providing a 100% bonus hunger advantage from eating those items separately.
+- Eating the recipe ingredients cooked will almost always provide more benefits unless one needs a slight **Sanity** boost, wants to keep preserved food, or makes use the food types above.
+
+## Trivia
+- **Ratatouille**'s meager benefits and low Crock Pot priority implies that it is a sort of "consolation prize" for uncreative Crock Pot recipes.
+- During the **Pig Fiesta** event in the **Don't Starve: Hamlet** DLC, **Ratatouille** takes on a more festive appearance.
+- **Ratatouille** is a peasant dish originating from Nice, France. It was a dish prepared by commoners because of the easy-to-come-by ingredients, somewhat reminiscent of how vegetables are often abundant in **Don't Starve**, especially in early-game.
+
+## Gallery
+![Original HD icon from Bonus Materials from CD Don't Starve](CD ratatouille.png)
+
+## Categories
+- **Crock Pot Recipes**
+- **Sanity Boost**
+- **Healing**
+- **Flammable Objects**
+- **Perishables**
+```
+
+
+
+
+```markdown
+# Toy Trojan Horse
+
+## Structure Infobox
+
+| Field         | Description                            |
+|---------------|----------------------------------------|
+| icon          | ![Toy Trojan Horse](Toy Trojan Horse.png) |
+| image         | ![Toy Trojan Horse Dropped](Toy Trojan Horse Dropped.png) |
+| name          | Toy Trojan Horse                       |
+| spawnCode     | `trinket_18`                           |
+| droppedBy     | ![Ancient Pseudoscience Station Build](Pic|32|Ancient Pseudoscience Station Build) ![Broken Pseudoscience Station Build](Pic|32|Broken Pseudoscience Station Build) ![Grave](Pic|32|Grave) |
+| stack         | 40                                     |
+
+## Exclusivity
+
+*Don't Starve Together*
+
+## Quotes
+
+- Wilson: I wonder what it's hiding?
+- Willow: I bet the Viking would be into this.
+- Wolfgang: Wheeled horsey!
+- Wendy: It conceals tragedy.
+- WX-78: SOMETHING'S JINGLING AROUND INSIDE
+- Wickerbottom: Beware of Greeks bearing gifts.
+- Woodie: I would have liked this when I was a boy.
+- Maxwell: A metaphor, perhaps.
+- Wigfrid: I must mentor the young one in battle strategy.
+- Webber: We like toys.
+- Winona: Handcrafted. Blech.
+- Warly: What could be inside?
+- Wortox: Tiny little pranksters surely wait inside. Surprise!
+- Wormwood: Wheee!
+- Wurt: Something rattling inside.
+- Walter: Seems like a normal wooden horse.
+- Wanda: Has history taught us nothing?
+- Choose: Wickerbottom
+
+The **Toy Trojan Horse** references the Trojan horse that was used in the Trojan War as a sneaky way to pass the walls of Troy and end the war.
+
+When given to the Antlion as tribute, this trinket delays its rage by 0.66 days.
+
+The Toy Trojan Horse can be spawned into the game with the code `trinket_18`.
+
+## Recipes
+
+### Gold Nugget
+
+| Item        | Gold | Result    | Result Count |
+|-------------|------|-----------|--------------|
+| Toy Trojan Horse | yes  | Gold Nugget | 6            |
+
+### Desert Stone
+
+| Item        | Tool       | Result    |
+|-------------|------------|-----------|
+| Toy Trojan Horse | Antlion    | Desert Stone |
+
+## Resources
+```
+
+
+
+
+```markdown
+# Garden Detritus
+
+**Exclusive to:** Don't Starve Together
+
+## Object Infobox
+
+![Garden Detritus](Garden Detritus.png) ![Garden Detritus 2](Garden Detritus 2.png) ![Garden Detritus 3](Garden Detritus 3.png) ![Garden Detritus 4](Garden Detritus 4.png)
+
+**Tool:** Shovel
+
+**Resources:** Twigs (10%), Rocks (6.25%), Flint (5%), Nitre (2.5%), Gold Nugget (1.25%)
+
+**Spawn Code:** "farm_soil_debris"
+
+## Quotes
+
+- Wilson: "It's making a mess of my garden."
+- Willow: "Get outta here!"
+- Wolfgang: "You are in the way!"
+- Wendy: "You don't belong here."
+- WX-78: "ALL OBSTACLES MUST BE DELETED"
+- Wickerbottom: "Oh no you don't! Out of my garden!"
+- Woodie: "I'd better clear that out of the way."
+- Maxwell: "The blasted things spring up again just as fast as I can remove them."
+- Wigfrid: "Yöu dare tresspass upön my garden?"
+- Webber: "We should clean that up."
+- Winona: "Let's clear out that clutter."
+- Warly: "There's a bit of unwanted garnish in my garden."
+- Wortox: "I'm afraid I'll have to banish it from the garden."
+- Wormwood: "Friends don't like it"
+- Wurt: "This spot not for you! Out!"
+- Walter: "We'd better clean that up."
+- Wanda: "Didn't I pluck that out already?"
+
+## Description
+
+*Garden Detritus* is an object exclusive to *Don't Starve Together* and introduced in *Return of Them*.
+
+Two to four Garden Detritus appear after creating a *Farm Soil Turf* by using a *Garden Digamajig*. They aim to interfere with the farm. They can be dug with a *Shovel* and have a 75% chance to drop nothing, a 10% chance to yield one *Twig*, a 6.25% chance for one *Rock*, a 5% chance for one *Flint*, a 2.5% chance for one *Nitre*, and a 1.25% chance for one *Gold Nugget*. Fully grown *Tillweed* tries to spawn up to five Garden Detritus around it.
+
+## Trivia
+
+- The Garden Detritus was introduced in the *Return of Them#Reap What You Sow|Reap What You Sow* update.
+
+## Naturally Spawning Objects
+
+[Garden Detritus](vi:Garden Detritus)
+```
+
+
+
+
+```markdown
+# Unagi
+
+![Unagi](https://vignette.wikia.nocookie.net/dont-starve/images/2/2f/Unagi_Dropped.png/revision/latest?cb=20170525202848)
+
+### Structure Infobox
+- **Icon**: ![Unagi](https://vignette.wikia.nocookie.net/dont-starve/images/2/2e/Unagi.png/revision/latest?cb=20170525202837)
+- **CanBeBurned**: 1
+- **FoodType**: Meat
+  ![Meat](https://vignette.wikia.nocookie.net/dont-starve/images/3/39/Meats.png/revision/latest?cb=20170525202812)
+- **FoodRecipe**: Eels x1, Lichen x1, Filler x2  
+  or  
+  Eels x1, Kelp Frond x1, Filler x2
+- **HP Restored**: 20
+- **Hunger Restored**: 37.5
+- **Sanity Restored**: 5
+- **CookTime**: 10 sec
+- **Spoil**: 10 days
+- **Stack**: 40
+- **SpawnCode**: "unagi"
+- **Priority**: 20
+- **Crafting**: Cooked in a Crock Pot
+
+## Quotes
+- **Wilson**: I hope this doesn't make me feel eel!
+- **Willow**: You can make it fancy but it's still an eel.
+- **Wolfgang**: Food makes me mighty!
+- **Wendy**: It looks more appetizing this way.
+- **WX-78**: A FANCIER FUEL PACK.
+- **Wickerbottom**: A common way to prepare eel.
+- **Woodie**: It'll fill ya up.
+- **Maxwell**: It will have to do.
+- **Wagstaff**: I do hope this doesn't cause stomach upset.
+- **Wigfrid**: Nö need för fööd tö be sö fancy.
+- **Webber**: It was easy to make with all our arms.
+- **Walani**: Ten more, please!
+- **Warly**: More like "umami"! Ooooh, mommy!
+- **Woodlegs**: Eat a eel? It be breakfast already?
+- **Wilba**: WILBA LIKETH CAVE ROT AND WATER SNAKE
+- **Wormwood**: Sea Wiggly for belly
+- **Wheeler**: Wrap it anyway you like, it's still a dead fish.
+- **Winona**: Fancy eats.
+- **Wortox**: Yet another dish cooked up by mortals.
+- **Wurt**: That not what you do with fish, flort!
+- **Walter**: Bite-sized deliciousness.
+- **Wanda**: It makes the eel slightly better.
+- **Wendy**: (Choose)
+
+## Recipe
+- **Item1**: Eels
+- **Item2**: Lichen
+- **Item3**: Filler
+- **Count3**: 2
+- **Tool**: Crock Pot
+- **Result**: Unagi
+
+or
+
+- **Item1**: Eels
+- **Item2**: Kelp Frond
+- **Item3**: Filler
+- **Count3**: 2
+- **Tool**: Crock Pot
+- **Result**: Unagi
+
+## Examples
+- **Item**: Eel
+- **Item2**: Lichen
+- **Item3**: Twigs
+- **Count3**: 2
+- **Tool**: Crock Pot
+- **Result**: Unagi
+  - **Note**: A recipe for Unagi that provides as much hunger value as possible.
+
+- **Item**: Eel
+- **Item2**: Lichen
+- **Count2**: 3
+- **Tool**: Crock Pot
+- **Result**: Unagi
+
+- **Item1**: Eels
+- **Item2**: Lichen
+- **Item3**: Monster Meat
+- **Count3**: 2
+- **Tool**: Crock Pot
+- **Result**: Unagi
+
+- **Item1**: Eels
+- **Item2**: Lichen
+- **Item3**: Mushrooms
+- **Item4**: Monster Meats 
+- **Tool**: Crock Pot
+- **Result**: Unagi
+
+- **Item1**: Eels
+- **Item2**: Lichen
+- **Item3**: Mandrake
+- **Count3**:
+
+
+
+
+```markdown
+# Original
+
+## Inspired - Spiffy Merchant Pants
+- Introduced in the **An Eye for An Eye** update in 2021, as a crossover collaboration with Re-Logic's **Terraria**.
+
+## Loyal Troutsers
+- Distributed for free to everyone on March 27 in honor of April 1st.
+
+| Jeans | Description | Ingame |
+| --- | --- | --- |
+| ![Jeans](Black Jeans Wilson.png) | **Common Jeans**: Hard-wearing cotton dungarees, in an 'scribble black' color. | [[See ingame]](Black Jeans Wilson.png) |
+| ![Jeans](Blue Jeans Wilson.png) | **Common Jeans**: Hard-wearing cotton dungarees, in an 'bird tail blue' color. | [[See ingame]](Blue Jeans Wilson.png) |
+| ![Jeans](Dark Blue Jeans Wilson.png) | **Common Jeans**: Hard-wearing cotton dungarees, in an 'unsuitably blue' color. | [[See ingame]](Dark Blue Jeans Wilson.png) |
+| ![Jeans](Gray Jeans Wilson.png) | **Common Jeans**: Hard-wearing cotton dungarees, in an 'cumulus gray' color. | [[See ingame]](Gray Jeans Wilson.png) |
+
+...
+
+# Guest of Honor Pants
+
+| Pants | Description | Ingame |
+| --- | --- | --- |
+| ![Fancy Finned Feet](Wurt Fancy Finned Feet.png) | **Woven - Classy Fancy Finned Feet**: Shine up your dancing scales. | [[See ingame]](Wurt Fancy Finned Feet.png) |
+| ![Uniform Pants](Walter Uniform Pants.png) | **Woven - Classy Uniform Pants**: These pants are freshly pressed to impress. | [[See ingame]](Walter Uniform Pants.png) |
+| ![Puffed Pantaloons](Puffed Pantaloons.png) | **Woven - Spiffy Puffed Pantaloons**: Poofy pants have been the secret ingredient for many a fancy outfit. | |
+
+...
+
+# The Survivor Pants
+
+| Pants | Description | Ingame |
+| --- | --- | --- |
+| ![Grimy Goblin Hoofsies](Wortox Grimy Goblin Hoofsies.png) | **Woven - Classy Grimy Goblin Hoofsies**: Live in the wilderness long enough and you'll have a few tails to tell, too. | [[See ingame]](Wortox Grimy Goblin Hoofsies.png) |
+
+...
+
+# The Triumphant Pants
+
+| Pants | Description | Ingame |
+| --- | --- | --- |
+| ![Shadow Stalks](Wormwood Shadow Stalks.png) | **Woven - Classy Shadow Stalks**: Sickly stalks, spreading their poison with every step. | [[See ingame]](Wormwood Shadow Stalks.png) |
+
+...
+
+# The Gladiator Pants
+
+- These skins were introduced during the official **The Forge** event in 2017.
+
+| Pants | Description | Ingame |
+| --- | --- | --- |
+| ![Forging Leggings](Wilson Forging Leggings.png) | **Woven - Spiffy Forging Leggings**: A pair of fur-trimmed leggings and a broad leather belt. | [[See ingame]](Wilson Forging Leggings.png) |
+
+...
+
+# The Roseate Pants
+
+- **Rose Collection**
+
+| Pants | Description | Ingame |
+| --- | --- | --- |
+| ![Sugar Rose Legs](The_Roseate_Warly_Icon.png) | **Woven - Classy Sugar Rose Legs**: A handful of rose petals hides away in each pocket, awaiting a dramatic moment to be tossed in the air. | [[See ingame]](The_Roseate_Warly_Icon.png) |
+
+...
+
+# The Snowfallen Pants
+
+- These skins were introduced during the official **Winter's Feast** event in 2017.
+
+| Pants | Description | Ingame |
+| --- | --- | --- |
+| ![Hoarfrost Trousers](Wilson Hoarfrost Trousers.png) | **Woven - Spiffy Hoarfrost Trousers**: These worn slacks have seen many a chilly winter. | [[See ingame]](Wilson Hoarfrost Trousers.png) |
+
+...
+
+# The Verdant Pants
+
+- These skins were introduced during the official **Year of the Varg** event in 2018.
+
+| Pants | Description | Ingame |
+| --- | --- | --- |
+| ![Botanist's Trousers](Wilson Botanist's Trousers.png) | **Woven - Spiffy Botanist's Trousers**: The color helps one blend in, to better observe the local flora and fauna. | [[See ingame]](Wilson
+
+
+
+
+```markdown
+# Fruit Medley
+
+## Overview
+![Fruit Medley Dropped](Fruit Medley Dropped.png)
+
+- **Can Be Burned**: Yes
+- **Food Type**: Veggie
+- **Food Recipe**: 3.0 Fruits + 1 Filler
+- **Spoil Time**: 6 Days
+- **Stack Size**: 40
+- **HP Restored**: 20
+- **Hunger Restored**: 25
+- **Sanity Restored**: 5
+- **Cook Time**: 10 seconds
+- **Priority**: 0
+- **Spawn Code**: fruitmedley
+
+## Quotes
+- Wilson: Fruity.
+- Willow: Yum, fruit!
+- Wolfgang: Is cup of teensy fruits.
+- Wendy: Sweet, tart and in a cup.
+- WX-78: ENERGY IN A CUP
+- Wickerbottom: What a nice selection of fruit!
+- Woodie: In syrup!
+- Maxwell: This would pair great with a simple cheese plate.
+- Wagstaff: A lovely concoction of consumables.
+- Wigfrid: Ugh! Putting it into a cup doesn't fool me.
+- Webber: Pile o'fruit.
+- Walani: A sweet treat!
+- Warly: Invigorating!
+- Woodlegs: 'Tis a scrumptious little morsel.
+- Wilba: FRUIT MAKETH WILBA PLOP
+- Wormwood: Fruit party!
+- Wheeler: A cup of cold crops.
+- Winona: Gotta get those vitamins, I guess.
+- Wortox: The mortals threw a bunch of plants together.
+- Wurt: Fruit meldy... moldy... meddle-y?
+- Walter: It's good for you!
+- Wanda: Refreshing.
+
+## Recipe
+To make Fruit Medley, combine 3.0 units of Fruits (except Dragon Fruit, which results in Dragonpie) in a Crock Pot. If a Twig is not added, the recipe may result in Fist Full of Jam instead, as they share the same Crock Pot Priority. It takes 10 seconds to cook. Fruit Medley decreases the perceived temperature by 1 degree per second for 5 seconds.
+
+- **Recipe Ingredients**:
+  - 3.0 Fruits
+  - 1 Filler (cannot be Meats or Vegetables)
+
+### Variations
+- Adding two or more Durian will result in Monster Lasagna unless a Twig is added.
+- Adding Meats or Vegetables will result in Meatballs or Ratatouille respectively.
+- As Berries have a fruit value of 0.5, this recipe cannot include more than 2 Berries.
+
+### Examples
+- 3 Durian + 1 Twig = Fruit Medley
+- 3 Pomegranate + 1 Twig = Fruit Medley
+- 2 Pomegranate + 2 Berries = Fruit Medley (50% chance to result in Fist Full of Jam)
+- 3 Cave Bananas + 1 Ice = Fruit Medley (50% chance to result in Fist Full of Jam)
+
+## Tips
+- Since the individual hunger value of most compatible ingredients is higher than Fruit Medley itself, the use of a twig as filler is highly recommended to avoid accidentally making a Fist Full of Jam.
+- Despite requiring a higher fruit value than Fist Full of Jam, Fist Full of Jam restores more hunger, as such, Fruit Medleys should be made for healing and cooling purposes as opposed to food over Fist Fulls of Jam.
+
+## Bugs
+- Fruit Medley does not exclude Fishes.
+
+## Gallery
+<gallery>
+CD fruitmedley.png|Original HD icon from Bonus Materials from CD Don't Starve.
+</gallery>
+
+## Categories
+- Crock Pot Recipes
+- Flammable Objects
+- Healing
+- Perishables
+- Sanity Boost
+- Cooling
+```
+
+
+
+
+```markdown
+# Exclusivity: DST
+# Event: Year of the Bunnyman
+
+## Structure Infobox
+| Tier | Description |
+|------|-------------|
+| 29   | **Tall**: "A rabbit statue with a real fire in its belly!" |
+|      | **Short**: "This lovable light makes any cave cozier." |
+| Name | Rabbit Lamp  |
+| Ingredient 1 | Lucky Gold Nugget |
+| Multiplier 1 | 5 |
+| Filter | ![Offerings Filter](Offerings_Filter.png) |
+| Image | ![Tall](Tall_Rabbit_Lamp_Kit_Dropped.png)![Short](Short_Rabbit_Lamp_Kit_Dropped.png) |
+| Icon | ![Tall](Tall_Rabbit_Lamp_Kit.png)![Short](Short_Rabbit_Lamp_Kit.png) |
+| Spawn Code | "yotr_decor_2_item"<br>"yotr_decor_1_item" |
+
+## Structure Infobox
+| Name | Discharge Rate | Image |
+|------|----------------|-------|
+| Rabbit Lamp | 4.5 minutes | ![Tall](Tall_Rabbit_Lamp.png)![Short](Short_Rabbit_Lamp.png) |
+| Spawn Code | "yotr_decor_2"<br>"yotr_decor_1" |
+
+## Quotes
+**Item:**  
+- Walter: I'll have it set up in a jiffy!
+- Wanda: I suppose I can spare a moment to set it up.
+- Warly: Now, to find the perfect placement for it.
+- Wigfrid: Let us set the rabbit torch alight!
+- Maxwell: Someone should set that up.
+- Webber: It'd be a good night light.
+- Wendy: I should find a place for it to belong.
+- Wickerbottom: It would look quite nice right over there.
+- Willow: The more firelight around here, the better!
+- Wilson: I know just the place for it.
+- Winona: Gotta find a good place for it.
+- Wolfgang: Wolfgang will find good place for rabbit light.
+- Woodie: Alright Luce, where should we put it?
+- Wormwood: Hmmm, where put Hopper?
+- Wortox: I should place this rabbit now that I've nabbed it.
+- Wurt: Mermfolk light would be better.
+- WX78: I WILL FIND A SUITABLE LOCATION FOR IT
+- Choose: Wilson
+
+**Lamp with fire:**  
+- Walter: It's nice to have a little extra firelight!
+- Wanda: More light is always welcome.
+- Warly: Ah, some lovely mood lighting!
+- Wigfrid: Let us feast by the rabbit's torchlight!
+- Maxwell: Such unrefined decor.
+- Webber: It makes us feel safe and cozy.
+- Wendy: The soft glow is... comforting.
+- Wickerbottom: It provides ample reading light.
+- Willow: Everything looks better in the firelight.
+- Wilson: That rabbit can really light up a room.
+- Winona: A little rustic for my tastes, but functional enough.
+- Wolfgang: Wolfgang likes rabbit night light.
+- Woodie: Adds a nice rustic touch, eh?
+- Wormwood: Hopper holding light
+- Wortox: It's my favorite light, but only by a hare.
+- Wurt: Ugly light statue.
+- WX78: RABBIT-SHAPED LIGHT SOURCE
+- Choose: Wilson
+
+**Lamp without fire:**  
+- Walter: Don't worry, Woby and I will find some kindling for it.
+- Wanda: Oh botheration, the fire went out!
+- Warly: C'est dommage, its little fire has burnt out.
+- Wigfrid: Its light burns nö möre.
+- Maxwell: Now it's not even useful.
+- Webber: We still like it, even without the light!
+- Wendy: What little comfort it gave is now gone.
+- Wickerbottom: It appears my reading light has run out.
+- Willow: Looks like it needs some more fire!
+- Wilson: That rabbit isn't lighting up anything.
+- Winona: It ain't much to look at without its light.
+- Wolfgang: Rabbit light ran out!
+- Woodie: Out like a light.
+- Wormwood: Night night, Hopper
+- Wortox: The bunny burns no more.
+- Wurt: Where light? Bunnyman not doing job!
+- WX78: LIGHT DEACTIVATED
+- Choose: Wilson
+
+Rabbit Lamps are decorative **Structures** which can be obtained at a **Bunnyman Shrine** for 5 **Lucky Gold Nugget**s. They can be replenished with **Fuel**, but cannot be used to cook **Food**. **Charcoal** can
+
+
+
+
+```markdown
+# Doydoy Feather
+
+## Exclusivity: Shipwrecked
+
+### Item Info
+- **Burn Time**: 7.5 sec
+- **Stack**: 10
+- **Spawn Code**: "doydoyfeather"
+- **Name**: Doydoy Feather
+- **Dropped By**: ![Doydoy](Doydoy), ![Doydoy Nest](Doydoy Nest Build|Doydoy Nest) (Hammer, Deconstruction Staff)
+
+### Quotes
+- Wilson: "Soft AND endangered!"
+- Willow: "This would burn."
+- Wolfgang: "To remember nice bird by."
+- Wendy: "A spot of color in a dreary world."
+- WX-78: "I WILL NEVER BE SO SOFT. GOOD."
+- Wickerbottom: "A bit of plumage."
+- Woodie: "It's nothing like the plumage of the proud Canadian goose."
+- Maxwell: "It would look dashing tucked in a Sunday hat."
+- Wagstaff: "It beautifully reflects the green-blue region of the light spectrum."
+- Wigfrid: "The treasured feather of a fallen bird warrior."
+- Webber: "Hmmm, it dropped this."
+- Walani: "It's soft to the touch."
+- Warly: "A feather from my feathered friend."
+- Woodlegs: "Tis a bird sail."
+- Wilba: "FOWL HATH NO FEATHERS"
+- Wormwood: "Odd Tweeter clothes"
+- Wheeler: "No wonder those birds can't fly, their feathers are so big!"
+
+### Usage
+#### Crafting Recipes
+
+**Tropical Fan**
+- Doydoy Feather x5
+- Cut Reeds x2
+- Rope x2
+- Tool: Alchemy Engine
+
+**Feather Lite Sail**
+- Doydoy Feather x4
+- Bamboo x2
+- Rope x2
+- Tool: Science Machine
+
+**Doydoy Nest**
+- Doydoy Feather x2
+- Twigs x8
+- Manure x4
+- Tool: Alchemy Engine
+
+**Oinc**
+- Doydoy Feather x1
+- Tool: Pig Beautician
+- Result: Oinc x2
+- DLC: Hamlet
+
+#### Mob Dropped Items
+- VI: Doydoy Feather
+
+#### Category
+- Non-Flammable
+```
+
+
+
+
+```markdown
+# Meaty Stew
+
+- **Can Be Burned**: Yes
+- **Food Type**: [Meat](#)
+- **Food Recipe**: 3.0 units of Meats + 1 unit of Filler
+- **Image**: ![Meaty Stew Dropped](Meaty Stew Dropped.png)
+- **Icon**: ![Meaty Stew](Meaty Stew.png)
+- **Spoilage**: 10 Days
+- **Stack**: 40
+- **HP Restored**: 12
+- **Hunger Restored**: 150
+- **Sanity Restored**: 5
+- **Cook Time**: 15 sec
+- **Priority**: 0
+- **Crafting**: Cooked in a [Crock Pot](#)
+- **Spawn Code**: "bonestew"
+
+## Quotes
+
+- **Wilson**: A stew to put some meat on my bones.
+- **Willow**: Just add fire to food and voila!
+- **Wolfgang**: Is stew full of strong meat.
+- **Wendy**: You'd be surprised how much life can be gleaned from death and bones.
+- **WX-78**: NUTRITION ACQUIRED
+- **Wickerbottom**: Not quite how mum used to make, but it smells superb!
+- **Woodie**: Sticks to your ribs.
+- **Maxwell**: Leave no scrap unused.
+- **Wagstaff**: Ah yes. This looks exquisite.
+- **Wigfrid**: Delicious!
+- **Webber**: Smells like Sunday supper.
+- **Walani**: It looks like a pretty hearty meal.
+- **Warly**: Warms my soul!
+- **Woodlegs**: Good for the scurvy.
+- **Wilba**: STEW'D BONE
+- **Wormwood**: For belly
+- **Wheeler**: If I don't like it, I can always use it as ammo.
+- **Winona**: Hearty.
+- **Wortox**: Mortals like drinking goop like this.
+- **Wurt**: Glurgh.
+- **Walter**: Tasty!
+- **Wanda**: Was leaving the bone in really necessary?
+
+## Recipe
+
+- **Ingredients**:
+  - 3.0 Meats
+  - 1 Filler (cannot be Inedibles)
+- **Tool**: Crock Pot
+- **Result**: Meaty Stew
+
+## Examples
+
+1. **Ingredients**:
+   - 1 Meat
+   - 1 Monster Meat
+   - 2 Morsel
+- **Result**: Meaty Stew
+
+2. **Ingredients**:
+   - 2 Meat
+   - 1 Monster Meat
+   - 1 Carrot
+- **Result**: Meaty Stew
+
+3. **Ingredients**:
+   - 1 Meat
+   - 1 Monster Meat
+   - 1 Egg
+   - 1 Leafy Meat
+- **Result**: Meaty Stew
+
+4. **Ingredients**:
+   - 3 Normal Meats
+   - 1 Ice
+- **Result**: Meaty Stew
+
+5. **Ingredients**:
+   - 1 Raw Fish
+   - 1 Leafy Meat
+   - 1 Monster Meat
+   - 1 Kelp Fronds
+- **Result**: Meaty Stew
+
+6. **Ingredients**:
+   - 1 Monster Meat
+   - 1 Leafy Meat
+   - 2 Frog Legs
+- **Result**: Meaty Stew
+
+## Trivia
+
+- Meaty Stew shares its texture with the removed Deadly Feast food item.
+
+## Gallery
+
+- ![Original HD icon from Bonus Materials from CD Don't Starve](CD bonestew.png)
+
+__NOTOC__
+
+[[Category:Healing]] [[Category:Sanity Boost]] [[Category:Crock Pot Recipes]] [[Category:Flammable Objects]] [[Category:Perishables]] [[Category:Warmth]]
+```
+Please note that I have transformed the text into markdown format, including headers, lists, and links where appropriate. The images are referenced with their filenames, and the quotes are listed in a bulleted list.
+
+
+
+
+```markdown
+# Exclusivity
+- Don't Starve Together
+
+# Structure Infobox
+- **Image**: Scrapbook Page Dropped.png
+- **Icon**: Scrapbook Page.png
+- **Burn Time**: 15 sec. (Fire Fuel)
+- **Stack**: 40
+- **CanBeBurned**: 1
+- **DroppedBy**: Grave, Sunken Chest, Tumbleweed
+- **SpawnCode**: "scrapbook_page"
+
+# Quotes
+- Maxwell: "Curious. It may yield some useful information."
+- Walter: "Ah! Someone has left a page here."
+- Warly: "Ah! Someone has left a page here."
+- Wigfrid: "From whence hath you come, mysterious page?"
+- Webber: "Oooh, we found a page!"
+- Wendy: "A lost and lonely page."
+- Wickerbottom: "What a hideous sight! A page torn from its book!"
+- Willow: "Another page for the emergency kindling supply- I mean scrapbook."
+- Wilson: "Someone else out there likes to scrapbook."
+- Winona: "Let's see if there's anything interesting written on it."
+- Wolfgang: "Is page of funny scribbles."
+- Woodie: "Huh. Wonder where it came from?"
+- Wormwood: "Book leaf?"
+- Wortox: "Where is it from? Not knowing is half the fun!"
+- Wurt: "Found page for scrappy book!"
+- WX78: "I WILL ADD THIS INFORMATION TO MY PAPER DATA RECEPTACLE"
+- Wanda: "Did I leave this here?"
+
+# Scrapbook Info
+Adds missing information to your Scrapbook.
+
+The **Scrapbook Page** is an item rarely found in **Don't Starve Together**. With it, 3-4 random items, food, creature, or giant will be added to the player's **Scrapbook**. A thing that has been studied will display connections with other things, but not its characteristics.
+
+# Resources
+```
+
+
+
+
+```markdown
+# Petals
+
+## Structure Infobox
+- **Name**: Petals
+- **Icon**: ![Petals](Petals.png)
+- **Image**: ![Petals Dropped](Petals Dropped.png)
+- **Burn Time**: 7.5 sec
+- **HP Restored**: 1
+- **Food Type**: Veggie ![Veggie](Veggie.png)
+- **Hunger Restored**: 0
+- **Sanity Restored**: 0
+- **Spoil**: 6 days
+- **Stack**: 40
+- **Spawn Code**: "petals"
+- **Dropped By**: ![Flower](pic|32), ![Tumbleweed](pic|30)(1%×3)
+
+## Quotes
+- Wolfgang: These smell nice.
+- Wilson: I showed those flowers who's boss!
+- Willow: Stupid flowers. They're almost useless.
+- Woody: I wonder if Lucy would like these.
+- Maxwell: I've a habit of destroying beautiful things, don't I?
+- Wagstaff: Smells faintly of chamomile.
+- Wendy: Its joy and happiness was so disparaging...
+- Woodlegs: Them flowers ain't comin' back ta life.
+- Wickerbottom: I've made some delightful potpourri.
+- Webber: How colorful.
+- Warly: Great in salads.
+- WX-78: I HAVE DESTROYED SOMETHING BEAUTIFUL. HA.
+- Walani: Flowers totally get me.
+- Wigfrid: Thank yöu Fröh för this gift!
+- Wilba: WILBA CAN'ST EATS FOR PRETTY FOODS
+- Wormwood: Smells good
+- Wheeler: Perfectly good ammo, just laying around.
+- Winona: Don't see a whole lotta use for these.
+- Wortox: Evidence of flower violence.
+- Wurt: Hee-hee, take that flowers!
+- Walter: Hope the bees aren't too mad at me.
+- Wanda: They wither away so quickly.
+- Choose: Winona
+
+Petals are a Vegetable Food Item obtained by picking Flowers, including Roses, which are commonly found in Grassland Biomes. They restore 5 Sanity when picked and 1 Health point when eaten. Like other vegetables, they can be fed to Pigs to produce Manure. No variant of petals may be used in a Crock Pot.
+
+## Usage
+### Recipes
+
+1. **Manure**
+   - **Item**: Petals
+   - **Tool**: Pig Icon
+   - **Result**: Manure
+
+2. **Garland**
+   - **Item1**: Petals
+   - **Count1**: 12
+   - **Result**: Garland
+
+3. **Pretty Parasol**
+   - **Item1**: Petals
+   - **Count1**: 6
+   - **Item2**: Twigs
+   - **Count2**: 4
+   - **Item3**: Cut Grass
+   - **Count3**: 3
+   - **Result**: Pretty Parasol
+
+4. **Whirly Fan**
+   - **Item1**: Petals
+   - **Item2**: Twigs
+   - **Count2**: 3
+   - **Result**: Whirly Fan
+
+5. **Clean Sweeper**
+   - **Item1**: Petals
+   - **Count1**: 4
+   - **Item2**: Twigs
+   - **Tool**: Alchemy Engine
+   - **Result**: Clean Sweeper
+
+6. **Tillweed Salve**
+   - **Item1**: Petals
+   - **Count1**: 4
+   - **Item2**: Tillweeds
+   - **Count2**: 4
+   - **Item3**: Charcoal
+   - **Tool**: Alchemy Engine
+   - **Result**: Tillweed Salve
+
+7. **Grass Turf**
+   - **Item1**: Petals
+   - **Item2**: Cut Grass
+   - **Tool**: Terra Firma Tamper
+   - **Result**: Grass Turf
+   - **Resultcount**: 4
+
+8. **Willow's Lighter**
+   - **Item1**: Petals
+   - **Count1**: 3
+   - **Item2**: Rope
+   - **Item3**: Gold Nugget
+   - **Result**: Willow's Lighter
+   - **Character**: Willow
+
+9. **Processing Circuit**
+   - **Item1**: Petals
+   - **Item2**: Bio Data
+   - **Count2**: 
+
+
+
+
+```markdown
+# Merms
+
+Merms are a type of **Mobs** found in **Don't Starve** and **Don't Starve Together**. In the game, they exhibit various behaviors.
+
+| Image | Link | Description |
+| :---: | :--- | :--- |
+| ![Merm](Merm.png) | [Merm](#) | Merm |
+| ![Fishermerm](Fishermerm.png) | [Fishermerm](#) | Fishermerm |
+| ![King of the Merms](King%20of%20the%20Merms.png) | [King of the Merms](#) | King of the Merms |
+| ![Loyal Merm Guard](Loyal%20Merm%20Guard.png) | [Loyal Merm Guard](#) | Loyal Merm Guard |
+| ![Shadow Merm](Shadow%20Merm.png) | [Shadow Merm](#) | Shadow Merm |
+| ![Shadow Merm Guard](Shadow%20Merm%20Guard.png) | [Shadow Merm Guard](#) | Shadow Merm Guard |
+| ![Mutated Merm](Mutated%20Merm.png) | [Mutated Merm](#) | Mutated Merm |
+| ![Mutated Merm Guard](Mutated%20Merm%20Guard.png) | [Mutated Merm Guard](#) | Mutated Merm Guard |
+| ![Sammy](The%20Gorge%20Sammy.png) | [Sammy](#) | Sammy (The Gorge) |
+| ![Pipton](The%20Gorge%20Pipton.png) | [Pipton](#) | Pipton (The Gorge) |
+
+{{Mobs}}
+```
+
+I have transformed the given text into a markdown format table, including the images, links, and descriptions for each type of Merm. I have also added a header for the table, indicating that these are Merm types. The `{{Mobs}}` at the end appears to be a template tag, so I have left it as is. Please let me know if you need any further adjustments!
+
+
+
+
+```markdown
+# Froggle Bunwich
+![Froggle Bunwich](Froggle Bunwich Dropped.png)
+
+The Froggle Bunwich is a **Meat Food item** cooked in the **Crock Pot** by combining 1 **Frog Leg** and 0.5 **Vegetable**. It takes 40 seconds to cook.
+
+## Details
+- **HP Restored:** 20
+- **Hunger Restored:** 37.5
+- **Sanity Restored:** 5
+- **Cook Time:** 40 sec
+- **Priority:** 1
+- **Spoil Time:** 15 Days
+- **Stack:** 40
+- **Can Be Burned:** 1
+- **Food Type:** [Meat](#)
+
+## Recipe
+### Ingredients
+- **Frog Leg:** 1
+- **Vegetables:** 0.5
+- **Filler:** 2
+
+### Method
+Combine the ingredients in a **Crock Pot** to create a Froggle Bunwich.
+
+### Variations
+- Adding 2 **Monster Meats** results in **Monster Lasagna**.
+- Adding a **Mandrake** results in **Mandrake Soup**.
+- Adding exactly 1 **Twigs** results in **Kabobs**, but adding 2 results in Froggle Bunwich.
+- Adding **Eggs** or **Honey** results in **Pierogi** or **Honey Nuggets** respectively, unless an inedible ingredient such as a bone shard or nightmare fuel is added.
+
+## Quotes
+- **Wilson:** "A very leggy sandwich."
+- **Willow:** "Maybe I won't notice that it's frog legs in the sandwich."
+- **Wolfgang:** "Is sandwich with tasty leg meat."
+- **Wendy:** "I never thought frog's legs could look so good."
+- **WX-78:** "DELICIOUS FROG FUEL"
+- **Wickerbottom:** "Not typically served on a sandwich, but I'll give it a go!"
+- **Woodie:** "You can really taste the swamp."
+- **Maxwell:** "Has a bit of a kick to it."
+- **Wagstaff:** "Ah. Some sustenance I can digest."
+- **Wigfrid:** "What a treat!"
+- **Webber:** "Sandwich for me, frog legs for him."
+- **Walani:** "Not a bad afternoon snack."
+- **Warly:** "Ah, French cuisine!"
+- **Woodlegs:** "Newt sandwich!"
+- **Wilba:** "A BUN O' FROGGY"
+- **Wormwood:** "Fills belly"
+- **Wheeler:** "Swamp on a bun."
+- **Winona:** "It's really not as bad as it looks."
+- **Wortox:** "Mortals are weird."
+- **Wurt:** "This a bad sandwich."
+- **Walter:** "You can make anything into a sandwich if you try hard enough."
+- **Wanda:** "I've been told it's a local delicacy."
+- **Choose:** "Wolfgang"
+
+## Trivia
+- **WX-78** will refer to a **Frog** as a "potential bunwich".
+- During the **Pig Fiesta** event in the **Hamlet** DLC, Froggle Bunwich takes on a more festive appearance.
+
+## Gallery
+<details>
+  <summary>Click to view the gallery</summary>
+  <img src="Froggle Bunwich in Terraria.png" alt="Froggle Bunwich in Terraria">
+  <img src="CD frogglebunwich.png" alt="Original HD icon from Bonus Materials from CD Don't Starve">
+</details>
+
+## See Also
+- [Crock Pot Recipes](#)
+- [Healing](#)
+- [Sanity Boost](#)
+- [Meats](#)
+- [Flammable Objects](#)
+- [Perishables](#)
+```
+
+
+
+
+```markdown
+# Slurper Pelt
+
+![Slurper Pelt](Slurper Pelt Dropped.png)
+
+The **Slurper Pelt** is an item with a 50% chance to be dropped by [Slurper](Slurper.png). It can be used to craft a [Belt of Hunger]. Like meat items, a Slurper Pelt can be used to befriend a [Pig], or it can be exchanged with the [Pig King] for a [Gold Nugget]. However, [Bunnymen] don't count it as meat, and won't mind if a player has one/picks one up.
+
+## Quotes
+- **Wilson:** "Doesn't look all that much different dead."
+- **Willow:** "Eeewwwww, it's still alive!"
+- **Wolfgang:** "It's still moving!"
+- **Wendy:** "An empty bag of hunger."
+- **WX-78:** "A MEATSACK"
+- **Wickerbottom:** "This must be useful for something."
+- **Woodie:** "Looks like a dead beaver."
+- **Maxwell:** "In death, this creature will serve me!"
+- **Wagstaff:** "A pelt of pabulum properties!"
+- **Wigfrid:** "I dö löve furs."
+- **Webber:** "It's like a tiny rug."
+- **Walani:** "Maybe it doubles as a blanket."
+- **Warly:** "Wear this? What in heavens for?"
+- **Woodlegs:** "Tha smell!"
+- **Wilba:** "WEAR FUR ART NOW?"
+- **Wormwood:** "(sigh)"
+- **Wheeler:** "It'd be better if there were more of these."
+- **Winona:** "That's WAY too fuzzy."
+- **Wortox:** "My fur is much nicer!"
+- **Wurt:** "Took its fur, florp."
+- **Walter:** "Does anyone know taxidermy?"
+- **Wanda:** "Yuck."
+
+## Usage
+
+### Recipes
+1. **Gold Nugget**
+   - **Ingredients:** Slurper Pelt
+   - **Tool:** Pig King Icon
+   - **Result:** Gold Nugget
+
+2. **Belt of Hunger**
+   - **Ingredients:** Slurper Pelt (6), Rope (2), Nightmare Fuel (2)
+   - **Tool:** Shadow Manipulator
+   - **Result:** Belt of Hunger
+
+3. **Super-Gastrogain Circuit**
+   - **Ingredients:** Slurper Pelt (1), Bio Data (3), Gastrogain Circuit (1)
+   - **Tool:** Bio Scanalyzer
+   - **Result:** Super-Gastrogain Circuit
+
+## Resources
+
+### Food
+- [Food](#)
+
+## Categories
+- [Items](#)
+- [Mob Dropped Items](#)
+- [Flammable Objects](#)
+- [Meats](#)
+```
+
+
+
+
+```markdown
+# Orange Soda Info
+
+## Overview
+| Icon | Image | Name | Spawn Code | Dropped By | Stack |
+| --- | --- | --- | --- | --- | --- |
+| ![Orange Soda.png](Orange Soda.png) | ![.png](.png) | Orange Soda | "trinket_13" | [[SW]]: [[Pic|32|Steamer Trunk]] | 40 |
+
+## Exclusivity
+- **Shipwrecked**
+- **Hamlet**
+
+## Quotes
+- **Wilson**: What is this substance?
+- **Willow**: Is this fire water? It's orange.
+- **Wolfgang**: Wolfgang would not like to drink.
+- **Wendy**: Maybe if I drank this stuff I'd return to my sister.
+- **WX-78**: IS THIS A CONSUMABLE?
+- **Wickerbottom**: A soda beverage can.
+- **Woodie**: Is this safe for consumption?
+- **Maxwell**: A welcome change from seawater.
+- **Wagstaff**: I've never seen such an ingenious opening device on a tin can!
+- **Wigfrid**: What föul mead is this?
+- **Webber**: Is it our birthday!
+- **Walani**: Slammable soda!
+- **Warly**: I'd prefer switcha... With a piece of duff.
+- **Woodlegs**: Sodey pop!
+- **Wilba**: WILBA SHALL SHAKETH IT
+- **Wormwood**: Psht
+- **Wheeler**: I don't know what this is, but it looks refreshing.
+
+## Recipes
+1. **Gold Nugget**
+   - Item: Orange Soda
+   - Gold: yes
+   - Result: Gold Nugget
+   - Result Count: 6
+
+2. **Dubloons**
+   - Item: Orange Soda
+   - Dubloon: yes
+   - Result: Dubloons
+   - Result Count: 7
+
+3. **Oinc**
+   - Item: Orange Soda
+   - Tool: Pig Collector
+   - Result: Oinc
+   - Result Count: 3
+   - DLC: Hamlet
+
+## Trivia
+- Appeasing the [[Volcano]] with the Orange Soda may be a reference to the movie [[Wikipedia:Joe Versus the Volcano|Joe Versus the Volcano]], where the natives of a tropical island drink large amounts of orange soda while asking Tom Hanks' character to voluntarily jump into an active volcano.
+- The Brain Cloud Pill is also most likely a reference to the film, as Tom Hanks' character is claimed to have a fictitious terminal illness called a brain cloud by a corrupt doctor.
+```
+
+
+
+
+```markdown
+# Wilson's Field Notes
+
+Wilson's Field Notes are a series of blog posts written by Kevin on the (now-defunct) *Don't Starve* webpage. They detail some of Wilson's survival experiences, and were posted from June to July 2012. Due to the various changes the *Don't Starve* franchise has been through since, it's unknown if Wilson's Field Notes are canonical.
+
+## New Tools
+
+This entry was posted on June 25, 2012.[Archive](https://web.archive.org/web/20120628002943/http://www.dontstarvegame.com/blog/) in June 2012
+
+![New Tools Field Note](https://example.com/New_Tools_Field_Note.jpg "New Tools Field Note")
+
+"I am a scientist, not a labourer! I’m used to probing the depths of the universe with the power of my mind, not digging holes and chopping down trees. But I’m also used to having walls and a roof, so I suppose one must make allowances for circumstance."
+
+"I should be able to put together some simple tools using the twigs and flint that litter the ground here. I may be reduced to living off the sweat of my brow, but at least I don’t have to do so with my bare hands."
+
+## Beefalo
+
+This entry was posted on July 5, 2012.[Archive](https://web.archive.org/web/20120902232115/http://www.dontstarvegame.com/blog/) in July 2012
+
+![Beefalo Field Note](https://example.com/Beefalo_Field_Note.jpg "Beefalo Field Note")
+
+"I stumbled across a herd of these brutes today while I was hunting rabbits. When one noticed me I was certain that I was a goner, but it soon lost interest and resumed eating."
+
+"The Beefalo spend almost all of their time eating. What little time they don’t spend eating they spend performing the *other* aspect of the digestive process. The stench of a Beefalo herd cannot be described with polite language, although the dung is quite useful in small quantities."
+
+"I’m tired of eating rabbits. Tonight I shall try hunting a Beefalo instead. Their docile nature should make them an excellent food source..."
+
+## Meat Effigy
+
+This entry was posted on July 31, 2012.[Archive](https://web.archive.org/web/20120902232115/http://www.dontstarvegame.com/blog/)
+
+![Meat Effigy Field Note](https://example.com/Meat_Effigy_Field_Note.png "Meat Effigy Field Note")
+
+"I am in an environment much harsher than that to which I am accustomed. Everything here is trying to kill me, or eat me, or... worse. It’s almost as bad as graduate school!"
+
+"If I am to survive this place, I fear I must resort to drastic measures. That’s okay, though, for I am a Scientist, and my Science is nothing if not drastic. I think that if I build a wooden effigy of myself, and fill it full of meat, I can create an insurance policy against violent death. It’s a technique that’s well-known amongst the scientific community."
+
+"Maybe I should throw in some of my beard hairs as well. It couldn’t hurt!"
+
+### Gallery
+
+<details>
+  <summary>Blueprint Gallery</summary>
+  <img src="https://example.com/WFNfarming.JPG" alt="Unused picture featuring early Farm Plots">
+  <img src="https://example.com/Pigking2.JPG" alt="Unused picture featuring the Pig King">
+</details>
+
+## References
+
+* Category: Supplemental material
+```
+
+
+
+
+```markdown
+# Soul (Don't Starve Together)
+
+## Structure Info
+- **Name**: Soul
+- **Icon**: Soul.png
+- **Image**: Soul Dropped.png
+- **HP Restored**: 20 - 5 (When released)
+- **Stack**: 20
+- **Spawn Code**: "wortox_soul"
+- **Hunger Restored**: 25 (When eaten)
+- **Sanity Restored**: -5 (When eaten), 2.5 (When released)
+
+## Wortox Quote
+> "Hyuyu! It looks tasty." - Wortox
+
+## Scrapbook Info
+Wortox can eat these to restore 25 Hunger and lose 5 Sanity. They can be released to heal all survivors nearby, with a maximum healing of 20 health which drops 2 points for each extra survivor to a minimum of 5 health. He can also spend Souls to Soul Hop, which teleports him. If Wortox holds more than 20 Souls, he will release half of them and lose 20 Sanity.
+
+## Description
+A **Soul** is an item exclusive to **Wortox** in *Don't Starve Together*. It spawns when a mob or other player dies within 20 units of Wortox. It will flow to Wortox when he is within 8 units of the Soul. If it is not collected within 10 seconds, it will disappear. They can be consumed by Wortox for 25 Hunger at the cost of 5 Sanity. When released, the Soul will heal Wortox and allies within 8 units. The maximum healing is 20 HP, and the minimum is 5 HP. Each additional player decreases the value by 2, until the minimum is reached.
+
+Wortox can spend one Soul to be able to Soul Hop, or teleport, a short distance. This functions in the same manner as the Lazy Explorer, except it does not cost any Sanity. When Soul Hopping twice in a short time span, called "Soul Echo", the second one will not cost another Soul. At the cost of Souls, Wortox can also right-click anywhere on the Map to teleport to that space, if it has already been explored. The cost of the teleport is equivalent to the amount of Soul Hops and Soul Echoes required to get there manually, and is indicated by a text below the cursor.
+
+If Wortox tries to hold more than 20 Souls at once, he will drop half of them and lose 20 Sanity. He gives warnings about holding too many Souls before it happens. The dropped Souls will heal Wortox and the allies next to him. It is not possible to store Souls in any container or Backpack to avoid this. If it is attempted, it will make the same sound as if it was rejected in a Crock Pot. Other characters cannot hold Souls, and they cannot inspect them.
+
+## Mobs and Souls
+| Mob | Amount of Souls |
+| --- | --- |
+| WX-78, Clockwork Mobs, Shadow Creatures, Shadow Pieces, Shadow Puppets, Balloons, Walls, Structures, Lureplant, Relics, Baby Tentacles, Bernie (all forms) | None |
+| Most Mobs and characters excluding WX-78 and Webber | 1 |
+| Webber | 2 |
+| Boss Monsters (Deerclops, Bearger, Moose/Goose, Dragonfly, etc.) | 7-8 |
+
+## Trivia
+- The icon of the Soul is similar in shape to that of the Nightmare Fuel.
+- WX-78 will not drop any soul, as they have none.
+- Webber will drop two souls, implying the boy and the spider he's composed of remain two separate entities.
+
+## Bugs
+- On Console, characters other than Wortox can pick up and inspect Souls using their default quote for items that they have no string for ("It's a... thing."). In other characters' inventories, Souls can stack to 40.
+
+## Gallery
+<gallery captionalign="center" hideaddbutton="true">
+RWP 231 Wortox Soul Icon Concepts.png|Concept art of the Soul inventory icon from Rhymes With Play #231.
+RWP 231 Wortox Soul Animation.gif|Wortox Soul Animation from Rhymes With Play #231.
+RWP 231 Wortox get Soul Animation.gif|Wortox get Soul Animation from Rhymes With Play #231.
+RWP 231 Wortox drop Soul Animation.gif|Wortox drop Soul Animation from Rhymes With Play #231.
+</gallery>
+
+## Resources
+```
+
+
+
+
+```markdown
+# Spicy Chili
+
+## Overview
+- **Can Be Burned**: Yes
+- **Food Type**: [Meat](#)
+- **Food Recipe**: Meats x1.5 + Vegetables x1.5 (excluding Peppers)
+- **Icon**: ![Spicy Chili](Spicy Chili.png)
+- **Image**: ![Spicy Chili Dropped](Spicy Chili Dropped.png)
+- **Stack**: 40
+- **Spawn Code**: "hotchili"
+- **HP Restored**: 20
+- **Hunger Restored**: 37.5 / 52.5 (for Willow)
+- **Sanity Restored**: 0
+- **Cook Time**: 10 sec
+- **Priority**: 10
+- **Spoil Time**: 10 Days
+- **Perk**: Increases temperature by 15 degrees over 15 seconds.
+
+## Quotes
+- Wilson: "Five alarm!"
+- Willow: "Now that's my kind of heat!"
+- Wolfgang: "Haha, nothing is too spicy for Wolfgang!"
+- Wendy: "Burn my insides."
+- WX-78: "SPICE MAGNITUDE EXTREMELY HIGH"
+- Wickerbottom: "Chili gives me indigestion."
+- Woodie: "Good after a long day of chopping in the cold."
+- Maxwell: "Hot as heck!"
+- Wagstaff: "Letting off an incredible amount of thermal energy."
+- Wigfrid: "A test of my willpower."
+- Webber: "Flavor bombs!"
+- Walani: "Yow! Burns my tongue SO GOOD."
+- Warly: "Spice up my life!"
+- Woodlegs: "Makes m'grateful me tongue's wooden."
+- Wilba: "IT MAKE'TH WILBA TONGUE GO'ST FWOOSH"
+- Wormwood: "Hot! It's hot!"
+- Wheeler: "Smells like something burning."
+- Winona: "I'm tough enough to handle a little spice."
+- Wortox: "I don't 'digest' well."
+- Wurt: "Don't want it, florp!"
+- Walter: "Nothing warms you up like a big bowl of chili."
+- Wanda: "Hoooo... I always forget just how spicy it is."
+
+## Recipe
+### Crock Pot Recipe
+| Item   | Count |
+|--------|-------|
+| Meats  | 1.5   |
+| Vegetables | 1.5 |
+
+### Example Combinations
+1. Morsel + Meat + Carrot + Mushrooms
+2. Monster Meat + Fish + Lichen (2)
+   - Note: Adding Eel instead of Fish results in Unagi
+3. Monster Meats + Frog Leg + Carrots (2)
+
+### Usage
+| Item   | Result |
+|--------|--------|
+| Spicy Chili | Broodling (when combined with Chilled Lavae in a Rock Den) |
+
+## Tips
+- Spicy Chili is relatively cheap and quick to make in a Crock Pot, requiring only a Morsel, Monster Meat, and two farm vegetables.
+- It is particularly useful during Winter as it increases perceived temperature.
+
+## Categories
+- Warmth
+- Healing
+- Meats
+- Crock Pot Recipes
+- Perishables
+- Flammable Objects
+```
+
+
+
+
+```markdown
+# Pherostone
+
+## Exclusivity
+- Exclusive to the **Don't Starve: Hamlet** DLC.
+
+## Item Infobox
+- **Stack**: Does not stack
+- **Perk**: Translates Mant speech.
+- **Spawn Code**: "pheromonestone"
+
+## Quotes
+- **Wilson**: A nasaltelepathical bug communicator.
+- **Wendy**: Let my words be known to those who creep and crawl.
+- **Wx78**: CONTAINS SOURCE CODE FOR INSECTOIDS
+- **Wickerbottom**: I will uncover the secrets of arthropod speech.
+- **Woodie**: One man's stench is another's perfume.
+- **Maxwell**: Now I can control those insects.
+- **Wagstaff**: Absolutely inspiring! A scent converter!
+- **Wigfrid**: A stöne öf magic language.
+- **Webber**: Smells like bugs. It's nice.
+- **Walani**: Now I can commune with nature!
+- **Warly**: I always wanted to learn another language.
+- **Woodlegs**: Be a stone'o'tongues.
+- **Wilba**: 'TIS A STONE O' SMELLINESS
+- **Wormwood**: Smells like Chr'ik
+- **Wheeler**: Now I can make small talk with the big bugs.
+- **Choose**: wickerbottom
+
+The **Pherostone** is a naturally spawning **Item** exclusive to the **Don't Starve: Hamlet** DLC. It can be found once per world in the **Ancient Pig Ruins**, more specifically the ones that have a Mant statue on top of the Ruinous Entrance in the **Gas Rainforest**.
+
+### Usage
+When carried in any **Inventory** slot, it allows the player to understand what **Mant**s are saying. The Pherostone does not prevent Mants from being aggressive. Mants can be befriended by using the Pherostone to determine which food they eat, and then feeding the corresponding meat, seeds, plants, or wood. Befriended Mants will assist the player in chopping down **Trees** and attacking **Mobs**.
+
+### Crafting
+The Pherostone cannot be crafted.
+
+## Tips
+- The Pherostone does not work if it is stored in a **Backpack**.
+- The Pherostone does not have an icon on the **Map**, so the player should carefully check every room.
+
+## Trivia
+- According to character quotes, the Pherostone appears to work by translating scents into language.
+- Its name is a portmanteau of the words "Pheromone" and "stone".
+  - The first making a reference to the way insects like ants and termites communicate with each other with pheromone signals.
+  - The second is a reference to the [Rosetta Stone](https://en.wikipedia.org/wiki/Rosetta_Stone), a stele written in three different languages (hieroglyphic or Ancient Egyptian, Demotic, and Ancient Greek) with minor differences among the three texts which was key to the first deciphering of Egyptian hieroglyphs and uncovering ancient Egyptian history (like the Pherostone with Mants' language).
+
+## Gallery
+<gallery>
+Ruinous Entrance Pherostone.png|To find the Pherostone, one must explore the dark Mant Ruins.
+Pherostone-0.png|Wickerbottom examining a Pherostone, located in a ruins' room with a lone chiselable statue.
+</gallery>
+
+## Naturally Spawning Objects
+[[vi:Pherostone]]
+```
+
+
+
+
+```markdown
+# Wire Hanger
+
+![Wire Hanger](Wire Hanger.png)  
+**Spawn Code:** `trinket_27`  
+**Dropped by:** Ancient Pseudoscience Station, Broken Pseudoscience Station, Grave, Sunken Chest  
+**Stack:** 40  
+
+## Quotes
+
+- Wilson: Good, I can hang my clothes up if I ever find a hook.
+- Willow: I want to stick it in a fire!
+- Wolfgang: Is skinny and bendy, like clownman.
+- Wendy: Now at least the wardrobe can be organized.
+- WX78: THE ROBOT EQUIVALENT OF AN AMOEBA
+- Wickerbottom: I miss the comforts of home.
+- Woodie: Nowhere to hang clothes in the woods.
+- Maxwell: Finally. My suits were getting wrinkles. Wrinkles!
+- Wigfrid: This weak, flimsy wire reminds me... I must toughen Maxwell up!
+- Webber: This is stupid.
+- Winona: Not a lotta use for that out here.
+- Warly: I don't have much to hang up anymore.
+- Wortox: I don't wear clothes.
+- Wormwood: Stick? No not stick
+- Wurt: Has little claw at the end!
+- Walter: I wonder if I can use it to pick up radio signals...
+- Wanda: I would've rather found the coat.
+- Choose: Maxwell
+
+### Trinket Effect
+
+When given to the Antlion as tribute, this trinket delays its rage by 0.66 days.
+
+### Recipes
+
+1. **Gold Nugget**
+   - **Item:** Wire Hanger
+   - **Gold:** yes
+   - **Result:** Gold Nugget
+   - **Result Count:** 4
+
+2. **Desert Stone**
+   - **Item:** Wire Hanger
+   - **Tool:** Antlion
+   - **Result:** Desert Stone
+```
+
+
+
+
+```markdown
+# One True Earring
+
+![One True Earring](One True Earring.png)
+
+## Information
+- **Spawn Code:** `earring`
+- **Dropped By:** ![X Marks the Spot](32|X_Marks_The_Spot.png)
+- **Stack:** 40
+
+## Exclusivity
+- **Shipwrecked**
+
+## Quotes
+- **Wilson:** "The fewer holes in my body, the better."
+- **Willow:** "Sooo shiny."
+- **Wolfgang:** "Someone drop this, maybe?"
+- **Wendy:** "But no ear..."
+- **WX-78:** "IT IS MISSING THE EAR"
+- **Wickerbottom:** "Not my style."
+- **Woodie:** "Shouldn't there be two?"
+- **Maxwell:** "I would look quite dashing in it, were my ear pierced."
+- **Wagstaff:** "A diameter of two centimeters."
+- **Wigfrid:** "This is nöt öf my ear."
+- **Webber:** "This belonged to a pirate!"
+- **Walani:** "I hope someone didn't lose this..."
+- **Warly:** "Fancy."
+- **Woodlegs:** "Ay! 'Tis me ol' earring!"
+- **Wilba:** "WILBA LEND IT MINE EAR"
+- **Wormwood:** "Doesn't fit"
+- **Wheeler:** "Swell. About as useful as one sock."
+- **Choose:** Woodlegs
+
+## Recipe 1
+- **Item:** One True Earring
+- **Gold:** yes
+- **Result:** Gold Nugget
+- **Result Count:** 3
+
+## Recipe 2
+- **Item:** One True Earring
+- **Dubloon:** yes
+- **Result:** Dubloons
+- **Result Count:** 12
+
+## Trivia
+- One True Earring, based on the name and offering the highest appeasement to the [[Volcano Altar of Snackrifice]], may be a reference to **[The Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings)**, where the evil could only be vanquished by casting the One Ring into Mount Doom.
+```
+
+
+
+
+```markdown
+# Tallbird Nest
+
+The **Tallbird Nest** is a naturally occurring object that randomly spawns in **Rockyland** and **Magma Field** biomes. Tallbirds will also spawn with nests (one Tallbird per nest) and will lay **Tallbird Eggs** there. Tallbirds can create new nests.
+
+## Object Info
+
+- **Can Be Burned**: Yes (1)
+- **Can Be Picked**: Can be picked ([Tallbird Egg](#))
+- **Image Gallery**:
+  - ![Empty Nest](Tallbird_Nest.png)
+  - ![Full Nest](Tallbird_Nest_Full.png)
+- **Renew**: No
+- **Spawn Biome**: Rockyland, Magma Field
+- **Spawn Code**: "tallbirdnest"
+- **Spawns**: ![Tallbird](Tallbird.png)
+
+## Quotes
+
+- **Wilson**: "That's quite an egg!"
+- **Willow**: "That egg could use some fire!"
+- **Wolfgang**: "Is big egg!"
+- **Wendy**: "That egg represents a new life. Ugh."
+- **WX-78**: "I WANT THAT HORRIBLE EGG"
+- **Wickerbottom**: "What a tremendous Magnus Avis egg!"
+- **Woodie**: "I should steal its egg to teach it a lesson."
+- **Maxwell**: "Well. That's tempting."
+- **Wagstaff**: "Oh wonderful! It contains an egg!"
+- **Wigfrid**: "A feathered warrior lurks inside."
+- **Webber**: "This could feed us for days!"
+- **Walani**: "Bunch of future pecky jerks."
+- **Warly**: "No vacancy here."
+- **Woodlegs**: "Thet thar's a big egg!"
+- **Wilba**: "HATH EGGIES!"
+- **Wormwood**: "Tweet! Tweet!"
+- **Wheeler**: "Looks pretty cozy for a bunch of sticks."
+- **Winona**: "That looks mighty tasty."
+- **Wortox**: "A pretty egg in mother's nest."
+- **Wurt**: "Leggy bird egg!"
+- **Walter**: "She was protecting her nest..."
+- **Wanda**: "I spot an egg! Although it looks like it was spotted already."
+- **Choose**: WX78
+
+## Behavior
+
+- The Egg can be taken from the nest, which will anger the owning Tallbird and make it chase the player.
+- The Tallbird will lay another one after 3-5 days, and if killed, the Tallbird will respawn in 2.5 days.
+- The Egg can hatch into an adult Tallbird if it is unharvested and the parent Tallbird is dead.
+- At dusk, Tallbirds return to their nests to sleep, though they will wake up if anyone goes near them for a short duration or takes their Eggs.
+
+## Tips
+
+- One must be prepared to kill or run away from the Tallbird after taking its egg, as it will pursue for a very long time.
+- If the player jumps into a **Wormhole**, the Tallbird cannot follow, making it easy to steal their Egg this way.
+
+## Trivia
+
+- According to **Maxwell**, Tallbird Nests are made out of **Beefalo Wool**: "It's made of dirty beefalo hair."
+
+## Gallery
+
+- ![A Tallbird laying an egg](Tallbird_laying_an_Egg.png)
+- ![A Tallbird sleeping with its egg at dusk](Tallbird_sleeping.png)
+- ![Tallbird Nests as seen on the Map](Overworld_map_showing_several_Tallbird_Nests.png)
+- ![Tallbird Nests as a Set Piece](Sdsd.png), nicknamed "[Tallfort](Set Piece#Tallfort)"
+- ![Farming various loot by planting a Spider Den by a Tallbird Nest](Spider_Tall_Bird.png)
+
+## Categories
+
+- Flammable Objects
+- Mob Spawning Entities
+- Naturally Spawning Objects
+```
+
+I have transformed the provided text into Markdown format, including headings, quotes, and gallery images with appropriate links and descriptions. Please note that the images are linked with placeholder names, and you may need to replace them with the actual image URLs.
+
+
+
+
+```markdown
+# Lichen
+
+## Structure Infobox
+- **Name**: Lichen
+- **Image**: Lichen Dropped.png
+- **Icon**: Lichen.png
+- **HP Restored**: 3
+- **Hunger Restored**: 12.5
+- **Sanity Restored**: -5
+- **Spoil**: 2 Days
+- **Stack**: 40
+- **Food Value**: ![Vegetables](Vegetables) × 1
+- **Spawn Code**: "cutlichen"
+- **Food Type**: [Veggie](Veggie)
+- **Dropped By**: ![Cave Lichen](Cave Lichen)
+
+## Quotes
+- Wilson: Nutritious, but it won't last long.
+- Willow: Blah, tastes like sawdust.
+- Wolfgang: Tastes terrible.
+- Wendy: Fleeting, just like life.
+- WX78: THIS WILL CRUMBLE AWAY SOON.
+- Wickerbottom: This won't last long.
+- Woodie: Yum! Tastes woody!
+- Maxwell: Dry, crumbly, sustaining.
+- Wagstaff: It's inadvisable that I should consume this without cooking it first.
+- Wigfrid: I picked it. But I won't eat it.
+- Webber: I like me a lichen.
+- Walani: Can I get something to eat now?
+- Warly: Hmm, odd.
+- Woodlegs: Sea-grass!
+- Wilba: CAVE ROT BY ANY OTHER NAME WOULD TASTE AS SWEET
+- Wormwood: Smells good
+- Wheeler: I could eat it. Or I could launch it.
+- Winona: Not to my lichen. Ha!
+- Wortox: I'd really rather not eat it.
+- Wurt: Crumbly.
+- Walter: It grows in most caves.
+- Wanda: Its time is running out quickly.
+
+## Description
+**Lichen** is a **[Food](Food)** item in **[Don't Starve](Don't%20Starve)**. It is classified as a **[Vegetable](Vegetable)**, and can only be obtained in the **[Ruins](Ruins)** by harvesting **[Cave Lichen](Cave%20Lichen)**. Lichen cannot be cooked at a **[Fire Pit](Fire%20Pit)**, **[Campfire](Campfire)**, or **[Star Caller's Staff](Star%20Caller's%20Staff)**, but it can be used as an ingredient in a **[Crock Pot](Crock%20Pot)**. Lichen regrows after 5 days.
+
+Lichen can be eaten raw and restores 3 **[HP](HP)** and 12.5 **[Hunger](Hunger)**, at the cost of 5 **[Sanity](Sanity)**. The Sanity penalty can be avoided by using it in a **[Crock Pot](Crock%20Pot)** instead. The **[Unagi](Unagi)** recipe for the **[Crock Pot](Crock%20Pot)** specifically requires Lichen, however, Lichen can also be used as a filler. Lichen spoils very quickly and becomes **[Rot](Rot)** 2 days after being harvested.
+
+As of the **[Return of Them|Eye of the Storm](Return%20of%20Them|Eye%20of%20the%20Storm)** beta, Lichen can be fed to **[Beefalo](Beefalo)** and **[Pig](Pig)**s.
+
+## Usage
+### Recipes
+1. **Lichen**
+   - **Tool**: Pig Icon
+   - **Result**: Manure
+   - **Note**: Can be given directly now
+
+2. **Unagi**
+   - **Item1**: Lichen
+   - **Item2**: Eel
+   - **Item3**: Filler
+   - **Item4**: Filler
+   - **Tool**: Crock Pot
+   - **Result**: Unagi
+
+3. **Fungal Turf**
+   - **Item1**: Lichen
+   - **Item2**: Blue Spore
+   - **Tool**: Terra Firma Tamper
+   - **Result**: Fungal Turf
+
+4. **Fungal Turf Red**
+   - **Item1**: Lichen
+   - **Item2**: Red Spore
+   - **Tool**: Terra Firma Tamper
+   - **Result**: Fungal Tur
+
+
+
+
+```markdown
+# Maxwell
+
+## Character Info
+
+- **Name**: Maxwell
+- **Image**: ![Maxwell Portrait](/Maxwell%20Original_Portrait.png)
+- **Health**: 75
+- **Hunger**: 150
+- **Sanity**: 200
+- **Sanity Multiplier**: +6.67/min
+- **Items**:
+  - [Codex Umbra](File:Codex%20Umbra.png)
+  - [Magician's Chest](File:Magician's%20Chest.png)
+  - [Top Hat](File:Top%20Hat.png)
+- **Start Item**: [Codex Umbra](File:Codex%20Umbra.png) [Nightmare Fuel](File:Nightmare%20Fuel.png) ×6
+- **Favorite Food**: ![Wobster Dinner](Wobster%20Dinner%20(DST).png)
+- **Spawn Code**: waxwell
+
+## Quote
+
+"Freedom suits me." - Maxwell
+
+## Unlocking
+
+Maxwell is playable for free in Don't Starve Together.
+
+## Unique Items
+
+Maxwell starts a new world with a Codex Umbra and 6 Nightmare Fuel.
+
+| Item | Utility |
+| ---- | ------ |
+| ![Codex Umbra](/Codex%20Umbra.png) | Maxwell can use the Codex to create various Shadow Puppets and Shadow Traps, at the cost of Sanity. Puppets reduce Maxwell's maximum Sanity by 15% (-30) each until they disappear, while Traps instantly drain -15 Sanity. The Codex has a durability of 20 uses, but can be repaired using Nightmare Fuel. |
+| ![Magician's Top Hat](/Magician's%20Top%20Hat.png) | Equipped in the Head slot. Has the same effects as a Top Hat, but Maxwell can use it to access the Shadow Dimension. |
+| ![Magician's Chest](/Magician's%20Chest.png) | Storage Structure connected to the Shadow Dimension. There can only be one Chest per server. |
+
+## Perks
+
+- Maxwell has a constant positive Sanity effect of +6.75 Sanity/min, and is immune to negative Sanity effects from Shadow Items.
+- Maxwell can read Books and use their abilities, but suffers an increased Sanity penalty than Wickerbottom of 2.5x.
+- Maxwell's favourite food is Wobster Dinner, which restores an additional +15 Hunger than usual.
+
+## Tips
+
+### Codex Umbra
+
+- During the first few days, it is effective to find an area with many Stage 3 Trees or Boulders, then summon several Shadow Servants to harvest them. This will allow Maxwell to attain large amounts of items for minimal resources, especially if he lacks materials to craft certain tools.
+- Shadow Servants make Maxwell one of the best characters for mass-clearing tree farms, alongside Woodie. With only one or two Servants, it is possible to attain more than 70 Logs within a short time, with stumps automatically dug up without any player effort. For this reason, he is also great for crafting anything that requires Boards, such as Chests and Boat Kits.
+- Summoning multiple Puppets to reduce maximum Sanity is a good way to get Maxwell to stay almost insane for long periods of time, which is not easily obtained normally due to his Sanity regain buff. However, note that Shadow Duelists will not help Maxwell with fighting Shadow Creatures, similar to most other followers.
+- Shadow Duelists can be used as an efficient, albeit expensive, method to kill passive mobs. For example, they can be used near flowers to kill Butterflies, near Berry Bushes to kill Gobblers, or near Rabbit Holes for Morsels. Birds can survive a hit from one duelist (since they do 20 damage, and birds have 25 health).
+
+### Other
+
+- Since Maxwell has a natural regeneration of Sanity, players are recommended to do sanity-consuming things that other players would suffer from. For example: picking Evil Flowers, using Magic and Ancient Items, or eating sanity draining Food.
+- Sanity-regenerating items such as the Tam o' Shanter, Tent, Taffy etc. are unnecessary for Maxwell. This allows him to wear armor such as the Football Helmet while still rapidly regaining Sanity. This also makes exploring during the Night or in Caves and Ruins ideal as the Sanity drain from darkness is negated.
+- Due to Maxwell's low maximum Health, it is advised to have revival items on standby. Life Giving Amulets allow him to revive on the spot, but at the cost of Nightmare Fuel, which he might need to fuel the Codex Umbra. Meat Effigies can let him revive near base, but requires sacrificing more than half his current health, and requires the relatively rare Beard
+
+
+
+
+```markdown
+# Blueprint
+
+## Overview
+A **Blueprint** is an **Item** that enables the player to learn a craftable recipe without having to prototype it first. When used, it restores 15 sanity. Blueprints themselves do not create an item; they only allow the player to craft the item away from the station normally used to prototype it.
+
+## Details
+- **Image**: ![Blueprint Dropped](https://image-url.com)
+- **Icon**: ![Blueprint](https://image-url.com)
+- **Perk**: Unlocks **Crafting** recipes upon using.
+- **Stack**: Does not stack
+- **Burn Time**: 15 sec.
+- **Spawn Code**: `prefab name_blueprint`
+- **Sanity Drain**: 15
+- **Can Be Burned**: Yes
+- **Dropped By**: Tumbleweed and Junk Pile (3.125%)
+
+## Quotes
+- **Wilson**: "It's scientific!"
+- **Willow**: "This will save some experimentation."
+- **Wolfgang**: "Pretty pictures!"
+- **Wendy**: "Whoever drew this is probably dead."
+- **WX-78**: "KNOWLEDGE WAITING TO BE ABSORBED"
+- **Wickerbottom**: "A detailed technical drawing."
+- **Woodie**: "I'm not one for book learning."
+- **Maxwell**: "I know all about that. I just forgot."
+
+## Rare Blueprint
+### Overview
+In **Don't Starve Together**, Blueprints for recipes that are already unlocked will no longer be able to be learned again.
+
+### Details
+- **Name**: Rare Blueprint
+- **Image**: ![Rare Blueprint Dropped](https://image-url.com)
+- **Icon**: ![Blueprint (rare)](https://image-url.com)
+- **Perk**: Unlocks **Crafting** recipes upon using.
+- **Stack**: Does not stack
+- **Burn Time**: 15 sec.
+- **Can Be Burned**: Yes
+- **Spawn Code**: `prefab name_blueprint`
+- **Sanity Drain**: 15
+- **Dropped By**: Various Boss Monsters and other sources
+
+## Advert
+### Overview
+**Adverts** are **Items** exclusive to **Don't Starve Together**, introduced in **Return of Them**.
+
+### Details
+- **Name**: Advert
+- **Image**: ![Advert](https://image-url.com)
+- **Stack**: Does not stack
+- **Perk**: Unlocks craftables at the **Tackle Receptacle**.
+- **Spawn Code**: `prefab name_tacklesketch`
+- **Burn Time**: 15 sec.
+
+## Trivia
+- If the player uses the console to make all recipes available, all random Blueprints spawned will be called "MISSING NAME".
+- There are currently 21 items that can only be researched through Blueprints.
+- There are different console commands for each prototypical item in the game, such as `c_spawn("spear_blueprint")` for a Spear.
+
+## Gallery
+<details>
+  <summary>Blueprint Gallery</summary>
+  
+  ![Blueprint as seen in the poster for the "The End is Nigh" update](https://image-url.com)
+  
+  ![Blueprint as seen on the 2018 Valentine Cards](https://image-url.com)
+  
+  ![Blueprint found near a Set Piece in Adventure Mode](https://image-url.com)
+  
+  ![A dead Toadstool with a rare Blueprint near it](https://image-url.com)
+</details>
+```
+
+
+
+
+```markdown
+# Terrorclaw
+
+![Terrorclaw](Terrorclaw.png)
+
+- **Damage**: 50
+- **Health**: 400
+- **Drops**: Nightmare Fuel (1-2)
+- **Attack Period**: 3
+- **Attack Range**: 4.1
+- **Run Speed**: 2
+- **Sanity Aura**: -100
+- **Spawns From**: ![Terrorbeak](Terrorbeak.png)
+- **Special Ability**: Turn back into Terrorbeak on land.
+- **Spawn Code**: "oceanhorror"
+- **Shadow Aligned**: 1
+
+The **Terrorclaw** is an exclusive mob in *Don't Starve Together*, introduced in the *Return of Them* expansion.
+
+## Behavior
+
+At low sanity levels (below 10%), Terrorclaws spawn in place of Terrorbeaks and Crawling Horrors for players sailing the ocean. When a player lands, all Terrorclaws following them transform into Terrorbeaks. Conversely, Terrorbeaks transform into Terrorclaws when the player boards a boat.
+
+Terrorclaws only move in the water and teleport close to the player to attack. When attacked, they do not disappear and continue to attack the player.
+
+Killing a Terrorclaw regenerates 15 sanity and drops 1 Nightmare Fuel plus a 50% chance of an extra one.
+
+## Trivia
+
+- Wavey Jones and Terrorclaws were introduced in the *Return of Them#Troubled Waters* update.
+```
+
+
+
+
+# Durian
+
+## Structure Infobox
+- **Can Be Burned:** 1
+- **Icon:** Durian.png
+- **Image:** Durian Dropped.png
+- **Food Value:** Fruit &times; 1, Monster Foods &times; 1
+- **Food Type:** Veggie, Monster
+- **Dropped By:** Durian Vine, Giant Durian
+- **HP Restored:** -3 (0 Wurt Portrait)
+- **Hunger Restored:** 25 (48.25 Wurt Portrait)
+- **Sanity Restored:** -5 (0 Wurt Portrait)
+- **Spoil:** 10 days
+- **Stack:** 20
+- **Spawn Code:** "durian"
+
+## Quotes
+- Wilson: Oh, it smells!
+- Willow: Ew, stinky!
+- Wolfgang: Is spiky smelly fruit.
+- Wendy: Spiky and smelly!
+- WX78: GOOD THING I LACK A NOSE
+- Wickerbottom: Aha, the Durio zibethinus. It really does reek.
+- Woody: It smells bad.
+- Maxwell: It's an acquired taste.
+- Wagstaff: Not anything I want to experiment with eating.
+- Wigfrid: Smells like my battle bööts.
+- Webber: Pungent.
+- Walani: Looks pretty difficult to eat.
+- Warly: That odor...
+- Woodlegs: Thet does ney smell like food!
+- Wilba: IT SMELL NAUGHT AS SWEET
+- Wormwood: Smelly belly stuff
+- Wheeler: What an adventurous smell I've discovered!
+- Winona: Powerful stench! I respect that.
+- Wortox: I love a good stink!
+- Wurt: Mmm... smell a bit like swamp!
+- Walter: Yuck! What is that?
+- Wanda: I could never forget a smell like that.
+
+## Description
+A **Durian** is a rare fruit food item. It can be cooked on a fire into an Extra Smelly Durian and can also be used as an ingredient in Crock Pot recipes. Durians can be farmed from Farm Plots. Regular Seeds have a 5% chance of growing Durians. Durian Seeds can be gained by feeding a Durian to Birds in a Birdcage, which can produce 1–2 Durian Seeds as well as a 50% chance to get normal Seeds.
+
+Like Monster Meat, raw Durian damages health and sanity, and also affects Crock Pot recipes. It can be used as a fruit/any filler in Crock Pot recipe with no toxic effects, but using more than 1 Durian in a Crock Pot recipe could result in Monster Lasagna unless the recipe contains Twigs or has higher priority.
+
+Webber will still take the health and sanity penalties from eating Durians.
+
+In Don't Starve Together, both versions of the Durian are Wurt's favorite food, gaining extra 23.25 Hunger upon consumption, without losing sanity or health. However, pumpkin remains the filling crop for Wurt, providing 50 Hunger, compared to 48.25 Hunger from Durian.
+
+They can be grown from Brittle Seed Pods.
+
+They can also be fed to Woby to turn her into Big Woby.
+
+## Extra Smelly Durian
+
+### Structure Infobox
+- **Can Be Burned:** 1
+- **Icon:** Extra Smelly Durian.png
+- **Image:** Extra Smelly Durian Dropped.png
+- **Food Value:** Fruit &times; 1, Monster Foods &times; 1
+- **Food Type:** Veggie, Monster
+- **HP Restored:** 0
+- **Hunger Restored:** 25 (48.25 Wurt Portrait)
+- **Sanity Restored:** -5 (0 Wurt Portrait)
+- **Spoil:** 6 days
+- **Stack:** 40
+- **Spawn Code:** "durian_cooked"
+
+### Quotes
+- Wilson: Now it smells even worse!
+- Willow: Yuck, it smells just as bad cooked!
+- Wolfgang: Now is hot spiky smelly fruit.
+- Wendy: Less spiky, but even smellier!
+- WX78: STILL NOT GOOD
+- Wickerbottom: Cooking this certainly did not improve its odor.
+- Woody: It smells even worse.
+- Maxwell: A little more refined, at least.
+- Wagstaff: A consumable psychic attack!
+- Wigfrid: Why did I cöök this again?
+- Webber: No sir, I don't like it.
+- Walani: Woah! That smells awful!
+- Warly: Could use onions and chili...
+- Woodlegs: Cookin' it up don
+
+
+
+
+```markdown
+# Dung Ball
+
+## Exclusivity
+![Hamlet](#)
+
+## Object Infobox
+- **Name:** Dung Ball
+- **Image:** ![Dung Ball.png](#)
+- **Resources:**
+  - Manure (100%)
+  - Flint (70%)
+  - Rocks (70%)
+  - Twigs (8%)
+  - Cut Grass (6%)
+  - Seeds (3%)
+  - Lost Idol (0.6%)
+- **Renew:** Yes
+- **Spawn Code:** dungball
+
+## Quotes
+- **Wilson:** Most definitely poop.
+- **Willow:** Can’t even set it on fire.
+- **Wolfgang:** Is ball of poop.
+- **Wendy:** Grotesque.
+- **WX-78:** ORGANIC WASTE SPHERE
+- **Wickerbottom:** A perfectly spherical specimen of feces.
+- **Woodie:** Dung to go.
+- **Maxwell:** I refuse to touch that.
+- **Wagstaff:** Excellent! The act of rolling has picked up a motley of paraphernalia.
+- **Wigfrid:** What sickness is this?
+- **Webber:** Yuck!
+- **Walani:** Should’ve leashed it.
+- **Warly:** Non.
+- **Woodlegs:** Throw it o’erboard!
+- **Wilba:** SWOLLER PARCEL OF PLOPSIES
+- **Wormwood:** Yay! Ball of poop!
+- **Wheeler:** Huh. It's almost like nobody wants a ball of poop.
+- **Choose:** wickerbottom
+
+The **Dung Ball** is an object mostly made of **Manure**, created from **Dung Piles** by **Dung Beetles**. Once created, the Dung Beetle will climb on the top of its ball, making it roll all over the place. If the player gets too close of it, the Dung Beetle will flee, sometimes knocking into something and falling off its ball. The player can then harvest it.
+
+Digging a Dung Ball will always yield 3 items, and at least one of them will be **Manure**. Other common resources are **Flint** or **Rocks** (which can be found almost every time). More rarely, one can found **Grass Tuft**, **Twigs**, or **Seeds**. The rarest item that can be dug in a Dung Ball is a **Lost Idol**.
+
+## Tips
+To preserve the Rocks and Flints renewal to a maximum, the best strategy is to kill a **Dung Beetle**, then harvest its **Dung Ball**. If it is not killed, it will go to the nearest **Dung Pile**, destroying it to make a new Dung Ball out of it. As Dung Piles are only renewable via **BFB**, it is recommended not to destroy them.
+
+## Naturally Spawning Objects
+* [Hòn Phân](#)
+```
+
+
+
+
+```markdown
+# Dark Tatters
+
+![Dark Tatters](Dark Tatters.png)
+
+## Item Infobox
+- **Perk:**
+- **Spawn Code:** "ancient_remnant"
+- **Stack:** 20
+- **Dropped By:** ![Ancient Herald](28)
+
+## Quotes
+- **Wilson:** "I hope he doesn't want this back."
+- **Willow:** "It's from that apocalypse jerk."
+- **Wolfgang:** "Is piece of scary man."
+- **Wendy:** "Remnant of a doomsayer."
+- **WX-78:** "RIPPED FROM MY ENEMY. HAHA"
+- **Wickerbottom:** "A material with metaphysical properties."
+- **Woodie:** "Looks important. I should hold on to it."
+- **Maxwell:** "A potent fragment of a shadowy figure."
+- **Wagstaff:** "A fragment from that magnificent apocalyptic being! Everything I could've hoped for!"
+- **Wigfrid:** "Prööf I have cönquered an ancient being!"
+- **Webber:** "Wow. There's a lot of space in there!"
+- **Walani:** "It's got a weird vibe to it."
+- **Warly:** "Not a fan of the dark motif but it may prove useful."
+- **Woodlegs:** "Like Davy Jones' sailcloth."
+- **Wilba:** "STUFF THAT SCREAMS ARE MADE ON"
+- **Wormwood:** "Feels cold"
+- **Wheeler:** "Swell. Ripped clothes from that creepy thing."
+- **Choose:** Wendy
+
+## Description
+Dark Tatters are a crafting item within both the **Don't Starve: Hamlet** DLC and **Don't Starve Together**. In Hamlet, they are obtained from the Ancient Herald, spawned during the Aporkalypse.
+
+In Hamlet, Dark Tatters are used to craft and refuel the **Vortex Cloak**, repairing 100% of its Durability. It may also be used to craft the **Nightmarish Bird Whistle**.
+
+## Usage
+### Vortex Cloak
+- **Ingredients:**
+  - **Dark Tatters:** 5
+  - **Night Armor:** 1
+  - **Tool:** Blueprint
+  - **Result:** Vortex Cloak
+
+### Nightmarish Bird Whistle
+- **Ingredients:**
+  - **Dark Tatters:** 2
+  - **Bird Whistle:** 1
+  - **Tool:** Hogus Porkusator
+  - **Result:** Nightmarish Bird Whistle
+
+## Trivia
+- In the **Don't Starve: Shipwrecked** DLC, Dark Tatters can be offered to the **Volcano Altar of Snackrifice** during **Dry Season** to appease the **Volcano** for 32 day segments, or 2 in-game days. This may be a suitable alternative use.
+- Its name may be a reference to **Dark Matters**.
+
+## Gallery
+<gallery>
+![Wickerbottom with five Dark Tatters and the Vortex Cloak Blueprint](DarkTattersWickerbottom.jpg)
+</gallery>
+
+[Category:Boss Dropped Items]
+[Category:From Beyond]
+[Category:Hamlet]
+```
+
+
+
+
+```markdown
+# Skins
+
+## Original
+
+| Icon | Name | Rarity | Description | In-game Image |
+|------|------|--------|-------------|---------------|
+| ![Scribble Black Hand Covers Icon](Scribble Black Hand Covers Icon.png) | **Common Hand Covers** | Common | These are gloves. They cover your hands. This pair is 'scribble black' colored. | ![See ingame](File:Black Hand Covers Wilson.png) |
+| ![Begs The Question Blue Hand Covers Icon](Begs The Question Blue Hand Covers Icon.png) | **Common Hand Covers** | Common | These are gloves. They cover your hands. This pair is 'begs the question blue' colored. | ![See ingame](File:Dark Blue Hand Covers Wilson.png) |
+| ... | ... | ... | ... | ... |
+
+## Guest of Honor Gloves
+
+| Icon | Name | Rarity | Description | In-game Image |
+|------|------|--------|-------------|---------------|
+| ![Tuxedo Gloves Icon](Tuxedo Gloves Icon.png) | **Woven - Classy / Heirloom Classy Tuxedo Gloves** | Woven - Classy / Heirloom Classy | These gloves will hide the chemical stains on your hands when you dress up for formal occasions. | ![See ingame](File:Wilson Tuxedo Gloves.png) |
+| ![Striking Gloves Icon](Striking Gloves Icon.png) | **Woven - Classy / Heirloom Classy Striking Gloves** | Woven - Classy / Heirloom Classy | White gloved hands are sometimes a symbol of deception. They're also a symbol of fashion! | ![See ingame](File:Maxwell Striking Gloves.png) |
+| ... | ... | ... | ... | ... |
+
+## The Survivor Gloves
+
+| Icon | Name | Rarity | Description | In-game Image |
+|------|------|--------|-------------|---------------|
+| ![Grimy Goblin Grapplers Icon](Grimy Goblin Grapplers Icon.png) | **Woven - Spiffy Grimy Goblin Grapplers** | Woven - Spiffy | Sharp goblin claws honed for wilderness survival. | ![See ingame](File:Wortox Grimy Goblin Grapplers.png) |
+| ... | ... | ... | ... | ... |
+
+## The Triumphant Gloves
+
+| Icon | Name | Rarity | Description | In-game Image |
+|------|------|--------|-------------|---------------|
+| ![Gnarled Leaves Icon](Gnarled Leaves Icon.png) | **Woven - Spiffy Gnarled Leaves** | Woven - Spiffy | Just one touch from these poisonous leaves could spell your doom. | ![See ingame](File:Wormwood Gnarled Leaves.png) |
+| ... | ... | ... | ... | ... |
+
+## The Gladiator Gloves
+
+| Icon | Name | Rarity | Description | In-game Image |
+|------|------|--------|-------------|---------------|
+| ![Forging Bracers Icon](Forging Bracers Icon.png) | **Woven - Spiffy Forging Bracers** | Woven - Spiffy | These bracers will help you look the part in the arena. | ![See ingame](File:Wilson Forging Bracers.png) |
+| ... | ... | ... | ... | ... |
+
+## The Roseate Gloves
+
+| Icon | Name | Rarity | Description | In-game Image |
+|------|------|--------|-------------|---------------|
+| ![Sugar Rose Gloves Icon](Sugar Rose Gloves Icon.png) | **Woven - Spiffy / Rose Collection Sugar Rose Gloves** | Woven - Spiffy / Rose Collection | Gloved hands tend the finest roses. | ![See ingame]({{Pic32|The_Roseate_Warly_Icon|Skins}}) |
+| ... | ... | ... | ... | ... |
+
+## The Snowfallen Gloves
+
+| Icon | Name | Rarity | Description | In-game Image |
+|------|------|--------|-------------|---------------|
+| ![Hoarfrost Gloves Icon](Hoarfrost Gloves Icon.png) | **Woven - Spiffy Hoarfrost Gloves** | Woven - Spiffy | The gloves of a fellow with an icy touch. | ![See ingame](File:Wilson Hoarfrost Gloves.png) |
+| ... | ... | ... | ... | ... |
+
+## The Verdant Gloves
+
+| Icon | Name | Rarity | Description | In-game Image |
+|------|------|--------|-------------|---------------|
+| ![Harvest Bracelets Icon](Harvest Bracelets Icon.png) | **Woven - Spiffy Harvest Bracelets** | Woven - Spiffy | These muted brown bracelets are very down-to-earth. | ... |
+| ... | ... | ...
+
+
+
+
+Here is the extracted text transformed into markdown format:
+
+```markdown
+# Seed Clusters
+
+- **Event**: Midsummer Cawnival
+- **Description**: A crunchy Cawnival favorite.
+- **Ingredients**: 12 Prize Tickets
+- **Drops**: Clustered Seeds x4
+- **Stack**: Does not stack
+- **Spawn Code**: `carnival_seedpacket`
+- **Filter**: ![Trinket Trove Filter](Pic|32)
+
+## Quotes
+- Wilson: I was feeling a bit peckish.
+- Willow: Ugh, bird food.
+- Wolfgang: Bird snack.
+- Wendy: It tastes like disappointment.
+- WX78: MEAGER SUSTENANCE
+- Wickerbottom: A bit of extra fiber added to one's diet never hurts.
+- Woodie: Hmph. Bird food.
+- Maxwell: About as pleasant as you'd expect.
+- Wigfrid: 'Tis food for birds, not Vikings.
+- Webber: We should've gotten the popcorn instead...
+- Warly: They could use a bit of seasoning.
+- Wormwood: Thanks Tweeters!
+- Winona: Looks like a bag of bird food.
+- Wortox: I'm sure they won't be offended if I dump these on the ground.
+- Wurt: Mmmm, crunchy snack.
+- Walter: I guess it's sort of like trail mix. Sort of.
+- Wanda: A little snack to keep in my pocket.
+- Choose: Wickerbottom
+
+## Crafting
+Seed Clusters can be crafted from the Prize Booth at a cost of 12 Prize Tickets. Opening them will give 4 Corn Seeds.
+
+## Categories
+- Midsummer Cawnival
+- Trinket Trove Filter
+```
+
+
+
+
+```markdown
+# Definitions for the Erudite and Articulate
+
+To further cultivate their considerable edification, meanings of gaming abbreviations and phrases for people new to the game or extending their gaming vocabulary.
+
+## Gaming Jargon
+
+### A
+- **add** (n.): 
+  1. (Combat) Any entity which joins a fight midway through; reinforcements.
+  2. (Don't Starve) The Battle Standards in The Forge.
+- **add-on** (n.): Any addition to the base game; a mod, an expansion, or DLC.
+- **aggro** (v.): (Combat) Engage in combat with another mob.
+- **aggro radius** (n.): 
+  1. Farthest distance from a target at which a mob will choose to engage it in combat.
+  2. Farthest distance from an ally under attack at which a mob will come to its aid.
+
+### B
+- **backpedal** (v.): (Combat) Take steps backwards while facing an opponent, usually to dodge or evade their attack.
+- **boss** (n.): A mob that excels above all others in threat to the player.
+
+### C
+- **CD** or **cooldown** (n.): Time limit on an action until it can be taken again.
+- **CDR** or **cooldown reduction** (n.): Effect that reduces the time remaining on a cooldown.
+
+### D
+- **debuff** (n.): Negative effect imposed on a mob or player by an ability or item.
+- **DLC** or **downloadable content** (n.): Extra, officially released game content downloaded separately from the base game.
+
+### E
+- **entity** (n.): Single, discernible "thing" in a program; an individual and real unit of creation in a game.
+
+### F
+- **flee** (v.): (Combat) Run away from combat, with the intent to completely disengage from it.
+
+### G
+- **grief** (v.): (Multiplayer) Malevolently irritate, harass, or violate another player through nonverbal means.
+- **griefer** (n.): Player who griefs.
+
+### H
+- **HP**, **hit points**, or **health points** (n.): Value which tracks how much damage an entity can take before it is killed or removed from play.
+
+### I
+- **insta-kill** (v.): Deal enough damage in one hit to a fully healed target that it dies instantly.
+
+### K
+- **kite** (v.): 
+  1. (Combat) Move through fighting grounds with intent to relocate the enemy.
+  2. (Combat, slang) Maneuver in literally any way; blanket term for counter-attacking, evading, fleeing, kiting, mobbing, pulling, or just fighting.
+
+### L
+- **leash** (n.): 
+  1. (Combat, technical) The distance from a mob's idle position that it's willing to pursue a target before disengaging from combat.
+  2. (Combat) Lead an aggro'd mob to the end of its leash so that it stops attacking and returns home.
+
+### M
+- **map** (n.): 
+  1. Diagrammatic representation of a region.
+  2. (Technical) An in-game world itself.
+- **mob** (n.): 
+  1. Non-player characters and monsters in a game.
+  2. (Technical) Any entity that moves around the playing field, including the player.
+
+### N
+- **NPC** or **non-player character** (n.): Characters which aren't controlled by a player.
+
+### O
+- **OP** or **over-powered** (adj.): Unnecessarily powerful, usually by unbalanced game design.
+
+### P
+- **proc** or **programmed random occurrence** (n.): Occur in such an arbitrarily selected way.
+
+### R
+- **retreat** (v.): (Combat) Move away from an attacker.
+
+### S
+- **sidestep** (v.): (Combat) Take steps laterally while facing an opponent, usually to dodge or evade an attack.
+
+### T
+- **tank** (n.): (Combat) Mob or player that can take sustained damage for a long time.
+
+### U
+- **UP** or **under-powered** (adj.): Unnecessarily weak, usually by unbalanced game design.
+
+### V
+- **vanilla** (adj.): Standard game content, unchanged by
+
+
+
+
+```markdown
+# Surf 'n' Turf
+
+## Structure Infobox
+- **CanBeBurned**: 1
+- **FoodType**: Meat ![Meat Icon](Surf 'n' Turf.png)
+- **FoodRecipe**: ![Meats Icon](Surf 'n' Turf.png) x2.5 ![Fishes Icon](Surf 'n' Turf.png) x1.5 
+- **Icon**: ![Surf 'n' Turf Icon](Surf 'n' Turf.png)
+- **Image**: ![Surf 'n' Turf Dropped](Surf 'n' Turf Dropped.png)
+- **HpRestored**: 60
+- **HungerRestored**: 37.5 / 52.5 (Wickerbottom Portrait)
+- **SanityRestored**: 33
+- **Cooktime**: 20 sec
+- **Priority**: 30
+- **Spoil**: 10 Days
+- **Stack**: 40
+- **SpawnCode**: "surfnturf"
+
+## Quotes
+- Wilson: "It's perf!"
+- Willow: "Ugh. This is old person food!"
+- Wolfgang: "Very good."
+- Wendy: "It could be worse."
+- WX78: "PREPARE FOR CALORIC INTAKE"
+- Wickerbottom: "The perfect dish."
+- Woodie: "Good eating, that."
+- Maxwell: "A very balanced meal, I suppose."
+- Wigfrid: "Nothing goes better with meat than more meat!"
+- Webber: "Eww, healthy!"
+- Warly: "Mwah! Perfection."
+- Wormwood: "Fills belly"
+- Winona: "Now THAT'S a meal!"
+- Wortox: "My my, what an odd pair!"
+- Wurt: "Blegh! Don't want it!"
+- Walter: "So filling!"
+- Wanda: "Perfect for people who can't make up their mind."
+- Choose: Wickerbottom
+
+Surf 'n' Turf is a Meat item included in Don't Starve Together, introduced in Return of Them. It is cooked in the Crock Pot by adding any Meats and Fishes with a total Fish value of 1.5 or higher and a total Meat value of all the ingredients of 2.5 or higher. Surf 'n' Turf restores 60 Hp, 37.5 Hunger, and 33 Sanity. Multiple Monster Meats can be used in the recipe (as long as the recipe requirements are met) without the fear of making Monster Lasagna, since Surf 'n' Turf recipe has a higher priority than Monster Lasagna. Surf 'n' Turf is the favorite food of Wickerbottom, and consuming it will restore her extra 15 Hunger.
+
+## Recipe
+- **Meats** x2.5
+- **Fishes** x1.5
+- **Tool**: Crock Pot
+- **Result**: Surf 'n' Turf
+- **Note**: Filler cannot be Ices.
+
+## Examples
+1. **Monster Meats** x2 + **Raw Fish** x2 = Surf 'n' Turf
+2. **Monster Meats** x2 + **Eels** x2 = Surf 'n' Turf
+3. **Monster Meats** + **Raw Fish** + **Fish Morsel** + **Inedible** = Surf 'n' Turf
+4. **Meats** + **Raw Fish** x2 + **Inedible** = Surf 'n' Turf
+5. **Monster Meats** + **Wobster (DST)** + **Fish Morsel** + **Inedible** = Surf 'n' Turf
+6. **Monster Meats** + **Freshwater Fish** x3 = Surf 'n' Turf
+7. **Monster Meats** + **Fish Morsel** x3 = Surf 'n' Turf
+
+## Trivia
+- Surf 'n' Turf was introduced to Don't Starve Together in the Hook, Line, and Inker update.
+- Surf and turf is a meal that combines seafood with meat, typically beef steak and lobster.
+- Surf 'n' Turf is also present in Oxygen Not Included, another game developed by Klei Entertainment.
+```

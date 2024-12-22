@@ -1,0 +1,41 @@
+```markdown
+# Deconstruction Staff
+
+## Overview
+
+The Deconstruction Staff is a craftable item found in the Ancient Tab. It requires at least a Broken Pseudoscience Station to craft, and costs 4 Nightmare Fuel, 2 Living Logs, and 2 Green Gems to craft. It can also randomly drop from an Ancient Pseudoscience Station when the latter is damaged with a Hammer, Gunpowder, etc. Like all items from the Ancient Tab, Deconstruction Staves cannot be prototyped and can only be crafted within range of an Ancient Pseudoscience Station.
+
+## Usage
+
+When used on a craftable Structure, the Deconstruction Staff returns 100% of the ingredients needed to craft it. However, when used on an Item, the Staff will return a percentage of the materials equal to the remaining durability, rounded up. If Gems were used in the crafting process, they will not be returned and will always "shatter" instead. With each use of the Staff, Characters will lose 20 sanity and the Staff will lose 20% of its Durability.
+
+### Content Downloadable
+
+In the Reign of Giants DLC, players have a small (0.02%) chance of finding Green Gems inside Tumbleweeds, thus making Deconstruction Staves renewable.
+
+In the Hamlet DLC, the Deconstruction Staff is one of the two items that can permanently destroy Town Houses, Pig Shops, Watch Towers, Lawn Decorations, Intricate Topiaries, and Hedges that cannot be destroyed with a Hammer. The other is the Executive Hammer.
+
+## Crafting and Deconstruction
+
+### Craftables Created with a Construction Amulet
+
+| Item | Construction Cost using Construction Amulet | Deconstruction Yield | Net Cost | Net Gain |
+| --- | --- | --- | --- | --- |
+| Thulecite Suit | Green Gem×0.2 Thulecite×3.4 Nightmare Fuel×2.6 | Thulecite×6 Nightmare Fuel×4 | Green Gem×0.44 Living Log×0.2 | Thulecite×2.52 Nightmare Fuel×0.88 |
+| Thulecite Club | Green Gem×0.2 Thulecite×2.4 Living Log×2 Nightmare Fuel×2.6 | Thulecite×4 Living Log×3 Nightmare Fuel×4 | Green Gem×0.44 | Thulecite×1.52 Living Log×0.8 Nightmare Fuel×0.88 |
+| Glossamer Saddle | Green Gem×0.2 Thulecite×0.4 Living Log×1 Nightmare Fuel×0.6 Silk×2 Butterfly Wings×34 | Living Log×2 Silk×4 Butterfly Wings×68 | Green Gem×0.44 Thulecite×0.48 Nightmare Fuel×1.12 | Living Log×0.8 Silk×2 Butterfly Wings×34 |
+| War Saddle | Steel Wool×2 Green Gem×0.2 Thulecite×0.4 Rabbit×2 Nightmare Fuel×0.6 Log×5 | Steel Wool×4 Rabbit×4 Log×10 | Green Gem×0.44 Thulecite×0.48 Living Log×0.2 Nightmare Fuel×1.12 | Steel Wool×2 Rabbit×2 Log×5 |
+| Telelocator Focus | Green Gem×0.2 Thulecite×0.4 Living Log×2.2 Nightmare Fuel×2.6 Gold Nugget×4 | Living Log×4 Nightmare Fuel×4 Gold Nugget×8 | Green Gem×0.44 Thulecite×0.48 | Living Log×1.6 Nightmare Fuel×0.88 Gold Nugget×4 |
+
+### Craftables Created without a Construction Amulet
+
+| Item | Construction Cost | Deconstruction Yield | Net Cost | Net Gain |
+| --- | --- | --- | --- | --- |
+| Scaled Flooring | Scales×0.25 Cut Stone×0.25 | Scales×1 Cut Stone×1 | Green Gem×0.24 Thulecite×0.08 Living Log×0.2 Nightmare Fuel×0.52 | Scales×0.75 Cut Stone×0.75 |
+| Thulecite Wall | Thulecite×0.167 | Thulecite×1 | Green Gem×0.24 Living Log×0.2 Nightmare Fuel×0.52 | Thulecite×0.753 |
+
+## Tips
+
+- Since Green Gems are so rare, the best use for Deconstruction Staffs is on Items or Structures that require very rare or non-renewable materials (e.g. items from the Ancient or Magic Tab).
+- Some items that are created using a single non-renewable ingredient (e.g. Pan Flute) can be deconstructed and crafted again to extend their usage, since the Staff will always return at least one of the non-gem materials used.
+- The Deconstruction

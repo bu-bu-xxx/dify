@@ -1,0 +1,2991 @@
+```markdown
+# Surfboard
+
+## Exclusivity
+Shipwrecked
+
+## Item Info
+- **Ingredient 1**: Boards (Multiplier: 1)
+- **Ingredient 2**: Seashell (Multiplier: 2)
+- **Tab**: Nautical
+- **Spawn Code**: "surfboard", "surfboard_item" (item)
+- **Name**: Surfboard
+- **Tier**: 0
+- **Stack**: Does not stack
+- **Durability**: 100
+- **Perk**: Sailing Speed: 6.5, Grants 1 Sanity and large speed boost for riding Waves
+- **Description**: Cowabunga dudes!
+
+## Quote
+> "My love for you is deeper than the ocean." - Walani
+
+## Details
+The **Surfboard** is a **Boat** item in the **Shipwrecked** DLC, and is exclusive to **Walani**. Walani starts the game with it in her inventory, and is the only **character** able to craft it. It can be crafted with 1 **Board** and 2 **Seashell**s from the **Nautical Tab**.
+
+It has the highest base movement speed of all **Boats** at 6.5, but also has the lowest durability at 100. It restores 1 **Sanity** to Walani for every **Wave** that she rides correctly, and gives a ×5 (Small Waves) or ×7 (Big Waves) speed boost from riding Waves compared to most other Boats (excluding the **Encrusted Boat**). It will also suffer a ×1.5 **Wetness** penalty and grant no speed boost when hitting Waves incorrectly.
+
+The Surfboard does not require paddling, so Walani can hold tools (including **Torch**es and **Bottle Lantern**s) while surfing. Surfboards can be retrieved from both land and sea and placed into the inventory, thus making it possible to pick up and re-deploy the Surfboard after placing it.
+
+While moving, the Surfboard loses durability at a rate of 1 per 9.6 seconds, lasting a total of 2 days. Sailing on a heavily damaged Surfboard won't increase Wetness.
+
+## Tips
+- Riding **Waves** correctly can give a large boost in speed and sanity over time, making Walani much faster when she moves with the current.
+- Because it is the only sea-craft capable of riding Big Waves, the Surfboard is often the fastest vessel for Walani during **Hurricane Season**.
+- **Purple Grouper** and **Tropical Bouillabaisse**'s effects cause Walani to gain the speed boost and sanity bonuses even from hitting Waves incorrectly, negating the Wetness and damage penalties for doing so.
+- **Pierrot Fish** and **Tropical Bouillabaisse** can be used to dry off rapidly if the player is suffering from high Wetness after crashing into a few waves - even during an ongoing storm.
+- While the Surfboard does not require prototyping, Boards do require a **Science Machine** to prototype. However, Boards can also be obtained by **Hammer**ing **Crate**s, allowing more Surfboards to be crafted before building a Science Machine.
+- If hammered down with a **Hammer** returns one board and one Seashell.
+
+## Bugs
+- Using the console to spawn a surfboard for other characters may cause a crash.
+- Dropping the Surfboard, or crafting it with a full inventory, while near the edges of land in a Shipwrecked world can cause the Surfboard to fall in the water and sink.
+- In **Pocket Edition**, the option to retrieve the Surfboard will not appear, making it more useless to the Player.
+
+## Gallery
+<details>
+  <summary>Click to expand gallery</summary>
+  
+  | Image | Description |
+  | --- | --- |
+  | ![Walani](Walani.png) | The Surfboard as featured in Walani's poster. |
+  | ![Walani surfing](Walani special.png) | Walani surfing on the Surfboard. |
+  | ![Surfboard Dropped](Surfboard Dropped.png) | The Surfboard when dropped on land. |
+  | ![Walani Surfing Trailer](Walani_Surfing_Trailer.jpg) | Walani riding a big wave with her Surfboard, as seen in the Shipwrecked trailer. |
+
+</details>
+
+## Categories
+- Craftable Items
+- Nautical Tab
+- Character-Specific
+```
+
+
+
+
+```markdown
+# Blue Cap
+
+## Basic Information
+- **Can Be Burned:** Yes
+- **Image:** ![Blue Cap Dropped](Blue Cap Dropped.png)
+- **Icon:** ![Blue Cap](Blue Cap.png)
+- **Name:** Blue Cap
+- **Food Type:** Veggie ![Veggie](Veggie.png)
+- **HP Restored:** 20
+- **Hunger Restored:** 12.5
+- **Sanity Restored:** -15
+- **Spoil:** 10 Days
+- **Stack:** 40
+- **Spawn Code:** "blue_cap"
+- **Sold By:** Ham: Curly Tails Mud Spa (Oinc ×3)
+- **Food Value:** Vegetables × 0.5
+- **Dropped By:** DS: Blue Mushroom, Mushtree (Axe) <hr> SW: Slotmachine
+
+## Quotes
+- Wilson: It's weird and gooey.
+- Willow: It smells like a gym sock!
+- Wolfgang: Is good for me, I think.
+- Wendy: A fungus to preserve the monotony.
+- WX78: MEDICINAL FUNGUS
+- Wickerbottom: This seems to have medicinal properties.
+- Woodie: That's not meat.
+- Maxwell: What could go wrong?
+- Wagstaff: This most certainly will not agree with me.
+- Wigfrid: Hmm, a blue one.
+- Webber: You'd have to be crazy...
+- Walani: I didn't know mushrooms came in blue.
+- Warly: What deliciousness shall you yield?
+- Woodlegs: I know enuff not to pop this'n me mouth no questions asked.
+- Wilba: TO EATS OR NOT TO EATS?
+- Wormwood: Hurts head. Ow!
+- Wheeler: Well if it's not edible, I can always launch it through the air.
+- Winona: Yep. Blue mushroom.
+- Wortox: Funny tricks it tries to play.
+- Wurt: Good for belly, bad for head.
+- Walter: I'm preeetty sure this isn't the poisonous kind...
+- Wanda: It's... probably edible. If I'm desperate.
+
+## Cooked Blue Cap
+
+### Basic Information
+- **Can Be Burned:** Yes
+- **Image:** ![Cooked Blue Cap Dropped](Cooked Blue Cap Dropped.png)
+- **Icon:** ![Cooked Blue Cap](Cooked Blue Cap.png)
+- **Name:** Cooked Blue Cap
+- **HP Restored:** -3
+- **Hunger Restored:** 0
+- **Sanity Restored:** 10
+- **Spoil:** 10 Days
+- **Stack:** 40
+- **Spawn Code:** "blue_cap_cooked"
+- **Food Value:** Vegetables × 0.5
+- **Burn Time:** Fuel 7.5 sec.
+
+### Quotes
+- Wilson: It's different now...
+- Willow: I changed it with fire!
+- Wolfgang: Is not same.
+- Wendy: All is malleable.
+- WX78: MODIFIED FUNGUS
+- Wickerbottom: Chemistry has happened.
+- Woodie: That's not meat.
+- Maxwell: Umami!
+- Wagstaff: Good for the clarity of mind.
+- Wigfrid: I still don't want to eat it.
+- Webber: Good thing we're feeling healthy.
+- Walani: Did I make it better or worse?
+- Warly: Could use smoked salt and balsamic vinegar...
+- Woodlegs: Smells eat-able...
+- Wilba: DOTH FRWOOSHING MAKEST IT BETTER?
+- Wormwood: Helps head. Ahhh...
+- Wheeler: Only one way to tell if it's safe or not.
+- Winona: Well, I don't THINK it's poison.
+- Wortox: That changed it somehow.
+- Wurt: It smell different...
+- Walter: Nothing ventured, nothing gained!
+- Wanda: I think I made it worse.
+
+## Downloadable Content
+- In the Shipwrecked DLC, Blue Caps can be obtained by using the Slot Machine.
+- In the Hamlet DLC, Blue Caps can be bought for 3 Oincs at the Curly Tails Mud Spa in Pig City.
+
+## Usage
+- **Recipe:**
+  - Item: Blue Cap
+  - Result: Cooked Blue Cap
+  - Tool: Cooking
+
+- **Recipe:**
+  - Item: Blue Cap
+  - Tool: Pig Icon
+  - Result: Manure
+
+## Tips
+- Raw and Cooked Blue Caps can be eaten together to increase all three stats. Eating one raw Blue Cap and two cooked Blue Caps results in +14 HP
+
+
+
+
+```markdown
+# Lichen
+
+![Lichen Dropped](Lichen Dropped.png)
+![Lichen](Lichen.png)
+
+## Properties
+- **HP Restored**: 3
+- **Hunger Restored**: 12.5
+- **Sanity Restored**: -5
+- **Spoils**: 2 Days
+- **Stack Size**: 40
+- **Food Value**: 1 Vegetable
+- **Spawn Code**: `cutlichen`
+- **Dropped By**: ![Cave Lichen](Cave Lichen.png)
+
+## Quotes
+- Wilson: Nutritious, but it won't last long.
+- Willow: Blah, tastes like sawdust.
+- Wolfgang: Tastes terrible.
+- Wendy: Fleeting, just like life.
+- WX-78: THIS WILL CRUMBLE AWAY SOON.
+- Wickerbottom: This won't last long.
+- Woodie: Yum! Tastes woody!
+- Maxwell: Dry, crumbly, sustaining.
+- Wagstaff: It's inadvisable that I should consume this without cooking it first.
+- Wigfrid: I picked it. But I won't eat it.
+- Webber: I like me a lichen.
+- Walani: Can I get something to eat now?
+- Warly: Hmm, odd.
+- Woodlegs: Sea-grass!
+- Wilba: CAVE ROT BY ANY OTHER NAME WOULD TASTE AS SWEET
+- Wormwood: Smells good
+- Wheeler: I could eat it. Or I could launch it.
+- Winona: Not to my lichen. Ha!
+- Wortox: I'd really rather not eat it.
+- Wurt: Crumbly.
+- Walter: It grows in most caves.
+- Wanda: Its time is running out quickly.
+- Choose: Maxwell
+
+## Description
+**Lichen** is a **Food** item in **Don't Starve**. It is classified as a **Vegetable**, and can only be obtained in the **Ruins** by harvesting **Cave Lichen**. Lichen cannot be cooked at a **Fire Pit**, **Campfire**, or **Star Caller's Staff**, but it can be used as an ingredient in a **Crock Pot**. Lichen regrows after 5 days.
+
+Lichen can be eaten raw and restores 3 HP and 12.5 Hunger, at the cost of 5 Sanity. The Sanity penalty can be avoided by using it in a Crock Pot instead. The Unagi recipe for the Crock Pot specifically requires Lichen, however, Lichen can also be used as a filler. Lichen spoils very quickly and becomes **Rot** 2 days after being harvested.
+
+As of the **Return of Them|Eye of the Storm** beta, Lichen can be fed to **Beefalo** and **Pigs**.
+
+### Usage
+- **Pig Icon**: Lichen produces **Manure** when given to pigs.
+- **Crock Pot**: Combines **Lichen**, **Eel**, and two **Fillers** to make **Unagi**.
+
+### Trivia
+- Lichen used to be green, but its color was changed in the **Stuff of Nightmares** update.
+
+### Gallery
+<gallery captionalign="center" hideaddbutton="true">
+Lichentransp.png|Old Lichen icon 
+</gallery>
+
+### Categories
+- Sanity Loss
+- Food
+- Vegetables
+- Items
+- Healing
+- Flammable Objects
+- Perishables
+```
+
+
+
+
+```markdown
+# Featured
+![Caves Playstyle](Caves_Playstyle.png "Caves Playstyle"){: width="200px"}
+> "What treasures lie beneath?" - Wigfrid
+
+## Caves
+Caves are large underground sections of the world filled with unique features. They are so large that they are generated as whole new maps upon entering. Caves have their own artwork, terrain, and maps. They are home to various creatures, plants, and other objects that do not appear elsewhere.
+
+## Spelunking
+![A fully-explored Cave (older map)](CaveMap.jpg "A fully-explored Cave"){: width="300px"}
+A Cave can be found underneath a **Plugged Sinkhole**. Upon mining the plug with a **Pickaxe**, an open **Sinkhole** appears with a rope leading down into a new Cave. Each Sinkhole connects to a different Cave. Each Cave is generated just like a new world. A different loading screen (pictured above) will play while it is created. While within a Cave, time in the world above continues to pass and vice versa. However, the **Clock** is removed from the game's HUD while the player is inside a Cave, making it difficult to keep track of the current **Day-Night Cycle**.
+
+Once a Sinkhole is unplugged, **Batilisks** can emerge at **Dusk** and roam the surface world, but will not travel far from the Sinkhole from which they emerged.
+
+When a Sinkhole is entered (or "spelunked"), the player will be dropped into a small circle of light within the Cave, with a rope hanging from above and a skeleton nearby. Interacting with the rope will return the player to the surface world.
+
+The worlds within a Cave are affected by the **Day-Night Cycle**, **Moon Cycle**, and the four **Seasons**. However, Caves are perpetually in darkness. This means that **Sanity** slowly drains while in Caves and, in areas of complete darkness, characters are vulnerable to **Charlie (Night Monster)**. Some natural light may leak in from the surface in certain places, but these sources of light will only appear while it is daytime in the world above. Permanent or semi-permanent light sources can be found from certain objects that naturally occur in Caves, such as **Light Flowers**, **Mushtrees**, or **Nightmare Fissures**. However, since the large majority of areas in Caves are completely dark, players will need to bring their own sources of light to be able to effectively explore.
+
+**Giants** and **Hounds** will not spawn in Caves. If a player skips a hound wave while spelunking, the wave will occur as soon as the player emerges from the cave. If a player skips the spawning of a giant, that giant might also spawn upon resurfacing (sometimes skipping the warm-up "growling" period). Staying in a cave until the season changes will prevent the previous season's giant from attacking in this manner.
+
+## Depths Worm Attacks
+In place of Hound and giant attacks, **Depths Worms** will attack the player at intervals similar to the Hound wave attacks on the surface, and will increase in intensity as the days spent in the world increase. Like Hound attacks in the surface, Depths Worms will automatically target the player unless distracted by another mob.
+
+## Earthquakes
+**Earthquakes** occur fairly often while the player is within a Cave. When an earthquake strikes, the screen shakes and a rumbling sound plays. **Rocks**, **Flint**, **Nitre**, **Marble**, **Gold Nuggets**, and sometimes **Red Gem** and **Blue Gem** **Gems** will fall from the Cave ceiling. A small shadow will appear where each mineral is about to fall. If struck by a falling mineral, the player will take a small amount of damage. Many of the items that fall during an earthquake shatter when they hit the ground, but some will remain intact and can be collected by the player. Once the earthquake ends, **Slurtles** and **Snurtles** leave their homes and roam the Cave in search of minerals to eat.
+
+## Creatures
+![A Bunnyman](Bunnyman.png "A Bunnyman"){: width="80px"}
+![A Spitter](Spitter_Build.png "A Spitter"){: width="80px"}
+In addition to normal **Spiders**, **Fireflies**, and **Tentacles**, the following creatures reside only in Caves:
+- **Cave Spider**
+- **Spitter**
+- **Batilisk**
+- **Bunnyman** / **Beardlord**
+- **Slurtle**
+- **Snurtle**
+- **Rock Lobster**
+- **Big Tentacle
+
+
+
+
+```markdown
+# Saplings
+
+### Object Infobox
+- **Image:**  
+  ![Idle Sapling](Sapling.png)  
+  ![Empty Sapling](Sapling Empty.png)  
+  ![Sapling Dead](Sapling Dead.png)
+- **Tool:** Can be **Dug** with a **Shovel**
+- **Picked:** Can be picked (Twigs)
+- **CanBeBurned:** 1
+- **Resources:** Sapling Item
+- **Renew:** No / Yes (DST 24 Endless & Wilderness)
+- **Biome:** Forest, Grassland, Beach (Shipwrecked), Magma Field (Shipwrecked), Rainforest (Hamlet), Wild Plains (Hamlet)
+- **Spawn Code:** "sapling"
+- **Image Width:** 100
+
+### Structure Infobox
+- **Beaverness Restored:** +10
+- **Name:** Sapling
+- **Image:** Sapling Dropped.png
+- **Icon:** Sapling Item.png
+- **Burn Time:** 3 min.
+- **CanBeBurned:** 1
+- **Stack:** 10
+- **Perk:** Can be replanted.
+- **Dropped By:** Sapling (Shovel Regal Shovel)
+- **Spawn Code:** "dug_sapling"
+
+### Quotes
+- **Wilson:** "Baby trees are so cute!"
+- **Willow:** "I should pick it."
+- **Wolfgang:** "Puny tree! I am stronger than you!"
+- **Wendy:** "It's trying to grow up."
+- **WX-78:** "POTENTIAL CONSTRUCTION MATERIAL"
+- **Wickerbottom:** "It's a small tree."
+- **Woodie:** "I want to see it grow so I can chop it down."
+- **Maxwell:** "A supple, woody stem."
+- **Wagstaff:** "I predict it will be a tree soon enough."
+- **Wigfrid:** "I will make it into a spear."
+- **Webber:** "These sure grow slowly."
+- **Winona:** "Might be useful."
+- **Walani:** "Board material?"
+- **Warly:** "Those could be key to my continued survival."
+- **Woodlegs:** "Wee wood."
+- **Wilba:** "LITTLE STICKS"
+- **Wormwood:** "Hello? Friend?"
+- **Wheeler:** "Kind of twiggy. I can work with twigs."
+- **Wortox:** "It has delusions of being a tree."
+- **Wurt:** "Little tree!"
+- **Walter:** "It's a baby tree."
+- **Wanda:** "For some reason, these ones don't seem to grow any bigger."
+
+### Description
+Saplings are small **Plants** found commonly in **Grasslands** and **Forests**. They can be picked to provide 1 **Twig**, after which they will need 4 days to regrow. Saplings can be dug up with a **Shovel** and replanted in a new location (typically closer to a base camp). Saplings can't be planted on **Checkerboard Floorings**, **Wooden Floorings**, **Cobblestones**, **Carpeted Floorings**, **Rocky Turfs**, **Sandy Turfs**, and **Cave Rock Turfs**, unless it has been planted before these **turfs** were placed. Unlike **Grass Tufts** and **Berry Bushes**, Saplings don't require fertilization to regrow after being replanted. This is similar to **Spiky Bushes**, which can be harvested without fertilization.
+
+They are also highly flammable, and may be used as fuel in **Campfires** or **Fire Pits**. When burned on the ground, a Sapling will leave behind 1 **Ashes**. Because they burn easily, Saplings planted close together are very susceptible to **Lightning** strikes. This can be prevented by building **Lightning Rods**. Saplings will not regrow during **Winter**.
+
+Despite their name and **Character quotes** from some characters, Saplings will never grow into **Trees**.
+
+Saplings, along with other items, like **Log Suits**, **Grass Tufts**, and **Boards**, have the longest burn time.
+
+### Downloadable Content
+In the **Don't Starve: Reign of Giants** DLC, Saplings will turn into Withered Saplings during **Summer**. During
+
+
+
+
+```markdown
+# Lush Carpet
+
+- **Exclusivity**: Don't Starve Together
+- **Icon**: ![Lush Carpet](Lush_Carpet.png)
+- **Image**: ![Lush Carpet Dropped](Lush_Carpet_Dropped.png)
+- **Name**: Lush Carpet
+- **Can Be Burned**: 1
+- **Ingredient 1**: Boards (Multiplier: 1)
+- **Ingredient 2**: Beefalo Wool (Multiplier: 1)
+- **Num to Give**: 4
+- **Burn Time**: 7.5 sec. (File:Light_Sources_Filter.png|link=Fuel#Fire Fuel)
+- **Stack**: 20
+- **Spawn Code**: "turf_carpetfloor2"
+- **Filter**: ![Decorations Filter](Decorations_Filter.png)
+- **Tier**: 2
+- **Description**: Super Super soft.
+
+## Turf Info
+- **Image**: ![Lush Carpet Texture](Lush_Carpet_Texture.png)
+- **Pitchfork**: 1
+
+## Quotes
+- **Wilson**: "It's surprisingly soft."
+- **Willow**: "The ground is boring."
+- **Wolfgang**: "Step stones."
+- **Wendy**: "There's something unnatural about this ground."
+- **WX-78**: "CARPETED GROUND"
+- **Wickerbottom**: "The ground. You step on it."
+- **Woodie**: "A fancy place to leave muddy footprints."
+- **Maxwell**: "What was wrong with my carpet?"
+- **Wigfrid**: "A good color to hide the bloodstains of battle."
+- **Webber**: "Rosy cozy carpet!"
+- **Warly**: "How plush!"
+- **Wormwood**: "Not real friends."
+- **Winona**: "That's a real dramatic chunk of ground."
+- **Wortox**: "Floor or ceiling, depending on your perspective."
+- **Wurt**: "Fuzzy ground."
+- **Walter**: "Some carpet."
+- **Wanda**: "Oh, what a lovely carpet!"
+
+## Scrapbook Info
+Can be placed on dirt ground to change the type of ground.
+
+## Description
+'''Lush Carpet''' is a naturally generated type of [[Turfs|Flooring]] exclusive to ''[[Don't Starve Together]]''. It was added in ''[[A Little Drama and QOL|A Little Drama]]'' update and can be found on the [[Stage]] [[Set Piece]] or on a one tile large [[Briar Wolf|Briar Wolf Set Piece]].
+
+It is an alternative to the regular [[Carpeted Flooring]] and has a dark purple texture. It can also be crafted with one [[Boards|Board]] and one [[Beefalo Wool]] and requires an [[Alchemy Engine]] to prototype.
+
+## Trivia
+* The Last update where a new [[Turfs|turf]] type was added, which is the Ancient Stonework, was ''Turn of the Tides'', released in June 2019. Since then, ''Don't Starve Together'' hadn't received a new turf type. After almost 3 years, however, 10 new turf types were introduced, including the lush carpet.
+* Shade of Lush Carpet is the opposite of the regular one. (The latter is bright purple, while its lush variant is dark.)
+* Lush carpet shares the same crafting recipe with regular carpeted flooring.
+
+## Gallery
+![Lush Carpet concept art](RWP_ALD_Lush_Carpet_concept_art1.png)
+
+## Categories
+- [[Category:Turf Items]]
+- [[Category:Decorations Filter]]
+
+## See Also
+- [[vi:Lush Carpet]]
+```
+
+
+
+
+```markdown
+# Chef Pouch
+
+The **Chef Pouch**, also known as the **Spice Pack**, is a character-specific item unique to **Warly**. It provides an additional 6 inventory slots, and items inside will take 33% longer to spoil. It requires 4 **Cut Grass**, 4 **Twigs**, and 2 **Nitre** to craft.
+
+## Details
+
+- **Equip Slot:** Body
+- **Image:** ![Chef Pouch Dropped](Chef Pouch Dropped.png)
+- **Icon:** ![Chef Pouch](Chef Pouch.png)
+- **Name:** Chef Pouch
+- **Can Be Burned:** Yes
+- **Ingredients:**
+  - **Cut Grass:** 4
+  - **Twigs:** 4
+  - **Nitre:** 2 (only for **Warly**)
+- **Filter:** Storage Solutions, Cooking, Warly Filter, Survivor Items Filter
+- **Tier:** 0
+- **Perk:** +6 inventory slots, Contents receive 75% spoilage rate
+- **Spawn Code:** "spicepack"
+- **Stack:** Does not stack
+- **Description:** Freshen up your foodstuffs.
+
+## Trivia
+
+- The Chef Pouch was added in the **Eye of the Tiger Shark** update to **Shipwrecked**.
+- The Chef Pouch was added in the **Warly Character Refresh** update to Don't Starve Together.
+- Prior to the **Release The Quacken** update, the Chef Pouch only had four inventory slots.
+- When the player begins a **Don't Starve** game as Warly, the Chef Pouch is actually dropped nearby, implying that it is supposed to go into the player's Inventory, but fails, as backpacks cannot be held in the Inventory.
+
+## Quotes
+
+- **Wilson:** "A breakthrough in culinary science!"
+- **Willow:** "I'm sure Warly won't mind if I borrow this."
+- **Wolfgang:** "Wolfgang will carry all the food!"
+- **Wendy:** "To fend off the ravages of decay... for my food at least."
+- **WX-78:** "EFFICIENT STORAGE FOR ORGANIC MATTER"
+- **Wickerbottom:** "This should keep my provisions from spoiling!"
+- **Woodie:** "A handy knapsack for conserving food!"
+- **Maxwell:** "I've been reduced to hauling my own foodstuffs."
+- **Wigfrid:** "I'll use this to carry delicious meats!"
+- **Webber:** "I'm sure Mr. Warly won't mind if we use this!"
+- **Winona:** "Say, this is some fine bit of engineering!"
+- **Warly:** "My bag of chef's tricks!"
+- **Wortox:** "What a cute little pack. Hyuyu!"
+- **Wormwood:** "Pack for belly stuff!"
+- **Wurt:** "Keep foods inside!"
+- **Walter:** "Specialized spice traveling gear."
+- **Wanda:** "I wonder if it makes time slow down, or if it's just well insulated."
+
+## Gallery
+
+<details>
+  <summary>Click to expand gallery</summary>
+  <img src="Warly Wolly.png" alt="A Chef Pouch spawning alongside Warly in Shipwrecked.">
+  <img src="Minimap Chef Pouch.png" alt="Chef Pouch Map icon.">
+  <img src="Chef Pouch Winona.png" alt="Winona wearing a Chef Pouch.">
+  <img src="Chef Pouch Warly.png" alt="Warly wearing a Chef Pouch.">
+  <img src="Chef Pouch Wortox.png" alt="Wortox wearing a Chef Pouch.">
+  <img src="Chef Pouch Wormwood.png" alt="Wormwood wearing a Chef Pouch.">
+  <img src="Chef Pouch Wurt.png" alt="Wurt wearing a Chef Pouch.">
+</details>
+
+## Categories
+
+- Equipable Items
+- Containers
+- Flammable Objects
+- Survivor Items Filter
+- Storage Solutions Filter
+- Cooking Filter
+- Backpacks
+
+## Translations
+
+- [Vietnamese: Túi Đầu Bếp](vi:Túi Đầu Bếp)
+- [Chinese: 厨师袋](zh:厨师袋)
+```
+
+
+
+
+```markdown
+# Floral Shirt
+
+## Overview
+The **Floral Shirt**, also known as the **Hawaiian Shirt**, is a craftable **Dress** item from the **Reign of Giants** DLC. It requires 3 **Papyrus**, 3 **Silk**, and 5 **Cactus Flowers** to craft and an **Alchemy Engine** to prototype. It restores 3.3 **Sanity**/min and provides 240 points of protection from **Overheating** while worn.
+
+## Crafting and Spoilage
+The **Floral Shirt** spoils after 15 days, similar to the **Fashion Melon** and the **Garland**, instead of losing durability as it's worn, thus it cannot be repaired with a **Sewing Kit**. Storing it inside an **Insulated Pack** or **Snow Chester** will slow its spoilage rate.
+
+## Seasonal Dependence
+Since the item requires **Cactus Flowers** to be crafted, it cannot be crafted until the first **Summer**. Unfortunately, it only lasts for 12 days after that, due to the 25% faster spoilage during Summer.
+
+## Shipwrecked DLC
+The **Floral Shirt** is also included in the **Shipwrecked** DLC, where it is helpful against **Overheating** during the **Dry Season**. It requires 5 **Petals** to craft instead of 5 **Cactus Flowers**, as **Cacti** are not present in the **Shipwrecked** world.
+
+## Trivia
+- The **Floral Shirt** used to be crafted using **Petals**, **Silk**, and **Butterfly Wings**, and it wasn't as effective against **heat**.
+- Even though it requires a **Cactus Flower** to craft (suggesting that is the flower on the shirt), typical "Hawaiian" shirts depict the **Hibiscus**, the Hawaiian state flower.
+
+## Gallery
+![Wilson wearing a Floral Shirt](Floral Shirt Wilson.png)
+![Willow wearing a Floral Shirt](Floral Shirt Willow.png)
+![Wolfgang wearing a Floral Shirt](Floral Shirt Wolfgang.png)
+![Wendy wearing a Floral Shirt](Floral Shirt Wendy.png)
+![WX-78 wearing a Floral Shirt](Floral Shirt WX-78.png)
+![Wickerbottom wearing a Floral Shirt](Floral Shirt Wickerbottom.png)
+![Woodie wearing a Floral Shirt](Floral Shirt Woodie.png)
+![Wes wearing a Floral Shirt](Floral Shirt Wes.png)
+![Maxwell wearing a Floral Shirt](Floral Shirt Maxwell.png)
+![Wagstaff wearing a Floral Shirt](Floral Shirt Wagstaff.png)
+![Wigfrid wearing a Floral Shirt](Floral Shirt Wigfrid.png)
+![Webber wearing a Floral Shirt](Floral Shirt Webber.png)
+![Walani wearing a Floral Shirt](Floral Shirt Walani.png)
+![Warly wearing a Floral Shirt](Floral Shirt Warly.png)
+![Wilbur wearing a Floral Shirt](Floral Shirt Wilbur.png)
+![Woodlegs wearing a Floral Shirt](Floral Shirt Woodlegs.png)
+![Wilba wearing a Floral Shirt](Floral Shirt Wilba.png)
+![Wormwood wearing a Floral Shirt](Floral Shirt Wormwood.png)
+![Wheeler wearing a Floral Shirt](Floral Shirt Wheeler.png)
+![Winona wearing a Floral Shirt](Floral Shirt Winona.png)
+![Wortox wearing a Floral Shirt](Floral Shirt Wortox.png)
+![Wurt wearing a Floral Shirt](Floral Shirt Wurt.png)
+```
+
+
+
+
+```markdown
+# Abigail's Flower
+
+![Abigail's Flower](Abigail's Flower Dropped.png) ![Icon](File:Abigail's Flower.png)
+
+- **Perk**: Summons [Abigail].
+- **Can Be Burned**: 1
+- **Stack**: Does not stack
+- **Spawn Code**: `abigail_flower`
+- **Sanity Drain**: -50
+- **Dropped By**: ![Abigail](File:Abigail build.png)
+
+## Exclusivity
+
+This item is available in Don't Starve, Reign of Giants, Shipwrecked, Hamlet, and Don't Starve Together.
+
+## See Also
+
+- [Abigail]
+- [Wendy]
+
+## Quotes
+
+- **Wilson**: It's hauntingly beautiful.
+- **Willow**: Looks flammable.
+- **Wolfgang**: Is pretty.
+- **Wendy**: It's pretty.
+- **WX-78**: I CAN SEE NO USE FOR IT
+- **Wickerbottom**: Ah... I'm not familiar with this strain of flower.
+- **Woodie**: It's a flower? I guess.
+- **Maxwell**: Hm? What a familiar presence.
+- **Wagstaff**: Emitting a psychokinetic energy.
+- **Wigfrid**: Has Idun herself blessed this löwly flöwer?
+- **Webber**: Pretty petals!
+- **Walani**: Reminds me of fragrant perfume.
+- **Warly**: I don't think it's edible.
+- **Woodlegs**: 'Tis a treasure of bewitching beauty.
+- **Wilba**: TIS BLOSSOM OF GHOST GIRL!
+- **Wormwood**: Friend?
+- **Wheeler**: A totally normal flower. Yeah. That's what it is.
+- **Choose**: wendy
+
+**Abigail's Flower** is a character-specific item used by **Wendy** to summon the **Ghost** of her twin sister, **Abigail**.
+
+To do so, players need to place Abigail's Flower on the ground. A mob death near the flower is necessary for Abigail to spawn. However, if Abigail "dies" and despawns into a flower and the mobs die (or Wendy kills something) around the flower after the cooldown period, Abigail will not spawn unless the flower is picked up first and then placed down near a death occurring.
+
+Summoning Abigail drains **Sanity** by 50 points. When she "dies", she will drop the flower so Wendy can spawn her again after the cooldown period has expired. Note that one hit from the player will kill her and she can often be targeted unexpectedly by the player during battle.
+
+The flower has three stages of blooming. Initially, it will start as a pale, closed flower. Once charged, it becomes a more reddish pink color and is in bloom. In the third stage, when ready for the blood sacrifice, it will levitate slightly above the ground. Abigail's Flower does not need to be in the player's inventory to bloom, so it may be left at the player's base in lieu of inventory space while it (re-)charges. Abigail's Flower is also visible from the map screen, making it easy to relocate should the player accidentally lose track of it. If the flower somehow falls into the ocean, it will disappear like a normal item and will re-spawn near the player.
+
+In situations where Abigail somehow ends up following a player character other than Wendy (e.g. by completing an Adventure Mode run), Abigail will continue to follow the new character around in **Sandbox Mode** but will not drop the flower upon dying.
+
+## Trivia
+
+- There is a **The Forge** exclusive **Profile Icons** depicting Abigail's Flower. According to the icon's flavor text, this flower is Wendy's only remaining keepsake of Abigail.
+- In the animated short **Next of Kin**, a picture of Abigail's Flower can be seen pinned on a board that connects various people, places, and events to Charlie's disappearance.
+- Prior to Wendy's character refresh, Abigail's Flower could be crafted for 6 **Petals** and 1 **Nightmare Fuel** in **Don't Starve Together**.
+- Prior to Wendy's character refresh, Abigail's Flower could turn into a normal flower or petal (depending on turf/tiles) if left on the ground for 1440 seconds (3 days).
+- In the singleplayer game, Abigail's Flower appears in your inventory when you enter the caves if it isn't already present.
+- Abigail's Flower can be found in **Terraria** as a weapon added as part of the **Terraria** x **Don't Starve Together** crossover update.
+
+## Gallery
+
+
+
+
+
+
+```markdown
+# Tar Suit
+
+The **Tar Suit** is a craftable **Dress** **Item** exclusive to the **Don't Starve: Shipwrecked** DLC. It is found in the **Dress Tab**, requires a **Science Machine** to prototype, and 4 **Tar**, 2 **Palm Leaves**, and 2 **Cloth** to craft. The **Sewing Kit** doesn't repair its durability; instead, it can be repaired with **tar**, restoring 25% durability.
+
+### Item Information
+- **Wears Out:** 3 Days
+- **Repaired By:** {{Pic|40|Tar}}
+- **Ingredient1:** Tar
+- **Multiplier1:** 4
+- **Ingredient2:** Cloth
+- **Multiplier2:** 2
+- **Ingredient3:** Palm Leaf
+- **Multiplier3:** 2
+- **Stack:** Does not stack
+- **Tier:** 1
+- **Water Resistance:** 100% resistance
+- **Sanity Restored:** 
+- **Perk:** Protects from rain.
+- **Spawn Code:** "tarsuit"
+- **Tab:** Dress
+- **Description:** The slickest way to stay dry.
+
+### Quotes
+- **Wilson:** "I'll pitch a fit if I have to wear that."
+- **Willow:** "This might not be the safest thing to light fires in."
+- **Wolfgang:** "Water not get Wolfgang now."
+- **Wendy:** "To make my outside match my inside."
+- **WX-78:** "KEEP THE WATER OUT. KEEP IT OUTTT"
+- **Wickerbottom:** "Effective, but not very durable."
+- **Woodie:** "You do what you gotta to survive."
+- **Maxwell:** "I hope this won't tar-nish my dapper image."
+- **Wagstaff:** "An entirely effective rain suit! Could be a bit more durable."
+- **Wigfrid:** "This shall repel Aegir's clammy touch."
+- **Webber:** "Oh, oh yuck! We'll never get that out of our fur!"
+- **Walani:** "This may have been my worst idea. Ever."
+- **Warly:** "I hope there are no feathers around!"
+- **Woodlegs:** "Y'arr, cov'r me in tarr!"
+- **Wilba:** "MOST EXCELLENT FANCY SUIT"
+- **Wormwood:** "Feelin' gloopy"
+- **Wheeler:** "I like it. It says I'm willing to wear anything."
+
+### Trivia
+- The Tar Suit was added to the **Shipwrecked** DLC more than a year after its official completion in the **Home Sea Home** update, after being tested in a beta branch for several months.
+- The Tar Suit is most likely made out of [tar paper](https://en.wikipedia.org/wiki/Tar_paper), which was commonly used in Hoovervilles to keep out rain from cardboard houses.
+
+### Gallery
+![Wilson wearing a Tar Suit](Tar_Suit_Wilson.png)
+![Willow wearing a Tar Suit](Tar_Suit_Willow.png)
+![Wolfgang wearing a Tar Suit](Tar_Suit_Wolfgang.png)
+![Wendy wearing a Tar Suit](Tar_Suit_Wendy.png)
+![WX-78 wearing a Tar Suit](Tar_Suit_WX-78.png)
+![Wickerbottom wearing a Tar Suit](Tar_Suit_Wickerbottom.png)
+![Woodie wearing a Tar Suit](Tar_Suit_Woodie.png)
+![Wes wearing a Tar Suit](Tar_Suit_Wes.png)
+![Maxwell wearing a Tar Suit](Tar_Suit_Maxwell.png)
+![Wagstaff wearing a Tar Suit](Tar_Suit_Wagstaff.png)
+![Wigfrid wearing a Tar Suit](Tar_Suit_Wigfrid.png)
+![Webber wearing a Tar Suit](Tar_Suit_Webber.png)
+![Walani wearing a Tar Suit](Tar_Suit_Walani.png)
+![Warly wearing a Tar Suit](Tar_Suit_Warly.png)
+![Wilbur wearing a Tar Suit](Tar_Suit_Wilbur.png)
+![Woodlegs wearing a Tar Suit](Tar_Suit_Woodlegs.png)
+![Wilba wearing a Tar Suit](Tar_Suit_Wilba.png)
+![Wormwood wearing a Tar Suit](
+
+
+
+
+```markdown
+# Ancient Brickwork
+
+## Structure_Infobox
+- **Tier**: [Blueprint (rare)](Ruins Turf Blueprints)
+- **Can be Burned**: Yes
+- **Icon**: ![Ancient Brickwork](Ancient_Brickwork.png)
+- **Image**: ![Ancient Brickwork Dropped](Ancient_Brickwork_Dropped.png)
+- **Ingredients**: 
+  - **Rocks**: 2x
+  - **Nightmare Fuel**: 1x
+- **Number to Give**: 4
+- **Burn Time**: 7.5 sec.
+- **Stack**: 20
+- **Spawn Code**: "turf_ruinstrim"
+- **Filter**: ![Decorations Filter](Decorations_Filter.png)
+- **Description**: Brick flooring, decorated with a magical technique lost to time.
+
+## Turf Infobox
+- **Image**: ![Ancient Brickwork Texture](Ancient_Brickwork_Texture.png)
+- **Perk**: Glows during [Nightmare Cycle] in [Caves]
+- **Pitchfork**: 1
+- **Planted**: 1
+
+## Quotes
+- **Wilson**: Yet another ground type.
+- **Willow**: The ground is boring.
+- **Wolfgang**: Step stones.
+- **Wendy**: Some ground.
+- **WX-78**: GROUND PARTS
+- **Wickerbottom**: The ground. You step on it.
+- **Woodie**: Just some ground, eh?
+- **Maxwell**: A stone floor.
+- **Wigfrid**: A piece of the battlefield.
+- **Webber**: Some very old stones.
+- **Warly**: It's like an ingredient for the ground.
+- **Wormwood**: Not dirt
+- **Winona**: That's a chunk of ground.
+- **Wortox**: Floor or ceiling, depending on your perspective.
+- **Wurt**: Ground bit.
+- **Walter**: A patch of ground.
+- **Wanda**: Why am I wasting time staring at the ground?
+
+## Scrapbook Info
+Can be placed on dirt ground to change the type of ground.
+
+**Ancient Brickwork** is a naturally generated and craftable [turf] exclusive to '[Don't Starve Together]' introduced in the '[A Little Drama and QOL]' update. It can be found in [Ruins] or crafted in the [Decorations Filter]. It constantly glows on the surface and changes its appearance depending on the [Nightmare Cycle] in the [Caves].
+
+---
+
+# Imitation Ancient Brickwork
+
+## Structure_Infobox
+- **Tier**: [Blueprint (rare)](Imitation Ruins Turf Blueprints)
+- **Can be Burned**: Yes
+- **Name**: Imitation Ancient Brickwork
+- **Image**: ![Imitation Ancient Brickwork Dropped](Imitation_Ancient_Brickwork_Dropped.png)
+- **Icon**: ![Imitation Ancient Brickwork](Imitation_Ancient_Brickwork.png)
+- **Ingredients**: 
+  - **Rocks**: 2x
+- **Number to Give**: 4
+- **Filter**: ![Decorations Filter](Decorations_Filter.png)
+- **Burn Time**: 7.5 sec.
+- **Stack**: 20
+- **Spawn Code**: "turf_ruinstrim_glow"
+- **Description**: A reproduction of ancient brick flooring.
+
+## Turf Infobox
+- **Name**: Imitation Ancient Brickwork
+- **Image**: ![Imitation Ancient Brickwork Texture](Imitation_Ancient_Brickwork_Texture.png)
+- **Pitchfork**: 1
+- **Planted**: 1
+
+## Quotes
+- **Wilson**: Yet another ground type.
+- **Willow**: The ground is boring.
+- **Wolfgang**: Step stones.
+- **Wendy**: Some ground.
+- **WX-78**: GROUND PARTS
+- **Wickerbottom**: The ground. You step on it.
+- **Woodie**: Just some ground, eh?
+- **Maxwell**: A stone floor.
+- **Wigfrid**: A piece of the battlefield.
+- **Webber**: Some very old stones.
+- **Warly**: It's like an ingredient for the ground.
+- **Wormwood**: Not dirt
+- **Winona**: That's a chunk of ground.
+- **Wortox**: Floor or ceiling, depending on your perspective.
+- **Wurt**: Ground bit.
+- **Walter**: A patch of ground.
+- **Wanda**: Why am
+
+
+
+
+```markdown
+# Chef Pouch
+
+## Overview
+- **Image**: ![Chef Pouch](Chef Pouch Dropped.png)
+- **Equip Slot**: Body
+- **Icon**: ![Chef Pouch Icon](Chef Pouch.png)
+- **Can Be Burned**: Yes
+- **Scrapbook Description**: A 6 slots container that slows the spoiling of items inside.
+- **Name**: Chef Pouch
+- **Ingredients**:
+  - Cloth: 1
+  - Rope: 1 (Warly Portrait only)
+- **Tab**: Survival
+- **Tier**: 0
+- **Perk**: +8 inventory slots, Contents receive 50% spoilage rate
+- **Spawn Code**: "spicepack"
+- **Stack**: Does not stack
+- **Description**: Freshen up your foodstuffs.
+
+## Exclusivity
+- Exclusive to **Shipwrecked** in **Don't Starve Together**.
+
+## Quotes
+- Wilson: A breakthrough in culinary science!
+- Willow: I'm sure Warly won't mind if I borrow this.
+- Wolfgang: Wolfgang will carry all the food!
+- Wendy: To fend off the ravages of decay... for my food at least.
+- WX-78: EFFICIENT STORAGE FOR ORGANIC MATTER
+- Wickerbottom: This should keep my provisions from spoiling!
+- Woodie: A handy knapsack for conserving food!
+- Maxwell: I've been reduced to hauling my own foodstuffs.
+- Wigfrid: I'll use this to carry delicious meats!
+- Webber: I'm sure Mr. Warly won't mind if we use this!
+- Winona: Say, this is some fine bit of engineering!
+- Warly: My bag of chef's tricks!
+- Wortox: What a cute little pack. Hyuyu!
+- Wormwood: Pack for belly stuff!
+- Wurt: Keep foods inside!
+- Walter: Specialized spice traveling gear.
+- Wanda: I wonder if it makes time slow down, or if it's just well insulated.
+
+## Details
+The Chef Pouch, also known as the Spice Pack, is a character-specific item that Warly begins the game with. He can also craft it from the Survival Tab using Cloth and Rope.
+
+It has eight inventory slots and acts similarly to an Insulated Pack; items inside will spoil two times slower. Despite slowing the spoilage of Food Items, the Chef Pouch does not completely work the same way as an Ice Box. Unlike the Box, the Chef Pouch will not stop the spoilage of Hail, Ice, and Ice Cubes and will not be able to freeze a Thermal Stone. It can also carry items other than perishables.
+
+It cannot be placed in the Inventory and will be dropped on the ground when not equipped. Any Item clicked on a Chef Pouch which is on the ground will give the 'Store' option, allowing the pack to be filled without equipping it. It is flammable. Although it looks like a hat, the Chef Pouch is equipped on the body slot.
+
+## Trivia
+- The Chef Pouch was added in the Eye of the Tiger Shark update to Shipwrecked.
+- Prior to the Release The Quacken update, the Chef Pouch only had four inventory slots.
+- When the player begins a Don't Starve game as Warly, the Chef Pouch is actually dropped nearby, implying that it is supposed to go into the player's Inventory, but fails, as backpacks cannot be held in the Inventory.
+
+## Gallery
+![Warly Wolly](Warly Wolly.png) | A Chef Pouch spawning alongside Warly in Shipwrecked.
+--- | ---
+![Minimap Chef Pouch](Minimap Chef Pouch.png) | Chef Pouch Map icon.
+![Chef Pouch Winona](Chef Pouch Winona.png) | Winona wearing a Chef Pouch.
+![Chef Pouch Warly](Chef Pouch Warly.png) | Warly wearing a Chef Pouch.
+![Chef Pouch Wortox](Chef Pouch Wortox.png) | Wortox wearing a Chef Pouch.
+![Chef Pouch Wormwood](Chef Pouch Wormwood.png) | Wormwood wearing a Chef Pouch.
+![Chef Pouch Wurt](Chef Pouch Wurt.png) | Wurt wearing a Chef Pouch.
+
+## Bugs
+- Characters other than Warly do not have specific examination quotes for the Chef Pouch, but might end up with one by using the Teleportato.
+
+## Categories
+- Equipable Items
+- Containers
+- Flammable Objects
+- Survival Tab
+- Backpacks
+```
+Please note that the markdown format is different from the original text and some elements such as the gallery and tabber sections have been adapted to
+
+
+
+
+```markdown
+# Egg
+
+**Egg** is a type of [[Food]] [[Item]] that can be obtained in various ways. Here's a summary of its properties:
+
+- **Icon:** Egg.png
+- **HP Restored:** 0
+- **Hunger Restored:** 9.375
+- **Sanity Restored:** 0
+- **Spoil Time:** 10 Days
+- **Image:** Egg Dropped.png
+- **Stack:** 40
+- **Food Type:** [[Meat]] [[File:Meats.png|32px|link=Food_Type#Meat]]
+- **Sold By:** [[Ham]]: [[The Sterling Trough Deli]] (Oinc ×1)
+- **Spawn Code:** "bird_egg"
+- **Food Value:** [[File:Eggs.png|32px|link=Eggs]] ×1
+- **Dropped By:** Various birds and other creatures
+
+## Quotes
+
+- **Wilson:** "A small, normal egg."
+- **Willow:** "It smells like a bird's butt."
+- **Wolfgang:** "Poor birdy."
+- **Wendy:** "So much hope, dashed."
+- **WX-78:** "I HATE YOU, EGG"
+- **Wickerbottom:** "It is unfertilized."
+- **Wigfrid:** "Eggy."
+- **Woodie:** "There's a bird in there thinking evil bird thoughts."
+
+## Usage
+
+**Eggs** can be used in various ways:
+
+1. **Cooking:** Can be cooked over a [[Fire]] to become a **Cooked Egg**.
+2. **Crock Pot Recipes:** Used in recipes like [[Bacon and Eggs]], [[Pierogi]], and [[Waffles]].
+3. **Trading:** Can be given to the [[Pig King]] in exchange for 1 [[Gold Nugget]] each or given to [[Pig]]s to befriend them.
+
+## Cooked Egg
+
+**Cooked Egg** is the result of cooking an egg over [[Fire]]. Properties:
+
+- **Icon:** Cooked Egg.png
+- **HP Restored:** 0
+- **Hunger Restored:** 12.5
+- **Sanity Restored:** 0
+- **Spoil Time:** 6 Days
+- **Image:** Cooked Egg Dropped.png
+- **Stack:** 40
+- **Spawn Code:** "bird_egg_cooked"
+- **Food Value:** [[File:Eggs.png|32px|link=Eggs]] ×1
+
+### Quotes
+
+- **Wilson:** "Sunny side yum!"
+- **Willow:** "Yuck. The yellow part is all runny."
+- **Wolfgang:** "Yum!"
+- **Wendy:** "No bird will ever come of it."
+
+## Harvesting
+
+Eggs can be harvested by feeding various types of meat, fish, or meat-based food items to a bird in a **Birdcage**.
+
+## Trivia
+
+- Eggs can no longer be made fresh again by giving them to a Birdcage in [[Don't Starve Together|'Don't Starve Together]] after the [[Reap What You Sow]] Update.
+- [[Wanda]]'s examination quote for the raw egg is a reference to William Shakespeare's Tragedy Play "Macbeth".
+
+## Categories
+
+- [[Category:Eggs]]
+- [[Category:Food]]
+- [[Category:Mob Dropped Items]]
+- [[Category:Perishables]]
+- [[Category:Non-Flammable]]
+```
+
+
+
+
+```markdown
+# Drumstick
+![Drumstick](Drumstick.png)
+
+## Basic Information
+- **Food Type**: Meat
+- **Food Value**: 0.5 meat
+- **HP Restored**: 0
+- **Hunger Restored**: 12.5
+- **Sanity Restored**: -10
+- **Spoil Time**: 6 days
+- **Stack**: 40
+- **Spawn Code**: "drumstick"
+- **Dropped By**: 
+  - DS: Penguin (10%), Gobbler (×2)
+  - RoG: Buzzard (30%), Goose (×2), Mosling (×1)
+  - SW: Doydoy (×2), Slotmachine
+  - Ham: Peagawk (×2), Thunderbird (×2), Secret Bandit Camp (Shovel)
+- **Sold By**: Hamlet: Swinesbury Fine Grocer's (Oinc ×2)
+
+## Quotes
+- Wilson: I should gobble it.
+- Willow: Bang on the drum all day!
+- Wolfgang: Leg meat for make legs more strong.
+- Wendy: Makes a good thud, and it's nutritious!
+- Wx78: LIVING THINGS ARE MADE OF FASCINATING PARTS
+- Wickerbottom: A leg of poultry.
+- Woody: October food.
+- Maxwell: It tastes strangely like berries.
+- Wagstaff: Raw fowl is not something I'd like to experiment eating.
+- Wigfrid: Leg öf beastie, in my belly.
+- Webber: I just want to bang on my drum.
+- Walani: Does someone want to cook it for me?
+- Warly: Dark meat!
+- Woodlegs: Meat treat for Woodlegs!
+- Wilba: 'TIS MEAT O' LITTLE BIRDY
+- Wormwood: Not friend stick!
+- Winona: Can't say a raw drumstick sounds too appealing.
+- Wortox: Ba-dum-chhh!
+- Wheeler: The original meat on a stick.
+- Wurt: Gluurph...
+- Walter: Is it a good idea to eat raw meat...?
+- Wanda: I'm in a hurry, it's fine enough as it is.
+
+# Fried Drumstick
+![Fried Drumstick](Fried Drumstick.png)
+
+## Basic Information
+- **Food Type**: Meat
+- **Food Value**: 0.5 meat
+- **HP Restored**: 1
+- **Hunger Restored**: 12.5
+- **Sanity Restored**: 0
+- **Spoil Time**: 10 days
+- **Stack**: 40
+- **Spawn Code**: "drumstick_cooked"
+
+## Quotes
+- Wilson: Now it's even tastier.
+- Willow: Do I satisfy my hunger or do I bang on the drum?
+- Wolfgang: Eat off bone is good.
+- Wendy: Less raw, more tasty.
+- Wx78: A TASTE SENSATION
+- Wickerbottom: Not terribly healthy, but my is it delicious!
+- Woodie: Thanks, turkey.
+- Maxwell: Still tastes like berries.
+- Wagstaff: A protein packed appendage I can consume!
+- Wigfrid: Höööööt meat!
+- Webber: We love finger food.
+- Walani: I feel like a warrior.
+- Warly: Could use a light honey garlic glaze...
+- Woodlegs: Hot meat fer supper.
+- Wilba: FWOOSH'D LITTLE BIRDY LEG
+- Wormwood: A stick for belly
+- Winona: Can't be beat.
+- Wortox: It's been cooked now.
+- Wheeler: Still a bit furry.
+- Wurt: You put bird in fire??
+- Walter: That's better!
+- Wanda: Why do I always forget how much better cooked meat tastes...
+
+## Usage
+- **Cooking**: Fried Drumstick
+- **Drying Rack**: Small Jerky
+- **Birdcage**: Egg
+- **Pig King**: Gold Nugget
+- **Crock Pot**: Turkey Dinner (requires 2 drumsticks, 1 meat, 1 fruit or vegetable)
+
+## Gallery
+<gallery>
+CD drumstick.png|Original HD Drumstick icon from Bonus Materials from CD Don't Starve.
+CD drumstick_cooked.png|Original HD Cooked Drumstick icon from Bonus Materials from CD Don't Starve.
+</gallery>
+
+## Categories
+- Food
+- Meats
+- Healing
+- Sanity Loss
+- Perishables
+- Boss Dropped Items
+```
+
+
+
+
+```markdown
+# Onion
+
+* **Can Be Burned**: Yes
+* **Image**: ![Onion Dropped](Onion Dropped.png)
+* **Icon**: ![Onion](Onion.png)
+* **Name**: Onion
+* **HP Restored**: 0
+* **Hunger Restored**: 9.375
+* **Sanity Restored**: -10
+* **Stack**: 40
+* **Spoil**: 15 Days
+* **Spawn Code**: `onion`
+* **Dropped By**: ![Onion Plant](Onion Plant.png), ![Giant Onion](Giant Onion.png)
+* **Food Type**: Veggie
+* **Food Value**: Vegetables × 1
+
+## Quotes
+
+- **Wilson**: Looks crunchy.
+- **Willow**: It's so bulbous.
+- **Wolfgang**: Wolfgang eats like apple when not cooking.
+- **Wendy**: I never cry.
+- **WX-78**: IT HAS LAYERS
+- **Wickerbottom**: Allium cepa, a close relative of Allium sativum.
+- **Woodie**: I only cry tears of joy.
+- **Maxwell**: It's a pungent onion.
+- **Wigfrid**: I dare thee, prövöke tears fröm mine eyes!
+- **Webber**: It makes all our eyes water!
+- **Winona**: I hate chopping vegetables.
+- **Wortox**: You'll see no tears from my eye. I cannot cry!
+- **Wormwood**: Makes eyes wet
+- **Warly**: Boasts as many uses as it has layers.
+- **Wurt**: Mmm-mmmm, crunchy!
+- **Walter**: I hate chopping them.
+- **Wanda**: I can smell the flavor!
+
+## Roasted Onion
+
+* **Can Be Burned**: Yes
+* **Image**: ![Roasted Onion Dropped](Roasted Onion Dropped.png)
+* **Icon**: ![Roasted Onion](Roasted Onion.png)
+* **Name**: Roasted Onion
+* **HP Restored**: 1
+* **Hunger Restored**: 9.375
+* **Sanity Restored**: -5
+* **Stack**: 40
+* **Spoil**: 10 Days
+* **Spawn Code**: `onion_cooked`
+* **Food Type**: Veggie
+* **Food Value**: Vegetables × 1
+
+### Quotes
+
+- **Wilson**: A successful chemical reaction.
+- **Willow**: Roasting. My favorite cooking method.
+- **Wolfgang**: Crispy, brown, sweet.
+- **Wendy**: It will never make anyone cry again.
+- **WX-78**: ALL THE LAYERS HAVE BEEN COOKED
+- **Wickerbottom**: Roast Allium sativum.
+- **Woodie**: Perfectly roasted.
+- **Maxwell**: Take that, onion.
+- **Wigfrid**: It has been vanquished with fire.
+- **Webber**: Our eyes don't water any more.
+- **Winona**: Done and done.
+- **Wortox**: Like tiny circles descending. [sic]
+- **Wormwood**: Smells nice
+- **Warly**: I would prefer to put this to better use.
+- **Wurt**: Smell so good, florp!
+- **Walter**: A juicy cooked onion.
+- **Wanda**: I love the smell of cooked onion.
+
+## Usage
+
+- **Cooking**: Roast Onion
+- **Birdcage**: Pointy Seeds
+- **Pig Icon**: Manure
+
+## Recipes
+
+### Crock Pot Recipes
+
+1. **Salsa Fresca**
+   - **Ingredients**: Toma Roots, Onions, Filler (cannot be Inedible, Meats, or Eggs)
+2. **Veggie Burger**
+   - **Ingredients**: Leafy Meats, Onions, Vegetables, Filler
+3. **Bone Bouillon**
+   - **Ingredients**: Bone Shards, Bone Shards, Onions (Filler cannot be Inedible)
+   - **Character**: Warly
+4. **Grim Galette**
+   - **Ingredients**: Nightmare Fuel, Potatoes, Onions
+   - **Character**: Warly
+5. **Moqueca**
+   - **Ingredients**: Fishes, Onions, Toma Roots, Filler (cannot be Twigs)
+   - **Character**: Warly
+
+## The Gorge
+
+-
+
+
+
+
+```markdown
+# Quackering Ram
+
+The **Quackering Ram** is a craftable **Item** introduced in the **Don't Starve: Shipwrecked** DLC. It can be crafted using a **Quacken Beak**, 4 **Bamboo**, and 4 **Rope**s, and requires an **Alchemy Engine** to prototype. It is found in the **Nautical Tab**, and is of tier 2. The Quackering Ram can be attached to **Boats**, enabling the player to ram **Mobs** and **Structures**, dealing significant damage. When the player is on the way towards a Structure or Mob, they will 'charge' when close to it and deal 150 damage.
+
+### Description
+Everybody better get out of your way!
+
+### Ingredients
+- **Quacken Beak** x1
+- **Bamboo** x4
+- **Rope** x4
+
+### Attributes
+- **Damage**: 150
+- **Durability**: 15 uses
+- **Stack**: Does not stack
+- **Spawn Code**: quackeringram
+
+### Quotes
+- **Wilson**: Does my ingenuity know no bounds?!
+- **Willow**: Can't stop me now!
+- **Wolfgang**: SMASH!
+- **Wendy**: I can be assertive, when need be.
+- **WX-78**: OUT OF MY WAY, INFERIORS
+- **Wickerbottom**: Sometimes brute force is necessary.
+- **Woodie**: I've turned the seabird's evil against it!
+- **Maxwell**: Quacker before me!! Uh, I mean quiver...!
+- **Wagstaff**: An exceptionally enormous blunt object to hit things with.
+- **Wigfrid**: I will knöck döwn all whö stand in my path!
+- **Webber**: Everyone get out of our way!!
+- **Walani**: I prefer to be a pacifist on the pacific.
+- **Warly**: Excuse me everyone, out of my way, please.
+- **Woodlegs**: Tis time fer a quackerin'!
+- **Warbucks**: A smashing good tool. Haw haw!
+- **Wilba**: WILBA ARMED AGAINST SEA OF TROUBLES
+- **Wormwood**: Floater nose
+- **Wheeler**: When in doubt, ram 'em.
+
+### Trivia
+The Quackering Ram was added to the **Shipwrecked** DLC more than a year after its official completion in the **Don't Starve: Shipwrecked#November 21st, 2017 - Home Sea Home Update**, after being tested in a beta branch for several months.
+
+### Bugs
+Equipping the Quackering Ram on a boat will temporarily give it the charge boost. A large free **Player Speed|speed boost** can be obtained by continuously equipping and unequipping.
+
+### Gallery
+![Quackering Ram as seen in the poster for the Home Sea Home update.](DS Shipwrecked Home Sea Home Update.png)
+
+### Categories
+- **Craftable Items**
+- **Limited use**
+- **Nautical Tab**
+- **Weapons**
+- **Object Destroyers**
+```
+
+
+
+
+```markdown
+# Magiluminescence
+
+## Overview
+Magiluminescence is a craftable item found in the Ancient Pseudoscience Filter. It requires 2 Thulecite, 3 Nightmare Fuel, and 1 Yellow Gem, and at least a broken Ancient Pseudoscience Station to craft. It can also drop from an Ancient Pseudoscience Station when the latter is damaged with a Hammer, Gunpowder, etc., and from the Large Ornate Chest. Like all items from the Ancient Pseudoscience Filter, Magiluminescences cannot be prototyped and can only be crafted near another Ancient Pseudoscience Station.
+
+## Details
+- **Equip Slot**: Body
+- **Image**: ![Magiluminescence Dropped](Magiluminescence Dropped.png)
+- **Icon**: ![Magiluminescence](Magiluminescence.png)
+- **Description**: Emits light like a torch and gives a 20% speed boost while worn.
+- **Filter**: Ancient Pseudoscience Filter
+- **Sanity Drain**: +2.00/min
+- **Discharge Rate**: 1 Day
+- **Spawn Code**: "yellowamulet"
+- **Stack**: Does not stack
+- **Tier**: 5
+- **Perk**: Provides light while worn. Raises Sanity over time. Increases speed by 20%.
+- **Ingredients**:
+  - Thulecite: 2x
+  - Nightmare Fuel: 3x
+  - Yellow Gem: 1x
+
+## Quotes
+- Wilson: Warm to the touch.
+- Willow: It seems to absorb the darkness around it.
+- Wolfgang: Is glowing yellow.
+- Wendy: A brief light in my dark life.
+- WX-78: INCANDESCENCE AT 5200000000000000Hz
+- Wickerbottom: This amulet is glowing at the mid 530 nanometer wavelength.
+- Woodie: I could cut wood at night with this.
+- Maxwell: This will make me stand out.
+- Wagstaff: A dark fuel infused discharger of kinetic and light energy.
+- Wigfrid: A star, captured within an amulet.
+- Webber: Nice and glowy.
+- Walani: I absolutely glow when I wear it!
+- Warly: Puts some pep in my step!
+- Woodlegs: I be a walkin' lighthouse!
+- Wilba: 'TIS SHINIES
+- Wormwood: Can go zoomy now!
+- Wheeler: Puts a light on my chest and a spring in my step.
+- Winona: Useful little tool.
+- Wortox: I'll give my brain a slight refrain.
+- Wurt: Feel warm...
+- Walter: With this on, I'm invincible! Right?
+- Wanda: Just the boost I needed.
+
+## Skins
+![Woven - Elegant](Mind's Eye Amulet Icon.png)
+"Authors are always in need of bright ideas to achieve their vision." [[Mind's Eye Amulet Wilson.png|See ingame]]
+
+## Tips
+- The speed bonus stacks with the Walking Cane or The Lazy Explorer, for a total increase of 45% movement speed (88.5% on Roads). This can be further stacked with overloaded WX-78's.
+- Unlike Lanterns, Miner Hats, etc., Magiluminescences are destroyed when durability reaches 0%, so extra care is needed to prevent their loss.
+- If players plan on keeping a Magiluminescence equipped at all times for the speed boost, it will cost them roughly 2.7 Nightmare Fuel per day. That means a stack of 40 for seasons that last 15 days, and 54 for those that last 20. It is not advised to keep it equipped while not traversing big distances, like when crafting multiple items or harvesting from Farms, since the advantage in movement speed is negligible for too much cost.
+
+## Trivia
+- When placed on the ground, the Magiluminescence used to glow and not lose any durability. As of the A Moderately Friendly Update, they will no longer glow when dropped on the ground.
+- The Magiluminescence shares the same in-game model with the Nightmare Amulet, but its gem is yellow instead of purple.
+- This is the only light-emitting item that can be equipped in the chest slot.
+- Before the Release the Quacken update for Shipwrecked, Magiluminescence could not be refueled with Nightmare Fuel. This change was applied to the other game versions too.
+- Magiluminescence has been refuelable with Nightmare Fuel in Don't Starve Together since the update Rev. 172848 on April 7, 2016.
+- Wickerbottom states the amulet glows at "mid 530 nanometer
+
+
+
+
+```markdown
+# Toadstool
+
+**Exclusivity:** Don't Starve Together
+
+## Mob Infobox
+
+- **Name:** Toadstool
+- **Image:** ![Normal](Toadstool.png) ![Misery](Misery%20Toadstool.png)
+- **Attack Period:** 3.5, 3, 2.5, 2
+- **Attack Range:** 7
+- **Walk Speed:** 0.6, 0.8, 1.2, 3.2
+- **Health:** 52500<br>99999 (misery)
+- **Damage:** 100, 120, 150, 250<br>150, 175, 225, 300 (misery)
+- **Special Ability:** Summons exploding mushrooms.<br/>Uses sticky spore bombs.<br/>Summons illuminating Sporecaps.
+- **Drops:** 
+  - Normal: {{pic24|Frog Legs}}&times;1, {{pic24|Meat}}&times;3.75, {{pic24|Red Cap}}&times;1.66, {{pic24|Green Cap}}&times;1.66, {{pic24|Blue Cap}}&times;1.66, {{pic24|Blue Spore}}/{{pic24|Green Spore}}/{{pic24|Red Spore}}&times;2.5, {{Pic|24|Sketch}} for {{Pic|24|Toadstool Figure (Marble)}}
+  - Misery: {{pic24|Shroom Skin}}&times;2, [[File:Blueprint (rare).png|24px|link=Blueprint]]&times;2 for {{pic24|Red Funcap}} / {{pic24|Green Funcap}} / {{pic24|Blue Funcap}}, [[File:Blueprint (rare).png|24px|link=Blueprint]] for {{pic24|Glowcap}}, [[File:Blueprint (rare).png|24px|link=Blueprint]] for {{Pic24|Napsack}}
+- **Spawn From:** {{Pic|24|Toadstool Cap}}
+- **Spawn Code:** "toadstool" "toadstool_dark"
+
+## Quotes
+
+- Wilson: Yeesh! I'm not kissing that!
+- Willow: It's covered in nasty warts and fungus!!
+- Wolfgang: Bah! Frogman was hiding like coward!
+- Wendy: Just swallow us whole and end our misery.
+- WX-78: PUT IT BACK IN THE GROUND
+- Wickerbottom: It has formed a dangerous symbiotic relationship with fungal spores.
+- Woodie: I'm gonna need a bigger axe.
+- Maxwell: What an abomination!
+- Wigfrid: Ha! Finally, a würthy foe!
+- Webber: Yikes! That's a big frog!
+- Winona: I don't got this!
+- Warly: What massive legs you have!
+- Wortox: Ooo, you look like FUN!
+- Wormwood: Ribbit giving friends a ride!
+- Wurt: Has pretty face, bad personality.
+- Walter: A real giant frog monster!
+- Wanda: I really should have remembered something like you!
+
+## Toadstool Cap
+
+**Box Title:** Toadstool Cap
+
+- **Spawns:** {{pic24|Toadstool}}
+- **Biome:** Caves
+- **Image:** Toadstool_Cap.png
+- **Tool:** Can be [[Tools#Chopping_Tools|Chopped]] {{pic|32|Axe}}
+- **Spawn Code:** "toadstool_cap"
+
+The Toadstool Cap is a naturally spawning object in the Caves that spawns Toadstool after being chopped enough times with an Axe.
+
+## Fight with Spear
+
+The Toadstool has the ability to attach a Spore Bomb to any player within 10 range, providing a bit of light until it explodes into a Spore Cloud 3.5 seconds later, which lingers for 1 minute and damages players as long as they are in it. The Spore Cloud will also rapidly spoil any perishable item within its area. A player fighting with a Ham Bat has to be careful not to be in range of the Spore Cloud on the ground.
+
+## Boomshroom
+
+**Object Infobox:**
+
+- **Image:** <gallery>
+    ![Regular](Boomshroom%20build.png)
+    ![Misery](Misery%20Boomshroom%20build.png)
+  </gallery>
+- **Name:** Boomshroom
+- **Perk:** Explodes.
+- **Spawn Code:** "mushroombomb" "mushroombomb_dark"
+
+Boomshrooms will be
+
+
+
+
+```markdown
+# Wooden Flooring
+
+## Navbutton/Separation
+
+## Structure Infobox
+- **Image**: Wooden Flooring Dropped.png
+- **Icon**: Wooden Flooring.png
+- **Tier**: 2
+- **CanBeBurned**: 1
+- **Filter**: ![Decorations Filter](Decorations_Filter.png)
+- **Ingredient1**: Boards
+- **Multiplier1**: 1
+- **NumToGive**: 4
+- **Stack**: 20
+- **BurnTime**: ![File:Light_Sources_Filter.png](Fuel#Fire_Fuel) 7.5 sec.
+- **Description**: High-quality laminate floorboards.
+- **SpawnCode**: "turf_woodfloor"
+
+## Turf Infobox
+- **Image**: Wood Floor Texture.png
+- **Pitchfork**: 1
+
+## Quotes
+- **Wilson**: These are floorboards.
+- **Willow**: The ground is boring.
+- **Wolfgang**: Step stones.
+- **Wendy**: Some ground.
+- **WX-78**: WOOD GROUND
+- **Wickerbottom**: The ground. You step on it.
+- **Woodie**: Flooring fit for a king!
+- **Maxwell**: I prefer hardwoods.
+- **Wagstaff**: Saturated with creakiness.
+- **Wigfrid**: Wööden flööring, a fine surface för mörtal cömbat.
+- **Webber**: If we put these on the ground we'll have a floor!
+- **Walani**: Hardwood. Fancy.
+- **Warly**: It's like an ingredient for the ground.
+- **Woodlegs**: Creaks under me pegleg.
+- **Warbucks**: Has a tad of sophistication.
+- **Wilba**: 'TIS GROUND
+- **Wormwood**: Not dirt
+- **Wheeler**: Do I really need to drag this floor around with me?
+- **Winona**: That's a chunk of ground.
+- **Wortox**: Floor or ceiling, depending on your perspective.
+- **Wurt**: Tree parts.
+- **Walter**: Some floorboards.
+- **Wanda**: I missed the comforting creak of floorboards beneath my feet.
+- **Choose**: woodie
+
+## Scrapbook Info
+Can be placed on dirt ground to change the type of ground.
+
+**Wooden Flooring** is a craftable **Turf** **Item**. It requires 1 **Board** to craft and an **Alchemy Engine** to prototype. It can also be found underneath a **Pig King** or near **Touch Stone**s. Like other Turfs, it can be placed on any bare ground tile or used as **Fuel**. To place the wooden flooring (or any kind of flooring), you will need to use a **pitchfork** to plow the ground where you want to place it.
+
+**Eyeplants** cannot spawn on this Turf, making it the cheapest artificial way of protecting oneself from **Lureplants**. Plants like **Berry Bush**es, **Grass Tuft**s, **Sapling**s, **Spiky Bush**s, **Pine Cone**s, and **Birchnut**s can't be planted on these turfs, unless these were planted before the turfs were placed.
+
+When placed on the **Surface World** in a large enough area, Crows are the only **Birds** that will spawn and land on these turfs.
+
+Despite being made out of wood, Wooden Flooring is not flammable when placed, meaning the player can place **Campfires** and **Fire Pits** on it as normal.
+
+## Trivia
+* Wooden Flooring strongly resembles the flooring in Wilson's own home as seen in **Forbidden Knowledge**.
+
+## Gallery
+<details>
+  <summary>Click to expand gallery</summary>
+  <img src="CD_turf_woodfloor.png" alt="Original HD icon from Bonus Materials from CD Don't Starve">
+  <img src="Wood_Floor_Texture.png" alt="Wooden Flooring Texture">
+  <img src="Pig_king.png" alt="Pig King on some placed Wooden Flooring with an insane Wilson">
+</details>
+
+<details>
+  <summary>Turfs</summary>
+  <ul>
+    <li>{{Turfs}}</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Craftable Items</summary>
+  <ul>
+    <li>{{Craftable Items}}</li>
+  </ul>
+</details>
+
+[[Category:Science]]  
+[[Category:Turf Items]]  
+[[Category:Decorations Filter]]  
+[[Category:Fuel]]  
+[[Category:Flammable Objects]]  
+[[Category:Naturally Spawning Objects]]
+
+
+
+
+
+```markdown
+# Ghostly Elixirs
+
+**Ghostly Elixirs** are 6 character-exclusive **Items** craftable by **Wendy** in the **Survivor Items Filter**, only in **Don't Starve Together**. Each of them can be used on **Abigail** or an **Abigail's Flower** to temporarily improve Abigail's abilities. The effects stop when Abigail is destroyed. Ghostly Elixirs can be applied via an Abigail's Flower when Abigail is unsummoned. An icon on the border of Abigail's health badge indicates when the buff is active. Abigail can only have one effect at a time. Each subsequent Ghostly Elixir erases the effect of the previous one.
+
+## Revenant Restorative
+
+**Description**: Time heals all wounds.
+
+- **Ingredients**:
+  - 1x Spider Gland
+  - 1x Mourning Glory (only for Wendy)
+- **Perk**: Triples Abigail's health regeneration rate.
+
+**Effect**: Raises Abigail's health regeneration from 1 to 3 health per second. Lasts 1 day.
+
+![Revenant Restorative Buff Badge](Revenant Restorative Buff Badge.png)
+
+## Spectral Cure-All
+
+**Description**: A potent cure for grave injuries.
+
+- **Ingredients**:
+  - 1x Telltale Heart
+  - 3x Mourning Glory (only for Wendy)
+- **Perk**: Massively increases health regeneration.
+
+**Effect**: Raises Abigail's health regeneration from 1 to 20 health per second over 30 seconds. Lasts 30 seconds.
+
+![Spectral Cure-All Buff Badge](Spectral Cure-All Buff Badge.png)
+
+## Unyielding Draught
+
+**Description**: Shield your sister from harm.
+
+- **Ingredients**:
+  - 1x Log
+  - 1x Mourning Glory (only for Wendy)
+- **Perk**: Extends Abigail shield.
+
+**Effect**: Doubles Abigail's shield duration from 0.5 seconds to 1 second. Lasts 1 day.
+
+![Unyielding Draught Buff Badge](Unyielding Draught Buff Badge.png)
+
+## Distilled Vengeance
+
+**Description**: Give foes a taste of their own medicine.
+
+- **Ingredients**:
+  - 1x Living Log
+  - 3x Mourning Glory (only for Wendy)
+- **Perk**: Extends Abigail shield and causes damage to attacking Mobs.
+
+**Effect**: Doubles Abigail's shield duration from 0.5 seconds to 1 second and attacking creatures take 20 damage. Lasts 1 day.
+
+![Distilled Vengeance Buff Badge](Distilled Vengeance Buff Badge.png)
+
+## Nightshade Nostrum
+
+**Description**: Call upon the power of darkness.
+
+- **Ingredients**:
+  - 1x Stinger
+  - 3x Mourning Glory (only for Wendy)
+- **Perk**: Increases Abigail's damage output.
+
+**Effect**: Abigail deals nighttime damage during the daytime and dusk for 1 day.
+
+![Nightshade Nostrum Buff Badge](Nightshade Nostrum Buff Badge.png)
+
+## Vigor Mortis
+
+**Description**: Give your soul a little boo-st.
+
+- **Ingredients**:
+  - 1x Honey
+  - 1x Mourning Glory (only for Wendy)
+- **Perk**: Greatly increases Abigail's speed.
+
+**Effect**: Increases Abigail's movement speed by 75% for 1 day.
+
+![Vigor Mortis Buff Badge](Vigor Mortis Buff Badge.png)
+
+## Trivia
+
+- Ghostly Elixirs were introduced in the Wendy Character Update as part of the character overhaul for Don't Starve Together.
+- Vigor Mortis is a word play on the phenomenon known as [Rigor Mortis](https://en.wikipedia.org/wiki/Rigor_mortis), which causes the body to stiffen up once something dies.
+
+## Craftable Items
+
+- [Ghostly Elixir][vi:Ghostly Elixir]
+- [灵体草药][zh:灵体草药]
+
+## Categories
+
+- [Survivor Items Filter] [[Category:Survivor Items Filter]]
+- [Always Available] [[Category:Always Available]]
+- [Non-Flammable] [[Category:Non-Flammable]]
+- [Healing] [[Category:Healing]]
+```
+
+
+
+
+```markdown
+# Gold Flooring
+
+### Structure Infobox
+- **Can be Burned**: Yes
+- **Name**: Gold Flooring
+- **Image**: ![Gold Flooring Dropped](Gold Flooring Dropped.png)
+- **Icon**: ![Gold Flooring](Gold Flooring.png)
+- **Tier**: ![Blueprint (rare)](Pic32|Blueprint (rare))(![Antlion](Pic32|Antlion))
+- **Filter**: ![Decorations Filter](Pic32|Decorations Filter)
+- **Ingredient 1**: Rocks (Multiplier: 1)
+- **Ingredient 2**: Gold Nugget (Multiplier: 1)
+- **Stack**: 20
+- **Description**: Set the groundwork for a new golden age.
+- **Spawn Code**: "turf_cotl_gold"
+- **Burn Time**: ![Fuel](File:Light_Sources_Filter.png|32px|link=Fuel#Fire Fuel) 7.5 sec.
+
+### Turf Infobox
+- **Image**: ![Gold Flooring Texture](Gold Flooring Texture.png)
+- **Pitchfork**: 1
+
+### Exclusivity
+This item is exclusive to **Don't Starve Together**.
+
+### Quotes
+- **Wilson**: "Don't walk on that, it was expensive!"
+- **Willow**: "It reflects the firelight nicely."
+- **Wolfgang**: "Wolfgang has never seen floor so fancy."
+- **Wendy**: "If I follow the yellow bricks, will they take me home?"
+- **WX-78**: "COVER THE EARTH IN METAL"
+- **Wickerbottom**: "Children, wipe your feet before you even think about walking on that floor!"
+- **Woodie**: "That's one fancy floor, eh?"
+- **Maxwell**: "A bit gaudy, but it certainly makes an impression."
+- **Wigfrid**: "The land is covered in riches!"
+- **Webber**: "We can make the ground shiny!"
+- **Winona**: "Couldn't that gold have been used for somethin' more practical?"
+- **Warly**: "This seems a bit much..."
+- **Wortox**: "All that gold, and this is what we have to show floor it."
+- **Wormwood**: "Pretty floor"
+- **Wurt**: "Fancy ground."
+- **Walter**: "That's a pretty fancy floor!"
+- **Wanda**: "Surely there's a better use for all that gold?!"
+
+### Scrapbook Info
+Can be placed on dirt ground to change the type of ground.
+
+### Crafting
+Gold Flooring is a craftable Turf Item exclusive to **Don't Starve Together**, introduced as part of the **Cult of the Lamb Crossover**. Its rare Blueprint is obtained by feeding the **Red Crown** to the **Antlion**.
+
+### Categories
+- **Decorations Filter**
+- **Turfs**
+- **Craftable Items**
+```
+
+
+
+
+```markdown
+# Booty Bag
+
+## Exclusivity
+**Shipwrecked**
+
+## Item Infobox
+- **Stack**: Can't be held in the inventory
+- **Perk**: +8 inventory slots  
+  Drops a [[Dubloon]] up to once per [[day]]
+- **Spawn Code**: "piratepack"
+- **Equip Slot**: body
+- **Dropped By**: [[Quacken]], [[X Marks The Spot]], Found in [[Ocean]]
+
+## Quotes
+- **Wilson**: I can keep my booty in here.
+- **Willow**: Carrying this will build chest muscles.
+- **Wolfgang**: Sounds like jingles.
+- **Wendy**: This should help me carry more junk.
+- **WX-78**: PIRATES MUST HAVE STRONG CORE CONSTRUCTION
+- **Wickerbottom**: A treasure carrying case.
+- **Woodie**: A bag for my booty.
+- **Maxwell**: I suppose it will do.
+- **Wagstaff**: Its metaphysical properties allow it to spontaneously generate dubloons.
+- **Wigfrid**: Builds chest muscles.
+- **Webber**: A booty bundle.
+- **Walani**: Booty in the back.
+- **Warly**: This will straighten my back out.
+- **Woodlegs**: Me thought me lost thet!
+- **Wilba**: 'TIS A PIRATOUS SACK
+- **Wormwood**: Stuff!
+- **Wheeler**: Storage space that pays for itself!
+- **Choose**: Walani
+
+The **Booty Bag** is a type of [[Backpack]] introduced in the **[[Shipwrecked]]** DLC. It can be found floating in the **[[Ocean]]** in a random location, by digging up an **[[X Marks the Spot]]**, or as a reward for defeating the **[[Quacken]]**. In addition to providing 8 slots of storage, the Booty Bag generates a **[[Dubloon]]** up to once per **[[day]]** while being continuously worn.
+
+Dubloons fall from the Booty Bag into the environment instead of being generated inside the Booty Bag. Dubloons will drop only after it has been equipped continuously for a day, and removing the Booty Bag even temporarily resets this wait time.
+
+Players should be cautious around open flames or lightning when the Booty Bag is on the ground, as like the Backpack, it's a flammable item. As with the Backpack, any flammable items inside of it will be burnt to ashes upon it being burnt, dropping the rest on the spot.
+
+## Tips
+- This item is particularly good for **[[Woodlegs]]** since his **[[Lucky Hat]]** requires 10 Dubloons.
+
+## Gallery
+![Wilson wearing a Booty Bag](Booty_Bag_Wilson.png)
+![Willow wearing a Booty Bag](Booty_Bag_Willow.png)
+![Wolfgang wearing a Booty Bag](Booty_Bag_Wolfgang.png)
+![Wendy wearing a Booty Bag](Booty_Bag_Wendy.png)
+![WX-78 wearing a Booty Bag](Booty_Bag_WX-78.png)
+![Wickerbottom wearing a Booty Bag](Booty_Bag_Wickerbottom.png)
+![Woodie wearing a Booty Bag](Booty_Bag_Woodie.png)
+![Wes wearing a Booty Bag](Booty_Bag_Wes.png)
+![Maxwell wearing a Booty Bag](Booty_Bag_Maxwell.png)
+![Wagstaff wearing a Booty Bag](Booty_Bag_Wagstaff.png)
+![Wigfrid wearing a Booty Bag](Booty_Bag_Wigfrid.png)
+![Webber wearing a Booty Bag](Booty_Bag_Webber.png)
+![Walani wearing a Booty Bag](Booty_Bag_Walani.png)
+![Warly wearing a Booty Bag](Booty_Bag_Warly.png)
+![Wilbur wearing a Booty Bag](Booty_Bag_Wilbur.png)
+![Woodlegs wearing a Booty Bag](Booty_Bag_Woodlegs.png)
+![Wilba wearing a Booty Bag](Booty_Bag_Wilba.png)
+![Wormwood wearing a Booty Bag](Booty_Bag_Wormwood.png)
+![Wheeler wearing a Booty Bag](Booty_Bag_Wheeler.png)
+
+![Comparison between a normal Chest and a Booty Bag](Comp.jpg)
+![An equipped Booty Bag has 8 inventory slots](Show
+
+
+
+
+```markdown
+# Bootleg Getaway
+
+## Exclusivity
+- **Don't Starve Together**
+
+## Structure Infobox
+- **Equip Slot**: Hands
+- **Image**: ![Bootleg Getaway Dropped](Bootleg_Getaway_Dropped.png)
+- **Icon**: ![Bootleg Getaway](Bootleg_Getaway.png)
+- **Stack**: 10
+- **Dropped By**: Frostjaw
+- **Durability**: 1 use
+- **Perk**: Creates a temporary Whirlportal at sea.
+
+## Quotes
+- **Walter**: Sorry Woby, that bone isn't for you.
+- **Wanda**: Hmph. That's no proper spacial displacement device, just a cheap knockoff!
+- **Warly**: Oh... oh my, was this someone's actual leg?
+- **Wigfrid**: Retreat is the way of cowards!
+- **Maxwell**: Best not to think about where it's been.
+- **Webber**: Someone forgot their foot inside!
+- **Wendy**: It will just take me from one unpleasant place to another.
+- **Wickerbottom**: As far as teleportation methods go, it's quite unrefined.
+- **Willow**: Ugh, it smells like old feet!
+- **Wilson**: Somewhere out there, a pirate is missing their bootie.
+- **Winona**: Guess I'd better shake a leg. Ha!
+- **Wolfgang**: Is not Wolfgang's size.
+- **Woodie**: How aboot we leg it out of here, eh?
+- **Wormwood**: Oh. Branch inside?
+- **Wortox**: Hyuyu! Who cobbled this together?
+- **Wurt**: Oooh, bones!
+- **WX-78**: SCANNING FOR VIRUSES
+- **Choose**: Wendy
+
+## Scrapbook Info
+- Can be thrown into the sea to create a pair of connected Whirlportals. Boats sailing close to them will be brought to the other entrance.
+
+The **Bootleg Getaway** is an Item exclusive to **Don't Starve Together**. It can be acquired upon the defeat of a **Frostjaw**. It creates a portal at sea to any other discovered location in the **Ocean**.
+
+## Usage
+- The Bootleg is an equippable item. To be thrown, the player must be on a **Boat** or **Grass Raft**. To create a portal, once the Bootleg is prompted to be tossed, the map opens and the player can select which other location in the Ocean they want the exit to be. The location can be anywhere the player has uncovered on the map, whether they've been there before or had it revealed by a **Map Scroll**.
+
+## Whirlportal
+### Structure Infobox
+- **Name**: Whirlportal
+- **Image**: ![Whirlportal](Whirlportal.png)
+- **Discharge Rate**: 240 seconds
+- **Perk**: Two-way portal at sea.
+
+### Quotes
+- **Walter**: I don't think my water safety badge prepared me for that.
+- **Wanda**: If it's the quickest way out of here, I suppose I can't be picky.
+- **Warly**: Someone is really stirring the soup.
+- **Wigfrid**: Oh, beautiful maelström. Into thy hungry mouth we doth sail.
+- **Maxwell**: Is it safe? We should send Wilson in first.
+- **Webber**: We love spinny boat rides!
+- **Wendy**: It calls to me.
+- **Wickerbottom**: One typically avoids sailing into a whirlpool, but sense and reason seem to mean nothing in this place.
+- **Willow**: Er, can't we take the scenic route instead?
+- **Wilson**: I'll give it a whirl.
+- **Winona**: Alright, time to sink or swim!
+- **Wolfgang**: Wolfgang does not run! He makes courageous escape!
+- **Woodie**: Hold your breath, Lucy!
+- **Wormwood**: Spinny water!
+- **Wortox**: Oooh goodie! A watery vortex for little ol' Wortox!
+- **Wurt**: Wheeeeeeee!!
+- **WX-78**: I HATE THIS I HATE THIS I HATE THIS
+- **Choose**: Maxwell
+
+### Scrapbook Info
+- An ocean portal that allows boats to travel long distances.
+
+The **Whirlportal** is created by the Bootleg Getaway. It stays open for 4 minutes (half of an in-game day). Boats or rafts that pass through are
+
+
+
+
+```markdown
+# Ghosts
+
+{{Navbutton/Separation}}
+
+{{Structure Infobox
+|image = <gallery>
+Ghost_Build.png|Ghost
+Pirate Ghost.png|Pirate Ghost
+Ancient Spirit.png|Ancient Spirit
+</gallery>
+|health = 200
+|damage = 15
+|specialAbility = AoE attack
+|drops = None
+|attackPeriod = 1.2
+|attackRange = 1.5
+|runSpeed = 2
+|sanityaura = -40
+|sanityauraAsWendyDST = 0
+|spawnCode = "ghost"<br>"pirateghost"<br>"pigghost"
+|spawnFrom = {{DS}}{{RoG}}:[[File:Grave32.png|32px|link=Grave]]<hr>{{SW}}: '''[[File:Wreck_Midship.png|32px|link=Wreck]] ([[File:Hammer.png|32px|link=Hammer]]), {{pic32|Watery Grave}}'''<hr>{{Ham}}: {{pic|40|Ruinous Entrance|Ancient Pig Ruins}} {{pic|32|Ruinous Entrance Palace|Ancient Pig Ruins}} {{pic|32|Ruinous Entrance Fountain|Ancient Pig Ruins}} {{pic|32|Ruinous Entrance Pherostone|Ancient Pig Ruins}} {{pic|32|Ruinous Entrance Herald|Ancient Pig Ruins}} {{pic|32|Ancient Herald}}  (during [[Aporkalypse]])}}
+{{Quotes
+|wilson = This offends me as a scientist.
+|willow = I can't kill what's already dead.
+|wolfgang = Aaaaaaaaaaah!
+|wendy = He has risen from the grave!
+|wx78 = ERROR: UNKNOWN
+|wickerbottom = It must be fake. I don't believe it.
+|woodie = Boo! Ha ha!
+|maxwell = It remembers me!
+|wagstaff = A poltergeist not affected by the dark fuel.
+|wigfrid = A spirit trapped between wörlds.
+|webber = That's not a fun ghost!
+|walani = You deserve a rest.
+|warly = Could I offer you a ghost pepper?
+|woodlegs = Ye 'ave ney business wit' me, spirit!
+|wilba = ALAS, POOR GHOST!
+|wormwood = Floaty man!
+|wheeler = I'll end up one of those if I don't get out of here soon.
+|winona = I don't want nothing to do with that.
+|wortox = An unclaimed soul!
+|wurt = Glorph, go away!
+|walter = Ha, and people tried to tell me ghosts aren't real.
+|wanda = Stay away from me! I won't become like you!
+|choose = wendy
+}}
+
+## Downloadable Content
+
+In the ''[[Reign of Giants]]'' DLC, every Grave in the world will spawn a ghost during a [[Full Moon]]. These ghosts despawn when nighttime ends, this counts as a death for the purposes of summoning [[Abigail]].
+
+{{Quotes
+|wilson = He met a terrible end. I will too if I don't get out of here.
+|willow = What "arrrr" you?
+|wolfgang = Aaaaaaaaaaahrrrr!!
+|wendy = A future friend of Abigail's?
+|wx78 = ARRR YOU A RESTLESS SOUL?
+|wickerbottom = Paranormal pirate activity.
+|woodie = Maybe he's friendly?
+|maxwell = I'll not be meeting the same fate!
+|wagstaff = A swashbuckling, seafaring spectral spectacle!
+|wigfrid = Tö Hel, spirit!
+|webber = As if normal pirates weren't scary enough!
+|walani = Aw. He could've had an eternal nap, but he came back.
+|warly = He may be a nice fellow, but I don't intend to find out.
+|woodlegs = 'Tis a pirate's life, even in death.
+|wilba = A GHOSTLY VISAGE
+|wormwood = Floaty man
+|wheeler = Swell. Just swell.
+|choose = wickerbottom
+|source = when examining a Pirate Ghost.
+}}
+
+In the ''[[Shipwrecked]]'' DLC, '''Pirate Ghosts''' replace Ghosts. Aside from looking like a Pirate, Pirate Ghosts are identical to Ghosts. Pirate Ghosts can spawn when a [[Wreck]] is [[hammer]]ed or a [[Watery Grave]] is [[Fishing Rod|fished]]. Additionally they will spawn from unfished Watery Graves during a Full Moon.
+
+{{Quotes
+|wilson = Scientifically impossible.
+|willow = Go away! I didn't like you when
+
+
+
+
+```markdown
+# Cowl
+
+## Item Infobox
+- **Exclusivity:** Hamlet
+- **Equip Slot:** Head
+- **Description:** Harness the power of sonar.
+- **Ingredient 1:** Pig Skin (Multiplier: 2)
+- **Ingredient 2:** Batilisk Wing (Multiplier: 1)
+- **Ingredient 3:** Compass (Multiplier: 1)
+- **Tab:** Light
+- **Tier:** 2
+- **Stack:** Does not stack
+- **Spawn Code:** "bathat"
+- **Durability:** 2 Days
+- **Perk:** Provides sonar-based night and fog vision. Allows a chest slot item to be worn in fog with no speed penalty.
+
+The **Cowl** is a craftable Hat Item exclusive to the **Don't Starve: Hamlet** DLC. It is found in the Light Tab, requires two Pig Skins, a Batilisk Wing, and a Compass to craft, and an Alchemy Engine to prototype.
+
+## Description
+The Cowl provides the player a sonar-based night vision when worn. Every 5 seconds, it will produce some sonar waves, which will illuminate the player's screen with black-light (very similar to the Moggles), that will allow the player to see the entire screen for a short time. Then, over these 5 seconds, this light will progressively fade away, acting just like it was truly sound-based. Unlike Moggles, this item cannot be refueled, so the player will have to craft a new one once it runs out of durability.
+
+During Humid Season, when worn, fog will not slow down the player, similar in function to the Pith Hat. It also allows the player to wear something in their chest slot, and not suffer the slowing effect. Furthermore, it allows the player to see through fog, unlike Moggles.
+
+## Quotes
+- Wilson: A hat, made of bat.
+- Willow: Ugh. I can still smell the jerkiness.
+- Wolfgang: Is funny little bat hat.
+- Wendy: Peers into the darkness.
+- WX-78: I WEAR THIS SKULL AS PART OF MY VICTORY!!
+- Wickerbottom: Rather clever use of echolocation
+- Woodie: It's a little batty.
+- Maxwell: How delightfully horrific.
+- Wagstaff: It's just like my goggles!
+- Wigfrid: Tö see thröugh the eyes öf mine enemy!
+- Webber: Cool. Now we're like a Bat Spider Boy.
+- Walani: Kinda grody.
+- Warly: Ah, I can see through the eyes of a bat.
+- Woodlegs: Has the look o' tha' flyin' beasties.
+- Wilba: UNEASY LIES THE HEAD THAT WEARS THE FLYING RAT.
+- Wormwood: Woo Woo Head Thing
+- Wheeler: Aw... It doesn't even let me fly.
+- Choose: Warly
+
+## Gallery
+<gallery>
+![Wilson wearing a Cowl](Cowl Wilson.png)
+![Willow wearing a Cowl](Cowl Willow.png)
+![Wolfgang wearing a Cowl](Cowl Wolfgang.png)
+![Wendy wearing a Cowl](Cowl Wendy.png)
+![WX-78 wearing a Cowl](Cowl WX-78.png)
+![Wickerbottom wearing a Cowl](Cowl Wickerbottom.png)
+![Woodie wearing a Cowl](Cowl Woodie.png)
+![Wes wearing a Cowl](Cowl Wes.png)
+![Maxwell wearing a Cowl](Cowl Maxwell.png)
+![Wagstaff wearing a Cowl](Cowl Wagstaff.png)
+![Wigfrid wearing a Cowl](Cowl Wigfrid.png)
+![Webber wearing a Cowl](Cowl Webber.png)
+![Walani wearing a Cowl](Cowl Walani.png)
+![Warly wearing a Cowl](Cowl Warly.png)
+![Wilbur wearing a Cowl](Cowl Wilbur.png)
+![Woodlegs wearing a Cowl](Cowl Woodlegs.png)
+![Wilba wearing a Cowl](Cowl Wilba.png)
+![Wormwood wearing a Cowl](Cowl Wormwood.png)
+![Wheeler wearing a Cowl](Cowl Wheeler.png)
+</gallery>
+
+<gallery>
+![Wilba wearing a Cowl](Wilba Cowl.jpg)
+</gallery>
+
+## Tools and Weapons
+{{Tools and Weapons}}
+
+## Craftable Items
+{{Craftable Items|tool}}
+
+## Categories
+- [[Hats]]
+- [[Light Tab]]
+```
+
+
+
+
+```markdown
+# Moon Quay Beach Turf
+
+## Exclusivity
+*Don't Starve Together*
+
+## Structure Infobox
+- **Can Be Burned:** Yes (1)
+- **Icon:** ![Moon Quay Beach Turf](Moon Quay Beach Turf.png)
+- **Image:** ![Dropped Turf](Moon Quay Beach Turf Dropped.png)
+- **Description:** A patch of sand, with a faint scent of bananas.
+- **Ingredient 1:** Rocks (multiplier: 1)
+- **Ingredient 2:** Marble (multiplier: 1)
+- **Filter:** ![Decorations Filter](Pic32)
+- **Tier:** 11
+- **Burn Time:** 7.5 sec.
+- **Dropped By:** ![Moon Quay Turf](pic24) (Pitchfork)
+- **Number to Give:** 4
+- **Stack:** 20
+- **Spawn Code:** "turf_monkey_ground"
+
+## Turf Infobox
+- **Image:** ![Texture](Moon Quay Beach Texture.png)
+- **Planted:** Yes (1)
+- **Pitchfork:** Yes (1)
+
+## Quotes
+- **Wilson:** A chunk of sand.
+- **Willow:** The ground is boring.
+- **Wolfgang:** Step stones.
+- **Wendy:** Some ground.
+- **WX-78:** GROUND PARTS
+- **Wickerbottom:** The ground. You step on it.
+- **Woodie:** Just some ground, eh?
+- **Maxwell:** It doesn't belong here.
+- **Wigfrid:** A piece of the battlefield.
+- **Webber:** It kinda smells like bananas!
+- **Warly:** It's like an ingredient for the ground.
+- **Wormwood:** Sand... with friend hair?
+- **Winona:** That's a chunk of sandy ground.
+- **Wortox:** Floor or ceiling, depending on your perspective.
+- **Wurt:** Ground bit.
+- **Walter:** A patch of beach.
+- **Wanda:** Why am I wasting time staring at the ground?
+- **Choose:** Wilson
+
+## Scrapbook Info
+Can be placed on dirt ground to change the type of ground.
+
+**Moon Quay Beach Turf** is a naturally generated and crafted Turf item exclusive to *Don't Starve Together* introduced in *The Curse of Moon Quay* update. It can be found on **Moon Quay** or crafted in the **Decorations Filter**.
+
+A **Blueprint** for learning the recipe can be obtained from the **Queen of Moon Quay**.
+
+## Turfs
+- [Turfs]({{Turfs}})
+
+## Craftable Items
+- [Craftable Items]({{Craftable Items}})
+
+## Category
+- [Decorations Filter]({{Category:Decorations Filter}})
+
+## Vietnamese Version
+- [vi:Moon Quay Beach Turf]({{vi:Moon Quay Beach Turf}})
+```
+
+
+
+
+```markdown
+# Shelmet
+
+## Overview
+The **Shelmet** is a wearable headwear **Armor** item. It has a 10% chance to drop from a **Slurtle**. It has 750 **durability** and absorbs 90% of physical damage. The Shelmet is the second strongest head armor item, with 450 less durability than the **Thulecite Crown**.
+
+As headgear, Shelmets can be given to a **Pig** or **Bunnymen** to wear as strong armor.
+
+## Downloadable Content
+In the **Reign of Giants** DLC, the Shelmet also provides 20% **water resistance** during **Rain**.
+
+## Trivia
+- The Shelmet was added in the **Underground** update.
+- The name "Shelmet" is a portmanteau of the words "Shell" and "Helmet".
+- Wagstaff estimates the shelmet rates a 6 on the Mohs Hardness Scale, the same rating as uranium and titanium.
+
+## Gallery
+![Wilson wearing a Shelmet](Shelmet_Wilson.png)
+![Willow wearing a Shelmet](Shelmet_Willow.png)
+![Wolfgang wearing a Shelmet](Shelmet_Wolfgang.png)
+![Wendy wearing a Shelmet](Shelmet_Wendy.png)
+![WX-78 wearing a Shelmet](Shelmet_WX-78.png)
+![Wickerbottom wearing a Shelmet](Shelmet_Wickerbottom.png)
+![Woodie wearing a Shelmet](Shelmet_Woodie.png)
+![Wes wearing a Shelmet](Shelmet_Wes.png)
+![Maxwell wearing a Shelmet](Shelmet_Maxwell.png)
+![Wigfrid wearing a Shelmet](Shelmet_Wigfrid.png)
+![Webber wearing a Shelmet](Shelmet_Webber.png)
+![Walani wearing a Shelmet](Shelmet_Walani.png)
+![Warly wearing a Shelmet](Shelmet_Warly.png)
+![Wilbur wearing a Shelmet](Shelmet_Wilbur.png)
+![Wilba wearing a Shelmet](Shelmet_Wilba.png)
+![Wormwood wearing a Shelmet](Shelmet_Wormwood.png)
+![Wheeler wearing a Shelmet](Shelmet_Wheeler.png)
+![Winona wearing a Shelmet](Shelmet_Winona.png)
+![Wortox wearing a Shelmet](Shelmet_Wortox.png)
+![Wurt wearing a Shelmet](Shelmet_Wurt.png)
+
+## Quotes
+- **Wilson**: "I hope it doesn't mess up my hair."
+- **Willow**: "It fits my head."
+- **Wolfgang**: "Keeps my head safe."
+- **Wendy**: "It certainly didn't help its original owner."
+- **WX78**: "THIS MAKES ME HAPPY"
+- **Wickerbottom**: "It provides protection."
+- **Woodie**: "This will keep my noggin safe."
+- **Maxwell**: "This will keep me standing, if I need to fight."
+- **Wagstaff**: "I calculate it's about a six on the Mohs Scale."
+- **Wigfrid**: "A new battle helm för my cöllectiön!"
+- **Webber**: "A solid helmet."
+- **Walani**: "I'm a little embarrassed to wear it in public."
+- **Warly**: "Be the snail."
+- **Woodlegs**: "On me head?"
+- **Wilba**: "'TIS A POINTY ADVENTURE HAT"
+- **Wormwood**: "Hard Head Thing"
+- **Wheeler**: "I like it. It shows off my desire not to get hurt."
+
+## Item Infobox
+| Equip Slot | Durability | Dropped By | Stack | Spawn Code | Water Resistance | Perk | Protection |
+|------------|------------|------------|-------|------------|----------------|------|-----------|
+| Head | 750 hp | Slurtle 10% | Does not stack | slurtlehat | 20% resistance | | 90% |
+
+## Navigation
+- [Don't Starve](Shelmet)
+- [DST](Shelmet/DST)
+```
+
+
+
+
+```markdown
+# Sweet Potato
+
+## Exclusivity
+- **Shipwrecked** | **Hamlet**
+
+## Structure Infobox
+- **Food Type**: Veggie ![Veggie](Veggie.png)
+- **Can Be Burned**: 1
+- **Icon**: ![Sweet Potato](Sweet Potato.png)
+- **Image**: ![Sweet Potato Dropped](Sweet Potato Dropped.png)
+- **Name**: Sweet Potato
+- **Food Value**: Vegetables × 1
+- **HP Restored**: 1
+- **Hunger Restored**: 12.5
+- **Sanity Restored**: 0
+- **Spoil**: 10 Days
+- **Stack**: 40
+- **Spawn Code**: "sweet_potato"
+- **Sold By**: Ham: Swinesbury Fine Grocer's (Oinc × 1)
+
+## Quotes
+- **Wilson**: Looks yammy!
+- **Willow**: A welcome change from red berries.
+- **Wolfgang**: Very sweet!
+- **Wendy**: Sweet. Just like me.
+- **WX-78**: GROSS
+- **Wickerbottom**: Kumara!
+- **Woodie**: I'll cook this up good.
+- **Maxwell**: Ready for cooking.
+- **Wagstaff**: Consuming raw potatoes is never a good idea. Even sweet ones.
+- **Wigfrid**: I have never heard öf a pötatö that is sweet! ...Gröss!
+- **Webber**: You say "po-tat-o", I say "dinner"!
+- **Walani**: Dessert!
+- **Warly**: Starch never tasted so sweet.
+- **Woodlegs**: Me likes me potateys sweet!
+- **Wilba**: 'TIS A TATER TREAT
+- **Wormwood**: Sweet belly stuff
+- **Wheeler**: Ten times sweeter than regular potatoes.
+- **Choose**: Wilson
+- **Source**: when examining Sweet Potato
+
+The **Sweet Potato** is a Vegetable Food item in the **Shipwrecked** DLC. It can be found naturally in the Meadow biome and can be eaten and cooked, much like the Carrot in the original **Don't Starve**. Sweet Potatoes have exactly the same raw and cooked stats as carrots. Sweet Potatoes can be Farmed by planting Seeds for a 22.2% chance of growing or using Sweet Potato Crop Seeds. It should be noted that Sweet Potatoes will only be available via farming in Worlds that are compatible with the **Shipwrecked** or **Hamlet** DLC.
+
+## Cooked Sweet Potato
+
+### Structure Infobox
+- **Food Type**: Veggie ![Veggie](Veggie.png)
+- **Can Be Burned**: 1
+- **Icon**: ![Cooked Sweet Potato](Cooked Sweet Potato.png)
+- **Image**: ![Cooked Sweet Potato Dropped](Cooked Sweet Potato Dropped.png)
+- **Name**: Cooked Sweet Potato
+- **Food Value**: Vegetables × 1
+- **HP Restored**: 3
+- **Hunger Restored**: 12.5
+- **Sanity Restored**: 0
+- **Spoil**: 6 Days
+- **Stack**: 40
+- **Spawn Code**: "sweet_potato_cooked"
+
+### Quotes
+- **Wilson**: Looks even yammier!
+- **Willow**: The flames definitely improved it.
+- **Wolfgang**: Is ready to eat!
+- **Wendy**: Would that my despair tasted half so sweet.
+- **WX-78**: THE STARCH AND SWEET FIGHT FOR DOMINANCE AND WX-78 LOSES
+- **Wickerbottom**: Grilled kumara.
+- **Woodie**: Could use some marshmallows.
+- **Maxwell**: Storebought just doesn't taste the same.
+- **Wagstaff**: Quite a delicious snack.
+- **Wigfrid**: I wön't eat it, but I appreciate the cölör.
+- **Webber**: Orange foodmush.
+- **Walani**: Hmm, it's not that sweet actually...
+- **Warly**: Could use touch of curry and creme freche...
+- **Woodlegs**: Hot grub!
+- **Wilba**: FWOOSH'D TATER TREAT
+- **Wormwood**: Mmmm...
+- **Wheeler**: I could eat these all day.
+- **Choose**: WX-78
+- **Source**: when examining Cook
+
+
+
+
+```markdown
+# Moleworm
+
+The Moleworm is a passive Mob in the Reign of Giants DLC. They are indigenous to the Grasslands and Deciduous Forest Biomes. Moleworms live in a Burrow, underground, but can occasionally spawn from Tumbleweeds, Catcoons, and/or Earthquakes.
+
+## Structure Infobox
+
+- Naughtiness: 1
+- Diet: Elementals
+- Icon: Moleworm.png
+- Health: 30
+- Spawn From: Burrow
+- Spawn Code: "mole"
+- Drops: Morsel x1 + Any items they are carrying
+- Special Ability: Hides underground and steals items.
+- Dropped By: Catcoon
+- Spoil: 2 days
+- Stack: Does not stack
+
+## Quotes
+
+- Wilson: Something's under there, searching for minerals.
+- Willow: Hiding from the light, huh?
+- Wolfgang: Stay underground where you are safe from Wolfgang.
+- Wendy: Stay down there, away from this horrible place.
+
+## Usage
+
+Moleworms can be used in various recipes:
+
+1. **Moggles**
+   - Ingredients: 2 Moleworms, 2 Electrical Doodads, Glow Berry
+   - Tool: Alchemy Engine
+
+2. **Rain Hat**
+   - Ingredients: 2 Moleworms, Straw Hat, Bone Shards
+   - Tool: Alchemy Engine
+
+3. **Guacamole**
+   - Ingredients: 1 Moleworm, Cactus Flesh, 2 Filler
+   - Tool: Crock Pot (Filler cannot be Fruits)
+
+## Tips
+
+- Minerals and other items can be used as bait to catch Moleworms.
+- Moleworms cannot be trapped. They activate Traps that have been laid down.
+- When a Moleworm takes Gunpowder, it triggers an explosion; killing the Moleworm and leaving a small fire where it died.
+
+## Trivia
+
+- Moleworms lack hind legs and have a segmented fleshy tail like a worm.
+- The ability to knock a Moleworm out with a Hammer is a reference to the popular game, Whac-A-Mole.
+- The Moleworm's appearance is based on the Star-Nosed Mole.
+
+## Gallery
+
+![Moleworm Eating](Moleworm Eating.gif)
+![Moleworm Diving](Moleworm Diving.gif)
+![Burrow In-game](Burrow In-game.png)
+![Moleworm Travelling](Moleworm Travelling.png)
+![Trap Triggered By Moleworm](Trap Triggered By Moleworm.gif)
+![Moleworm Stunned](Moleworm Stunned.png)
+![Moleworm Sleeping](Moleworm Sleeping.gif)
+![Moleworm Frozen](Moleworm Frozen.png)
+![Moleworm Dead](Moleworm Dead.png)
+![Molewormbug](Molewormbug.png)
+![Bugged Swimmer Moleworm](Bugged Swimmer Moleworm.PNG)
+![Moleworm Trailer](Moleworm Trailer.jpg)
+![Old Moleworm](Old Moleworm.png)
+```
+
+
+
+
+```markdown
+# Windbreaker
+
+**Exclusivity:** Shipwrecked  
+**Item Infobox:**
+- Ingredient 1: Blubber (x2)
+- Ingredient 2: Cloth (x1)
+- Ingredient 3: Rope (x1)
+- Stack: Does not stack
+- Tier: 2
+- Durability: 15 Days
+- Water Resistance: 50% resistance
+- Sanity Restored: +2/min
+- Perk: Prevents the player from being slowed by **Strong Winds**.
+- Dropped by: {{Pic32|X Marks The Spot}}
+- Spawn Code: "armor_windbreaker"
+- Tab: Dress
+- Description: Break some wind!
+
+**Quotes:**
+- Wolfgang: Wolfgang master of breaking wind!
+- Wilson: The wind doesn't stand a chance!
+- Willow: Wind is the enemy of fire.
+- Woody: I feel right at home in this, eh.
+- Maxwell: Sigh.
+- Wagstaff: Has an unbelievable resistance to gale force winds.
+- Wendy: The wind's tendrils cannot hold me!
+- Woodlegs: Ol'Woodlegs be an expert windbreaker!
+- Wickerbottom: Pink is not really my color.
+- Webber: Wind can't hold us back!
+- Warly: While it is rude to break wind in public, I will make an exception.
+- WX78: NEGATES MOMENTUM IMPEDIMENTS FROM WIND EVENTS
+- Walani: The wind slips right around me!
+- Wigfrid: I shall break the wind with every step!
+- Wilba: IT BREAKETH WIND
+- Wormwood: Cozy
+- Wheeler: I'll never get blown off course with this jacket.
+- Choose: Warly
+
+The **Windbreaker** is a craftable **Dress Item** exclusive to the **Don't Starve: Shipwrecked** DLC. It requires 2 **Blubber**, 1 **Rope**, and 1 **Cloth** to craft and an **Alchemy Engine** to prototype. The **Sewing Kit** repairs 33.3% of its durability.
+
+When worn during **Rain**, it protects against **Wetness** gain by 50%, and prevents the player from being slowed by **Strong Winds** if they go against the wind.
+
+It also reduces the **Sealnado**'s vacuum radius while equipped.
+
+### Trivia
+- The Windbreaker's design used to be almost identical to that of the **Puffy Vest** or **Breezy Vest**, only white.
+- "To break wind" is a euphemism for flatulence, something remarked upon by some of the examination quotes.
+
+### Gallery
+<gallery>
+![Wilson wearing a Windbreaker](Windbreaker Wilson.png)  
+![Willow wearing a Windbreaker](Windbreaker Willow.png)  
+![Wolfgang wearing a Windbreaker](Windbreaker Wolfgang.png)  
+![Wendy wearing a Windbreaker](Windbreaker Wendy.png)  
+![WX-78 wearing a Windbreaker](Windbreaker WX-78.png)  
+![Wickerbottom wearing a Windbreaker](Windbreaker Wickerbottom.png)  
+![Woodie wearing a Windbreaker](Windbreaker Woodie.png)  
+![Wes wearing a Windbreaker](Windbreaker Wes.png)  
+![Maxwell wearing a Windbreaker](Windbreaker Maxwell.png)  
+![Wagstaff wearing a Windbreaker](Windbreaker Wagstaff.png)  
+![Wigfrid wearing a Windbreaker](Windbreaker Wigfrid.png)  
+![Webber wearing a Windbreaker](Windbreaker Webber.png)  
+![Walani wearing a Windbreaker](Windbreaker Walani.png)  
+![Warly wearing a Windbreaker](Windbreaker Warly.png)  
+![Wilbur wearing a Windbreaker](Windbreaker Wilbur.png)  
+![Woodlegs wearing a Windbreaker](Windbreaker Woodlegs.png)  
+![Wilba wearing a Windbreaker](Windbreaker Wilba.png)  
+![Wormwood wearing a Windbreaker](Windbreaker Wormwood.png)  
+![Wheeler wearing a Windbreaker](Windbreaker Wheeler.png)  
+</gallery>
+
+### Tools and Weapons
+{{Tools and Weapons}}
+
+### Craftable Items
+{{Craftable Items|tool}}
+
+### Categories
+- Equipable Items
+- Sanity Boost
+- Water Resistant
+- Non-Flammable
+- Limited use
+- Dress Tab
+```
+
+
+
+
+```markdown
+# Strident Trident
+
+Exclusive to **Don't Starve Together**, the Strident Trident is a weapon introduced in the **Return of Them** update. The blueprint for the Strident Trident is dropped by the Crab King upon death. It requires the following ingredients to craft:
+
+- 3 Gnarwail Horns
+- 4 Kelp Fronds
+- 2 Twigs
+
+## Description
+
+The Strident Trident can be used as a melee weapon to deal 51 damage on land and 76.5 damage in the Ocean with 200 uses. It can also cast spells, consuming 4 weapon uses (for a maximum of 50 casts). The spell summons geysers in the Ocean around the cast location, dealing 85 damage. It can mine for the equivalent of 10 Pickaxe hits, push Items away from the cast location, uproot Bull Kelp, and launch fish into the air to catch them without a Sea Fishing Rod.
+
+## Quotes
+
+- Wilson: *"This is going to be a blast!"*
+- Willow: *"It's three times as pokey."*
+- Wolfgang: *"Is good fork for Wolfgang-sized meals!"*
+- Wendy: *"It was stolen from the sea, but it still holds power over the waves."*
+- WX-78: *"HIGH FREQUENCY TABLEWARE"*
+- Wickerbottom: *"It produces quite literal sound waves!"*
+- Woody: *"Don't worry Lucy, I'm not trading you in anytime soon."*
+- Maxwell: *"It seems to have struck a chord."*
+- Wigfrid: *"I shall lay waste to my enemies with the weapon of Poseidon!"*
+- Webber: *"We don't know how to play, but we can try!"*
+- Winona: *"I ain't afraid to make waves! Ha!"*
+- Warly: *"What dish could accommodate a fork of that size?"*
+- Wortox: *"Holding a pitchfork feels disturbingly natural."*
+- Wormwood: *"Pokey"*
+- Wurt: *"Pokey poke!"*
+- Walter: *"This looks like it could cause some damage."*
+- Wanda: *"It makes such a racket!"*
+
+## Tips
+
+- With its higher damage in the Ocean, it is advised that a player only uses it while sailing.
+- The trident's cast can also be used to mine Salt Formations in the ocean and kill nearby Cookie Cutters.
+- After two Gnarwail horns have been collected, the trident can be crafted with a Construction Amulet. Using a Deconstruction Staff on a trident before its durability hits 33% will return two horns.
+
+## Trivia
+
+- The Strident Trident was introduced in the "She Sells Sea Shells" update.
+- It shares the same debug spawn name as the Shipwrecked item Trident. However, its appearance and mechanics differ.
+- Despite being a trident, when its spell is cast, a character using it appears to strum it like an electric guitar. It even produces a similar sound.
+- Wortox's quote is a reference to demons often being depicted with pitchforks, as he is an imp.
+
+## Categories
+
+- Return of Them
+- Equipable Items
+- Weapons
+- Melee Weapons
+- Weapons Filter
+
+[Strident Trident](vi:Strident Trident) - [刺耳三叉戟](zh:刺耳三叉戟)
+```
+
+
+
+
+```markdown
+# Tillweed Salve
+
+## Exclusivity
+Don't Starve Together
+
+## Structure Infobox
+- **icon**: Tillweed Salve.png
+- **image**: Tillweed Salve Dropped.png
+- **description**: Slowly weed out aches and pains.
+- **ingredient1**: Tillweeds
+- **multiplier1**: 4
+- **ingredient2**: Petals
+- **multiplier2**: 4
+- **ingredient3**: Charcoal
+- **multiplier3**: 1
+- **heal**: 8 + 20 over 1 minute
+- **spoil**: 10 days
+- **filter**: {{Pic32|Healing Filter}}
+- **tier**: 2
+- **spawnCode**: "tillweedsalve"
+- **stack**: 40
+
+## Quotes
+- **Wilson**: My salve-ation.
+- **Willow**: I guess that weed was good for something.
+- **Wolfgang**: Feels nice on the boo-boos.
+- **Wendy**: A balm to ease my suffering.
+- **WX-78**: THIS GROSS ORGANIC PASTE WILL SPEED UP MY REPAIRS
+- **Wickerbottom**: The Tillweed's roots appear to have limited healing capabilities.
+- **Woodie**: Never hurts to have some of this stuff around.
+- **Maxwell**: This will have to do.
+- **Wigfrid**: Hmm, it döth appear that föul weed has a use after all.
+- **Webber**: It helps get rid of booboos.
+- **Winona**: Glad to have found a use for those weeds.
+- **Warly**: Those weeds turned out to be a useful ingredient after all.
+- **Wortox**: A welcome break from pains and aches.
+- **Wormwood**: Thank you friends!
+- **Wurt**: See? Weeds more useful than flowers.
+- **Walter**: Even weeds can be helpful in the wilderness!
+- **Choose**: Walter|Wanda=This plant gunk isn't going to do me much good.
+
+## Scrapbook Info
+Heals 8 Health and then 20 more Health over 1 minute.
+
+## Description
+Tillweed Salve is an **Item** exclusive to **Don't Starve Together**, introduced in the **Return of Them** update.
+
+When used, Tillweed Salve restores 8 **hp** initially, as well as an additional 20 **hp** over 1 minute.
+
+## Trivia
+The Tillweed Salve was introduced in the **Return of Them#Reap What You Sow|Reap What You Sow** update.
+
+## Categories
+- **Healing**
+- **Healing Filter**
+
+## Craftable Items
+```
+```
+
+
+
+
+```markdown
+# Moggles
+
+## Exclusivity
+- **Reign of Giants**: Exclusive
+- **Hamlet**: Exclusive
+- **Don't Starve Together**: Exclusive
+
+## Structure Infobox
+- **Icon**: Moggles.png
+- **Equip Slot**: Head
+- **Image**: Moggles Dropped.png
+- **Stack**: Does not stack
+- **Description**: Grants the wearer Smell-E-Vision.
+- **Spawn Code**: "molehat"
+- **Tab**: Light
+- **Perk**: Grants Nightvision.
+- **Ingredient 1**: Moleworm (Multiplier: 2)
+- **Ingredient 2**: Electrical Doodad (Multiplier: 2)
+- **Ingredient 3**: Glow Berry (Multiplier: 1)
+- **Sold By**: The Sow's Ear Hat Shop (Oinc ×20)
+- **Tier**: 2
+- **Discharge Rate**: 1.5 days
+
+## Quotes
+- Wilson: "A wretched stench, but excellent visibility."
+- Willow: "I'm not sure about this..."
+- Wolfgang: "Mole skin is stretchy."
+- Wendy: "So this is what those things see."
+- WX78: "DIGGER HAS CURIOUS SIGHT"
+- Wickerbottom: "Ah, to look through another creature's, uh, nose!"
+- Woody: "Now featuring night-time chopping!"
+- Maxwell: "No wonder they can dig for hours."
+- Wagstaff: "Converts scents to visual light waves."
+- Wigfrid: "It's best tö use every part öf the animal."
+- Webber: "I can see for miles and miles."
+- Walani: "I CAN SEE ALL!"
+- Warly: "Neat vision!"
+- Woodlegs: "Gives eyes of a ghost in th'night!"
+- Wilba: "A MOLE 'PON WILBA'S HEAD"
+- Wormwood: "A Smelly Digger hat"
+- Wheeler: "Ready for a little nighttime exploring?"
+- Winona: "A real strange contraption."
+- Wurt: "Has nice stench to it, florp."
+- Wortox: "It lets me see on every plane!"
+- Walter: "These work way better than the X-ray goggles I mailed in for back home!"
+- Wanda: "What a funny looking hat. Let me try it on!"
+- Choose: Wickerbottom
+
+Moggles are [[Category:Hats|Headwear]] from the [[Reign of Giants]] DLC. They are found in the [[Light Tab]], require 2 [[Moleworm]]s, 2 [[Electrical Doodad]]s, and 1 [[Glow Berry]] to craft and an [[Alchemy Engine]] to prototype.
+
+When worn, the player is able to see in the dark with a sort of negative filter. If the player wears the Moggles when there is light outside, their surroundings appear extremely bright. Unlike other [[light]] items, Moggles allow the player to see everything on the screen.
+
+Moggles will last for one and a half days in total but can be recharged using [[Glow Berries]], which will restore their durability by 33.25% (almost 4 minutes), or [[Lesser Glow Berry|Lesser Glow Berries]], which will restore their durability by 6.25% (45 seconds).
+
+Despite not being a light source in the conventional sense, wearing Moggles will protect players from [[Charlie]].
+
+## Downloadable Content
+In the [[Don't Starve: Shipwrecked|Shipwrecked]] DLC, Moggles cannot be crafted but can be brought over from a connected [[Reign of Giants]] world. In [[Shipwrecked]], they can be refueled with [[Dragoon Heart]]s, restoring 33.25% of their durability similar to Glow Berries.
+
+In the [[Don't Starve: Hamlet|Hamlet]] DLC, Moggles cannot be crafted. Instead, they can be bought for 20 [[Oinc]]s at [[The Sow's Ear Hat Shop]] at the [[Pig City]].
+
+## Tips
+- Moggles are the only portable means of acquiring 100% visibility at night or underground.
+- The [[Hamlet]] DLC introduces the [[Cowl]], which also provides 100% visibility, using sonar-type vision.
+- Moggles can be particularly useful when dealing with [[Cave Spider]]s and [[Spitter]]s.
+- They are especially handy when exploring the [[Ruins]] since the player is able to spot danger and prepare for the lying monsters in wait.
+- Moggles will be destroyed if they reach 0% so the player should make sure to un-equip or refuel them
+
+
+
+
+```markdown
+# Krampus Sack
+
+## Overview
+The **Krampus Sack** is a **Backpack** item with unique properties. It is an extremely rare drop from **Krampus**, with only a 1% chance to drop from their small loot table. In **Don't Starve Together**, it has a 10% chance to drop from bundled supplies received from **Klaus**'s **Loot Stash**.
+
+## Features
+- **Inventory Slots**: 14, which is 6 more than a **Backpack** and 2 more than a **Piggyback**.
+- **Stacking**: Does not stack.
+- **Dropped By**: 
+  - **Krampus** (1%)
+  - **Loot Stash** (10%)
+- **Perk**: +14 inventory slots.
+- **Spawn Code**: `krampus_sack`
+
+## Quotes
+- **Wilson**: "Ew. It has Krampus slime all over it."
+- **Willow**: "The holidays came early this year!"
+- **Wolfgang**: "I have goat man's sack."
+- **Wendy**: "It smells of goat."
+- **WX-78**: "STORAGE MODULE 2.0"
+- **Wickerbottom**: "It seems bigger inside than out."
+- **Woodie**: "I feel bad taking someone else's sack."
+- **Maxwell**: "It's really light."
+- **Wagstaff**: "Holds more supplies but weighs less than a backpack. It defies all known laws of physics!"
+- **Wigfrid**: "I can fit everything in here!"
+- **Webber**: "We could put more in but we're scared to touch the stuff he left inside."
+- **Walani**: "A bag of stolen goods."
+- **Warly**: "Infinite pocket space!"
+- **Woodlegs**: "Woodlegs'll ne'er leave treasure behind again!"
+- **Wilba**: "BELONGETH TO WILBA NOW!"
+- **Wheeler**: "A treasure trove of extra storage!"
+- **Wormwood**: "Full of stuff?"
+- **Winona**: "I could carry a whole warehouse in that thing!"
+- **Wortox**: "He should have known I would not hold back."
+- **Wurt**: "It jingles!"
+- **Walter**: "It smells... goat-y."
+- **Wanda**: "For me? You shouldn't have!"
+
+## Tips for Obtaining Krampus Sack
+1. **Spawning Krampus**: A quick way to spawn and farm Krampus is by killing a **Glommer**, so players should take advantage of every full moon cycle to retrieve the **Glommer's Flower** and kill the Glommer in an area where any spawned Krampus will quickly die. Neutral mobs will be aggressive towards Krampus, so a **Pig** or **Bunnyman** village would be an ideal location to kill a Glommer.
+2. **Moonstorm**: When **Moonstorm** is active, every day will be full moon, this means players can kill Glommer every day to farm Krampus.
+3. **Hamlet DLC**: In the **Don't Starve: Hamlet** DLC, spawning **Krampii** can be easily achieved by building and robbing banks (**Town House**). One might want to use a **Pan Flute** to put the **banker** to sleep, and grab his items. The player should build a new bank, and repeat the process. Two bank heists will result in a Krampus spawn.
+
+## Trivia
+- The Krampus Sack was added in the **Naughty and Nice** update. Before the **Underground** update, the Krampus Sack didn't appear as an icon on the map.
+- When Krampus wears the Krampus Sack, there are no chains surrounding the Sack, while the item obtained from killing Krampus has two chains draped across it. When worn, a faint jingling sound from the chains can be heard while the player is moving.
+
+## Gallery
+- Original HD icon from Bonus Materials from **CD Don't Starve**.
+- Various characters wearing the Krampus Sack: Wilson, Willow, Wolfgang, Wendy, WX-78, Wickerbottom, Woodie, Wes, Maxwell, Wigfrid, Webber, Walani, Warly, Wilbur, Woodlegs, Wilba, Wormwood, Wheeler, Winona, Wortox, Wurt.
+
+## Categories
+- **Mob Dropped Items**
+- **Non-Flammable**
+- **Backpacks**
+- **Containers**
+- **Boss Dropped
+
+
+
+
+```markdown
+# Tables Tab
+
+![Tab Icon](Tables.png)
+
+The **Tables Tab** is a crafting category exclusive to the **Don't Starve: Hamlet** DLC. It is found under the **Renovate Tab**.
+
+## Craftable Items and Structures
+
+| Name                 | Recipe        | Description        | Spawn Code         |
+|---------------------|---------------|-------------------|-------------------|
+| Round Table         | Oinc×2        | "Well rounded."    | deco_table_round   |
+| Hard Wood Desk       | Oinc×4        | "Heavy, so hire movers." | deco_table_banker |
+| DIY Table           | Oinc×3        | "Put together for you." | deco_table_diy    |
+| College Table        | Oinc×1        | "Made from raw materials." | deco_table_raw    |
+| Crate Table          | Oinc×1        | "Recycled repurposed trees." | deco_table_crate |
+| Chess Table          | Oinc×1        | "Knights not included." | deco_table_chess   |
+
+## Quotes
+
+- **Round Table**
+  - Wilson: It's a round table.
+  - Willow: Circular boring.
+  - Wolfgang: Wolfgang eat in style.
+  - Wendy: Ornamentation is pointless.
+  - WX-78: THIS TABLE HOLDS NO DATA
+  - Wickerbottom: Functional.
+  - Woodie: Nice wood grain.
+  - Maxwell: A table.
+  - Wagstaff: Circular.
+  - Wigfrid: A surface for consuming my meat!
+  - Webber: That's a nice little table.
+  - Walani: I could eat off there.
+  - Warly: I could eat on that!
+  - Woodlegs: 'Tis a chart table.
+  - Wilba: 'TIS TABLE
+  - Wormwood: Flat thing
+  - Wheeler: Every place needs a table.
+  
+- **Hard Wood Desk**
+  - Wilson: I could get some work done there.
+  - Willow: Rectangular boring.
+  - Wolfgang: Wolfgang eat in style.
+  - Wendy: Ornamentation is pointless.
+  - WX-78: THIS TABLE HOLDS NO DATA
+  - Wickerbottom: A place to write notes.
+  - Woodie: Nice wood grain.
+  - Maxwell: A practical table.
+  - Wagstaff: Rectangular.
+  - Wigfrid: I could cleave this in twain!
+  - Webber: That's a nice little table.
+  - Walani: A kinda boring table.
+  - Warly: I suppose it could double as a dining table.
+  - Woodlegs: 'Tis a chart table.
+  - Wilba: 'TIS TABLE O' STUDYING
+  - Wormwood: Flat thin
+  - Wheeler: Every place needs a desk.
+  
+- **DIY Table**
+  - Wilson: Pretty basic.
+  - Willow: Ugly.
+  - Wolfgang: Wolfgang build better.
+  - Wendy: Ornamentation is pointless.
+  - WX-78: IN NEED OF AN UPGRADE
+  - Wickerbottom: Functional.
+  - Woodie: Nice wood grain.
+  - Maxwell: Crude.
+  - Wagstaff: Uncomplicated.
+  - Wigfrid: I need not the instructions to build this.
+  - Webber: We could build that ourselves.
+  - Walani: Meh. It'll do.
+  - Warly: Not very fancy.
+  - Woodlegs: 'Tis a chart table.
+  - Wilba: 'TIS TABLE O' NAUGHT MUCH OINCS
+  - Wormwood: Knew that tree
+  - Wheeler: It works.
+  
+- **College Table**
+  - Wilson: Interesting decor...
+  - Willow: Ugh. What even is that?
+  - Wolfgang: Wolfgang build better.
+  - Wendy: Ornamentation is pointless.
+  - WX-78: IN NEED OF AN UPGRADE
+  - Wickerbottom: Functional.
+  - Woodie: Nice wood grain.
+  - Maxwell: Philistine.
+  - Wagstaff: Rudimentary.
+  - Wigfrid: A table without frivolous trappings.
+  - Webber: We could put stuff on that.
+  - Walani: Meh. It'll do.
+  - Warly: Flavorless.
+  - Woodlegs: 'Tis not seaw'rthy.
+  - Wilba: 'TIS TABLE O' NAUGHT MUCH OINCS
+  - Wormwood: Friends?
+  - Wheeler: Whatever works.
+  
+- **Crate Table**
+  - Wilson: I could put things on that.
+  - Willow: Ugly.
+  - Wolfgang: Wolfgang not fancy.
+  - Wendy: Can I put my worries in there?
+  - WX-78: IN NEED OF AN UPGRADE
+  - Wickerbottom: Functional
+
+
+
+
+```markdown
+# Thulecite Club
+
+## Equipment Details
+- **Slot**: Hands
+- **Icon**: Thulecite Club.png
+- **Image**: Thulecite Club Dropped.png
+- **Ingredients**:
+  - **Living Log**: 3
+  - **Thulecite**: 4
+  - **Nightmare Fuel**: 4
+- **Spawn Code**: "ruins_bat"
+- **Damage**: 59.5
+- **Durability**: 200 uses
+- **Stack**: Does not stack
+- **Tab**: Ancient
+- **Tier**: 6
+- **Perk**: Summon Shadow Tentacles on hit, Increases movement speed by 10%
+
+## Crafting
+The Thulecite Club is a craftable item found in the Ancient Tab. It requires 3 Living Logs, 4 Thulecite, 4 Nightmare Fuel, and an Ancient Pseudoscience Station to craft. It also has an 8.3% chance to be found inside a Large Ornate Chest. Like all items from the Ancient Tab, Thulecite Clubs cannot be prototyped, and characters always need to be near an Ancient Pseudoscience Station to craft them again.
+
+## Usage
+When equipped in the hand slot, the Thulecite Club can be used as a Weapon that deals 59.5 damage per hit and increases movement speed by 10%. The Thulecite Club loses 0.67% of its Durability with each hit, meaning it has 200 uses before breaking.
+
+When attacking with a Thulecite Club, there is a 20% chance that a Shadow Tentacle will spawn from the ground, which lasts for 9 seconds attacking enemies within its range. Shadow Tentacles have the same stats as normal Tentacles, except for a more limited attack range. Shadow Tentacles lower Sanity by 40 sanity per minute when close just like normal ones. The Shadow Tentacles cannot be targeted.
+
+Since Thulecite is not renewable, only a limited number of Thulecite Clubs can be crafted in the base game.
+
+## Downloadable Content
+In the Reign of Giants DLC, players have a small chance of finding Green Gems inside Tumbleweeds, thus making Thulecite Clubs renewable, since more Thulecite can be gained with the use of Construction Amulets and Deconstruction Staffs.
+
+In the Shipwrecked DLC, Thulecite Clubs, along with Thulecite Crowns and Thulecite Suits, can be obtained from the Slot Machine as a possible reward. An X Marks the Spot treasure chest found through a Message in a Bottle also has a chance to contain these items. Since Dubloons required to obtain loot from the Slot Machine are renewable, Thulecite equipment is also renewable in Shipwrecked. Also, after killing the Quacken, the chest may contain Thulecite club and armor.
+
+## Tips
+- Shadow Tentacles are stationary and have a limited attack range. That means that they will not be very useful against fast-moving enemies but will provide a good advantage against slow or stationary ones.
+- Since they're both top-tier Weapons, the Thulecite Club and Dark Sword are often compared with each other. While the Dark Sword does more direct damage than the Thulecite Club, the total damage from the Club and the Shadow Tentacles can potentially be higher. The Thulecite Club will also last longer than a Dark Sword (200 uses versus 100 in durability, although more expensive) and the Shadow Tentacles drain more Sanity than the sword, but only if the player is standing close to them.
+- A way to gain sanity in DST is to combine a Thulecite Club with a Bee Queen Crown, because the Crown will convert the Sanity loss of the Shadow Tentacles into +20 sanity per minute (Instead of -40 per minute), and it also provides defense (70%) at the same time.
+
+## Trivia
+- The Thulecite Club was added in the "The Stuff of Nightmares" update.
+- The Thulecite Club is very similar to an Aztec weapon called the macuahuitl, which has been reported to cut off a horse's head in a single blow due to the sharpness of its obsidian blades. Many of the Ruins items appear to be based around Aztec or Olmec art.
+- In older versions of Don't Starve, Shadow Tentacles always spawned when attacking.
+- Webber's quote is a reference to Queen's song, "We Will Rock You."
+```
+
+
+
+
+```markdown
+# Garden Hoe
+
+## Structure Infobox
+- **Equip Slot:** Hands
+- **Icon:** Garden Hoe.png
+- **Image:** Garden Hoe Dropped.png
+- **Description:** Till soil for crop seeds.
+- **Ingredient 1:** Twigs (x2)
+- **Ingredient 2:** Flint (x2)
+- **Filter:** Tools Filter, Food & Gardening Filter
+- **Tier:** 1
+- **Perk:** Till Farm Soil.
+- **Durability:** 25 uses (Till)
+- **Damage:** 17
+- **Stack:** Does not stack
+- **Spawn Code:** "farm_hoe"
+
+## Quotes
+- **Wilson:** "I have to make the ground more comfortable for the seeds."
+- **Willow:** "Farming is so much work..."
+- **Wolfgang:** "Is to till soil for tiny seeds."
+- **Wendy:** "I must prepare the seeds for their burial."
+- **WX-78:** "TO BURY THE PLANT SOURCE CODES IN THE GROUND"
+- **Wickerbottom:** "Humans have cultivated crops since Neolithic times."
+- **Woodie:** "Better get planting."
+- **Maxwell:** "Am I to be reduced to a common farmhand?"
+- **Wigfrid:** "Tö bury thöse useless seeds deep in the gröund."
+- **Webber:** "We need that to plant the seeds."
+- **Winona:** "Let's get to planting, then!"
+- **Warly:** "I'd better get planting if I want some fresh ingredients."
+- **Wortox:** "I've about had my fill of tilling and toiling."
+- **Wormwood:** "Tuck in babies"
+- **Wurt:** "Make hole for baby plants."
+- **Walter:** "We'll need that to plant seeds."
+- **Wanda:** "Tilling is so tedious."
+- **Choose:** "wormwood"
+
+## Scrapbook Info
+Use on Garden Soil to create dirt piles where survivors can plant seeds.
+
+The Garden Hoe is an Item exclusive to Don't Starve Together and introduced in Return of Them. It is crafted at a Science Machine with two Twigs and two Flint.
+
+The Garden Hoe is used to move or destroy Farm Soil when used on a Farm Soil Turf. It has 25 uses.
+
+## The Gorge
+- **Name:** Hoe
+- **Durability:** Infinity (Till)
+- **Icon:** Garden Hoe.png
+- **Image:** Garden Hoe Dropped.png
+- **Spawn Code:** "quagmire_hoe"
+
+Hoe - is a tool added in The Gorge event. Used to loosen the soil in beds for further planting of seeds.
+
+## Skins
+In Don't Starve Together, Skins can be applied to certain items to change their appearance. Information on how to obtain specific skins can be found on the Belongings page.
+
+| Woven - Classy | Pantomimed Garden Hoe | Convey an incredibly convincing impression of a garden hoe. | See ingame |
+| Woven - Elegant | Homespun Garden Hoe | It seems to have been left neglected for some time. |
+
+## Trivia
+- The Garden Hoe and the Splendid Garden Hoe were introduced in the Reap What You Sow update.
+
+## Categories
+- Return of Them
+- Tools Filter
+- Food & Gardening Filter
+- Equipable Items
+```
+
+
+
+
+```markdown
+# Portal Paraphernalia
+
+## Exclusive to Don't Starve Together
+
+### Structure Infobox
+- **Icon**: ![Portal Paraphernalia](Portal Paraphernalia.png)
+- **Image**: ![Dropped](Portal Paraphernalia Dropped.png)
+- **Can Be Burned**: Yes
+- **Description**: The best laid plans.
+- **Ingredient 1**: Boards (Multiplier: 1)
+- **Ingredient 2**: Rope (Multiplier: 1)
+- **Tier**: 15
+- **Stack**: Does not stack
+- **Spawn Code**: `multiplayer_portal_moonrock_constr_plans`
+- **Filter**: ![Celestial Filter](Celestial Filter)
+
+### Quotes
+- Wilson: Stuff for science!
+- Willow: I'd rather burn things down than build them up.
+- Wolfgang: If Wolfgang build it, they will come.
+- Wendy: Shall I even bother building this?
+- WX-78: UPGRADING SOFTWARE
+- Wickerbottom: Oh, I do like the look of this.
+- Woodie: Well, better get building.
+- Maxwell: I suppose I should build this.
+- Wigfrid: Pörtal! Prepare tö be built!
+- Webber: We should build this.
+- Winona: Let's get building.
+- Warly: It's a recipe for building!
+- Wortox: But it's more fun to wing it!
+- Wormwood: Door plans
+- Wurt: Look easy to build!
+- Walter: I'm good at following instructions! I have a badge for it!
+- Wanda: What's a little more tampering going to hurt?
+
+### Scrapbook Info
+It will change the Florid Postern into the Celestial Portal construction project.
+
+### Portal Paraphernalia
+The Portal Paraphernalia is a craftable **Item** exclusive to **Don't Starve Together**. It is found in the **Celestial Filter**, and requires a **Board** and a **Rope** to craft. Portal Paraphernalia is required to start construction on upgrading the **Florid Postern** to the **Celestial Portal**.
+
+### Trivia
+- **Paraphernalia** is defined as a group of apparatus, equipment, or furnishing used for a particular activity.
+- The Portal Paraphernalia's crafting description is a possible reference to a **Poem** by **Robert Burns**.
+
+### Gallery
+<details>
+  <summary>Gallery</summary>
+  <img src="Portal Paraphernalia on ground.PNG" alt="Wilson standing next to the Portal Paraphernalia.">
+  <img src="Portal Paraphernalia on Florid Postern.PNG" alt="The Portal Paraphernalia when placed on the Florid Postern.">
+</details>
+
+### Craftable Items
+
+- Vietnamese: [Bản Thảo Cổng Thiên Thể](vi:Bản_Thảo_Cổng_Thiên_Thể)
+- Chinese: [传送门用具](zh:传送门用具)
+
+### Category
+- [Celestial Filter](Category:Celestial Filter)
+```
+This markdown transformation includes headers, images, a gallery, and other elements to represent the provided text in a structured and readable format.
+
+
+
+
+```markdown
+# Stalking Stick
+
+**Exclusive to:** Don't Starve: Hamlet DLC  
+**Slot:** Hands  
+**Image:** ![Stalking Stick](Stalking%20Stick.png)  
+**Damage:** 20.4  
+**Durability:** 3 days (as a Walking Tool)  
+**Perk:** 30% faster movement speed  
+**Stacking:** Does not stack  
+**Spawn Code:** "walkingstick"
+
+## Quotes
+- Wilson: "Perfect for a gentleman scientist."
+- Willow: "Zoom!"
+- Wolfgang: "Is for good walk steps."
+- Wendy: "I am destined to walk this earth alone."
+- WX-78: "ACCELERATOR"
+- Wickerbottom: "Improves one's posture."
+- Woodie: "Just out for a rip."
+- Maxwell: "Much easier on my knees."
+- Wagstaff: "Incredible! It increases my speed by exactly thirty percent!"
+- Wigfrid: "Tö assist in mine löngest jöurney."
+- Webber: "This should make it easier to walk."
+- Walani: "It's my lazy stick."
+- Warly: "I'm out to forage!"
+- Woodlegs: "Moor legs mean moor walkin'."
+- Wilba: "‘TIS A STICK O' ZOOMIES"
+- Wormwood: "Wheee!"
+- Wheeler: "Dried flytrap stalks really put a spring in my step."  
+
+## Description
+The **Stalking Stick** is an equippable Item exclusive to the **Hamlet** DLC. Similar to the **Walking Cane**, it is a speed-increasing item that can also be used as a weapon. Crafted by drying a **Flytrap Stalk** on a **Drying Rack**, it increases character movement speed by 30% while equipped, which is 5 percent points faster than the Walking Cane. It has a durability of three in-game days and can be repaired to 100% durability by a **Sewing Kit**.
+
+The Stalking Stick can also be used while sailing on **Boats**, providing the same speed boost.
+
+## Tips
+- The Stalking Stick may be used as a weapon, although it is among the weakest in the game, dealing only a little more than half the damage of a Spear. However, using it as a weapon does not drain its durability.  
+- The Stalking Stick's speed boost puts the character on the same level as many other creatures who could otherwise outrun them, including followers like Chester. This is amplified by both natural **Road**, **Stone Road** and **Cobblestone**, for a combined increase of movement speed by 60%, allowing players to outrun most mobs in the game.  
+- One can stack the speed bonus with **Magiluminescence** to have a total increase of 50% movement speed while both items are worn, which means that while on a road, the player will have an 80% speed boost. This can further be increased with **WX-78**'s overload, **Wolfgang**'s mighty speed boost, or **Wilbur**'s, **Wheeler**'s, and Blooming **Wormwood**'s speed boost, or after eating **Coffee**, **Tropical Bouillabaisse**, **Iced Tea**, and/or **Tea**.
+
+## Recipe
+**Ingredients:**
+- 1x Flytrap Stalk  
+- 1x Drying Rack  
+**Result:** Stalking Stick
+
+## Trivia
+- The Stalking Stick used to not be flammable before the February 13, 2019 update.
+
+_(Categories: Melee Weapons, Weapons, Flammable Objects, Speed Boost, Equipable Items)_
+```
+
+
+
+
+```markdown
+# Football Helmet
+
+## Overview
+The Football Helmet is a type of [[Armor]] that can be crafted in the [[Fight]] tab. It requires 1 [[Pig Skin]] and 1 [[Rope]] to craft, and an [[Alchemy Engine]] to prototype.
+
+## Specifications
+- **Durability:** 450
+- **Damage Absorption:** 80%
+- **HP Increase:** 750 (average 150 hp survivor)
+- **Water Resistance:** 20%
+- **Protection:** 80%
+
+## Crafting Recipe
+- **Ingredient 1:** Pig Skin (Multiplier: 1)
+- **Ingredient 2:** Rope (Multiplier: 1)
+
+## Additional Information
+- **Equip Slot:** Head
+- **Icon:** ![Football Helmet](Football Helmet.png)
+- **Image:** ![Dropped Football Helmet](Football Helmet Dropped.png)
+- **Tier:** 2
+- **Filter:** ![Armor Filter](Pic32|Armor Filter)
+- **Stack:** Does not stack
+- **Spawn Code:** "footballhat"
+- **Dropped By:** ![Ornate Chest](Pic|30|Ornate Chest)
+- **Description:** Protect your braincase.
+
+## Skins
+- **Woven - Elegant Barbed Helmet:** Introduced during the official [[The Forge]] event in 2017.
+- **Woven - Elegant Nox Helmet:** Introduced during the official [[The Forge]] event in 2018.
+- **Woven - Elegant Warhound Helm:** Introduced during the official [[Year of the Varg]] event in 2018.
+- **Woven - Elegant Hockey Helmet:** Introduced during the official [[Canadiana Collection]] event.
+
+## Trivia
+- The Football Helmet was added in the [[New Features#November 27.2C 2012_.E2.80.93 The Birds and the Bees .26 Dogs That Want to Kill You|The Birds and the Bees & Dogs That Want to Kill You]] update.
+- In American football, the football was once made out of animal leather and called a "pigskin".
+
+## Gallery
+![Wilson wearing a Football Helmet](Football Helmet Wilson.png)
+![Willow wearing a Football Helmet](Football Helmet Willow.png)
+![Wolfgang wearing a Football Helmet](Football Helmet Wolfgang.png)
+![Wendy wearing a Football Helmet](Football Helmet Wendy.png)
+![WX-78 wearing a Football Helmet](Football Helmet WX-78.png)
+![Wickerbottom wearing a Football Helmet](Football Helmet Wickerbottom.png)
+![Woodie wearing a Football Helmet](Football Helmet Woodie.png)
+![Wes wearing a Football Helmet](Football Helmet Wes.png)
+![Maxwell wearing a Football Helmet](Football Helmet Maxwell.png)
+![Wagstaff wearing a Football Helmet](Football Helmet Wagstaff.png)
+![Wigfrid wearing a Football Helmet](Football Helmet Wigfrid.png)
+![Webber wearing a Football Helmet](Football Helmet Webber.png)
+![Walani wearing a Football Helmet](Football Helmet Walani.png)
+![Warly wearing a Football Helmet](Football Helmet Warly.png)
+![Wilbur wearing a Football Helmet](Football Helmet Wilbur.png)
+![Woodlegs wearing a Football Helmet](Football Helmet Woodlegs.png)
+![Wilba wearing a Football Helmet](Football Helmet Wilba.png)
+![Wormwood wearing a Football Helmet](Football Helmet Wormwood.png)
+![Wheeler wearing a Football Helmet](Football Helmet Wheeler.png)
+![Winona wearing a Football Helmet](Football Helmet Winona.png)
+![Wortox wearing a Football Helmet](Football Helmet Wortox.png)
+![Wurt wearing a Football Helmet](Football Helmet Wurt.png)
+![Pig wearing Football Helm](Pig wearing Football Helm.png)
+
+## Categories
+- [[Category:Science]]
+- [[Category:Equipable Items]]
+- [[Category:Armor]]
+- [[Category:Hats]]
+- [[Category:Armor Filter]]
+- [[Category:Water Resistant]]
+- [[Category:Limited use]]
+- [[Category:Non-Flammable]]
+```

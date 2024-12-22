@@ -1,0 +1,79 @@
+```markdown
+# Incomplete: it needs Hamlet and DST new character info
+
+![HungerMeter](HungerMeter.png)
+
+| Character | Quote |
+|-----------|-------|
+| Wilson | I'm so hungry! |
+| Willow | I need food! |
+| Wolfgang | My mighty belly is empty! |
+| Wendy | I am full of emptiness. |
+| WX78 | FUEL RESERVES LOW |
+| Wickerbottom | Librarian needs food. |
+| Woodie | I'm getting peckish. |
+| Maxwell | I am empty inside. |
+| Wagstaff | I'm so hungry my cognitive abilities are failing! |
+| Wigfrid | Höw I löng för a feast! |
+| Webber | It's time for a snack! |
+| Walani | I'm crashing like a sick wave! Gimme food! |
+| Warly | I need food... |
+| Woodlegs | I be hungry... |
+| Wilba | WILBA BELLY 'TIS GRUMBLY |
+| Wormwood | Need stuff for belly |
+| Wheeler | When was the last time I ate? |
+| Winona | When's lunch? |
+| Wortox | Oh no, I'm hungry again. |
+| Wurt | Want food! |
+| Walter | Can we stop for a snack break? |
+| Wanda | How long has it been since I last ate? |
+| Choose | Wilson |
+
+## Hunger
+
+Hunger is one of the primary game mechanics, as it's the measurement which determines whether or not the character is starving. As a character gets hungrier, this meter will empty, and the stomach pictured will shrivel.
+
+The default maximum hunger for characters is measured at 150, though many characters have different maximum hunger amounts:
+
+- Wolfgang (300) (200)
+- WX-78 (100-200) (125-200)
+- Wes (113) (75)
+- Wagstaff (225)
+- Wigfrid (120)
+- Webber (175)
+- Walani (200)
+- Warly (250)
+- Wilbur (175)
+- Wilba (200)
+- Wortox (175)
+- Wurt (200-250)
+- Walter (110)
+- Wanda (175)
+
+Hunger drains at 9.375 points per minute or 75 points per game day, except for: 
+
+- Walani, drain hunger 10% faster (10.3125 or 82.5)
+- Warly, drain hunger 33% faster (11.25 or 99.75)
+- Wilbur, drain hunger 33% faster (11.25 or 99.75) only when running on all fours
+- Warly, drain hunger 20% faster (11.25 or 90)
+- Wes (singleplayer only), drain hunger 25% faster (12.46875 or 93.75)
+- Wormwood, drain hunger 0%, 33%, 66%, 100% faster (9.375, 11.25, 15.5625, 18.75 or 75, 99.75, 124.6, 150)
+- Wormwood, drain hunger 0%, 6%, 13%, 20% faster (9.375, 9.9375, 10.59375, 11.25 or 75, 79.5, 84.75, 90)
+- Wolfgang (singleplayer only), drain hunger from 0 to 200% faster (from 9.375 to 28.125 or from 75 to 225)
+- Wilba in her Werepig form, drain hunger 400% faster (46.875 or 375)
+
+Hunger drain can also be slowed or accelerated:
+
+- To 60% of base rate by equipping a Belt of Hunger
+- To 75% of base rate by wearing the Hibernation Vest
+- To 80% of base rate by poisoning
+- To 75% of base rate by equipping Funcap
+- If a Slurper jumps onto the player it will start draining 3 points of hunger every 2 seconds and keep doing so, until it's detached from the head slot.
+- Walter loses only half the normal hunger when Sleeping.
+- Winona will drain 5 hunger when she speed-crafts something.
+- Wolfgang has faster hunger drain when using the Mighty Gym.
+- WX-78 has 20% slower hunger drain when using the Super-Gastrogain Circuit.
+
+![Wilson hungry](Wilson_hungry.png)
+
+When the Hunger meter is emptied, Health will begin to drain at 1.25 points per second until something is eaten or the character dies. Most food will restore the Hunger meter when eaten. The amount restored depends on the food eaten; cooked food typically restores more than raw food. Some

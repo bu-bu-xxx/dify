@@ -1,0 +1,73 @@
+```markdown
+# Piko
+
+## Exclusivity
+- Exclusive to **Don't Starve: Hamlet** DLC.
+
+## Structure Infobox
+- **Naughtiness**: 1 / 2
+- **Image**:
+  - ![Normal Piko](Piko.png)
+  - ![Orange Piko](Orange%20Piko.png)
+- **Image Width**: 150
+- **Health**: 100
+- **Damage**: 2
+- **Drops**: ![Morsel]({{pic32|Morsel}})
+- **Walk Speed**: 2
+- **Run Speed**: 4
+- **Food Value**: ![Inedible]({{pic32|Inedible}}) × 1
+- **Special Ability**: Steals items off the ground and knocks out items from the player's inventory when attacking.
+- **Spawns From**: ![Tea Tree]({{pic32|Tea Tree}}) 4 Days
+- **Spawn Code**: "piko"<br>"piko_orange"
+- **Name**: Piko
+- **Attack Period**: 2
+
+## Item Infobox
+- **Image**: ![Orange Piko](Orange%20Piko.png)
+- **Food Value**: Filter × 1
+- **Spawn Code**: "piko_orange"
+
+## Quotes
+- **Wilson**: "He's a bit of a nut job."
+- **Willow**: "Squirrelly little guy."
+- **Wolfgang**: "Tiny, weak fluff."
+- **Wendy**: "Too naive to know pain."
+- **WX-78**: "A NUT GATHERING MEAT MACHINE"
+- **Wickerbottom**: "A charming mammalian fuzzball."
+- **Woodie**: "They like trees almost as much as us."
+- **Maxwell**: "Shoo, vermin."
+- **Wagstaff**: "The amazing storage space of their small cheeks defies all laws of physics!"
+- **Wigfrid**: "Döst thöu crave battle?"
+- **Webber**: "He's a busy little guy."
+- **Walani**: "It's a little buddy!"
+- **Warly**: "Bonjour, mon amie."
+- **Woodlegs**: "Thievin' scoundrel."
+- **Wilba**: "FELLOWS OF INFINITE JEST"
+- **Wormwood**: "Fluffy Nabber"
+- **Wheeler**: "Has more storage space in its cheeks than I do in my pockets."
+- **Choose**: Wilson
+- **Source**: Examining a Piko
+
+## Quotes (Orange Piko)
+- **Wilson**: "For some reason I'm craving tea."
+- **Willow**: "Squirrelly little guy."
+- **Wolfgang**: "Tiny, weak orange fluff."
+- **Wendy**: "You exist to amuse others."
+- **WX-78**: "MEAT MACHINE WITH BREWING PROPERTIES"
+- **Wickerbottom**: "An amusingly named mammalian fuzzball."
+- **Woodie**: "They like trees almost as much as us."
+- **Maxwell**: "How amusing."
+- **Wagstaff**: "Smells of tea. Perhaps a consequence of its proximity to tea trees?"
+- **Wigfrid**: "I hath nö use för it."
+- **Webber**: "I wonder if he likes tea parties."
+- **Walani**: "Oh, I get it."
+- **Warly**: "I prefer English Breakfast."
+- **Woodlegs**: "Aye, 'tis a useful brewed."
+- **Wilba**: "OF MOST EXCELLENT FANCY TAILS"
+- **Wormwood**: "Fluffy Nabber"
+- **Wheeler**: "Has a strangely caffeinated smell."
+- **Choose**: Webber
+- **Source**: Examining an Orange Piko
+
+## Description
+The **Piko** is a neutral **Mob** exclusive to the **Don't Starve: Hamlet** DLC. There is also a rarer orange variant called the **Orange Piko**. Both Piko and Orange Piko spawn from **Tea Tree**s and seem more likely to spawn near clumps of several trees growing close together. Each Piko has a "home tea tree" and will only climb this tree, unless caught in a **trap** and released. They will retreat to their home tree at dusk, when frightened, or after picking up an item. They will not leave the tree until next dawn or the player relogs. They do not seem to spawn from tea trees planted by the

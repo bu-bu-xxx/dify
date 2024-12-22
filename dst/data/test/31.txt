@@ -1,0 +1,64 @@
+```markdown
+# Mad Scientist Lab
+
+## Structure Infobox
+- **Image**: Mad Scientist Lab Build.png
+- **Image-width**: 200px
+- **Icon**: Mad Scientist Lab.png
+- **Description**: Mad science has no limits. Except sanity.
+- **Ingredient1**: Electrical Doodad
+- **Multiplier1**: 2
+- **Ingredient2**: Cut Stone
+- **Multiplier2**: 2
+- **Filter**: ![Prototypers & Stations Filter](ImgLink) ![Structures Filter](ImgLink) ![Special Event Filter](ImgLink)
+- **Tier**: 0
+- **Perk**: Unlocks Mad Science Filter.
+- **SpawnCode**: "madscience_lab"
+- **Box title**: Mad Scientist Lab
+
+## Exclusivity
+- **Don't Starve Together**
+
+## Event
+- **Hallowed Nights**
+
+## Quotes
+- **Wilson**: Sanity is a small price to pay for science!
+- **Willow**: I like the fire!
+- **Wolfgang**: Is making Wolfgang brain hurt.
+- **Wendy**: Madness lies within.
+- **WX-78**: BROTHER! WHAT HAS DRIVEN YOU MAD!
+- **Wickerbottom**: Mad science indeed!
+- **Woodie**: I prefer simpler things.
+- **Maxwell**: How maddening.
+- **Wigfrid**: Be there method to this madness?
+- **Webber**: Wow. Look at it bubble.
+- **Winona**: I can do some experimentin' with that.
+- **Warly**: Chemistry is just fancy cooking, non?
+- **Wortox**: A place to stew my magic brew.
+- **Wormwood**: For making scaries
+- **Wurt**: Bubble, bubble!
+- **Walter**: Mad science is the best kind!
+- **Wanda**: This is a bit outside my area of expertise...
+- **Choose**: WX-78
+
+The Mad Scientist Lab is a craftable Structure introduced in the 2018 version of the event. It is found in the Prototypers & Stations Filter and Structures Filter and requires two Electrical Doodads and two Cut Stones to craft. It is always available to craft and does not require prototyping.
+
+Standing next to the Mad Scientist Lab grants players access to the Mad Science Filter where they can conduct several experiments to produce potions. Each of these experiments causes the player to lose a certain amount of their Sanity.
+
+Most of these experiments have several possible outcomes, however, they are all of positive effect for the players. As the cooking process takes a certain amount of time, their results are not immediately available for usage.
+
+### Gallery
+<gallery captionalign="center" hideaddbutton="true">
+![Concept art for the Mad Scientist Lab from Rhymes with Play #212.](ImgLink)
+</gallery>
+
+### Hallowed Nights
+- **Craftable Items**
+  - [Craftable Items](CraftableItemsLink)
+
+### Categories
+- [[Prototypers & Stations Filter]]
+- [[Structures Filter]]
+- [[Special Event Filter]]
+```

@@ -1,0 +1,86 @@
+```markdown
+# Portable Crock Pot
+
+## Navbutton/Separation
+
+## Exclusivity
+**Shipwrecked | Don't Starve Together**
+
+## Structure Infobox
+| Name         | Tool                      | Picked                |
+| ------------ | ------------------------- | --------------------- |
+| Portable Crock Pot | Can be Hammered | Can prepare food. |
+
+![Idle](Portable_Crock_Pot_Build.png)
+![Full](Portable_Crock_Pot_Build_Full.png)
+
+## Structure Infobox
+| Image               | Icon                    | Name         | Perk                                 | Stack | SpawnCode                |
+| ------------------- | ----------------------- | ------------ | ------------------------------------ | ----- | ------------------------ |
+| Portable Crock Pot Dropped.png | Portable Crock Pot.png | Portable Crock Pot | Acts as a portable Crock Pot.<br>Makes unique food. | Does not stack | "portablecookpot_item" |
+
+## Quotes
+
+- Wilson: Now we're cookin'!
+- Willow: Just a dumb pot.
+- Wolfgang: Wolfgang will cook good meal for friends, meal like home!
+- Wendy: For when the hunger gnaws at my tiny stomach...
+- WX78: WE ARE KIN, YOU AND I
+- Wickerbottom: It will be nice to eat some properly prepared food.
+- Woodie: Sure makes the camp smell nice.
+- Maxwell: An instrument of the dark culinary arts.
+- Wigfrid: Cöoking, a nöble pröfessiön.
+- Webber: Makes yummies!
+- Winona: A fancy pot for some fancy cookin'.
+- Warly: What new culinary adventures shall we undertake, old friend?
+- Wortox: Does it make soul food?
+- Wormwood: For belly stuff
+- Wurt: Put food inside and different food come out, florp?
+- Walter: It still doesn't beat roasting things over a campfire.
+- Wanda: I don't like to fuss around with fancy cooking.
+- Choose: Warly
+
+The Portable Crock Pot is a character-specific Item that Warly begins the game with. It acts as a Crock Pot that can be moved and replaced. It must be placed on the ground to cook anything.
+
+While cooking, the Portable Crock Pot gives just enough light to ward off Charlie, but the sanity drain is equivalent of staying in total darkness, therefore, this is not recommended. It can also make exclusive recipes.
+
+## Recipes
+
+Visual Reminder:
+- Vegetables
+- Meats
+- Fruits
+- Fishes
+- Eggs
+- Sweeteners
+- Monster Foods
+- Dairy (Reign of Giants)
+- Bugs (Hamlet)
+- Inedible
+
+Below is a table of the exclusive recipes:
+
+| Food | Dish | Hunger | Sanity | Health | Perish time (days) | Cook time (sec) | Priority | Recipe | Special Effects |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Fresh Fruit Crepes | 150 | 15 | 60 | 10d | 40s | 30 | Fruit x1.5Butter x1Honey x1 | N/A |
+| Monster Tartare | 37.5 | 10 | 3 | 10d | 40s | 30 | Monster Foods x2Eggs x1Vegetables x0.5 | No Twigs | N/A |
+| Mussel Bouillabaise | 37.5 | 15 | 20 | 10d | 40s | 30 | Mussel x2Vegetables x2 | N/A |
+| Sweet Potato Souffle | 37.5 | 15 | 20 | 10d | 40s | 30 | Sweet Potato x2Eggs x2 | N/A |
+
+## Trivia
+
+- The Portable Crockpot was exclusive to the Shipwrecked DLC, until it was introduced to Don't Starve Together in the Warly Character Update.
+
+## Bugs
+
+- In Don't Starve: Shipwrecked, if the player places a Portable Crock Pot inside a Cargo Boat or Chester, exits the game and then relogs, a second Portable Crock Pot will appear in the player's inventory as the game considers the original one to be missing.
+- The same bug will occur when the player enters a Cave without the Portable Crock Pot in the inventory. Relogging is not necessary for this to occur.
+
+## Animations
+
+![place](Portable Crock Pot Place.gif)
+![hit](Portable Crock Pot Hit.gif)
+![hit fool](Portable Crock Pot Hit Fool.gif)
+![hit cooking](Portable Crock Pot Hit Cooking.gif)
+![cooking](Portable Crock Pot Cooking.gif)
+![collapse](

@@ -1,0 +1,68 @@
+```markdown
+# Don't Starve Together
+
+_This is the sequel to [[Don't Starve]] and features the requested multiplayer mechanics. Originally scheduled to come out in Summer 2014, but a specific date was not given. However, sign-ups for a limited-access, closed Beta were released. It came out on Mac and Linux after being finalized on Windows._
+
+## Infobox
+
+| Row 1 title | Developer     |
+|------------|--------------|
+| Row 1 info  | Klei Entertainment |
+| Row 2 title | Platform     |
+| Row 2 info  | Windows, Mac OS X, Linux, PS4, Xbox One, Switch |
+| Row 3 title | Genre        |
+| Row 3 info  | Action-adventure, survival horror, sandbox, roguelike |
+| Row 4 title | Modes        |
+| Row 4 info  | Multiplayer (Survival, Endless and Wilderness modes) |
+| Row 5 title | Distribution |
+| Row 5 info  | Download     |
+
+![Don't Starve Together Logo](File:Don't Starve Together Logo.png)
+
+## Features
+
+Don't Starve Together has multiple ways to play with others: LAN, network, and matchmaking play. Many items have been balanced or removed in order to keep the game fair. PvP are optional by the server operator. Dedicated, player-hosted and LAN servers are available, and chat is global or local depending on the server admin's preference.
+
+### Game Modes
+
+- **Default** is the main game content of this game.
+  - We survive together, we die together!
+  - Survive through the [[seasons]] and protect yourself from the world.
+  - Uncover ancient secrets hidden within the shadows.
+  - Grow crops, catch fish, hunt for meat. Whatever you do, don't starve.
+
+- [[The Forge|Forge]] Is a time-limited event mode, it's a 6-player co-op challenge in an arena, combat with exclusive enemy [[Mobs]] and [[:Category:Boss Monsters|Bosses]].
+  - Prove yourself to [[Battlemaster Pugna]] in this Gate Realm.
+  - Enter the world through the [[Ancient Gateway|Molten Gateway]].
+  - No hunger or sanity.
+  - Use what you can find. No outside weapons in the Pit!
+
+- [[The Gorge|Gorge]] Is a time-limited event mode, it's a 3-player co-op challenge involving cooking, farming, and gathering ingredients.
+  - Cook delicious dishes to appease the [[The Gnaw|Eternal Gnaw]] in this Gate Realm.
+  - Enter the world through the [[Ancient Gateway|Mossy Gateway]].
+  - No nighttime.
+  - Use what you can find to cook offerings for the altar!
+
+### Playstyles
+
+The Playstyles was added in [[A Little Drama and QOL]] update. When creating a new world, the player can choose different modes for the game. There are 5 game modes in total: Relaxed, Endless, Survival, Wilderness, and Light Out. Each mode has different settings that can later be changed in [[World Customization]].
+
+| Playstyle   | Description                                                                                   |
+|------------|-----------------------------------------------------------------------------------------------|
+| Relaxed    | A more relaxed playstyle with less threats from the world.                                  |
+| Endless    | A never-ending Don't Starve sandbox.                                                      |
+| Survival   | The standard Don't Starve experience.                                                       |
+| Wilderness | Players spawn in random locations across the map.                                            |
+| Light Out  | A dark twist on the standard Don't Starve experience.                                       |
+
+### Additional Content
+
+Don't Starve Together includes almost all content of the base game and the [[Don't Starve: Reign of Giants|Reign of Giants]] DLC. Some features from the [[Don't Starve: Shipwrecked|Shipwrecked]] and [[Don't Starve: Hamlet|Hamlet]] DLCs were also introduced over time. Additionally, several new entities were added to re-balance characters, giants, and seasonal mechanics for the multiplayer aspect of the game.
+
+## Rebalancing
+
+Don't Starve Together features [[Caves]] and [[Ruins]], which must be toggled on via a tab in the Server Creation menu. The Caves and Ruins now share the same map level, since each map level requires a separate server.
+
+### Sleeping
+
+Sleeping has been significantly changed. Normally, when going to sleep, the day would fast-forward to sunrise and replenish [[health]] and [[sanity]] at the cost of [[hunger]] upon waking up. However, when on a server, sleeping will not fast forward to sunrise but will instead leave the player unable to move and unaffected by the [[Charlie (Night Monster)|night monster]]. This will replenish health and sanity while draining hunger faster

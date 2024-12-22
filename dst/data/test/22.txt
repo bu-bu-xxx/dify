@@ -1,0 +1,45 @@
+```markdown
+# {{Navbutton/Character}}
+
+{{Character Infobox
+|image ds=Woodie.png
+|nick ds=The Lumberjack
+|motto ds="That's a nice lookin' tree, eh?"
+|perk ds=Has a lovely axe<br>And a terrible secret<br>Celebrates Thanksgiving too early (''US'')<br>Celebrates Thanksgiving at the correct time (''CAN'')<br>Is thankful for bountiful harvests (''elsewhere'')
+|health ds=150
+|hunger ds=150
+|sanity ds=200
+|item ds={{Pic32|Lucy the Axe}}
+|start item ds={{Pic32|Lucy the Axe}}
+|spawnCode ds="woodie"
+|image dst=Woodie Original_Portrait.png
+|nick dst=The Lumberjack
+|motto dst="That's a nice lookin' tree, eh? Not for long."
+|perk dst=Has a lovely axe...<br>And is at war with the forest<br>Suffers from the curse of the Werebeaver!<br>And the Weremoose and the Weregoose...<br>Celebrates Thanksgiving too early (''US'')<br>Celebrates Thanksgiving at the correct time (''CAN'')<br>Is thankful for bountiful harvests (''elsewhere'')
+|health dst=150
+|hunger dst=150
+|sanity dst=200
+|beaverness dst=100
+|item dst={{Pic32|Lucy the Axe}} {{Pic32|Kitschy Beaver Idol}} {{Pic32|Kitschy Moose Idol}} {{Pic32|Kitschy Goose Idol}}
+|start item dst={{Pic32|Lucy the Axe}}
+|bio=''A gruff, bearded woodsman, Woodie has a soft spot for nature, plaid, and his trusty axe, Lucy.''
+|birthday=September 12
+|survivability=Slim
+|favorite food={{pic32|Honey Nuggets}}
+|spawnCode dst="woodie"
+|links=[[Woodie quotes|Quotes]]<br/>[[Woodie clothes|Clothes]]
+}}
+{{Quote|Lucy would want me to chop it down.|Woodie}}
+'''Woodie''' is the sixth playable [[Character]] unlocked via [[Experience]] in ''[[Don't Starve]]'', with 1600 XP. He is also one of the playable [[Character]]s in ''[[Don't Starve Together]]'' (DST). He is a stereotypical Canadian lumberjack with a love for chopping [[Trees]] and a mysterious curse.
+
+In DST, he received a character refresh on September 12, 2019.<ref>[https://forums.kleientertainment.com/forums/topic/109374-warly-is-now-available-in-dst/ Warly is Now Available in DST!]. Posted on July 25, 2019</ref><ref>[https://forums.kleientertainment.com/forums/topic/111377-woodie-character-update-next-week-news/ Woodie Character Update Next Week + News!]. Posted on September 6, 2019</ref>
+
+## Origin
+{{#ev:youtube|https://youtu.be/d0r0WfV2y5s|alignment=left|dimensions=300}}
+Woodie is notorious for having very little known about his character. His biography in DST's [[Compendium]] reveals a bit about himself:
+
+''Hailing from the pine-covered mountains of the great white north, Woodie is an unassuming yet strangely mysterious man who keeps his past close to the vest (or in his case, the flannel). He is never seen without his signature bushy beard or trusty axe Lucy, who herself is a bit of an enigma. The other Survivors are not quite sure whether Woodie is simply mad, or if there might be something else to the seemingly inanimate object. Sometimes they swear they can hear a jovial female voice speaking to Woodie when no one else is around...''
+
+In the animated short ''[[Animated shorts and trailers#Tree's A Crowd|Tree's A Crowd]]'', his DST exclusive forms Weremoose and Weregoose are given the spotlight. The short is officially summarized in the Compendium:
+
+''As the power of the moon has grown, so too have the effects of Woodie's curse. Woodie soon found that his form would shift into not only the Werebeaver, but a Weremoose and Weregoose as well. As his changing forms became more unpredictable, Woodie resolved to find a way to have more control over his curse. Using every bit of knowledge he'd gained from his time in the Constant (and some additional tips from Ms. Wickerbottom) he soon discovered that his transformations could in fact be

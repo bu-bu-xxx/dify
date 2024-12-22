@@ -1,0 +1,22 @@
+# Don't Starve: Console Edition PS4 and PS3 Guide
+
+## Introduction
+This guide covers some of the features, exploits, and general problems specifically for Don't Starve: Console Edition PS4 and PS3. This content is subject to change, following future updates and patches. This guide does not promote any of the exploits!
+
+## Pause to sort your inventory
+In the PS4 and PS3 editions, pressing **R2** on the controller will pause the game and open up a sorting screen, making it possible to equip or sort items out without fear. This can be useful when refueling a Miner Helmet or during unexpected attacks. This feature can also be activated after opening a chest. Items can be equipped or dropped. Sanity, Hunger, and Health is also displayed during pause mode. A Life Giving Amulet can be equipped at the last moment, without having to constantly wear it.
+
+## Crashing
+### PS4 Edition
+The PS4 edition has some CPU problems in certain situations. The most notable is tight packed tree farms. Plant tree farms away from base/camp areas or space out the trees to reduce load on the system. The game is more prone to crash in winter, regardless of tree farm size. Walking through a tree farm can overload the system. Autosaves generally make this a minor issue.
+
+### PS3 Edition
+The PS3 edition of Don't Starve Giant Edition also has a chance of crashing when entering a cave. The screen will load the cave world and then go directly to a "Warning!" screen telling the player that the savedata is empty on load cave. Any attempt to reload the game will result in receiving the same warning screen (Rev -1 PS3).
+
+The game may crash when it auto-saves (at the start of a new day), making all activities that had been done before the save redundant. It does not corrupt data however, it is just an inconvenience that can happen and when it happens multiple times in a row it can be disheartening. It doesn't seem to crash (as often) on a smaller world, this could be that a larger world is quite demanding on the console and therefore cause the game to crash. The game's music still plays after it crashes.
+
+## Collecting dropped items
+Hold **X** to collect items faster. This makes items like the Lazy Forager less important. A problem to be noted is you will need to avoid allowing your character to be next to a tree stump or other such objects, since they will lock on to that instead.
+
+## Problems with Lureplants
+Planting too many Lureplants together on man-made turfs may cause issues, due to the problems with the lock-on mechanics registering certain items you wish to pick up. The same issues apply to chests and firepits with heat stones.

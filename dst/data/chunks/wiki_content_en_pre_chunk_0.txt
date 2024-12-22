@@ -1,0 +1,2703 @@
+```markdown
+# Maxwell (Character)
+
+## In-Game Information
+
+- **Name:** Maxwell
+- **Nickname:** The Puppet Master
+- **Motto:** "Freedom!"
+- **Perks:** Is dapper but frail. Can split his mind into pieces. On a first-name basis with the night.
+- **Health:** 75
+- **Hunger:** 150
+- **Sanity:** 200
+- **Starting Items:** [Codex Umbra], [Dark Sword], [Night Armor], [Purple Gem], [Nightmare Fuel] ×4
+- **Spawn Code:** waxwell
+
+## Description
+
+Maxwell, also known as William Carter, is one of the six playable characters in Don't Starve and Don't Starve Together. The de-facto antagonist of the base game, he returns to his human form and becomes a survivor in the Constant after being freed at the end of Adventure Mode.
+
+## Origin
+
+Maxwell's backstory is given in the Compendium. Formerly the king of the Nightmare Throne, he was once William Carter, a penniless man from London who dreamt of being a world-renowned magician. After gaining possession of the Codex Umbra, he embraced his new persona as a charismatic master of dark magic. His quest for more power led to his downfall, and he was trapped in the Constant, compelled to ensnare more victims.
+
+## Unlocking
+
+Maxwell can be unlocked by completing Adventure Mode and choosing to release him from the Nightmare Throne using a Divining Rod.
+
+## Trivia
+
+- Maxwell's voice is a harmonium.
+- Maxwell is the only character whose name doesn't start with a W, but his real name, William Carter, does.
+- Maxwell is one of six characters that cannot be unlocked by gaining Experience.
+- Maxwell is not greeted at the start of a new world, instead waking up by himself and claiming, "Freedom, at last!"
+- When struck by Lightning in DLCs, Maxwell is shown to have bones in his sleeves.
+
+## Lore
+
+- Maxwell breaks the fourth wall by talking about Don't Starve itself.
+- Maxwell's examination quote for Tallbirds reveals that he created them by accident through a failed experiment.
+- Maxwell has a brother named Jack Carter, as revealed in the William Carter Puzzles.
+
+## Cultural References
+
+- Maxwell's name is a reference to the scientific thought problem "Maxwell's demon".
+- His name may be a reference to Charles Carter, a stage magician from the early 20th century.
+- His Dark Wizard skin may be based on Grigiveche Efimovich Rasputin, who, according to some legends, owned dark magic.
+- His design and position may have been inspired by Half-Life's G-Man.
+
+## Links
+
+- [Maxwell Quotes](Quotes)
+- [Maxwell Clothes](Clothes)
+```
+
+
+
+
+```markdown
+# {{Navbutton/Character}}
+
+## {{Character Infobox
+|image ds = Willow.png
+|nick ds = The Firestarter
+|motto ds = "Things are so much prettier when they burn."
+|perk ds = Immune to fire damage<br>Has a sweet lighter<br>Lights fires when nervous
+|health ds = 150
+|hunger ds = 150
+|sanity ds = 120
+|sanity mult ds = up to +10/min per nearby [[File:Icon Light.png|24px|link = Fire]]
+|item ds = {{Pic|32|Willow's Lighter}}
+|start item ds = {{Pic|32|Willow's Lighter}}
+|spawnCode ds = "willow"
+|image dst = Willow Original Portrait.png
+|nick dst = The Firestarter
+|motto dst = "All will bathe in the prettiest of flames."
+|perk dst = Has a fondness for fire, but hates the cold<br>Protected by her cuddly bear, Bernie<br>Has a reliable lighter
+|health dst = 150
+|hunger dst = 150
+|sanity dst = 120
+|sanity mult dst = -1.1x and +1.1x<br>up to +11/min per nearby [[File:Icon Light.png|24px|link = Fire]]
+|item dst = {{Pic|32|Willow's Lighter}} {{Pic|32|Bernie}}
+|start item dst = {{Pic|32|Willow's Lighter}} {{Pic|32|Bernie}}
+|bio = ''Willow is a candid woman whose penchant for fire often gets her into more than a little trouble.''
+|birthday = May 7
+|survivability = Slim
+|favorite food = {{pic32|Spicy Chili}}
+|spawnCode dst = "willow"
+|links = [[Willow quotes|Quotes]]<br/>[[Willow clothes|Clothes]]
+|filter dst={{Pic32|Willow Filter|Willow Filter}}}
+### {{Quote|Hmmm. I wonder if these will burn.|Willow}}
+
+**Willow** is the Second playable **Character** in *Don't Starve* that can be unlocked via **Experience**, when the player reaches 160 XP. She is also one of the playable Characters in *Don't Starve Together* (DST). She is a young woman who is obsessed with fire.
+
+As part of the *Don't Starve Together* content updates, Willow received a character refresh on May 7, 2019.[^1]
+
+## {{pic32|Minimap Maxwell's Door}} Origin
+
+{{Quote|Willow always regarded being brought to The Constant as a new beginning. It allowed her to leave everything behind, after all.|Official description of Willow's [[vignette]] from [[The Forge]]}}{{#ev:youtube|https://youtu.be/TKKXXKtFiQw|alignment=left|dimensions=300}}
+
+Willow's backstory was revealed in an animated short titled *From the Ashes*. An official summary of the short was provided in DST's [[Compendium]]:
+
+*Willow always regarded being brought to [[The Constant]] as a new beginning. It allowed her to leave everything behind, after all. From a young age, Willow seemed to possess a knack for attracting bad luck. Orphaned at a young age and forced to live in a children's home with cruel caregivers, she soon found her nights plagued by shadowy visions of terrible creatures... creatures that could only be held at bay by her faithful teddy bear Bernie. But when Bernie was taken away as punishment for what her caregivers saw as unfit behavior, Willow was left to fend for herself when the shadows came for her. That's when she learned that nothing holds back the darkness like a roaring flame. Nothing is more comforting than watching your troubles light up and crumble to ash...  It wouldn't be the last time Willow burned it all down to start anew.*
+
+## {{pic|32|Placeholder}} Trivia
+
+### In-Game
+* Willow was added to the original Don't Starve Chrome build on August 7, 2012.[^2]
+* Willow's voice is played by a flute.
+* Willow has a [[Unimplemented Items#Player Skulls|skull]] in the game files.
+* Willow's previous perk, before the [[Version History#July 2, 2013 - Strange New Powers|Strange New Powers]] update, was to light fires at her feet when in darkness, like she does when low on Sanity now.
+* When struck by [[Lightning]] in DLCs, Willow, like most other Characters, is shown to have bones in her hair. In addition to this, she has bones in her skirt.
+* Willow was the second Don't Star
+
+
+
+
+```markdown
+# Krampus
+
+## Behavior
+
+Krampus is a neutral monster that steals the player's stored items and items left on the ground. It appears when players gain too much Naughtiness from killing innocent creatures too fast.
+
+### Quotes
+
+- Wilson: He's going after my stuff!
+- Willow: Stay back, you big jerk!
+- Wolfgang: Scary goat man! Run!
+- Wendy: Hello, foul creature of the underworld.
+- WX78: STOP! THIEF!
+- Wickerbottom: It's a mythological holiday monster.
+- Woodie: Back off, hoser!
+- Maxwell: You'll never catch me!
+- Wagstaff: He appears to be drawn to my moral ambiguity.
+- Wigfrid: Yöu dön't scare me, göat!
+- Webber: Give us back our things!
+- Walani: Stealing isn't cool!
+- Warly: What the devil!
+- Woodlegs: What did ol'Woodlegs do?
+- Wilba: 'TIS BIG MEANY
+- Wormwood: Mean Branch Head
+- Wheeler: Whoops. All those little bad acts have come back to haunt me.
+- Winona: Some sort of... festive devil?
+- Wortox: Heh heh. No hard feelings?
+- Wurt: Big meanie!!
+- Walter: Hey! Did you rifle through my supplies?
+- Wanda: He really puts a damper on this time of year.
+
+## Naughtiness
+
+Naughtiness is generated by killing certain creatures. Once the player reaches a threshold of naughtiness, Krampus will spawn. After Krampus appears, the naughtiness level is reset to 0.
+
+## Strategy
+
+Krampus, especially when more than one spawns at the same time, can wreak havoc in a player's base without adequate preparation. Players are advised to pay attention to the signs of naughtiness, and only summon Krampus when preparations are complete; away from important items and the player's base.
+
+## Downloadable Content
+
+- In the Reign of Giants DLC, killing Glommer will immediately summon Krampii as it increases naughtiness by 50 points, the exact amount needed to spawn Krampus.
+- In the Shipwrecked DLC, Krampus will be wearing a Floral Shirt on his visit to the islands.
+- In the Hamlet DLC, Krampus has the ability to enter interiors.
+
+## Tips
+
+- Summoning Krampus at night will summon sleeping Krampii, including during a Full Moon, which allows them to be easily killed.
+- Tooth Traps are not very effective against Krampus since there is a chance that he will steal the trap instead of activating it.
+- Various forms of "Krampus traps" can be created utilizing their behavior of stealing items.
+
+## Trivia
+
+- Krampus was added in the Naughty and Nice update.
+- Krampus is a beast-like creature from the folklore of Alpine countries, thought to punish bad children during the Yule season by whipping them into submission.
+
+## Gallery
+
+![Krampus All Sides](Krampus_All_Sides.png)
+![Attack](Krampus_Attack.gif)
+![Taunt](Krampus_Taunt.gif)
+![Steal](Krampus_Steal.gif)
+![Sleep](Krampus_Sleep.gif)
+![Run](Krampus_Run.gif)
+```
+
+
+
+
+# WX-78
+
+## Origin
+
+WX-78's backstory was revealed in an animated short titled [[Animated Shorts and Trailers#Disconnected|Disconnected]].
+
+An official summary of the short was provided in DST's [[Compendium]]:
+
+''WX-78 was the result of an unorthodox experiment helmed by {[LoadEmpathyModLibraryExW()......ERROR_DATA_PATH_NOT_FOUND]} and Robert Wagstaff. The experiment turned out to be a [RESOUNDING SUCCESS], but Wagstaff was [A SHORT SIGHTED FOOL, AFRAID OF PROGRESS] and decided to put a stop to further tests. Adamant that the process that created them could still be perfected, WX refused to give up, continuing their experiments in secret. When Wagstaff discovered what they had been doing, there was a heated argument and01110100 01101111 01101111 00100000 01101100 01100001 01110100 01100101 00100000 01110100 01101111 01101111 00100000 01101100 01100001 01110100 01100101 00100000 01110100 01101111 01101111 00100000 01101100 01100001 01110100 01100101''
+
+## Tips
+
+- WX-78 acts like a [[Lightning Rod]]. If any event launches multiple lightning strikes, such as reading [[The End is Nigh]], '''all''' strikes will usually target WX-78.
+- Equipping an [[Umbrella]] alongside a hat that offers at least 10% rain protection (such as the [[Straw Hat]]) will completely shield WX-78 from Rain, preventing any damage from being taken.
+- WX-78 players may want to avoid using items that offer Lightning immunity (such as the Umbrella or [[Eyebrella]]) if they require healing, though they will take a hit to their Sanity with each strike.
+- Using the [[Ice Cube]] or [[Fashion Melon]] as protection from [[Overheating]] is not advised, as the Wetness gained from those items will damage WX-78.
+- WX-78's gear consumption ability & light-providing circuits makes them one of the better equipped characters for traversing the [[Ruins]].
+- Since they ignore spoilage and food loses all sanity restoration as soon as it turns stale, WX-78 players have at least double the time to utilize foods that grant high sanity but spoil quickly, giving them a distinct advantage over other characters in terms of sanity management.
+- In DST, WX-78's [[Don't Starve Together#Favorite Food|favorite food]] is [[Butter Muffin]], meaning that they gain 15 bonus {{Hunger}} when consuming the food.
+
+## Trivia
+
+### In-Game
+
+- WX-78 was added to ''Don't Starve'' in the ''[[Don't Starve/Version_History#January 15, 2013 – Spoiled Rotten|Spoiled Rotten]]'' update on January 15, 2013.
+- WX-78's voice is played by what is explained as a "crazy processed synth".
+- WX-78 has a [[Unimplemented Features#Player Skulls|Skull]] in the game files. Also, when struck by Lightning, a skeleton can be seen.
+- WX-78 makes a unique creaking noise as they walk.
+- Although they take damage from Wetness, WX-78 can eat watery foods such as [[Pomegranate]]s, [[Meaty Stew]], or even [[Watermelon]]s without being harmed.
+- WX-78 is one of the original four Characters that were available during the closed Beta of DST.
+- In DST, if the player communicates to others with the Y or U keys as WX-78, all messages will be sent in uppercase letters like their original dialogue.
+- Most of their audio files are labelled Woodrow, which may indicate they were originally meant for an [[Unimplemented Characters|unimplemented character]] who also has their own audio files in the code. That, or Woodrow was an early iteration of their character.
+- WX-78 is oddly inconsistent with their punctuation in quotes. For instance, they often leave the end of their sentences without a period.
+- When WX-78 examines a [[Slurper]], they will say "IT VIOLATED MY SMELLING MODULE", but when they examine a [[Durian]], they will say "GOOD THING I LACK A NOSE". This inconsistency may be intentional for comedic effect or just an error.
+- WX-78 was originally planned to speak in randomly generated binary.<ref>[https://forums.kleientertainment.com/forums/topic/6745-wx78-the-autom
+
+
+
+
+```markdown
+# Rain Hat
+
+## Structure Infobox
+- **Equip Slot:** Head
+- **Image:** Rain Hat Dropped.png
+- **Icon:** Rain Hat.png
+- **Ingredient 1:** Moleworm (x2)
+- **Ingredient 2:** Straw Hat (x1)
+- **Ingredient 3:** Bone Shards (x1)
+- **Tab:** Dress
+- **Tier:** 2
+- **Perk:** Protects from Rain and Lightning.
+- **Stack:** Does not stack
+- **Spawn Code:** rainhat
+- **Wears Out:** 10 days
+- **Repaired by Sewing:** 1
+- **Water Resistance:** 70% resistance
+- **Description:** Soft to the touch, slick to the rain.
+
+## Quotes
+- Wilson: It'll mess up my hair, but I'll stay nice and dry.
+- Willow: Anything to keep the water away.
+- Wolfgang: Is like water off mole's back.
+- Wendy: What fun is rain if you're not getting wet?
+- WX-78: INSULATED PROTECTION FROM WATER DAMAGE
+- Wickerbottom: I hate when my bun gets wet.
+- Woodie: Always keep a dry head while chopping.
+- Maxwell: Not the most dapper of hats, but quite necessary.
+- Wagstaff: Excellent apparel for traversing rainy weather.
+- Wigfrid: We will fight in the rain.
+- Webber: It'll keep the water out of our fur.
+- Walani: High and dry.
+- Warly: Better than a newspaper.
+- Woodlegs: Keeps yer head dry.
+- Wilba: WILBA STAY'TH DRY
+- Wormwood: Looks good?
+- Wheeler: Keeps my noggin nice and dry.
+- Winona: Dry as a daisy. That's the phrase, right?
+- Wortox: Splish and splash!
+- Wurt: Rain not scary!
+- Walter: I wonder if I could make one for Woby too.
+- Wanda: What a charming rain bonnet!
+- Choose: Wilson
+
+The Rain Hat is a craftable Dress item from the Don't Starve: Reign of Giants DLC. It requires 2 Moleworms, 1 Straw Hat, and 1 Bone Shard to craft and an Alchemy Engine to prototype. The Sewing Kit repairs 50% of its durability.
+
+When worn during Rain, it protects against Wetness gain by 70%. Additionally, it insulates the player against Lightning strikes and the electric shocks of a charged Volt Goat.
+
+## Trivia
+- Rain Hats require Moleworms to craft because the moleskin is known for its water-resistance.
+- The crafting recipe used to require Tentacle Spots instead of Moleworms.
+- Wearing this hat while standing under a Tree provides sufficient Wetness protection from rain.
+
+## Gallery
+<gallery>
+Rain Hat Equipped.png|Rain Hat Equipped
+DST Hook Line and Inker Trailer Wilson.png|The Rain Hat as seen in the Hook, Line, and Inker trailer.
+File:Spring RoG poster.png|Wilson with a Rain Hat in Reign of Giants spring promo poster
+Rain Hat Wilson.png|Wilson wearing a Rain Hat.
+Rain Hat Willow.png|Willow wearing a Rain Hat.
+Rain Hat Wolfgang.png|Wolfgang wearing a Rain Hat.
+Rain Hat Wendy.png|Wendy wearing a Rain Hat.
+Rain Hat WX-78.png|WX-78 wearing a Rain Hat.
+Rain Hat Wickerbottom.png|Wickerbottom wearing a Rain Hat.
+Rain Hat Woodie.png|Woodie wearing a Rain Hat.
+Rain Hat Wes.png|Wes wearing a Rain Hat.
+Rain Hat Maxwell.png|Maxwell wearing a Rain Hat.
+Rain Hat Wigfrid.png|Wigfrid wearing a Rain Hat.
+Rain Hat Webber.png|Webber wearing a Rain Hat.
+Rain Hat Walani.png|Walani wearing a Rain Hat.
+Rain Hat Warly.png|Warly wearing a Rain Hat.
+Rain Hat Wilbur.png|Wilbur wearing a Rain Hat.
+Rain Hat Woodlegs.png|Woodlegs wearing a Rain Hat.
+Rain Hat Wilba.png|Wilba wearing a Rain Hat.
+Rain Hat Wormwood.png|Wormwood wearing a Rain Hat.
+Rain Hat Wheeler.png|Wheeler wearing a Rain Hat.
+Rain Hat Winona.png|Winona wearing a Rain Hat.
+Rain Hat Wortox.png|Wortox wearing a Rain Hat.
+Rain Hat Wurt.png|Wurt wearing a Rain Hat.
+</gallery>
+
+## Categories
+- Reign of Giants
+- Hats
+- Craftable Items
+- Water Resistant
+- Equipable Items
+- Science
+- Dress Tab
+- Limited use
+- Non-Flammable
+- Shock Resistant
+```
+
+
+
+
+```markdown
+# Wigfrid
+Wigfrid is one of the two playable **Characters** exclusive to the **Reign of Giants** DLC. She is the seventh Character to be unlocked via **Experience**, with 1920 XP. She is also one of the playable Characters in **Don't Starve Together** (DST). Although Wigfrid has the appearance of a **Valkyrie**, she's just a stage actress.
+
+## Origin
+Wigfrid's backstory was revealed in the animated short **The Curtain Calls**. The short is officially summarized in DST's **Compendium**:
+"Wigfrid always knew she was meant for the stage. Her debut performance was an instant sensation, launching her from obscurity to overnight stardom. Fans delighted in her portrayal of a noble and fearsome Valkyrie warrior, and she in turn took great pains to fully embody the role. She was perfect for it... perhaps too perfect. Every part she played afterward seemed to fall flat, never again achieving that magical quality that had once drawn audiences to her performances like bees to honey. As Wigfrid’s stardom slowly began to fade, she retreated to the memories of her glory days, losing herself in her fantasies...''
+
+"Until one day, she was lost entirely."
+
+## Trivia
+### In-Game
+- Wigfrid was added to **Don't Starve: Reign of Giants** in the **A Feet of Strength** update on March 12, 2014.
+- In **Don't Starve**, anytime Wigfrid uses the letter "O", she says it with umlauts ("Ö"), even if there are two in a row. In DST, only the first of consecutive "O"s will have an umlaut. Umlauts can be toggled in the settings, using the "Umlautify" option.
+- Wigfrid is voiced by very processed brass horns.
+- Despite Butterfly Wings/butter muffins being made from an animal, she cannot eat them.
+- Wigfrid’s birthday is listed as March 23rd in the **Compendium**.
+- While being described as excellent in combat, Wigfrid's bonuses are outclassed by those of other characters; most also have higher Hunger and Sanity while lacking her inability to eat non-meat foods. On the other hand, Wigfrid is the only character to have combat bonuses in so many fields (attack power, damage resistance, starting equipment, and health/Sanity regeneration), and she also lacks the other characters' weaknesses; overall, she is a "Jack of all trades, master of none" type of character when it comes to fighting.
+
+### Lore
+- Wigfrid dislikes **Mushrooms**, according to her **examination quotes**.
+- Wigfrid is able to break character, as shown by her quotes when entering/leaving light ("And the curtain falls."; "I step intö the light!") and when examining a **Top Hat** ("It döesn't match my cöstume.") or a **Pirate Hat** ("This hat cönfuses my character... I mean, my söul.").
+- Wigfrid's DST **loading screen vignette** is accompanied by text that reveals a bit about her acting skills: "The valor and confidence of a Valkyrie didn't always come naturally to Wigfrid. She cultivated her strength and persona over many years through sheer force of will."
+
+### Cultural References
+- Wigfrid is referred to as **Wathgrithr** in the game files, which comes from the name of a Valkyrie, Ráðgríðr (Rathgrithr).
+- Wigfrid's role as an actress may be a reference to the famous opera cycle by Richard Wagner called **The Ring of The Nibelung**. Her name may be a reference to the same opera cycle's main character Siegfried, but the character is possibly based on the main female character, a valkyrie named Brynhilde.
+- Her motto for DST is a reference to a **Shakespeare quote**.
+- Toni from **Rhymes with Play** #201 said that Wigfrid's Victorian skin is based on an illustration by Alphonse Mucha, which depicts Sarah Bernhardt as Prince Hamlet from the **titular Shakespeare play**.
+- Wigfrid's Contender skin set is called "The Ultimate Performer", which may be a reference to **The Ultimate Warrior**, a professional wrestler. Her mask even calls to mind The Ultimate Warrior's famous face paint.
+- Her The Snowfallen skin possibly refers to frost giant or **Jötunn** from norse mythology.
+- Wigfrid Magmatic quote ref to **Surtr** from Norse mythology.
+- Wigfrid Magmatic description ref to **Ragnarök
+
+
+
+
+```markdown
+# Purple Groupers
+
+## Exclusivity: Shipwrecked
+
+### Structure Infobox
+- **Food Type:** Meat [[File:Meats.png|32px|link=Food_Type#Meat]]
+- **Name:** Purple Grouper
+- **Icon:** Purple Grouper.png
+- **Image:**
+  - <gallery>
+    Purple Grouper Dropped.png|Dead
+    Purple Grouper Alive Dropped.png|Alive
+    </gallery>
+- **Food Value:** [[File:Fishes.png|32px|link=Fishes]] × 1.0 [[File:Meats.png|32px|link=Meats]] × 0.5
+- **Dropped By:** {{Pic32|Fish Farm}}
+- **HP Restored:** 1
+- **Hunger Restored:** 12.5
+- **Sanity Restored:** 0
+- **Spoil:** 10 Days
+- **Stack:** 40
+- **Spawn Code:** "fish3"
+
+### Quotes
+- **Wilson:** Surf and turf, hold the turf.
+- **Willow:** You look kinda dumb.
+- **Wolfgang:** Wolfgang wish he swim like fish.
+- **Wendy:** A pitiful creature.
+- **WX-78:** I RESCUED IT FROM THE WATER. INGRATE
+- **Wickerbottom:** Part of the Epinephelinae family.
+- **Woodie:** Looks like dinner.
+- **Maxwell:** Truly an ugly creature.
+- **Wagstaff:** A beautiful fish. Even dead.
+- **Wigfrid:** Aegir shall nöt save yöu this day.
+- **Webber:** Haha! What a silly face.
+- **Walani:** His doofiness is kinda endearing.
+- **Warly:** It couldn't be any fresher!
+- **Woodlegs:** Ye got thet look t'ya.
+- **Wilba:** 'TIS A FISHY FISHY
+- **Wormwood:** Purple Glub Glub
+- **Wheeler:** It's a fish. Pretty common around here.
+
+### Description
+Purple Groupers are a Fish Food Item introduced in the Don't Starve: Shipwrecked DLC. They can be obtained by stocking Fish Farms with Roe, together with Pierrot Fish, Neon Quattro Fish, and Tropical Fish. They can be used in the Crock Pot and count as 0.5 units of Meat and 1 unit of Fish. They are specifically required to cook the Tropical Bouillabaisse. Purple Groupers cannot be dried using a Drying Rack.
+
+When consumed, Purple Groupers grant the player a speed increase of 2 and prevent the player from having their wetness increased or their Boat damaged by both common and big waves for 30 seconds. The speed bonus will stack with the bonus from Pierrot Fish and other sources, but will not stack with the bonus from Tropical Bouillabaisse.
+
+## Cooked Purple Grouper
+
+### Structure Infobox
+- **Food Type:** Meat [[File:Meats.png|32px|link=Food_Type#Meat]]
+- **Name:** Cooked Purple Grouper
+- **Icon:** Cooked Purple Grouper.png
+- **Image:** Cooked Purple Grouper Dropped.png
+- **Food Value:** [[File:Fishes.png|32px|link=Fishes]] × 1.0 [[File:Meats.png|32px|link=Meats]] × 0.5
+- **HP Restored:** 3
+- **Hunger Restored:** 12.5
+- **Sanity Restored:** 0
+- **Spoil:** 6 Days
+- **Stack:** 40
+- **Spawn Code:** "fish3_cooked"
+
+### Quotes
+- **Wilson:** That fish is fin-ished.
+- **Willow:** Fire burned the grossest bits right off.
+- **Wolfgang:** Wolfgang will eat tasty fish!
+- **Wendy:** Rest now, fish spirit.
+- **WX-78:** NOW IT'S ROBOT FUEL. HA HA
+- **Wickerbottom:** Eating unprepared fish just wouldn't be safe.
+- **Woodie:** Caught and cooked it myself.
+- **Maxwell:** Purple on the outside, pink in the middle.
+- **Wagstaff:** Good, it still contains the bones. They're a great source of calcium!
+- **Wigfrid:** Thank Njörd for this gift!
+- **Webber:** He likes the fish heads. I don't.
+
+
+
+
+
+```markdown
+# Warly
+
+## Origin
+Warly is one of the four playable Characters introduced in the Shipwrecked DLC. Warly is the ninth character to be unlocked via Experience, requiring 2560 XP to become available. On July 25, 2019, Warly was added to the roster of Don't Starve Together as the third character refresh and is available for free to all Don't Starve Together players.
+
+## Character Info
+- **Image DS**: ![Warly.png](Warly.png)
+- **Nick DS**: The Culinarian
+- **Motto DS**: "Nothing worthwhile is ever done on an empty stomach!"
+- **Perk DS**: Has a refined palate, Cooks in custom kitchenware, Brings a stylish chef pouch
+- **Health DS**: 150
+- **Hunger DS**: 250
+- **Sanity DS**: 200
+- **Item DS**: Portable Crock Pot, Chef Pouch
+- **Start Item DS**: Portable Crock Pot, Chef Pouch
+- **Hunger Mult DS**: -1.33×
+- **SpawnCode DS**: "warly"
+
+- **Image DST**: ![Warly Original_Portrait.png](Warly Original_Portrait.png)
+- **Nick DST**: The Culinarian
+- **Motto DST**: "Nothing worthwhile is ever done on an empty stomach!"
+- **Bio**: To Warly, cooking is a language through which to express love and gratitude to those he holds dear.
+- **Perk DST**: Has his own line of custom portable cookware, Can spice things up, Has an insatiable appetite, Only eats gourmet food
+- **Health DST**: 150
+- **Hunger DST**: 250
+- **Sanity DST**: 200
+- **Birthday**: July 25
+- **Favorite Food**: None
+- **Survivability**: Grim
+- **Item DST**: Portable Crock Pot, Chef Pouch, Portable Grinding Mill, Portable Seasoning Station
+- **Start Item DST**: Portable Crock Pot, Potato ×2, Garlic
+- **Hunger Mult DST**: -1.2×
+- **SpawnCode DST**: "warly"
+
+## Trivia
+- **In-Game**:
+  - Warly was added to Don't Starve: Shipwrecked in the Eye of the Tiger Shark update on January 14, 2016.
+  - Warly's voice is played by a steel drum.
+  - His old nickname was "The Chef", and his old motto was "Bon Appetit!"
+  - In the game files, the code for the Coffee recipe is seen in Warly's file, meaning that at one point coffee was intended for Warly only.
+  - Warly is the fourth character from a Don't Starve DLC to be added to Don't Starve Together after Wigfrid, Webber, and Wormwood.
+  - In DST, his side sprite and character select portrait were given visual updates.
+  - Warly has a DST-exclusive idle animation in which he deeply sniffs a waft of air.
+  - Warly's skull was found in the DST files as of May 6, 2021.
+  - Warly's quote in Carrat costume is a reference to the Year of the Carrat event.
+
+- **Lore**:
+  - Warly is shown to be able to speak French.
+  - Warly worked as a sous chef in Paris before returning home to take care of his mother.
+  - Warly seems to be superstitious, as suggested from inspecting the Umbrella item.
+  - Warly's region of origin could be implied by his voice instrument.
+  - In his quote for the Boomerang, Warly states that he has separation anxiety.
+  - His examination quote for Volt Goats reveals that he once owned a goat.
+  - His quote for the Ukulele reveals that he either plays or enjoys lute music.
+  - Warly seems to have once worked on a ship, given his quote for the Glass Castle.
+
+## Quotes
+- "A masterpiece takes time." - Warly
+
+## Links
+- [Warly quotes](Warly quotes)
+- [Warly clothes](Warly clothes)
+```
+
+
+
+
+# Fashion Melon
+
+## Exclusivity
+- **Reign of Giants**: Exclusive
+- **Shipwrecked**: Not available
+- **Hamlet**: Not available
+- **Don't Starve Together**: Not available
+
+## Structure Infobox
+
+| Attribute | Details |
+| --- | --- |
+| **Icon** | ![Fashion Melon](Fashion Melon.png) |
+| **Image** | ![Fashion Melon Dropped](Fashion Melon Dropped.png) |
+| **Ingredient 1** | Watermelon |
+| **Multiplier 1** | 1 |
+| **Ingredient 2** | Twigs |
+| **Multiplier 2** | 3 |
+| **Equip Slot** | Head |
+| **Tier** | 1 |
+| **Spoil Time** | 3 days |
+| **Water Resistance** | 20% resistance |
+| **Overheating Resistance** | 120 |
+| **Perk** | Lowers sanity over time. Increases wetness over time. Delays overheating in Summer or Dry Season. |
+| **Stack** | Does not stack |
+| **Spawn Code** | "watermelonhat" |
+| **Tab** | Dress |
+| **Sanity Bonus** | -2/min |
+| **Health** | -6-10/min (only with WX-78) |
+| **Description** | Refreshing, but sticky. |
+
+## Quotes
+
+- **Wilson**: Let the juice run down your face.
+- **Willow**: Well, that's one use for this fruit.
+- **Wolfgang**: Why not wear melon on head! Haha!
+- **Wendy**: It's sticky on my head. Yuck.
+- **WX-78**: HAT SEEMS INCOMPATIBLE WITH MY FUNCTION
+- **Wickerbottom**: That's certainly one thing you could do with a watermelon.
+- **Woodie**: You can call me Mr. Melon.
+- **Maxwell**: This is one way to keep cool. And sticky.
+- **Wagstaff**: It's sticky and made with sticks. Fascinating!
+- **Wigfrid**: It's almöst like wearing a pelt.
+- **Webber**: This is the best idea we have ever had.
+- **Walani**: Next best thing to a watermelon bikini.
+- **Warly**: Aaaahhhhhh sweet relief...
+- **Woodlegs**: I love me water fruits but this be ridiculous.
+- **Wilba**: WILBA HEAD BE STICKY
+- **Wormwood**: Watery head thing
+- **Wheeler**: Admit it. I look good in this.
+- **Winona**: A melon for your melon.
+- **Wortox**: Sticky horns await.
+- **Wurt**: Think me like fa-shun, florp!
+
+## Bugs
+
+- Due to the way the game is coded, the Fashion Melon also prevents freezing during Winter. This won't happen in Don't Starve Together.
+
+## Trivia
+
+- The Fashion Melon was first revealed in the "A Feet Of Strength" trailer for the Reign Of Giants March 12, 2014 beta.
+
+## Gallery
+
+<gallery type="slideshow" position="left" hideaddbutton="true" widths="350">
+Fashion_Melon_Equipped.png|Fashion Melon Equipped
+Fashion Melon Wilson.png|Wilson wearing a Fashion Melon.
+Fashion Melon Willow.png|Willow wearing a Fashion Melon.
+Fashion Melon Wolfgang.png|Wolfgang wearing a Fashion Melon.
+Fashion Melon Wendy.png|Wendy wearing a Fashion Melon.
+Fashion Melon WX-78.png|WX-78 wearing a Fashion Melon.
+Fashion Melon Wickerbottom.png|Wickerbottom wearing a Fashion Melon.
+Fashion Melon Woodie.png|Woodie wearing a Fashion Melon.
+Fashion Melon Wes.png|Wes wearing a Fashion Melon.
+Fashion Melon Maxwell.png|Maxwell wearing a Fashion Melon.
+Fashion Melon Wigfrid.png|Wigfrid wearing a Fashion Melon.
+Fashion Melon Webber.png|Webber wearing a Fashion Melon.
+Fashion Melon Walani.png|Walani wearing a Fashion Melon.
+Fashion Melon Warly.png|Warly wearing a Fashion Melon.
+Fashion Melon Wilbur.png|Wilbur wearing a Fashion Melon.
+Fashion Melon Woodlegs.png|Woodlegs wearing a Fashion Melon.
+Fashion Melon Wilba.png|Wilba wearing a Fashion Melon.
+Fashion Melon Wormwood.png|Wormwood wearing a Fashion Melon.
+Fashion Melon Wheeler.png|Wheeler wearing a Fashion Melon.
+Fashion Melon Winona.png|Winona wearing a Fashion Melon.
+Fashion Melon Wortox.png|Wortox wearing
+
+
+
+
+```markdown
+# Summer Frest
+
+## Overview
+The Summer Frest is a craftable Dress Item from the "Reign of Giants" DLC. It requires 1 Rope, 3 Crimson Feathers, and 2 Pig Skins to craft and a Science Machine to prototype. It restores 2 Sanity/min while worn and provides 120 points of protection from Overheating and slight protection from Wetness. A fresh Summer vest lasts 8 days, with a Sewing Kit repairs 62.5% of its durability.
+
+## Crafting Recipe
+- Ingredient 1: Rope (x1)
+- Ingredient 2: Crimson Feather (x3)
+- Ingredient 3: Pig Skin (x2)
+
+## Stats
+- Stack: Does not stack
+- Tab: Dress
+- Tier: 1
+- Perk: Delays overheating in Summer. Raises sanity over time. Slightly protects from the rain.
+- Water Resistance: 20% resistance
+- Overheating Resistance: 120
+- Dropped By: Shipwrecked icon: Steamer Trunk
+- Wears Out: 8 days
+- Sanity Drain: +2.00/min
+- Spawn Code: "reflectivevest"
+
+## Description
+Keep cool and fresh in this stylish vest.
+
+## Downloadable Content
+The Summer Frest is also included in the "Shipwrecked" DLC, where it is useful to deal with Overheating during the Dry Season. It works exactly as it does in the "Reign of Giants" DLC.
+
+## Trivia
+- The Summer Frest used to be more expensive and require Papyrus instead of Rope to be crafted. It was also much more protective against the heat.
+
+## Gallery
+![The Summer Frest as seen in the "Hook, Line, and Inker" trailer.](DST Hook Line and Inker Trailer Wilson.png)
+![Wilson wearing a Summer Frest.](Summer Frest Wilson.png)
+![Willow wearing a Summer Frest.](Summer Frest Willow.png)
+![Wolfgang wearing a Summer Frest.](Summer Frest Wolfgang.png)
+![Wendy wearing a Summer Frest.](Summer Frest Wendy.png)
+![WX-78 wearing a Summer Frest.](Summer Frest WX-78.png)
+![Wickerbottom wearing a Summer Frest.](Summer Frest Wickerbottom.png)
+![Woodie wearing a Summer Frest.](Summer Frest Woodie.png)
+![Wes wearing a Summer Frest.](Summer Frest Wes.png)
+![Maxwell wearing a Summer Frest.](Summer Frest Maxwell.png)
+![Wagstaff wearing a Summer Frest.](Summer Frest Wagstaff.png)
+![Wigfrid wearing a Summer Frest.](Summer Frest Wigfrid.png)
+![Webber wearing a Summer Frest.](Summer Frest Webber.png)
+![Walani wearing a Summer Frest.](Summer Frest Walani.png)
+![Warly wearing a Summer Frest.](Summer Frest Warly.png)
+![Wilbur wearing a Summer Frest.](Summer Frest Wilbur.png)
+![Woodlegs wearing a Summer Frest.](Summer Frest Woodlegs.png)
+![Wilba wearing a Summer Frest.](Summer Frest Wilba.png)
+![Wormwood wearing a Summer Frest.](Summer Frest Wormwood.png)
+![Wheeler wearing a Summer Frest.](Summer Frest Wheeler.png)
+![Winona wearing a Summer Frest.](Summer Frest Winona.png)
+![Wortox wearing a Summer Frest.](Summer Frest Wortox.png)
+![Wurt wearing a Summer Frest.](Summer Frest Wurt.png)
+
+## Categories
+- Cooling
+- Craftable Items
+- Dress Tab
+- Equipable Items
+- Items
+- Reign of Giants
+- Science
+- Water Resistant
+- Limited use
+- Non-Flammable
+- Shipwrecked
+```
+
+
+
+
+```markdown
+# Deconstruction Staff
+
+## Overview
+
+The Deconstruction Staff is a craftable item found in the Ancient Tab. It requires at least a Broken Pseudoscience Station to craft, and costs 4 Nightmare Fuel, 2 Living Logs, and 2 Green Gems to craft. It can also randomly drop from an Ancient Pseudoscience Station when the latter is damaged with a Hammer, Gunpowder, etc. Like all items from the Ancient Tab, Deconstruction Staves cannot be prototyped and can only be crafted within range of an Ancient Pseudoscience Station.
+
+## Usage
+
+When used on a craftable Structure, the Deconstruction Staff returns 100% of the ingredients needed to craft it. However, when used on an Item, the Staff will return a percentage of the materials equal to the remaining durability, rounded up. If Gems were used in the crafting process, they will not be returned and will always "shatter" instead. With each use of the Staff, Characters will lose 20 sanity and the Staff will lose 20% of its Durability.
+
+### Content Downloadable
+
+In the Reign of Giants DLC, players have a small (0.02%) chance of finding Green Gems inside Tumbleweeds, thus making Deconstruction Staves renewable.
+
+In the Hamlet DLC, the Deconstruction Staff is one of the two items that can permanently destroy Town Houses, Pig Shops, Watch Towers, Lawn Decorations, Intricate Topiaries, and Hedges that cannot be destroyed with a Hammer. The other is the Executive Hammer.
+
+## Crafting and Deconstruction
+
+### Craftables Created with a Construction Amulet
+
+| Item | Construction Cost using Construction Amulet | Deconstruction Yield | Net Cost | Net Gain |
+| --- | --- | --- | --- | --- |
+| Thulecite Suit | Green Gem×0.2 Thulecite×3.4 Nightmare Fuel×2.6 | Thulecite×6 Nightmare Fuel×4 | Green Gem×0.44 Living Log×0.2 | Thulecite×2.52 Nightmare Fuel×0.88 |
+| Thulecite Club | Green Gem×0.2 Thulecite×2.4 Living Log×2 Nightmare Fuel×2.6 | Thulecite×4 Living Log×3 Nightmare Fuel×4 | Green Gem×0.44 | Thulecite×1.52 Living Log×0.8 Nightmare Fuel×0.88 |
+| Glossamer Saddle | Green Gem×0.2 Thulecite×0.4 Living Log×1 Nightmare Fuel×0.6 Silk×2 Butterfly Wings×34 | Living Log×2 Silk×4 Butterfly Wings×68 | Green Gem×0.44 Thulecite×0.48 Nightmare Fuel×1.12 | Living Log×0.8 Silk×2 Butterfly Wings×34 |
+| War Saddle | Steel Wool×2 Green Gem×0.2 Thulecite×0.4 Rabbit×2 Nightmare Fuel×0.6 Log×5 | Steel Wool×4 Rabbit×4 Log×10 | Green Gem×0.44 Thulecite×0.48 Living Log×0.2 Nightmare Fuel×1.12 | Steel Wool×2 Rabbit×2 Log×5 |
+| Telelocator Focus | Green Gem×0.2 Thulecite×0.4 Living Log×2.2 Nightmare Fuel×2.6 Gold Nugget×4 | Living Log×4 Nightmare Fuel×4 Gold Nugget×8 | Green Gem×0.44 Thulecite×0.48 | Living Log×1.6 Nightmare Fuel×0.88 Gold Nugget×4 |
+
+### Craftables Created without a Construction Amulet
+
+| Item | Construction Cost | Deconstruction Yield | Net Cost | Net Gain |
+| --- | --- | --- | --- | --- |
+| Scaled Flooring | Scales×0.25 Cut Stone×0.25 | Scales×1 Cut Stone×1 | Green Gem×0.24 Thulecite×0.08 Living Log×0.2 Nightmare Fuel×0.52 | Scales×0.75 Cut Stone×0.75 |
+| Thulecite Wall | Thulecite×0.167 | Thulecite×1 | Green Gem×0.24 Living Log×0.2 Nightmare Fuel×0.52 | Thulecite×0.753 |
+
+## Tips
+
+- Since Green Gems are so rare, the best use for Deconstruction Staffs is on Items or Structures that require very rare or non-renewable materials (e.g. items from the Ancient or Magic Tab).
+- Some items that are created using a single non-renewable ingredient (e.g. Pan Flute) can be deconstructed and crafted again to extend their usage, since the Staff will always return at least one of the non-gem materials used.
+- The Deconstruction
+
+
+
+
+```markdown
+# Crafting
+
+Crafting is an in-game mechanic that allows players to craft or make **Items** and **Structures**. This is done by selecting an item or structure to be crafted in one of the 19 **Crafting Tabs** (including **DLC**s, and **Character-Specific** tabs). Provided the player has sufficient materials in their inventory and, if necessary, has **unlocked** the item recipe, they will receive 1 or more of the crafted item. Below are the crafting tables for the different game modes available. The availability of crafting recipes are further affected by game version, the player's world (Game Mode), special **Events**, etc.
+
+## Unlocked
+
+Unlocking for the first time will grant the player 15 **Sanity**. Once unlocked, items can be crafted any time.
+
+### Prototype
+
+Generally, each Item or Structure must be **"prototyped"** at a particular **Prototyper** or through other means to be unlocked. Once the item has been unlocked, it can be crafted anywhere, anytime (so long as the required materials are available). Tier 1 items can be unlocked at either a **Science Machine** or **Alchemy Engine**. Tier 2 items can only be unlocked at an Alchemy Engine, ETC.
+
+*Some recipes require the player in a specified world to be available. (Removed in Hamlet version)
+**Some recipes require the player to be in a specified world to Prototypeable. (Add in Hamlet version)
+
+Standing near the Prototyper allows prototyping new recipes. The following is a list of all the Prototypers:
+
+| ![Science Machine](Science Machine.png) | [Science Machine](Science Machine) Tier 1 |
+| ![Alchemy Engine](Alchemy Engine.png) | [Alchemy Engine] Tier 2 |
+| ![Prestihatitator](Prestihatitator.png) | [Prestihatitator] Tier 1 |
+| ![Shadow Manipulator](Shadow Manipulator.png) | [Shadow Manipulator] Tier 2 |
+| ![Sea Lab](Sea Lab.png) | [Sea Lab] Tier 2 |
+| ![Piratihatitator](Piratihatitator.png) | [Piratihatitator] Tier 1 |
+| ![Hogus Porkusator](Hogus Porkusator.png) | [Hogus Porkusator] Tier 1 |
+
+## Blueprint
+
+## Webber's Switcherdoodle
+
+## Crafting Station
+
+Crafting Station is similar to Prototyper, except that they do not unlock the recipe for the player after they make it, so the player must return to Crafting Station if they want to make the item again. In the **Hamlet** DLC, the interior areas of **Slanty Shanty** can be considered to be a hidden Crafting Station. The Key to the City can be carried in the inventory, making it movable unlike other Crafting Stations.
+
+The following is a list of all the Crafting Station:
+
+| ![Broken Ancient Pseudoscience Station](Broken Pseudoscience Station Build.png) | [Broken Ancient Pseudoscience Station] |
+| ![Ancient Pseudoscience Station](Ancient Pseudoscience Station.png) | [Ancient Pseudoscience Station] |
+| ![Obsidian Workbench](Obsidian Workbench Build.png) | [Obsidian Workbench] |
+| ![Key to the City](Key_to_the_City.png) | [Key to the City] |
+
+## Crafting Tab in Don't Starve
+
+There are 19 **Crafting Tabs** in **Don't Starve** and its **DLC**s for different **Items** and **Structures** that can be crafted.
+
+| ![Tools](Icon Tools.png) | [Tools Tab] |
+| ![Light](Icon Light.png) | [Light Tab] |
+| ![Survival](Icon Survival.png) | [Survival Tab] |
+| ![Food](Icon Food.png) | [Food Tab] |
+| ![Science](Icon Science.png) | [Science Tab] |
+| ![Fight](Icon Fight.png) | [Fight Tab] |
+| ![Structures](Icon Structures.png) | [Structures Tab] |
+| ![Refine](Icon Refine.png) | [Refine Tab] |
+| ![Magic](Icon Magic.png) | [Magic Tab] |
+| ![Dress](Icon Dress.png) | [Dress Tab] |
+| ![Ancient](Icon Ancient.png) | [Ancient Tab] |
+| ![Books](Icon Books.png) | [Books Tab] |
+| ![Tinkering](Icon Tinkering.png) | [Tinkering Tab] |
+| ![Nautical](Icon Nautical.png) | [Nautical Tab] |
+| ![Volcanic](Icon Volcanic.png) |
+
+
+
+
+```markdown
+# {{Navbutton/Character}}
+
+## {{Exclusivity|Reign of Giants|Don't Starve Together}}
+
+## {{Character Infobox
+|image ds      = Webber.png
+|nick ds       = The Indigestible
+|motto ds      = "We can overcome anything!"
+|perk ds       = Is a monster<br>Can befriend spiders<br>Grows a silky smooth beard
+|health ds     = 175
+|hunger ds     = 175
+|sanity ds     = 100
+|item ds = {{Pic32|Shamlet Mask}} ({{Ham|24}} only)
+|start item ds = {{Pic32|Monster Meat}} '''×2''' {{Pic32|Spider Eggs}}<br>{{Pic32|Shamlet Mask}} ({{Ham|24}} only)
+|spawnCode ds = "webber"
+|image dst      = Webber Original_Portrait.png
+|nick dst       = The Indigestible
+|motto dst      = "We're always together, and never alone!"
+|bio = ''Webber is a polite young monster who cares deeply for all his friends, human or otherwise.''
+|perk dst       = Is a monster<br>Can befriend spiders<br>Grows a silky smooth beard
+|health dst     = 175
+|hunger dst     = 175
+|sanity dst     = 100
+|birthday = April 30
+|favorite food = {{pic32|Ice Cream}}
+|survivability = Grim
+|item dst={{Pic32|Den Decorating Set}} {{Pic32|Webby Whistle}} {{Pic32|Shoo Box}} {{Pic32|Healing Glop}} {{Pic32|Warrior Switcherdoodle}} {{Pic32|Dangler Switcherdoodle}} {{Pic32|Cave Switcherdoodle}} {{Pic32|Spitter Switcherdoodle}} {{Pic32|Shatter Switcherdoodle}} {{Pic32|Nurse Switcherdoodle}} {{Pic32|Strider Switcherdoodle}}
+|start item dst = {{Pic32|Monster Meat}} '''×2''' {{Pic32|Spider Eggs}} {{Pic32|Webby Whistle}}
+|spawnCode dst = "webber"
+|links = [[Webber quotes|Quotes]]<br/>[[Webber clothes|Clothes]]
+}}
+
+{{Quote|Spiders understand us.|Webber}}
+
+## Webber
+
+'''Webber''' is one of the two playable [[Characters]] exclusive to the {{Giants|l}} DLC. He's the only one of the two that is not unlocked via [[Experience]]. He's also one of the playable Characters in [[Don't Starve Together|''Don't Starve Together'']]. Webber looks like a humanoid spider, though he's actually a child that was fused with a spider that tried to eat him. He received a character refresh exclusive to DST in June 2021.<ref>[https://forums.kleientertainment.com/forums/topic/129647-dont-starve-together-return-of-them-eye-of-the-storm-now-available/] Posted on May 5, 2021.</ref>
+
+### {{pic32|Minimap Maxwell's Door}} Origin
+
+{{Quote|Listen well children, and mind the warnings of your parents... naughtiness always comes back to bite you in the end. |Official description of the ''[[Animated Shorts and Trailers#Along Came A Spider|Along Came A Spider]]'' animated short}}
+{{#ev:youtube|https://youtu.be/h7XSEqWGxGI|alignment=left|dimensions=300}}
+
+Webber's backstory was revealed in an animated short titled ''[[Animated Shorts and Trailers#Along Came A Spider|Along Came A Spider]]''. An official summary of the short was provided in DST's [[Compendium]]:
+
+''Once upon a time, there was a young boy who lived with his family on a small farmstead. Though they lived humbly, the boy's home was filled with love, and he grew up happy and kind. The boy might have lived contentedly for the rest of his days if not for the sudden arrival of an old aquaintance[sic], who came to the house beseeching the boy's father for his expertise on a strange and secretive project...''
+
+{{Clear}}
+
+### {{pic32|Lock}} Unlocking
+
+[[File:Webber_Escape.png|thumb|left|Webber, escaping into his grave.]]
+{{Main|Webber's Skull}}
+To unlock Webber one must be playing in a {{Giants}} save game. The player has to find Webber's Skull as a drop from Spiders, then bury the skull inside a dug up [[Grave]] mound. After that, [[Lightning]] will immediately strike the grave. Webber
+
+
+
+
+```markdown
+# {{Navbutton/Separation}}
+## {{See also|Food}}
+To see what type of the Food is, please refer to: [Food Type](#).
+
+These "food values" measure how plentifully an ingredient can fulfill a recipe's need for certain food groups, plays in and **only** in [Crock Pot](#). Combined ingredients' food values (in addition to [#Priority|recipe priority]) are what determine an attempt's final dish; for example: [Honey Ham](#) requires a meat value greater than or equal to 2.0, so in addition to [Honey](#), its ingredients can be 3 Jerky; 2 Jerky & 1 filler; or 1 Jerky & 2 [Drumstick](#)s, but 1 Jerky, 1 Drumstick, & 1 filler won't cut it.
+
+The overall set of food values for an attempted dish is the sum of its individual ingredient values. In attempting a dish like ![Monster Meat](#) ![Meat](#) ![Meat](#) ![Meat](#) ![Berries](#), the component values are:
+- +1 meat, +1 monster
+- +1 meat
+- +1 meat
+- +0.5 fruit
+
+When added up, the final dish's set of values will be 3.0 meat, 1.0 monster, and 0.5 fruit. resulting in [Meaty Stew](#).
+
+Some ingredients value for two food groups; for example: raw [Tropical Fish](#) provides 1.0 fish unit & 0.5 meat units (though [Cooked Fish Morsel](#) provides 0.5 fish units & no meat units).
+
+## Meat value
+
+There are 13 basic **Meat** [food](#) [items](#) in-game. There is one additional Meat in the **[Reign of Giants]** DLC, 11 additional Meats in the **[Shipwrecked]** DLC, two additional Meats in the **[Hamlet]** DLC, and eight additional Meats in **[Don't Starve Together]**. Most meats are dropped by [Mobs](#) as loot, and [fish](#) can also be obtained from [Pond](#)s with a [Fishing Rod](#). If a mob dies from burning, the cooked variant of meat will be dropped instead (if available). Many of the meats can be dried on a [Drying Rack](#), resulting in [Jerky](#), a much longer-lasting food item with different [Hunger](#), [Sanity](#), and [Health](#) bonuses.
+
+Mobs such as [Pigs](#), [Spider](#)s or [Hound](#)s will eat any form of dropped meat on the ground, including [Pig Skin](#)s. Additionally, [Bunnymen](#) will be aggressive towards the player if they have any item on this list.
+
+There are 10 [Crock Pot](#) recipes that require Meat. There are two additional recipes in the **Reign of Giants** DLC, four additional recipes in the **Shipwrecked** DLC, three additional recipes in the **Hamlet** DLC, and one additional recipe in **Don't Starve Together**. [Warly|Warly's](#) [Portable Crock Pot](#) also has a recipe that requires meat in **Don't Starve Together**. An [Egg](#) is counted as an egg in a Crock Pot, and as meat elsewhere. [Fishes](#) are counted as both fish and meat in a Crock Pot, and as meat elsewhere.
+
+Different [Meats|Meat ingredients](#) have different meat values.
+
+### Foods with meat value of 0.5
+- ![Morsel](#) ![Cooked Morsel](#) ![Drumstick](#) ![Fried Drumstick](#) ![Frog Legs](#) ![Cooked Frog Legs](#) ![Small Jerky](#) ![Fish](#) ![Cooked Fish](#)![Cooked Eel](#) ![Eel](#) ![Moleworm](#) ![Shark Fin](#) ![Dead Dogfish](#) ![Raw Fish](#) ![Fish Steak](#) ![Tropical Fish](#) ![Purple Grouper](#) ![Cooked Purple Grouper](#) ![Pierrot
+
+
+
+
+```markdown
+# Exclusivity: Don't Starve Together
+
+## Structure Infobox: Backtrek Watch
+- **cooldown**: 8 min
+- **name**: Backtrek Watch
+- **icon**: Backtrek Watch.png
+- **description**: Return to a distant point in time.
+- **ingredient1**: Time Pieces (multiplier: 2)
+- **ingredient2**: Gold Nugget (multiplier: 2)
+- **ingredient3**: Walrus Tusk (multiplier: 1, Wanda Portrait only)
+- **filter**: Wanda Filter (Survivor Items Filter)
+- **tier**: 4
+- **perk**: Teleport a long distance.
+- **stack**: Does not stack
+- **spawnCode**: pocketwatch_recall
+
+### Gallery
+- ![Idle](Backtrek Watch Dropped.png)
+- ![Cooldown](Backtrek Watch Dropped Cooldown.gif)
+
+### Quotes
+- Wilson: I bet there's a lot of interesting science inside.
+- Willow: Why worry about the past or future? It'll all go up in flames eventually.
+- Wolfgang: Is just little clock.
+- Wendy: It's soothing to watch the seconds tick away.
+- WX78: TIME MACHINE? TIME MACHINE!!
+- Wickerbottom: Horology mixed with magic, truly fascinating.
+- Woodie: That's a pretty fancy lookin' clock.
+- Maxwell: Careful, madam. I know where this trail ultimately leads.
+- Wigfrid: A Viking warrior can tell the time by the position of the sun.
+- Webber: Would we change anything if we could go back in time?
+- Winona: I wouldn't mind takin' a look at its inner workings.
+- Warly: Maybe I could ask her to make me a kitchen timer...
+- Wortox: Mortals keep coming up with such funny tricks!
+- Wormwood: Tick tock tick tock
+- Wurt: Only chewed on it little bit! But Wandy-lady got mad...
+- Walter: Ms. Wanda sure has a lot of clocks!
+- Wanda: Ah, that takes me way back.
+- Choose: Wanda
+
+## Scrapbook Info
+Used to mark a spot, and then used again to teleport to that spot. 8 minute cooldown. Even works between the Cave and the Forest.
+
+The Backtrek Watch gives Wanda the ability to set a waypoint in space, and teleport to that spot at any time. The Watch has an 8 minute (1 day) cooldown, and is able to transport the player between shards (meaning between Surface and Cave in normal game). After the watch has been activated, the examination changes to "Is it time for us to take a dip in the timestream?" letting the player know whether or not a destination has already been set. Should the destination be set within a different shard (usually the Caves if you are within the Surface shard and vice versa), her examination will change to "It'll be a big jump, but I can make it!". It requires 2 Time Pieces, 2 Gold Nuggets and a Walrus Tusk to craft.
+
+## Structure Infobox: Rift Watch
+- **name**: Rift Watch
+- **icon**: Rift Watch.png
+- **description**: Time travel is better with friends.
+- **ingredient1**: Backtrek Watch (multiplier: 1)
+- **ingredient2**: Purple Gem (multiplier: 1, Wanda Portrait only)
+- **filter**: Wanda Filter (Survivor Items Filter)
+- **tier**: 4
+- **perk**: Create a space rift to transport multiple players.
+- **stack**: Does not stack
+- **spawnCode**: pocketwatch_portal
+
+### Gallery
+- ![Idle](Rift Watch Dropped.png)
+- ![Cooldown](Rift Watch Dropped Cooldown.gif)
+
+### Quotes
+- Wilson: I bet there's a lot of interesting science inside.
+- Willow: Why worry about the past or future? It'll all go up in flames eventually.
+- Wolfgang: Is just little clock.
+- Wendy: It's soothing to watch the seconds tick away.
+- WX78: TIME MACHINE? TIME MACHINE!!
+- Wickerbottom: Horology mixed with magic, truly fascinating.
+- Woodie: That's a pretty fancy lookin' clock.
+- Maxwell: Careful, madam. I know where this trail ultimately leads.
+- Wigfrid: A Viking warrior can tell the time by the position of the sun.
+- Webber: Would we change anything if we could go back in time?
+- Winona: I wouldn't mind takin' a look at its inner workings.
+- Warly: Maybe I could ask her to make me a kitchen timer...
+- Wortox: Mort
+
+
+
+
+```markdown
+# Football Helmet
+
+- **Navbutton**: Don't Starve
+- **Navbutton**: DST
+
+## Structure Infobox
+
+- **equipslot**: head
+- **icon**: Football Helmet.png
+- **image**: Football Helmet Dropped.png
+- **tier**: 2
+- **tab**: Fight
+- **ingredient1**: Pig Skin
+- **multiplier1**: 1
+- **ingredient2**: Rope
+- **multiplier2**: 1
+- **durability**: 450 hp
+- **stack**: Does not stack
+- **spawnCode**: footballhat
+- **droppedBy**: Ornate Chest
+- **waterResistance**: 20%
+- **description**: Protect your braincase.
+- **protection**: 80%
+
+## Quotes
+
+- **Wilson**: I don't like sports.
+- **Willow**: Sports are hard.
+- **Wolfgang**: It protects my head!
+- **Wendy**: A dead thing for me to wear. Goody.
+- **WX-78**: PADDING FOR MY PROCESSING UNIT
+- **Wickerbottom**: Protective gear for full-contact endeavors.
+- **Woodie**: Will this give me hockey hair?
+- **Maxwell**: Now I am ready for the scrimmage.
+- **Wagstaff**: Has oddly large protective qualities given its considerable softness.
+- **Wigfrid**: A pig's bottom made my helmet.
+- **Webber**: We could be good at football, much better than I was!
+- **Walani**: I feel like I could tackle anything.
+- **Warly**: Made from pork, to protect my melon.
+- **Woodlegs**: Keeps me melon safe.
+- **Wilba**: WILBA WEAR'ST PIG BUTT
+- **Wormwood**: Twirly Tail hat.
+- **Wheeler**: Perfect for ramming things with my head.
+- **Winona**: Gotta protect the assets.
+- **Wortox**: I hope I don't get helmet horns.
+- **Wurt**: Made from hide of enemies, florp.
+- **Walter**: Oh, football! Yeah I'm uh... great at football...
+- **Wanda**: I don't want my brain scrambled, I'm forgetful enough as it is.
+- **Choose**: woodie
+
+The Football Helmet is a wearable Armor, crafted in the Fight tab. It requires 1 Pig Skin and 1 Rope to craft, and an Alchemy Engine to prototype.
+
+It has a Durability of 450 and absorbs 80% of all physical damage. Not factoring the armor's durability, the Football Helmet effectively increases a player's hp to 750 for the average 150 hp survivor.
+
+The Football Helmet can be given to a Pig or Bunnyman to wear to increase their HP by 450.
+
+The Football Helmet may also be found in an Ornate Chest, which spawns in the Ruins.
+
+## Downloadable Content
+
+In the Reign of Giants, Shipwrecked and Hamlet DLCs, the Football Helmet provides 20% Wetness resistance.
+
+In the Hamlet DLC, the Football Helmet is used to craft the Mant Mask.
+
+## Usage
+
+Recipe:
+- item2: Chitin
+- count2: 5
+- item1: Football Helmet
+- count1: 1
+- result: Mant Mask
+- tool: Science Machine
+- dlc: Hamlet
+
+## Tips
+
+The Football Helmet is valuable, as it keeps the player protected without losing the Body slot for items such as a Backpack or an Insulated Pack so the player can be more efficient in collecting resources while staying safe. It is recommended to keep at least 1 Football Helmet with you just in case of a potential ambush.
+
+## Trivia
+
+- The Football Helmet was added in the The Birds and the Bees & Dogs That Want to Kill You update.
+- In American football, the football was once made out of animal leather and called a "pigskin".
+
+## Gallery
+
+(Gallery images and descriptions)
+
+## Tools and Weapons
+
+(Tools and Weapons)
+
+## Craftable Items
+
+(Craftable Items|tool)
+```
+
+
+
+
+```markdown
+{{Incomplete|it needs Return of Them info}}[[File:Sanity Meter.png|thumb]]
+
+{{See also|Enlightenment}}
+
+{{Quote|I get crazy when I don't sleep.|Wilson}}
+'''Sanity''' is the [[Characters|Character]]'s "mental health" in ''[[Don't Starve]]''. The {{sanity}} Sanity icon, represented as a picture of a brain, is located near the character's {{hp}} Health and {{hunger}} Hunger. Characters can gain and lose sanity in various ways. A small animated arrow appears over the {{sanity}} icon, indicating an increase or decrease in Sanity. The size of the arrow signifies the rate of gain or loss.
+
+As sanity decreases, the player's vision becomes shaky, over-saturated, and bright, whispers are heard, and [[Shadow Creature]]s start to appear. These creatures become "physical" and aggressive and will attack the player when their sanity is below 15%. When sanity is low, the player's character covers their ears and closes their eyes while rocking back and forth, as if experiencing a bad headache.
+
+Being alone in the wilderness will take its toll. Generally speaking, being in close proximity to [[Monsters]], [[Darkness]], [[Rain]], eating bad or raw [[Food]], or using various magic items decreases sanity; while wearing certain [[Dress|clothing]], eating [[Jerky]] and [[Crock Pot]] food, being near friendly [[Pigs]], and [[sleeping]] increases sanity. See the Sanity Tables below for a complete list.
+
+== Insanity Effects ==
+[[File:Complete Insanity.png|thumb|399px|The screen when at 0 sanity with distortion off.]]
+
+{{sanity}} ≤ 80%
+* [[Mr. Skitts]] will appear.
+
+{{sanity}} ≤ 75%
+* [[Shadow Creature#Night Hand|Night Hands]] appear at night.
+* The screen starts shaking.
+* Color desaturation begins.
+
+{{sanity}} ≤ 60%
+* Eyes appear in the darkness.
+* The screen starts getting distorted.
+* Lighting is desaturated in the [[Surface World]] and [[Caves]]. Lighting brightens in the [[Ruins]].
+* Willow begins lighting fires. ([[File:Don't Starve icon.png|24px|link=Don't Starve]])
+
+{{sanity}} ≤ 50% 
+*[[Shadow Creature#Crawling Horror|Crawling Horrors]] are visible.
+*[[Shadow Creature#Shadow Watcher|Shadow Watchers]] appears.
+*Insanity ambiance becomes audible.
+*When inactive survivors begin shaking with their head in their hands.
+
+{{sanity}} ≤ 45% 
+*Whispering can be heard.
+
+{{sanity}} ≤ 40% 
+*[[Rabbit]]s transform into Beardlings.
+*[[Bunnymen]] transform into Beardlords.
+
+{{sanity}} ≤ 15% for effects to appear and ≥ 17.5% to disappear
+*The screen is surrounded by red tendrils.
+*Present [[Crawling Horror]]s and [[Terrorbeak]]s will attack.
+*Up to one Crawling Horror spawns at a time.
+*The "night to day" transition jingle becomes warped.
+
+{{sanity}} ≤ 10%
+*Terrorbeaks spawn.
+* Up to two Crawling Horrors or Terrorbeaks spawn at a time.
+*The screen becomes even more distorted.
+
+==Instant Sanity Table==
+{| class="wikitable sortable" style="font-weight: bold; color: black"
+! Action
+!Sanity
+|- style="background: #C9FFC9"
+|• Eating {{pic32|Magic Water}} ({{pic24|Hamlet icon}})
+| style="text-align:center;" | +150
+|- style="background: #C9FFC9"
+|• Resurrecting a [[Ghost Characters|Ghost Player]] ([[File:Don't Starve Together icon.png|24px|link=Don't Starve Together]])
+| style="text-align:center;" | +80
+|- style="background: #C9FFC9"
+|• Sleeping in a {{pic32|Tent}} {{Pic32|Siesta Lean-to}}<br />
+• Eating {{pic32|Ice Cream}} {{pic32|Brainy Matter}} {{pic32|Lobster Dinner}} {{pic32|Jelly Salad}}<br />
+• Eating {{pic32|Gears}} as {{pic32|WX-78 Portrait|WX-78}}
+| style="text-align:center;" | +50
+|- style="background: #C9FFC9"
+|• Sleeping on a [[File:Straw Roll.png|32px|link=Straw Roll]] [[File:Fur Roll.png|32px|link=Fur Roll]]<br />
+• Killing a [[File:Terror
+
+
+
+
+```markdown
+> I CAN HACK THIS WORLD.  
+> WX-78
+
+![Opened console in the game](Console.jpg)
+
+## Console
+Console is a developer interface in **Don't Starve** and **Don't Starve Together**. Players can open a console menu by pressing **~** (English/French), **^** or **ö** (German Keyboard Layout) **æ** or **ø** (Scandinavian Keyboard) or **ù** (Azerty Keyboard Layout) and "Ñ" in the Spanish Keyboard. It can be hidden again by pressing **Ctrl + L**. However, the feature must be enabled in the settings file located at the following location:
+
+- **Windows, Mac:** `<Documents>\Klei\DoNotstarve\settings.ini`
+- **Linux:** `~/.klei/DoNotStarve/settings.ini`
+
+Opening settings.ini, players should make the following changes:
+
+```ini
+[MISC]
+ENABLECONSOLE = true
+```
+
+If a player wishes to disable the console once it has been enabled, they will have to navigate to `\dont_starve\data\scripts\main.lua` and set the "CONSOLE_ENABLED" line to false.
+
+![Don't Starve Cheats Console Commands - Reveal complete map](Don't Starve Cheats Console Commands - Reveal complete map.jpg)
+
+### Related Pages
+- [Prefab List](Console/Prefab List)
+- [List Of Commands](Console/Commands)
+- [New Commands in Don't Starve Together](Console/Don't Starve Together Commands)
+
+### Trivia
+- The Console is not available in **The Forge** event servers for **Don't Starve Together**. Also, none of its exclusive prefabs can be used in a regular world, making anything exclusive to **The Forge** impossible to spawn.
+
+### Categories
+- [Programming](Category:Programming)
+- [Menu](Category:Menu)
+```
+
+
+
+
+```markdown
+# Portable Crock Pot
+
+## Navbutton/Separation
+
+## Exclusivity
+**Shipwrecked | Don't Starve Together**
+
+## Structure Infobox
+| Name         | Tool                      | Picked                |
+| ------------ | ------------------------- | --------------------- |
+| Portable Crock Pot | Can be Hammered | Can prepare food. |
+
+![Idle](Portable_Crock_Pot_Build.png)
+![Full](Portable_Crock_Pot_Build_Full.png)
+
+## Structure Infobox
+| Image               | Icon                    | Name         | Perk                                 | Stack | SpawnCode                |
+| ------------------- | ----------------------- | ------------ | ------------------------------------ | ----- | ------------------------ |
+| Portable Crock Pot Dropped.png | Portable Crock Pot.png | Portable Crock Pot | Acts as a portable Crock Pot.<br>Makes unique food. | Does not stack | "portablecookpot_item" |
+
+## Quotes
+
+- Wilson: Now we're cookin'!
+- Willow: Just a dumb pot.
+- Wolfgang: Wolfgang will cook good meal for friends, meal like home!
+- Wendy: For when the hunger gnaws at my tiny stomach...
+- WX78: WE ARE KIN, YOU AND I
+- Wickerbottom: It will be nice to eat some properly prepared food.
+- Woodie: Sure makes the camp smell nice.
+- Maxwell: An instrument of the dark culinary arts.
+- Wigfrid: Cöoking, a nöble pröfessiön.
+- Webber: Makes yummies!
+- Winona: A fancy pot for some fancy cookin'.
+- Warly: What new culinary adventures shall we undertake, old friend?
+- Wortox: Does it make soul food?
+- Wormwood: For belly stuff
+- Wurt: Put food inside and different food come out, florp?
+- Walter: It still doesn't beat roasting things over a campfire.
+- Wanda: I don't like to fuss around with fancy cooking.
+- Choose: Warly
+
+The Portable Crock Pot is a character-specific Item that Warly begins the game with. It acts as a Crock Pot that can be moved and replaced. It must be placed on the ground to cook anything.
+
+While cooking, the Portable Crock Pot gives just enough light to ward off Charlie, but the sanity drain is equivalent of staying in total darkness, therefore, this is not recommended. It can also make exclusive recipes.
+
+## Recipes
+
+Visual Reminder:
+- Vegetables
+- Meats
+- Fruits
+- Fishes
+- Eggs
+- Sweeteners
+- Monster Foods
+- Dairy (Reign of Giants)
+- Bugs (Hamlet)
+- Inedible
+
+Below is a table of the exclusive recipes:
+
+| Food | Dish | Hunger | Sanity | Health | Perish time (days) | Cook time (sec) | Priority | Recipe | Special Effects |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Fresh Fruit Crepes | 150 | 15 | 60 | 10d | 40s | 30 | Fruit x1.5Butter x1Honey x1 | N/A |
+| Monster Tartare | 37.5 | 10 | 3 | 10d | 40s | 30 | Monster Foods x2Eggs x1Vegetables x0.5 | No Twigs | N/A |
+| Mussel Bouillabaise | 37.5 | 15 | 20 | 10d | 40s | 30 | Mussel x2Vegetables x2 | N/A |
+| Sweet Potato Souffle | 37.5 | 15 | 20 | 10d | 40s | 30 | Sweet Potato x2Eggs x2 | N/A |
+
+## Trivia
+
+- The Portable Crockpot was exclusive to the Shipwrecked DLC, until it was introduced to Don't Starve Together in the Warly Character Update.
+
+## Bugs
+
+- In Don't Starve: Shipwrecked, if the player places a Portable Crock Pot inside a Cargo Boat or Chester, exits the game and then relogs, a second Portable Crock Pot will appear in the player's inventory as the game considers the original one to be missing.
+- The same bug will occur when the player enters a Cave without the Portable Crock Pot in the inventory. Relogging is not necessary for this to occur.
+
+## Animations
+
+![place](Portable Crock Pot Place.gif)
+![hit](Portable Crock Pot Hit.gif)
+![hit fool](Portable Crock Pot Hit Fool.gif)
+![hit cooking](Portable Crock Pot Hit Cooking.gif)
+![cooking](Portable Crock Pot Cooking.gif)
+![collapse](
+
+
+
+
+```markdown
+# Wormwood
+
+## Character Information
+
+- **Image (DS)**: ![Wormwood](Wormwood.png)
+- **Nickname (DS)**: The Lonesome
+- **Motto (DS)**: "Hello friend?"
+- **Perk (DS)**: Plants relate to him, Has a Green Thumb, Food fills his stomach, but not his heart
+- **Health (DS)**: 150
+- **Hunger (DS)**: 150
+- **Sanity (DS)**: 200
+- **Items (DS)**: Poison Balm, Bramble Husk, Bramble Trap, Compost Wrap
+- **Spawn Code (DS)**: "wormwood"
+
+- **Image (DST)**: ![Wormwood](Wormwood_Original_Portrait.png)
+- **Nickname (DST)**: The Lonesome
+- **Motto (DST)**: "Hello friend?"
+- **Bio**: An amalgam of vines given sentience by lunar magic, Wormwood searches for friends so he can finally belong.
+- **Perk (DST)**: Plants relate to him, Saddened when plants are killed, Has a Green Thumb, Food fills his stomach, but not his heart
+- **Health (DST)**: 150
+- **Hunger (DST)**: 150
+- **Sanity (DST)**: 200
+- **Birthday**: June 6
+- **Favorite Food**: Cooked Banana
+- **Survivability**: Grim
+- **Items (DST)**: Bramble Husk, Bramble Trap, Compost Wrap
+- **Spawn Code (DST)**: "wormwood"
+- **Links**: [Quotes](Wormwood quotes), [Clothes](Wormwood clothes)
+
+## Quotes
+
+"Mmm...Smells good!" - Wormwood
+
+## Overview
+
+Wormwood is one of three Characters introduced in the Don't Starve: Hamlet DLC. He appears to be an animate plant, akin to Treeguards, though he has a green cut stone on the front of his chest. Wormwood is friendly while a little eccentric, addressing things such as insects as "Bzzters" and birds as "Tweeters."
+
+On June 6, 2019, Wormwood was added to Don't Starve Together as the second DLC character after Wortox. He is available to Hamlet owners on Steam for free. For all other players, Wormwood can be purchased either through the Wormwood Chest, which includes his Roseate skin set, or through the Wormwood Deluxe Chest, which includes the Roseate, Oasis Bound and Hollow skin sets. He can alternatively be woven with 2,700 Spools.
+
+Wormwood has many unique abilities pertaining to Plants and plant-like Mobs, and he has access to unique crafting recipes that can help with healing and defense. He is able to plant Seeds without the use of a Farm, and he is treated neutrally by Mobs such as the Lureplant and Snaptooth Flytrap. He also seems to have some sort of kinship with plants, addressing most of them as "Friend," or things similar. Because of this, he loses Sanity when plants around him die, and he gains Sanity when he himself plants them.
+
+Wormwood loses Sanity when plants within a five-tile radius are destroyed, even if the damage is not caused by him. Sanity effects from planting or destroying plants is reduced the further it happens from Wormwood.
+
+## Origin
+
+Wormwood's creation is shown in the animated short Lunar Roots. A green gem fell from the moon, landing on an ancient stone monument in the middle of overgrown rubble. Over a long period of time, a vine encircled the gem and eventually formed a humanoid figure sitting on the monument. The figure, Wormwood, opened his eyes and looked at his hands. He admired the tropical scenery, mimicking the flapping wings of the Butterflies with his leaf fingers. Trying to fit in, he imitated Parrots and Pogs, but he scared them off. Feeling downtrodden, he sat at the base of the monument and tucked himself under a nearby vine. He gave it a pat and smiled to himself. He went to sleep and bloomed along with the nearby plants while under the full moon.
+
+## Trivia
+
+- Wormwood was introduced in the February 7, 2019 Character update during the Hamlet DLC's Early Access phase.
+- Wormwood's voice is a didgeridoo.
+- Wormwood's quotes use the font Henny Penny and are green in color. He is the only character to have a unique font and text color.
+- In Don't Starve Together the green color was replaced with white because text color is used in that game's chat system to differentiate
+
+
+
+
+```markdown
+# Ice Cube
+
+The Ice Cube is a craftable Dress Item from the Reign of Giants DLC. It requires 2 Electrical Doodads, 4 Rope, and 10 Ice to craft and an Alchemy Engine to prototype.
+
+## Description
+Science, on the rocks.
+
+## Perks
+- Prevents overheating in Summer or Dry Season.
+- Increases wetness over time.
+- Walking speed reduced by 10%.
+
+## Crafting Recipe
+- Ingredient 1: Electrical Doodad (x2)
+- Ingredient 2: Rope (x4)
+- Ingredient 3: Ice (x10)
+
+## Tips
+- Placing an Ice Cube in the Ice Box will completely stop it from melting.
+- The Ice Cube is good addition to the Thermal Stone near the Endothermic Fire Pit and/or in the Ice Box for long trips during Summer.
+- The Ice Cube will make inventory and equipped items Wet, causing Sanity loss. This can be used to become insane for farming Nightmare Fuel.
+- Even with maximum wetness, Maxwell will not lose any sanity, making this hat rather valuable for him during summer. That being said, the faster food spoilage and slippery weapons are still large downsides to using the Ice Cube for extended periods of time.
+- Dress Items with Wetness resistance, such as the Rain Coat, do not reduce wetness from the Ice Cube.
+- While wearing the Ice Cube, being near a fire will slowly get rid of player wetness and will prevent the player and the player's items from becoming wet.
+- It costs less Ice overall to just build a new Ice Cube than refueling an existing one with Ice, since the latter gives 0.8 days of durability per Ice instead of 0.4.
+- Storing important items in the Piggyback will prevent them from becoming wet.
+- Wurt does not lose sanity from the Ice Cube's Wetness.
+
+## Trivia
+- The description "Science, on the rocks." refers to the bartending terminology "On the rocks" for a drink served over ice cubes.
+
+## Gallery
+![Ice Cube Equipped](Ice Cube Equipped.png)
+![Wilson wearing an Ice Cube](Ice Cube Wilson.png)
+![WX-78 wearing an Ice Cube](Ice Cube WX-78.png)
+
+## Categories
+- Cooling
+- Craftable Items
+- Equipable Items
+- Dress Tab
+- Hats
+- Perishables
+- Reign of Giants
+- Science
+- Limited use
+- Non-Flammable
+- Shipwrecked
+- Speed Loss
+```
+
+
+
+
+# Ancient Tab
+
+![Ancient Tab Icon](Ancient_Pseudoscience_Station.png)
+
+> "A solid piece of history." - Wilson
+
+The **Ancient Tab** allows players to craft objects using the **Ancient Pseudoscience Station**, whether broken or repaired. Items under this tab cannot be "prototyped" and then made on the go in the future; to craft an item under this tab, the player must be near an Ancient Pseudoscience Station, regardless of how many times the item has been crafted. This tab can also be accessed with the **Brain of Thought**.
+
+## Craftable Items and Structures
+
+The following items and structures can be crafted in the Ancient Tab:
+
+| ![Thulecite](Thulecite.png) | ![Thulecite Wall](Thulecite_Wall.png) | ![Thulecite Medallion](Thulecite_Medallion.png) |
+| :------------------------: | :--------------------------------: | :----------------------------------------: |
+|    [Thulecite](Thulecite)    |      [Thulecite Wall](Thulecite_Wall)    |    [Thulecite Medallion](Thulecite_Medallion)    |
+
+| ![The Lazy Forager](The_Lazy_Forager.png) | ![Magiluminescence](Magiluminescence.png) | ![Construction Amulet](Construction_Amulet.png) |
+| :--------------------------------------: | :----------------------------------------: | :--------------------------------------------: |
+|          [The Lazy Forager](The_Lazy_Forager)          |            [Magiluminescence](Magiluminescence)            |          [Construction Amulet](Construction_Amulet)          |
+
+| ![The Lazy Explorer](The_Lazy_Explorer.png) | ![Star Caller's Staff](Star_Caller's_Staff.png) | ![Deconstruction Staff](Deconstruction_Staff.png) |
+| :----------------------------------------: | :---------------------------------------------: | :----------------------------------------------: |
+|          [The Lazy Explorer](The_Lazy_Explorer)          |               [Star Caller's Staff](Star_Caller's_Staff)               |            [Deconstruction Staff](Deconstruction_Staff)            |
+
+| ![Pick/Axe](PickSlashAxe.png) | ![Thulecite Crown](Thulecite_Crown.png) | ![Thulecite Club](Thulecite_Club.png) |
+| :--------------------------: | :----------------------------------: | :----------------------------------: |
+|         [Pick/Axe](PickSlashAxe)         |          [Thulecite Crown](Thulecite_Crown)          |          [Thulecite Club](Thulecite_Club)          |
+
+| ![Thulecite Suit](Thulecite_Suit.png) | ![Houndius Shootius](Houndius_Shootius.png) |
+| :-------------------------------: | :----------------------------------------: |
+|          [Thulecite Suit](Thulecite_Suit)          |            [Houndius Shootius](Houndius_Shootius)            |
+
+### See Also
+
+- [Ancient Pseudoscience Station](Ancient_Pseudoscience_Station)
+- [Brain of Thought](Brain_of_Thought)
+
+---
+
+- [[pl:Starożytne]]
+- [[ko:고대 탭]]
+- [[Category:Crafting Tabs]]
+
+
+
+
+```markdown
+# {{Navbutton/Character}}
+
+{{Character Infobox
+|image ds=Woodie.png
+|nick ds=The Lumberjack
+|motto ds="That's a nice lookin' tree, eh?"
+|perk ds=Has a lovely axe<br>And a terrible secret<br>Celebrates Thanksgiving too early (''US'')<br>Celebrates Thanksgiving at the correct time (''CAN'')<br>Is thankful for bountiful harvests (''elsewhere'')
+|health ds=150
+|hunger ds=150
+|sanity ds=200
+|item ds={{Pic32|Lucy the Axe}}
+|start item ds={{Pic32|Lucy the Axe}}
+|spawnCode ds="woodie"
+|image dst=Woodie Original_Portrait.png
+|nick dst=The Lumberjack
+|motto dst="That's a nice lookin' tree, eh? Not for long."
+|perk dst=Has a lovely axe...<br>And is at war with the forest<br>Suffers from the curse of the Werebeaver!<br>And the Weremoose and the Weregoose...<br>Celebrates Thanksgiving too early (''US'')<br>Celebrates Thanksgiving at the correct time (''CAN'')<br>Is thankful for bountiful harvests (''elsewhere'')
+|health dst=150
+|hunger dst=150
+|sanity dst=200
+|beaverness dst=100
+|item dst={{Pic32|Lucy the Axe}} {{Pic32|Kitschy Beaver Idol}} {{Pic32|Kitschy Moose Idol}} {{Pic32|Kitschy Goose Idol}}
+|start item dst={{Pic32|Lucy the Axe}}
+|bio=''A gruff, bearded woodsman, Woodie has a soft spot for nature, plaid, and his trusty axe, Lucy.''
+|birthday=September 12
+|survivability=Slim
+|favorite food={{pic32|Honey Nuggets}}
+|spawnCode dst="woodie"
+|links=[[Woodie quotes|Quotes]]<br/>[[Woodie clothes|Clothes]]
+}}
+{{Quote|Lucy would want me to chop it down.|Woodie}}
+'''Woodie''' is the sixth playable [[Character]] unlocked via [[Experience]] in ''[[Don't Starve]]'', with 1600 XP. He is also one of the playable [[Character]]s in ''[[Don't Starve Together]]'' (DST). He is a stereotypical Canadian lumberjack with a love for chopping [[Trees]] and a mysterious curse.
+
+In DST, he received a character refresh on September 12, 2019.<ref>[https://forums.kleientertainment.com/forums/topic/109374-warly-is-now-available-in-dst/ Warly is Now Available in DST!]. Posted on July 25, 2019</ref><ref>[https://forums.kleientertainment.com/forums/topic/111377-woodie-character-update-next-week-news/ Woodie Character Update Next Week + News!]. Posted on September 6, 2019</ref>
+
+## Origin
+{{#ev:youtube|https://youtu.be/d0r0WfV2y5s|alignment=left|dimensions=300}}
+Woodie is notorious for having very little known about his character. His biography in DST's [[Compendium]] reveals a bit about himself:
+
+''Hailing from the pine-covered mountains of the great white north, Woodie is an unassuming yet strangely mysterious man who keeps his past close to the vest (or in his case, the flannel). He is never seen without his signature bushy beard or trusty axe Lucy, who herself is a bit of an enigma. The other Survivors are not quite sure whether Woodie is simply mad, or if there might be something else to the seemingly inanimate object. Sometimes they swear they can hear a jovial female voice speaking to Woodie when no one else is around...''
+
+In the animated short ''[[Animated shorts and trailers#Tree's A Crowd|Tree's A Crowd]]'', his DST exclusive forms Weremoose and Weregoose are given the spotlight. The short is officially summarized in the Compendium:
+
+''As the power of the moon has grown, so too have the effects of Woodie's curse. Woodie soon found that his form would shift into not only the Werebeaver, but a Weremoose and Weregoose as well. As his changing forms became more unpredictable, Woodie resolved to find a way to have more control over his curse. Using every bit of knowledge he'd gained from his time in the Constant (and some additional tips from Ms. Wickerbottom) he soon discovered that his transformations could in fact be
+
+
+
+
+```markdown
+# Chopping Tools
+
+| Tool | Link |
+| --- | --- |
+| Axe | [Axe](#) |
+| Luxury Axe | [Luxury Axe](#) |
+| Lucy the Axe | [Lucy the Axe](#) |
+| Pick/Axe | [Pick/Axe](#) |
+| Obsidian Axe | [Obsidian Axe](#) |
+| Halberd | [Halberd](#) |
+| Moon Glass Axe | [Moon Glass Axe](#) |
+| Shadow Maul | [Shadow Maul](#) |
+| Shoddy Tool | [Shoddy Tool](#) |
+| Slightly Less Shoddy Tool | [Slightly Less Shoddy Tool](#) |
+| Axe (The Gorge) | [Axe](#) |
+
+# Cutting Tools
+
+| Tool | Link |
+| --- | --- |
+| Machete | [Machete](#) |
+| Luxury Machete | [Luxury Machete](#) |
+| Obsidian Machete | [Obsidian Machete](#) |
+| Shears | [Shears](#) |
+
+# Mining Tools
+
+| Tool | Link |
+| --- | --- |
+| Pickaxe | [Pickaxe](#) |
+| Opulent Pickaxe | [Opulent Pickaxe](#) |
+| Pick/Axe | [Pick/Axe](#) |
+| Brightshade Smasher | [Brightshade Smasher](#) |
+| Shoddy Tool | [Shoddy Tool](#) |
+| Slightly Less Shoddy Tool | [Slightly Less Shoddy Tool](#) |
+
+## Reinforced Mining Tools
+
+These tools can mine more durable objects that ordinary mining tools are not capable of breaking. Some objects cannot be broken by regular Mining Tools, however this will be less effective since you will bounce back after each hit.
+
+| Tool | Link |
+| --- | --- |
+| Pick/Axe | [Pick/Axe](#) |
+| Brightshade Smasher | [Brightshade Smasher](#) |
+
+# Till Tools
+
+| Tool | Link |
+| --- | --- |
+| Garden Hoe | [Garden Hoe](#) |
+| Splendid Garden Hoe | [Splendid Garden Hoe](#) |
+| Shoddy Tool | [Shoddy Tool](#) |
+| Slightly Less Shoddy Tool | [Slightly Less Shoddy Tool](#) |
+
+# Dug Tools
+
+| Tool | Link |
+| --- | --- |
+| Shovel | [Shovel](#) |
+| Regal Shovel | [Regal Shovel](#) |
+| Brightshade Shoevel | [Brightshade Shoevel](#) |
+| Shoddy Tool | [Shoddy Tool](#) |
+| Slightly Less Shoddy Tool | [Slightly Less Shoddy Tool](#) |
+
+# Dug Turf Tools
+
+| Tool | Link |
+| --- | --- |
+| Pitchfork | [Pitchfork](#) |
+| Snazzy Pitchfork | [Snazzy Pitchfork](#) |
+
+# Fishing Tools
+
+| Tool | Link |
+| --- | --- |
+| Fishing Rod | [Fishing Rod](#) |
+
+# Ocean Fishing Tools
+
+| Tool | Link |
+| --- | --- |
+| Sea Fishing Rod | [Sea Fishing Rod](#) |
+
+# Net Tools
+
+| Tool | Link |
+| --- | --- |
+| Bug Net | [Bug Net](#) |
+
+# Scythe Tools
+
+| Tool | Link |
+| --- | --- |
+| Shadow Reaper | [Shadow Reaper](#) |
+
+# Hammer Tools
+
+| Tool | Link |
+| --- | --- |
+| Hammer | [Hammer](#) |
+| Brightshade Smasher | [Brightshade Smasher](#) |
+
+# Swimming Tools
+
+| Tool | Link |
+| --- | --- |
+| Oar | [Oar](#) |
+| Driftwood Oar | [Driftwood Oar](#) |
+| Battle Paddle | [Battle Paddle](#) |
+| Malbatross Bill | [Malbatross Bill](#) |
+| Claw Oar | [Claw Oar](#) |
+
+# Extinguishing Tools
+
+| Tool | Link |
+| --- | --- |
+| Watering Can | [Watering Can](#) |
+| Waterfowl Can | [Waterfowl Can](#) |
+
+# Walking Tools
+
+| Tool | Link |
+| --- | --- |
+| Walking Cane | [Walking Cane](#) |
+| Stalking Stick | [Stalking Stick](#) |
+| Wooden Walking Stick | [Wooden Walking Stick](#) |
+
+# Playing Tools
+
+| Tool | Link |
+| --- | --- |
+|
+
+
+
+
+```markdown
+# Health
+
+**File:HealthMeter.png|thumb**
+
+> "For documenting my pain." - Wendy
+
+**Health** is a measurement of overall physical well-being. Unlike **Hunger** (and in many situations **Sanity**), Health typically does not drain over time. Health is lost instantly when a character is hit by an enemy attack, eats harmful food such as **Monster Meat**, eats **Rot**, or harvests from thorny plants like the **Spiky Bush**. In **Don't Starve: Reign of Giants** (RoG), Health is lost instantly when harvesting from **Cacti**. Health is lost continually while the character is **burning**, **starving**, or **freezing**. In RoG, characters also lose Health while **overheating** and in **Don't Starve: Shipwrecked** (SW), while **poisoned**. Losing all Health results in **death** (although not necessarily the loss of the game). Health can be seen on the heart-shaped gauge in the upper-right corner of the screen, which shrivels and empties as the character's Health is depleted. Note that having a **Meat Effigy** lowers max Health. **Wanda** in DST does not have a health meter, instead, she has an age meter. Her meter corresponds approximately to 150 health.
+
+| Character | Health |
+| --- | --- |
+| Wilson | 150 |
+| Willow | 150 |
+| Wolfgang | 200 |
+| Wendy | 150 |
+| WX-78 | 100 |
+| Wickerbottom | 150 |
+| Woodie | 150 |
+| Wes | 113 |
+| Maxwell | 75 |
+| Wagstaff | 150 |
+| Wigfrid | 200 |
+| Webber | 175 |
+| Walani | 120 |
+| Warly | 150 |
+| Wilbur | 125 |
+| Woodlegs | 150 |
+| Wilba | 150 |
+| Wormwood | 150 |
+| Wheeler | 100 |
+| Winona | 150 |
+| Wortox | 200 |
+| Wurt | 150 |
+| Walter | 130 |
+
+* Wolfgang has 200 Health by default (his Health limit rises to 300 with a full belly and drops to 150 when starving). This is not true for **Don't Starve Together** as his health cap is only 200.
+
+* WX-78 begins with 100 Health and is capable of increasing their Health Cap up to 400 by eating **Gears**. WX-78 begins 125 Health in **Don't Starve Together** and is capable of increasing their Health Cap by using **Hardy Circuit** and **Super-Hardy Circuit**s.
+
+* Wilba's werepig form has 350 health.
+
+* Wurt has 250 health when **King of the Merms** is alive.
+
+**File:Slurtlethief.png|thumb|right|200px|Getting damaged depletes Health.**
+
+## Healing
+
+Health can be restored in a few ways. The most basic way to regain health is by eating **Food**, most of which typically provides 1-3 health when consumed. **Cooking** the food often increases the Health 1 or 2 points. There are also a few items whose sole purpose is to heal.
+
+Wormwood is unable to gain health from eating food and must rely on other methods to restore it.
+
+Certain food and items provide a greater health boost and are thus very valuable:
+
+* **Crock Pot**: Several Crock Pot recipes provide substantial healing. **Fishsticks** [+40 hp] are an easy recipe to make. **Pierogi** [+40 hp] is a lot of people's go-to dish for its cheap recipe. **Dragonpie** [+40 hp] is excellent if the player manages to farm **Dragon Fruit**. In Shipwrecked, **Bisque** [+60 Hp] is food that can be easily produced, and is one of the most potent healing items in the game. However, regarding Crock Pot recipes in general, the player must make sure that the individual components (raw or cooked) won't heal more if eaten on their own.
+
+* Cooked Crops: When cooked over a fire, **Eggplants**, **Potatoes**, **Dragon Fruit** and **Pomegranates** heal 20 hp.
+
+* **Jerky**/**Small Jerky**: Jerky and Small Jerky restore 20 Hp and 8 Hp respectively and last for a very long time. If primary concern is health, and the player's only food source is **Meats**, they should be made into jerky. Jerky can be used in a **Crock Pot** as normal meat, if needed.
+
+* **Spider Gland**/**Mosquito Sack**: **Spider
+
+
+
+
+```markdown
+# Red Gem
+The Red Gem is an Item used to craft several Magical items. It can be used to craft the Fire Staff, Night Light, Life Giving Amulet, and Purple Gem.
+
+## Obtaining Red Gems
+Red Gems can be obtained from Graves, as a drop from Red Hounds, from trading a Sextant to Wolly, from Earthquakes and Stalagmites in Caves, and from Ancient Statues, Broken Clockworks, and Ornate Chests in Ruins. They can also be found as a single, one time drop from hammering the Sunken Boat.
+
+## Downloadable Content
+### Reign of Giants
+In the Reign of Giants DLC, Red Gems have a 0.02% chance to be dropped by Tumbleweeds.
+
+### Shipwrecked
+In the Shipwrecked DLC, Fishing with Trawl Net in deep Ocean has a small chance to catch a red gem. The chance is higher during Hurricane Season and Dry Season. Magma Piles in Magma Field biomes also have a chance to drop them.
+
+### Hamlet
+In Hamlet, Red Gems can be obtained by hammering A Smashing Pot, killing the Pugalisk, trawling in the Lily Ponds, finding them atop pedestals in Ancient Pig Ruins, and mining the Petrified Eggs in the BFB's nest.
+
+## Usage
+### Crafting Recipes
+- **Purple Gem**
+  - Red Gem + Blue Gem = Purple Gem (using Prestihatitator)
+- **Fire Staff**
+  - Red Gem + Nightmare Fuel (x2) + Spear = Fire Staff (using Shadow Manipulator)
+- **Night Light**
+  - Red Gem + Nightmare Fuel (x2) + Gold Nugget (x8) = Night Light (using Prestihatitator)
+- **Life Giving Amulet**
+  - Red Gem + Nightmare Fuel (x2) + Gold Nugget (x3) = Life Giving Amulet (using Prestihatitator)
+- **The End is Nigh**
+  - Red Gem + Papyrus (x2) = The End is Nigh (using Shadow Manipulator, for Wickerbottom)
+- **Fryfocals**
+  - Spectoggles + Red Gem = Fryfocals (for Wagstaff)
+- **Tenpiece Oinc**
+  - Red Gem = Tenpiece Oinc (using Pig Banker, in Hamlet)
+- **Smelter**
+  - Red Gem + Cut Stone (x6) + Boards (x4) = Smelter (using Alchemy Engine, in Hamlet)
+
+## Gallery
+<gallery>
+![Old Red Gem texture](Czerwone kryształy.png)
+![Medal red emoji from official Klei Discord server](Red Gem emoji from official Klei Discord server.png)
+![Original HD icon from Bonus Materials from CD Don't Starve](CD redgem.png)
+</gallery>
+
+## Quotes
+- Wilson: "It sparkles with inner warmth."
+- Willow: "So pretty!"
+- Wolfgang: "Pretty rock."
+- Wendy: "Red like my heart's blood."
+- WX-78: "IT IS SLIGHTLY WARM"
+- Wickerbottom: "It is warm."
+- Woodie: "I see within it the fiery death of a thousand trees."
+- Maxwell: "Red brings fire."
+- Wagstaff: "The geometric cut to this gem appears to optimally focus exothermic energy."
+- Wigfrid: "It is hot to the touch."
+- Walani: "Booty-ful!"
+- Webber: "It feels warm even on the coldest nights."
+- Warly: "A deep fire burns within."
+- Woodlegs: "It gleams like th'sun!"
+- Wilba: "ALL THAT GLITTERS 'TIS GOLD"
+- Wormwood: "Red shiny"
+- Wheeler: "Still warm after its last use."
+- Winona: "Glitter doesn't really appeal to me."
+- Wortox: "Deepest red, from golems bled."
+- Wurt: "It pretty and warm."
+- Walter: "I think this gem might be magic."
+- Wanda: "It's amazing how many gems you can find just lying around here."
+
+## Categories
+- Naturally Spawning Objects
+- Items
+- Gems
+- Mob Dropped Items
+- Minerals
+- Resources
+- Boss Dropped Items
+- Non-Flammable
+```
+
+
+
+
+```markdown
+# Durability
+
+Durability is a game-concept which limits the amount of usage an item or structure has. It generally applies to items which can be equipped, however there are some other items such as the [Sewing Kit] or [Pan Flute] which also have it. An item with durability can be identified by a percentage number in front of its inventory graphic. For example, an [Axe] will have a 100% over its icon when first created, and this number will change as the Axe is used. Different items use durability in different ways:
+
+## Tools
+
+[Tools] lose durability whenever they are used for their specific actions and in the same way as [weapons] do when attacking something. The 3 most common Tools ([Axe], [Pickaxe], and [Shovel]) also have special versions with a much higher durability ([Luxury Axe], [Opulent Pickaxe], and [Regal Shovel] respectively).
+
+| Name | # of Uses | Special |
+|------|-----------|---------|
+| ![Axe] | 100 | Chops down [Evergreen|trees]. |
+| ![Luxury Axe] | 400 | Chops down trees. |
+| ![Pickaxe] | 33 | Mines [[:Category:Mineable Objects|mineable objects]]. |
+| ![Opulent Pickaxe] | 132 | Mines mineable objects. |
+| ![Shovel] | 25 | Digs up [[plants]]. |
+| ![Regal Shovel] | 100 | Digs up plants. |
+| ![Pitchfork] | 200 | Digs up [[turfs]]. |
+| ![Hammer] | 75 | Deconstructs [[structures]]. |
+| ![Sewing Kit] | 5 | Fixes up degraded clothing. |
+| ![PickSlashAxe|Pick/Axe] | 400 as Axe (and weapon), 134 as Pickaxe | Chops trees and mines mineable objects. |
+| ![Beefalo Horn] | 10 | Makes up to 5 [Beefalo] follow the player. |
+
+## Survival items
+
+[Survival] items lose durability when used by the player or when triggered by mobs. Some of them can be used as weapons but will lose durability much faster.
+
+| Name | # of Uses | Special |
+|------|-----------|---------|
+| ![Bird Trap] | 8 | Captures [[Birds]]. |
+| ![Trap] | 8 | Captures [[rabbit]]s and other small animals. |
+| ![Fur Roll] | 3 | Restores [[sanity]] and [[health]] at the expense of [[hunger]]. |
+| ![Tent] | 6 | Restores sanity and health at the expense of hunger. |
+| ![Umbrella] | 20 (Only when attacking) | Prevents [[sanity]] loss from [[rain]]. |
+| ![Bug Net] | 10 (4 when attacking) | Catches insects. |
+| ![Fishing Rod] | 9 (3 when attacking) | Captures fish and eels in [[pond]]s. |
+| ![Basic Farm] | 20 | Grows [[seeds]]. |
+| ![Improved Farm] | 30 | Grows seeds faster. |
+
+## Weapons
+
+[Weapons] use Durability to determine the number of times they can hit something before breaking. A [Spear] for example losses 0.66% of its durability each time it is used to attack something, allowing it to be used 150 times. Each weapon has a different number of uses.
+
+## Protection
+
+Protective items include [Armor]s and [Walls]. Armors are items worn by the player. Armor's durability functions like extra [[Health]] for the character wearing it. Each type of Armor ([[Grass Suit]], [[Log Suit]], or [[Marble Suit]]) can absorb a certain amount of damage before breaking (225, 450, and 1050 respectively). When a character is hit, the armor takes a percentage of the total damage and the characters health takes the remainder. The number show on the armor's inventory icon is not actually the amount of damage it can still absorb, but the percentage of its own starting health (for example if a Grass Suit shows it has 50% durability left, it can still absorb 112 damage before breaking). Walls can be placed to protect or limit access to an area from other mobs. They can be attacked and destroyed, but can be repaired and even upgraded to last longer. [[Stone Wall]]s and [[Thulecite Wall]]s are the only non-flammable walls.
+
+| Name | % Absorbed | Durability | Special |
+|------|------------|-----------|---------|
+| ![Hay Wall] | 100% | 50-100 | Flammable. |
+| ![Wood Wall] | 100%
+
+
+
+
+```markdown
+# Wurt
+
+## Character Information
+
+- **Image (DST):** ![Wurt](Wurt_Original_Portrait.png)
+- **Nickname (DST):** The Half-Pint
+- **Motto (DST):** "Mermfolk known for hos-per-tality, florp."
+- **Bio:** Wurt is a curious young Merm trying to expand her horizons... as long as those horizons don't extend into Pig territory.
+- **Perk (DST):** At home in the swamp<br>Has big plans for Merm-kind<br>Is a vegetarian
+- **Health (DST):** 150 or 250
+- **Hunger (DST):** 200 or 250
+- **Sanity (DST):** 150 or 200
+- **Birthday:** October 17
+- **Favorite Food:** ![Durian](Durian) and ![Extra Smelly Durian](Extra_Smelly_Durian)
+- **Survivability:** Slim
+- **Speed (DST):** ×1 or ×1.3
+- **Item (DST):** ![Royal Tapestry](Royal_Tapestry), ![Craftsmerm House](Craftsmerm_House), ![Merm Flort-ifications](Merm_Flort-ifications), ![Clever Disguise](Clever_Disguise), ![Marsh Turf](Marsh_Turf)
+- **Spawn Code (DST):** "wurt"
+- **Links:** [Quotes](Wurt_quotes) / [Clothes](Wurt_clothes)
+- **Sanity Multiplier (DST):** 
+
+## Origin
+
+Wurt is a Character exclusive to *Don't Starve Together*, who was released on October 24, 2019. Like Wortox, Wanda, and Wormwood, she needs to be unlocked, either by purchasing the Wurt Chest, Wurt Deluxe Chest, or Starter Pack addon to the Megapack Bundle or by weaving her with 2700 Spools. She is a young, curious Merm Guard.
+
+Wurt's biography in the Compendium gives a bit of her backstory:
+
+"Wurt is a little Merm girl who wants to bring her people back to their former glory (if they did indeed ever have a former glory... the evidence is a bit shaky on that front). A bit more open-minded than other Merms, she has taken to following the Survivors around and learning more about them. She is particularly fascinated by books with pretty pictures inside and an amazing thing the humans call "candy". Though she enjoys living in the swamp and being around other Merms, being the smallest and the youngest often makes her feel quite isolated, and she is enjoying the novelty of having some friends closer to her own age amongst the Survivors."
+
+In the animated short "The Monster Marsh", an instance of her meeting the survivors is showcased. On a Hallowed Nights night, Wickerbottom reads a scary story to Webber and Wendy as they sit around a Fire Pit in the swamp. They are attacked by a mob of Merms, who trample through their camp as they give chase. Wurt follows them until she steps on Wickerbottom's book (which looks like the popular fairy tale "Hansel and Gretel"). She takes immediate interest in the story and sits at the base of a Spiky Tree as the survivors and Merms battle. After defeating the Merms and Spiders, a Tentacle takes them all out and one of their Candy Bags lands near Wurt. She helps herself to a piece of candy and continues to enjoy the book.
+
+## Trivia
+
+### In-Game
+
+- Wurt's existence was accidentally leaked on October 12, 2019, when her Essential Wurt skin item was found in a Klei developer's Steam inventory.
+- She has a unique idle animation in which she scratches one of her horns.
+- When she was first implemented, she had many lines that implied she, like other Merms, could see in the dark. Most lines were later changed to remove reference to night vision. She will still say that she can "still see" when a Torch goes out, however.
+- It was confirmed by Dan Sorce, a developer, that Wurt's voice is the combination of a sawtooth tone and the sound of gargling.
+- Wurt's skull was found in the DST files as of May 6, 2021.
+- Wurt's empowered appearance in her Toadstool costume is based on Misery Toadstool.
+- The Victorian Wurt shows Wurt's transformation from a merm to a furry creature (apparently a goat). This is the opposite of what was shown in The Gorge event,
+
+
+
+
+```markdown
+# Telelocator Staff
+
+- **Navbutton/Separation**
+
+## Structure Infobox
+
+- **equipslot**: hands
+- **icon**: Telelocator Staff.png
+- **image**: Telelocator Staff Dropped.png
+- **ingredient1**: Nightmare Fuel
+- **multiplier1**: 4
+- **ingredient2**: Living Log
+- **multiplier2**: 2
+- **ingredient3**: Purple Gem
+- **multiplier3**: 2
+- **tab**: Magic
+- **durability**: 5 Uses
+- **tier**: 3
+- **sanitydrain**: -50 (per use)
+- **droppedBy**: [[Ornate Chest]] and [[Ancient Pseudoscience Station]] with [[Hammer]]
+- **stack**: Does not stack
+- **spawnCode**: "telestaff"
+- **description**: Bend space! Time bend sold separately.
+
+## Quotes
+
+- **wilson**: It can show me the world.
+- **willow**: It's quite a rush to use.
+- **wolfgang**: It gives me a headache.
+- **wendy**: I could escape if it were more powerful.
+- **wx78**: I WILL CALL IT THE MINION_MOVER_3000.
+- **wickerbottom**: The gem appears to focus the nightmare fuel.
+- **woodie**: I wonder what this thing does.
+- **maxwell**: Magic can do amazing things, when funneled through the right channels.
+- **wagstaff**: So it is possible to bend three dimensional space. I knew it!
+- **wigfrid**: I ride thröugh the air and the sea!
+- **webber**: It makes my brain feel fuzzy.
+- **walani**: It shows me things I never knew I could see.
+- **warly**: Let us take a trip. I am not picky as to where.
+- **woodlegs**: I prefer a fast ship and th'wind at me back.
+- **wilba**: IT GIVETH WILBA ZOOM LEGS
+- **wormwood**: Poof Stick
+- **wheeler**: I like the teleporting. Could do without being struck by lightning, though.
+- **winona**: So you're telling me this stick is "magic"?
+- **wortox**: Hassle-free hopping.
+- **wurt**: Make head feel funny, florp...
+- **walter**: But getting there is half the fun!
+- **wanda**: It's a bit clunky, but it'll do for now.
+- **choose**: wx78
+
+## Usage
+
+The Telelocator Staff is a magical Item created from the Magic Tab. It requires a Shadow Manipulator to prototype, and costs 2 Living Logs, 4 Nightmare Fuel, and 2 Purple Gems to craft. The Telelocator Staff has 5 uses. Each use costs 50 Sanity.
+
+- **Usage**: The Telelocator Staff is used to teleport the player or Mob (including Bosses) to a random location on the map. When used on a mob, Lightning will strike the mob where it was standing before being teleported (possibly setting it on fire). When used on the player, lightning will strike them at the location used and also at the location they are teleported to (potentially causing fires both times). Each use will increase world's moisture, that when high enough can start Rain.
+
+- **Caves**: Using a Telelocator Staff in Caves will not teleport the target (even if a Telelocator Focus was built underground), but will cause Rocks and Gems to fall at the location where the spell was used (similar to an Earthquake). Note that falling Minerals can cause damage to players and mobs.
+
+## Telelocator Focus
+
+If the player built a Telelocator Focus in the world and stocked it with three Purple Gems, the Telelocator Staff will teleport its target to the point at which the focus is placed instead of to a random location. This consumes the gems.
+
+The player can use the Telelocator Focus to teleport to a base after a long trip or quickly travel from one end of the world to another.
+
+Note that since it is currently not possible to teleport to or within a cave, building one of these in a cave is just a waste of resources.
+
+## Downloadable Content
+
+- **Reign of Giants**: When using the Staff on a mob, lightning may strike the player instead. WX-78 will always be hit, even when standing next to a Lightning Rod (causing both the character and the rod to be struck).
+
+- **Shipwrecked**: Mobs in the ocean cannot be teleported.
+
+- **Hamlet**: The Pugalisk cannot be teleported.
+
+## Strategy
+
+The Telelocator
+
+
+
+
+```markdown
+# Wilson Percival Higgsbury
+
+**The Gentleman Scientist**
+
+## Character Overview
+
+- **Image**: ![Wilson](Wilson.png)
+- **Motto**: "I will conquer it all with the power of my MIND!"
+- **Perk**: Grows a magnificent beard
+- **Health**: 150
+- **Hunger**: 150
+- **Sanity**: 200
+- **Spawn Code**: `wilson`
+- **Birthday**: April 23
+- **Survivability**: Slim
+- **Favorite Food**: ![Bacon and Eggs](pic32|Bacon and Eggs)
+
+## Origin
+
+Wilson was the first of the playable characters to receive a backstory through an animated short, called **Forbidden Knowledge**. The events of this short were later officially summarized in DST's Compendium:
+
+> While toiling away in his home laboratory late one night, Wilson was startled to hear a voice on the radio speaking directly to him. At first he feared he'd gone mad from too many late nights of experiments and accidentally-inhaled chemical fumes, but the voice assured him that it was no mere figment of the imagination. In fact, the voice had a proposition for him: if Wilson would build a machine according to their specifications, then he would be rewarded with secret knowledge, the likes of which no one had ever seen. Casting aside his better judgement (after all, what harm could come from making a vague bargain with a mysterious disembodied voice?) Wilson threw himself into constructing the machine. When at long last it was finally completed, the gentleman scientist had a moment of hesitation... a moment that might have saved him from his impending fate, had he been just a bit stronger of will. But at the voice's insistence, Wilson flipped the switch and activated his creation... and was never seen again. Well, at least not in this world.
+
+## Trivia
+
+### In-Game
+
+- Wilson's voice is played by a "Harmon muted trumpet (mixed with some cup muted trumpet as well)".
+- With a Puffy Vest, a Beefalo Hat, and the Beard at full length, Wilson can have the highest insulation factor in the game at 615.
+- Wilson is one of the only three characters that get an insulation bonus from their Beard. The other two are Webber from Reign of Giants (RoG), and Woodie when played in DST.
+- Wilson is the only character capable of producing Beard Hair from shaving. His Beard is also the only one to allegedly be made of human hair.
+- Wilson is the only character unaffected by the Strange New Powers update, aside from Maxwell, who was not finished in time and got his new powers later on in the All's Well That Maxwell update.
+- Wilson is the only character with no drawbacks. Even in RoG, his Beard needs to be grown to accelerate overheating in Summer, which is not required of Wilson during that season.
+- Wilson has a skull in the game files.
+- Before the November 14, 2013 patch, Wilson used to share a lot of examination quotes with the other characters. His quotes are also used as the default for every other playable character when new objects are implemented in a beta stage.
+- Wilson can be used as a Steam chat emoticon.
+- Team Fortress 2 promoted Don't Starve with a hat modeled after Wilson's hair, as well as a weapon based on the Ham Bat.
+- When struck by Lightning in DLCs, Wilson, like most other characters, is shown to have bones in his hair.
+- Due to the short "Inevitable," Wilson is one of the few characters to have received actual voice acting, along with Maxwell, Charlie, and Willow.
+- Wilson with Shadow Courtier can see Ink Blight's names.
+- The Mad Lab Shoes were only added on August 31, 2022, despite the fact that the full set became available a few years earlier. Those who bought any set of skins that included the Wilson’s Mad Scientist skin received a red chest with Mad Lab Shoes upon entering the game. The chest appeared before the player could open the daily gift. Mad Lab Shoes were added in update 520864.
+- All skins in Halloween Costumes Sets reference one mob from the game. Wilson's is the Guardian Pig.
+
+### Lore
+
+- From June to July 2012, a series of blog posts featured field notes written in Wilson's point of view, in which he recorded his initial experiences building tools, encountering Beefalo, and creating Meat Effigies in The Constant.
+- Kevin Forbes has described Wilson as "a person of independent means who has decided to apply his intellect, such as it is, to science," and has stated that despite identifying as one, Wilson is not a good scientist.
+- Wilson's full name originates from promotional business cards Klei had made for a conference. Kevin Forbes originally wrote the name with Percival in
+
+
+
+
+```markdown
+# Driftwood Pieces
+
+## Structure Infobox
+- **Food Type**: Wood (non-survivor food)
+- **Icon**: Driftwood Piece.png
+- **Image**: Driftwood Piece Dropped.png
+- **HP Restored**: 0
+- **Hunger Restored**: 0
+- **Sanity Restored**: 0
+- **Can Be Burned**: Yes
+- **Burn Time**: 45 sec.
+- **Stack**: 20
+- **Dropped By**: Driftwood and Great Tree Trunk (By Chopping)
+
+## Exclusivity
+Exclusive to Don't Starve Together.
+
+## Quotes
+- Wilson: It floats on water.
+- Willow: Perfect for burning.
+- Wolfgang: Small log is practically fit in palm of my hand!
+- Wendy: Bleached like bones left in the sun.
+- WX-78: TREEFRAGMENTED.
+- Wickerbottom: A naturally buoyant material.
+- Woodie: You poor log.
+- Maxwell: Oh good. More wood.
+- Wigfrid: 'Tis wööd, förged in the sea's depths!
+- Webber: Easy piece-y.
+- Winona: Oof. Kitschy.
+- Warly: It's surprisingly light.
+- Wortox: Naught but a log.
+- Wormwood: Going for swim, friend?
+- Wurt: Floaty log.
+- Walter: You'll float too, if you hold onto it!
+- Wanda: Who knows how long it's been floating out in the ocean?
+
+## Description
+Driftwood Pieces are items exclusive to Don't Starve Together, introduced in Return of Them. They can be found floating in the Ocean where they spawn regularly. They are common in the Rocky Beach Biome on the Lunar Island. Driftwood Pieces can also be obtained by chopping Driftwood and Great Tree Trunk roots.
+
+Driftwood Pieces are required to craft Driftwood Oars. They can also be used to repair Boats and as Fuel for Fire.
+
+## Usage
+
+### Recipes
+
+1. Driftwood Oar
+   - **Item1**: Driftwood Piece (1)
+   - **Result**: Driftwood Oar
+
+2. Winged Sail
+   - **Item1**: Driftwood Piece (3)
+   - **Item2**: Rope (3)
+   - **Item3**: Feathery Canvas (4)
+   - **Result**: Winged Sail
+   - **Tool**: Think Tank
+
+3. Tackle Receptacle
+   - **Item1**: Driftwood Piece (1)
+   - **Item2**: Electrical Doodad (1)
+   - **Item3**: Bone Shards (1)
+   - **Result**: Tackle Receptacle
+   - **Tool**: Science Machine
+
+4. Hardened Slip Bobber
+   - **Item1**: Driftwood Piece
+   - **Result**: Hardened Slip Bobber
+   - **Tool**: Tackle Receptacle
+
+5. Rocky Beach Turf
+   - **Item1**: Driftwood Piece
+   - **Item2**: Rocks
+   - **Result**: Rocky Beach Turf (4)
+   - **Tool**: Terra Firma Tamper
+
+6. Waterfowl Can
+   - **Item1**: Driftwood Piece (2)
+   - **Item2**: Rope (1)
+   - **Item3**: Malbatross Bill (1)
+   - **Result**: Waterfowl Can
+   - **Tool**: Alchemy Engine
+
+7. Dreaded Mudslinger (Wurt)
+   - **Item1**: Driftwood Piece
+   - **Item2**: Marsh Turf
+   - **Item3**: Pure Horror
+   - **Result**: Dreaded Mudslinger
+   - **Skill**: Terra Corruption
+
+8. Brilliant Mudslinger (Wurt)
+   - **Item1**: Driftwood Piece
+   - **Item2**: Marsh Turf
+   - **Item3**: Pure Brilliance
+   - **Result**: Brilliant Mudslinger
+   - **Skill**: Terra Mutation
+
+## Trivia
+- Driftwood Pieces were introduced in the Turn of Tides update.
+```
+
+
+
+
+```markdown
+# Mad Scientist Lab
+
+## Structure Infobox
+- **Image**: Mad Scientist Lab Build.png
+- **Image-width**: 200px
+- **Icon**: Mad Scientist Lab.png
+- **Description**: Mad science has no limits. Except sanity.
+- **Ingredient1**: Electrical Doodad
+- **Multiplier1**: 2
+- **Ingredient2**: Cut Stone
+- **Multiplier2**: 2
+- **Filter**: ![Prototypers & Stations Filter](ImgLink) ![Structures Filter](ImgLink) ![Special Event Filter](ImgLink)
+- **Tier**: 0
+- **Perk**: Unlocks Mad Science Filter.
+- **SpawnCode**: "madscience_lab"
+- **Box title**: Mad Scientist Lab
+
+## Exclusivity
+- **Don't Starve Together**
+
+## Event
+- **Hallowed Nights**
+
+## Quotes
+- **Wilson**: Sanity is a small price to pay for science!
+- **Willow**: I like the fire!
+- **Wolfgang**: Is making Wolfgang brain hurt.
+- **Wendy**: Madness lies within.
+- **WX-78**: BROTHER! WHAT HAS DRIVEN YOU MAD!
+- **Wickerbottom**: Mad science indeed!
+- **Woodie**: I prefer simpler things.
+- **Maxwell**: How maddening.
+- **Wigfrid**: Be there method to this madness?
+- **Webber**: Wow. Look at it bubble.
+- **Winona**: I can do some experimentin' with that.
+- **Warly**: Chemistry is just fancy cooking, non?
+- **Wortox**: A place to stew my magic brew.
+- **Wormwood**: For making scaries
+- **Wurt**: Bubble, bubble!
+- **Walter**: Mad science is the best kind!
+- **Wanda**: This is a bit outside my area of expertise...
+- **Choose**: WX-78
+
+The Mad Scientist Lab is a craftable Structure introduced in the 2018 version of the event. It is found in the Prototypers & Stations Filter and Structures Filter and requires two Electrical Doodads and two Cut Stones to craft. It is always available to craft and does not require prototyping.
+
+Standing next to the Mad Scientist Lab grants players access to the Mad Science Filter where they can conduct several experiments to produce potions. Each of these experiments causes the player to lose a certain amount of their Sanity.
+
+Most of these experiments have several possible outcomes, however, they are all of positive effect for the players. As the cooking process takes a certain amount of time, their results are not immediately available for usage.
+
+### Gallery
+<gallery captionalign="center" hideaddbutton="true">
+![Concept art for the Mad Scientist Lab from Rhymes with Play #212.](ImgLink)
+</gallery>
+
+### Hallowed Nights
+- **Craftable Items**
+  - [Craftable Items](CraftableItemsLink)
+
+### Categories
+- [[Prototypers & Stations Filter]]
+- [[Structures Filter]]
+- [[Special Event Filter]]
+```
+
+
+
+
+```markdown
+# Food
+
+Food can be obtained by foraging, trapping, farming or hunting mobs. Food refills Hunger and may restore some Health along with Sanity, depending on the quality of the food eaten. Eating some foods, such as Monster Meat or Durians, can damage the player's health instead of restoring it. Some foods, such as raw Meat or Morsels, will damage a player's sanity if eaten. Mushrooms have varying effects on Health and Sanity depending on their color. Some special food items, such as Glow Berry, have additional effects when eaten.
+
+Almost all raw food can be Cooked on a Campfire to increase the amount of Health/Hunger/Sanity restored or reduced, and sometimes remove Health/Sanity penalties from eating it. Some raw food items, most notably Meats, can be dried on a Drying Rack to produce long lasting food items with increased Health/Hunger/Sanity values. Additionally, a Crock Pot can be used for making foods that have additional benefits.
+
+Food items also have other uses than eating them directly. Meat can be used as bait for carnivores, for the recruitment of Pigs, and as an offering to the Pig King for Gold Nuggets. A renewable way to gain Eggs is by giving meats to birds housed in Bird Cages. Meat is also a requirement to construct the Meat Effigy. Bunnymen can be befriended using Carrots and will become hostile if meat is in the player's inventory. Vegetables and Fruits can be used as bait for herbivores and given to Pigs to obtain Manure. Seeds can be used to bait Bird Traps.
+
+Being of the most important items in the game, (and part of the game's namesake, to not starve) food is typically very valuable in any world; however, given the layouts of different maps and what spawns in them, food availability can vary from being abundant, to dangerously short. Food is affected by the seasons, which likely encourages the player to take advantages of seasonal diets and also take advantages of the food's shelf life.
+
+With the introduction of Overheating mechanic in the Reign of Giants DLC (and carried over to Don't Starve Together and the Shipwrecked DLC), some foods are classified as hot or cold, providing an alternative way to combat Freezing and Overheating, respectively.
+
+When players eat Foods that count as Meats, they will have a chewing animation and are not able to perform other actions for a relatively long duration. When eating Foods that are not Meats, they will just put it into their mouth very fast.
+
+For Information on Food values and Priority, see the Crock Pot page.
+
+## Categories
+
+* Meats — [Meats](Meats)
+* Fishes — [Fishes](Fishes)
+* Vegetables — [Vegetables](Vegetables)
+* Fruits — [Fruits](Fruits)
+* Eggs — [Eggs](Eggs)
+* Crock Pot meals — [Crock Pot](Crock Pot)
+* Other — [Other](Other)
+
+## Perish Times
+
+Most food and some non-edible items have a perish time, eventually turning into Rot, turning into another food or item, or disappearing completely.
+
+| Stage | Effect |
+|-------|--------|
+| Green (50-100% Fresh) | Restores the full amount of Hunger, Health and Sanity for a given food. |
+| Yellow (21-49% Stale) | Restores 2/3 of Hunger, 1/3 of Health for a given food and doesn't restore any Sanity. |
+| Red (0-20% Spoiled) | Restores 1/2 of Hunger for a given food, doesn't restore any Health and decreases Sanity by 10. |
+
+| Container | Spoilage Rate (higher = spoils faster) | Notes |
+|-----------|--------------------------------------|-------|
+| Bundled_Supplies_4_Slot | 0 | Several items cannot be put inside, such as itself and Chester's Eye Bone. |
+| Honey Chest | 0 | Only Honeys and Nectars can be put inside. |
+| Birdcage | 0 / 0.25 | Only Birds can be put inside. |
+| Ice Box | 0.5 / -0.33 | -0.33 only applies to Ice/Hail. |
+| Insulated Pack | 0.5 |  |
+| Sea Sack | 0.5 |  |
+| Snow Chester | 0.5 / 0 | 0 only applies to Ice. |
+| Chef Pouch | 0.5 / 0.75 |  |
+| In player's inventory, Chests, etc | 1 |  |
+| Shadow Chester | 1.5 / 3 | 3 only applies when poisoned. |
+| Player with Blue Funcap/Red Funcap/Green Func
+
+
+
+
+# Exclusivity
+Don't Starve Together
+
+# Mob Infobox
+| **Name** | **Antlion** |
+| --- | --- |
+| **Image** | Antlion.png |
+| **Health** | 6000 |
+| **Damage** | 50, 75, 100 to player<br>100, 150, 200 to mobs |
+| **Attack Period** | 4 |
+| **Attack Range** | 15 |
+| **Walk Speed** | Does not walk |
+| **Sanity Drain** | -40/min when fighting |
+| **Renew** | Yes |
+| **Biome** | Desert |
+| **Drops** | Desert Stone x6-8, Meat x4, Rocks x2-4, Trinkets, Blueprint (rare)(The Lazy Deserter, Turf-Raiser Helm), Sketch for Antlion Figure (Marble).<br>Desert Stone (Traded for Trinkets and Egg).<br>The Lazy Deserter Blueprint for Lazy Deserter and Turf-Raiser Helm (Traded for Beach Toy).<br>Blueprint for Brick Flooring, Gold Flooring, and Humble Lamb Idol (Traded for Red Crown) |
+| **Spawn Code** | "antlion" |
+
+# Quotes
+- **Wilson**: It wants something from me.
+- **Willow**: What do you want?!
+- **Wolfgang**: Scary monster is friend?
+- **Wendy**: Do you know any riddles?
+- **WX-78**: IT'S BIG FOR AN ORGANIC
+- **Wickerbottom**: Ah. You must be behind all the seismic activity.
+- **Woodie**: They grow'em big out here, eh?
+- **Maxwell**: Have you no pride?
+- **Wigfrid**: Tis the mighty liön!
+- **Webber**: You're fuzzy. We like that.
+- **Winona**: How's the weather up there?
+- **Warly**: I think it's friendly.
+- **Wortox**: You need only tell me what you desire.
+- **Wormwood**: Hello!
+- **Wurt**: What you want?
+- **Walter**: Hi!
+- **Wanda**: Oh botheration, I hope I remembered to bring a gift.
+- **Choose**: Wigfrid
+
+The Antlion is a Mob exclusive to Don't Starve Together, introduced in A New Reign. It appears in the Desert biome during Summer Season. The players can either appease or kill it, otherwise, it creates Sinkholes on the surface or Cave-in Boulder when a player goes inside the caves. The Antlion can be given a Thermal Stone at stage 1 to freeze it and start combat, or one at stages 4 or 5 to set it on fire and start combat. (If you want to use a hot thermal stone, you need to heat it by Antlion as it will loose heat instantly away from fire in summer, making this impractical)
+
+## Behavior
+Antlion first spawns in Summer when there is no rain and the ground is dry. 33 minutes and 36 seconds (roughly four days) after it spawns it will disturb the players unless tribute is paid to delay it. When the attack is complete, Antlion's disturbance timer will be set to 80% of the previous calm duration.
+
+If it rains while the Antlion is Alive, it will despawn, respawning later with a reset timer at 33 minutes 36 seconds when the rain stops.
+
+### Tribute
+Players can contribute the following items to delay the Antlion's disturbance:
+
+| **Days** | **Items** |
+| --- | --- |
+| 1/3 | Rocks, Egg, Second-hand Dentures, Bent Spork, Air Unfreshener, Leaky Teacup, Shoe Horn, Collected Dust |
+| 2/3 | Melty Marbles, Gord's Knot, Tiny Rocketship, Ball and Cup, Frayed Yarn, Wire Hanger, White Bishop, Black Bishop, White Rook, Black Rook, White Knight, Black Knight, Gnome, Gnomette, Frazzled Wires, Lying Robot, Beaten Beater, Fake Kazoo, Toy Trojan Horse, Unbalanced Top |
+| 1 | Cut Stone, Mismatched Buttons, Back Scratcher, Hardened Rubber Bung, Dessicated Tentacle, Lucky Cat Jar, Potato Cup |
+| 2 | Thermbell, Red Crown |
+| 3 | Beach Toy |
+| 4 | Heat Stone Stage 2, Heat Stone Stage 3 |
+
+For example, if one gives the Antlion an Egg, it would delay its attacks for 160 seconds, or 1/3 day. Giving the Antlion 10 Rocks will delay the disturbance timer by 3.3 days. One should keep
+
+
+
+
+```markdown
+# Dense Turf
+
+## Exclusivity
+Hamlet
+
+## Item_Infobox
+- Description: As tame as wild jungle can be.
+- Stack: 10
+- Spawn Code: "turf_deeprainforest_nocanopy"
+- Ingredient1: Bramble Bulb
+- Multiplier1: 1
+- Ingredient2: Cut Grass
+- Multiplier2: 2
+- Ingredient3: Ash
+- Multiplier3: 1
+- Tab: Structures
+- Tier: 2
+- Burn Time: 90/45 sec
+
+## Quotes
+- Wilson: It's a chunk of ground.
+- Willow: The ground is boring.
+- Wolfgang: Step stones.
+- Wendy: Some ground.
+- WX78: GROUND PARTS
+- Wickerbottom: The ground. You step on it.
+- Woodie: Just some ground, eh?
+- Maxwell: Fertile turf.
+- Wagstaff: Perfect for plants native to the jungle.
+- Wigfrid: A piece of the battlefield.
+- Webber: Some ground that we dug up.
+- Walani: Ground for planting jungle stuff.
+- Warly: It's like an ingredient for the ground.
+- Woodlegs: Me ain't no ground lubber.
+- Wilba: 'TIS GROUND
+- Wormwood: Dirt. Good dirt
+- Wheeler: Do I really need to drag this dirt around with me?
+- Choose: Walani
+
+**Dense Turf** is a craftable **Turf** **Item** introduced in the **Don't Starve: Hamlet** DLC. Like other Turfs, it can be placed on any bare ground tile or used as **Fire#Fuel**.
+
+Dense Turf allows **Nettle Vine**s to grow and is also visually identical to the turfs found in the **Deep Rainforest** Biome. However, unlike the Deep Rainforest Turf, Dense Turf doesn't have randomly spawned jungle floor ferns that obstruct structure placement, shadows of leaves projected on the ground, a foliage effect on the sides of the screen, and it can be dug up with a **Pitchfork**.
+
+**Grass Tuft**s planted on Dense Turf will grow into **Tall Grass** instead of normal one. Additionally, this turf allows **Cocooned Tree**s to convert regular **Rainforest Tree**s into cocooned ones.
+
+When placed on the **Surface World** and covering a large enough area, no **Birds** will spawn and land on these turfs. In the **Shipwrecked** DLC, this Turf will not spawn **Flooding|Puddles**. Tides and expanding Puddles can still flood this turf, however.
+
+## Trivia
+- Dense Turf was added in the March 18, 2019 update.
+- The fact that this soil is made with ash, and that when planting plants, they grow even higher level, can be a reference to the [terra preta](https://en.wikipedia.org/wiki/Terra_preta) a soil made by the Brazilian natives with carbon ashes and organic waste that converted soils with poor mineral contents (jungle terrain) into farmland.
+
+## Gallery
+<gallery captionalign="center" hideaddbutton="true">
+![Dense Turf Texture](Dense Turf Texture.png)
+</gallery>
+
+## Categories
+- Turfs
+- Craftable Items
+- Structures Tab
+- Fuel
+- Flammable Objects
+```
+
+
+
+
+```markdown
+# {{Navbutton/Character}}
+
+## {{Character Infobox
+|image ds=Wendy.png
+|nick ds=The Bereaved
+|motto ds="Abigail? Come back! I'm not done playing with you."
+|perk ds=Haunted by her [[Abigail|twin sister]]<br>Comfortable with darkness<br>Doesn't hit very hard
+|health ds=150
+|hunger ds=150
+|sanity ds=200
+|damage ds=0.75×
+|sanity mult ds=-0.75×
+|item ds={{Pic32|Abigail's Flower}}
+|start item ds={{Pic32|Abigail Flower Closed|Abigail's Flower}}
+|spawnCode ds="wendy"
+|image dst=Wendy Original_Portrait.png
+|nick dst=The Bereaved
+|motto dst="Abigail? Come back! I'm not done playing with you."
+|perk dst=Is haunted by her [[Abigail|twin sister]]<br>Feels comfortable in the dark<br>Dabbles in Ectoherbology<br>Doesn't hit very hard
+|health dst=150
+|hunger dst=150
+|sanity dst=200
+|damage dst=0.75×
+|sanity mult dst=-0.75×
+|item dst={{Pic32|Abigail's Flower DST}} {{pic32|Revenant Restorative}} {{pic32|Spectral Cure-All}} {{pic32|Unyielding Draught}} {{pic32|Distilled Vengeance}} {{pic32|Nightshade Nostrum}} {{pic32|Vigor Mortis}} {{pic32|Sisturn}}
+|start item dst={{Pic32|Abigail's Flower DST}}
+|bio=''Wendy is a morose young lady with a sisterly bond so powerful, it transcends death itself.''
+|birthday=November 11
+|survivability=Slim
+|favorite food={{pic32|Banana Pop}}
+|spawnCode dst="wendy"
+|links=[[Wendy quotes|Quotes]]<br/>[[Wendy clothes|Clothes]]
+|filter dst={{Pic32|Wendy Filter|Wendy Filter}}}}
+
+## {{Quote|Not all deaths are the same.|Wendy}}
+### '''Wendy Carter'''
+Wendy Carter is the third playable [[Character]] in ''[[Don't Starve]]'' that can be unlocked via [[Experience]], with 640 XP, and one of the playable Characters in ''[[Don't Starve Together]]'' (DST). Wendy has a morbid personality; she always relates everything (even herself) to [[death]] and how depressing life is.
+
+As part of the ''Don't Starve Together'' content updates, Wendy received a character refresh on March 19, 2020.<ref name="forumpost">[https://forums.kleientertainment.com/forums/topic/116359-wendys-character-refresh-is-coming-next-week/ Wendy's Character Refresh is Coming Next Week!] Posted on March 12, 2020.</ref>
+
+### ==={{pic32|Minimap Maxwell's Door}} Origin===
+{{Quote|Wendy clutches tightly to the memory of her twin sister, Abigail. Some days, it’s almost as if she never left…|Description from her introductory forum post}} <ref name="forumpost" />
+{{#ev:youtube|https://youtu.be/7ozRwX35fHE|alignment=left|dimensions=300}}
+
+A glimpse into Wendy and Abigail's pasts were shown in the animated short ''[[Animated shorts and trailers#Wish You Were Here|Wish You Were Here]]''. Wendy and Abigail Carter used to live near a cliff side overlooking the ocean. Under mysterious circumstances, Abigail died. As a result, Wendy became severely depressed. She started to dabble in spiritualism. The "Wendy's Nightstand" [[Vignettes|Vignette]] shows her diary, in which she related a strange dream where she could hear "the same song repeating over and over", thinking it was Abigail trying to communicate with her.
+
+This information is also summarized in her biography entry of DST's [[Compendium]]:
+
+''Wendy's tale of woe began with the untimely loss of her dear sister Abigail. Unable to accept the thought of life without her twin, Wendy began turning to the occult in the hopes of finding some way to communicate with the other side. After much trial and error, séance candles burned down to nubs and spirit boards thrown away in frustration, Wendy was nearly ready to give up and fall into despair... until finally, there was a sign. A ragtime tune might seem like a strange
+
+
+
+
+```markdown
+# {{Navbutton/Separation}}
+
+## Structure Infobox
+- **equipslot**: hands
+- **image**: Brush Dropped.png
+- **icon**: Brush.png
+- **description**: Relieve beefalo of their hair buildup.
+- **tier**: 2
+- **tab**: Tools
+- **filter**: {{Pic32|Tools Filter}} {{Pic32|Beefalo Riding Filter}}
+- **ingredient1**: Steel Wool
+  - **multiplier1**: 1
+- **ingredient2**: Walrus Tusk
+  - **multiplier2**: 1
+- **ingredient3**: Gold Nugget
+  - **multiplier3**: 2
+- **durability**: 75 uses<br>25 uses ([[Damage]])
+- **stack**: Does not stack
+- **spawnCode**: "brush"
+- **damage**: 27.2
+
+## Quotes
+- **wilson**: I bet the beefalo really like this.
+- **willow**: It smells like burnt hair.
+- **wolfgang**: For brush really strong hair!
+- **wendy**: Oh, to rid the world of fluff.
+- **wx78**: HAIR IS AN EXTRANEOUS ADDON
+- **wickerbottom**: Microscopic barbs allow for optimal hair retrieval.
+- **woodie**: You could debark a log with this thing.
+- **maxwell**: It's like showing affection, without actually touching it.
+- **wagstaff**: Theoretically, the brushing of an animal's fur will endear me to them.
+- **wigfrid**: Time för hair and makeup!
+- **webber**: It's more scratchy than anything.
+- **walani**: Brushing beefalo hair is so relaxing.
+- **warly**: For tidying unkempt beast hair.
+- **woodlegs**: Na' fer Woodleg's beard.
+- **warbucks**: I do wish I had one of these for my mustache.
+- **wilba**: 'TIS BRUSH FOR THE HAIRY BACK BEASTIES
+- **wormwood**: Soft
+- **wheeler**: Not my idea of a good hair brush but those beefalo seem to like it.
+- **winona**: Repetitive tasks are soothing.
+- **wortox**: Keeps imp chest tufts plush.
+- **wurt**: Hair so weird, flurp.
+- **walter**: Woby loves getting her fur brushed.
+- **wanda**: Caring for animals is so time consuming!
+- **choose**: maxwell
+
+The **Brush** is a craftable **Item** found in the **Tools Tab**. It requires 1 **Steel Wool**, 1 **Walrus Tusk** and 2 **Gold** to craft, and an **Alchemy Engine** to prototype. When used on a **Beefalo** one **Beefalo Wool** will be obtained, obedience level increased by 40% and domestication by 1.6% (domestication level only increases once per day).
+
+## {{pic32|Prototype}} Tips
+- The Brush can be used multiple times on the same Beefalo, but will only be beneficial the first time it is used per day. Thus, it should be used once per day on each Beefalo that is being tamed.
+- Using a **Deconstruction Staff** will give back all the materials, enabling the creation of endless brushes with only 1 required Steel Wool.
+
+## {{pic32|Placeholder}} Trivia
+- The Brush was first introduced to **Don't Starve Together**. It was later added to **Don't Starve** in the **Don't Starve/Version History|Quality of Life** update.
+- The Brush is considered to be part of **A New Reign**, even though it was introduced before the official start of the beta branch.
+
+## {{pic32|Blueprint}} Gallery
+<gallery captionalign="center" hideaddbutton="true">
+![Brush Equipped](Brush Equipped.png)
+![Wilson holding and standing next to a Brush](Brush weilded by Wilson Screenshot.jpg)
+</gallery>
+
+## Tools and Weapons
+{{Tools and Weapons}}
+|-|
+## Craftable Items
+{{Craftable Items|tool}}
+```
+
+
+
+
+```markdown
+# Cat Cap
+
+**Navbutton/Separation**
+
+**Exclusivity: Reign of Giants | Hamlet | Don't Starve Together**
+
+**Structure Infobox:**
+- equipslot: head
+- icon: Cat Cap.png
+- image: Cat Cap Dropped.png
+- repaired_by_sewing: 1
+- wearsOut: 10 days
+- stack: Does not stack
+- spawnCode: "catcoonhat"
+- ingredient1: Cat Tail
+- multiplier1: 1
+- ingredient2: Silk
+- multiplier2: 4
+- tab: Dress
+- perk: Restores sanity over time. Delays Freezing.
+- freezingResistance: 60
+- tier: 2
+- sanitydrain: +3.33/min
+- soldBy: Pic24: The Sow's Ear Hat Shop (Pic32: Oinc ×10)
+- description: For those who value warmth over friends.
+
+**Quotes:**
+- wilson: Ears hat!
+- willow: Cuddly hat.
+- wolfgang: Now Wolfgang not trust himself.
+- wendy: Nothing like the stench of death on my head.
+- wx78: FURRY HEAD COVERING
+- wickerbottom: Not quite like Crockett's, but it'll do.
+- woodie: The traditional garb of the woodsman.
+- maxwell: Dead head.
+- wagstaff: For something fashioned from spider webs it's remarkably unsticky.
+- wigfrid: A furry cap! Blessings tö yöu, cute meat.
+- webber: Hat of a cat.
+- walani: I can feel the spirits of catcoons that made it.
+- warly: Not quite my style.
+- woodlegs: Hope none o'me mates catch me in this gettup.
+- wilba: WILBA HAST KITTY FOR MINE HEAD
+- wormwood: Kitty thing for head
+- wheeler: It's like walking around with a cat on my head.
+- winona: Do I look like a fur trader?
+- wortox: It's a stripey horn concealer.
+- wurt: Ha ha, is hat now.
+- walter: Now this is a hat made for the wilderness!
+- wanda: Their sacrifice will keep me warm and alive.
+- choose: woodie
+
+The Cat Cap is a Category:Hats Item in the Don't Starve: Reign of Giants DLC. It is found in the Dress Tab, requires 1 Cat Tails and 4 Silk to craft and an Alchemy Engine to prototype. The Sewing Kit repairs 50% of its durability.
+
+Cat Caps restore 3.3 Sanity/min while worn and are tier 1 warm clothing items, increasing the time a character can be without a fire during the Winter before Freezing. They have an insulation factor of 60.
+
+Since Catcoons can easily go extinct on a map, and only drop their Cat Tails by chance, it is best to keep this Hat maintained with a Sewing Kit.
+
+**Downloadable Content:**
+Cat Caps are also included in the Don't Starve: Hamlet DLC, however, they cannot be crafted. Instead, they can be bought for 10 Oincs at The Sow's Ear Hat Shop in the Pig City.
+
+**Trivia:**
+- Since Catcoon is a portmanteau of "cat " and "raccoon", this item is most likely based on the real life Wikipedia:Coonskin_cap|Coonskin Cap, made most famous by the frontiersman Wikipedia:Davy_Crockett|Davy Crockett. Wickerbottom's quote references this by saying "Not quite like Crockett's, but it'll do."
+- Visually, the Cat Cap also resembles an Wikipedia:Ushanka|Ushanka Cap.
+- In older versions of Reign of Giants, the Cat Cap had resistance to wetness and was dropped outright by killing Catcoons.
+
+**Gallery:**
+<gallery widths="350" position="left" hideaddbutton="true">
+Cat Cap Equipped.png|Cat Cap Equipped
+Cat Cap Wilson.png|Wilson wearing a Cat Cap.
+Cat Cap Willow.png|Willow wearing a Cat Cap.
+Cat Cap Wolfgang.png|Wolfgang wearing a Cat Cap.
+Cat Cap Wendy.png|Wendy wearing a Cat Cap.
+Cat Cap WX-78.png|WX-78 wearing a Cat Cap.
+Cat Cap Wickerbottom.png|Wickerbottom wearing a Cat Cap.
+Cat Cap Woodie.png|Woodie wearing a Cat Cap.
+Cat Cap Wes.png|Wes wearing a Cat Cap.
+Cat Cap Maxwell.png|Maxwell (character) wearing a Cat Cap.
+Cat Cap Wigfrid.png|Wigfrid wearing a Cat Cap.
+Cat Cap Webber.png|Webber wearing a Cat Cap.
+Cat Cap Walani.png|Walani wearing a Cat Cap.
+Cat Cap Warly.png|War
+
+
+
+
+```markdown
+# Incomplete: it needs Hamlet and DST new character info
+
+![HungerMeter](HungerMeter.png)
+
+| Character | Quote |
+|-----------|-------|
+| Wilson | I'm so hungry! |
+| Willow | I need food! |
+| Wolfgang | My mighty belly is empty! |
+| Wendy | I am full of emptiness. |
+| WX78 | FUEL RESERVES LOW |
+| Wickerbottom | Librarian needs food. |
+| Woodie | I'm getting peckish. |
+| Maxwell | I am empty inside. |
+| Wagstaff | I'm so hungry my cognitive abilities are failing! |
+| Wigfrid | Höw I löng för a feast! |
+| Webber | It's time for a snack! |
+| Walani | I'm crashing like a sick wave! Gimme food! |
+| Warly | I need food... |
+| Woodlegs | I be hungry... |
+| Wilba | WILBA BELLY 'TIS GRUMBLY |
+| Wormwood | Need stuff for belly |
+| Wheeler | When was the last time I ate? |
+| Winona | When's lunch? |
+| Wortox | Oh no, I'm hungry again. |
+| Wurt | Want food! |
+| Walter | Can we stop for a snack break? |
+| Wanda | How long has it been since I last ate? |
+| Choose | Wilson |
+
+## Hunger
+
+Hunger is one of the primary game mechanics, as it's the measurement which determines whether or not the character is starving. As a character gets hungrier, this meter will empty, and the stomach pictured will shrivel.
+
+The default maximum hunger for characters is measured at 150, though many characters have different maximum hunger amounts:
+
+- Wolfgang (300) (200)
+- WX-78 (100-200) (125-200)
+- Wes (113) (75)
+- Wagstaff (225)
+- Wigfrid (120)
+- Webber (175)
+- Walani (200)
+- Warly (250)
+- Wilbur (175)
+- Wilba (200)
+- Wortox (175)
+- Wurt (200-250)
+- Walter (110)
+- Wanda (175)
+
+Hunger drains at 9.375 points per minute or 75 points per game day, except for: 
+
+- Walani, drain hunger 10% faster (10.3125 or 82.5)
+- Warly, drain hunger 33% faster (11.25 or 99.75)
+- Wilbur, drain hunger 33% faster (11.25 or 99.75) only when running on all fours
+- Warly, drain hunger 20% faster (11.25 or 90)
+- Wes (singleplayer only), drain hunger 25% faster (12.46875 or 93.75)
+- Wormwood, drain hunger 0%, 33%, 66%, 100% faster (9.375, 11.25, 15.5625, 18.75 or 75, 99.75, 124.6, 150)
+- Wormwood, drain hunger 0%, 6%, 13%, 20% faster (9.375, 9.9375, 10.59375, 11.25 or 75, 79.5, 84.75, 90)
+- Wolfgang (singleplayer only), drain hunger from 0 to 200% faster (from 9.375 to 28.125 or from 75 to 225)
+- Wilba in her Werepig form, drain hunger 400% faster (46.875 or 375)
+
+Hunger drain can also be slowed or accelerated:
+
+- To 60% of base rate by equipping a Belt of Hunger
+- To 75% of base rate by wearing the Hibernation Vest
+- To 80% of base rate by poisoning
+- To 75% of base rate by equipping Funcap
+- If a Slurper jumps onto the player it will start draining 3 points of hunger every 2 seconds and keep doing so, until it's detached from the head slot.
+- Walter loses only half the normal hunger when Sleeping.
+- Winona will drain 5 hunger when she speed-crafts something.
+- Wolfgang has faster hunger drain when using the Mighty Gym.
+- WX-78 has 20% slower hunger drain when using the Super-Gastrogain Circuit.
+
+![Wilson hungry](Wilson_hungry.png)
+
+When the Hunger meter is emptied, Health will begin to drain at 1.25 points per second until something is eaten or the character dies. Most food will restore the Hunger meter when eaten. The amount restored depends on the food eaten; cooked food typically restores more than raw food. Some
+
+
+
+
+```markdown
+# Mobs
+
+Mobs, or "Mobiles", are game entities which move around, technically creatures including Monsters and Animals. The term has been a part of video game jargon since 1978; it's not unique to Don't Starve.
+
+Every Mob has its own unique behaviors, movements, attacks, drops, and uses. As such, learning the characteristics of each and every Mob becomes important to survival, done either through direct study and interaction or through external research.
+
+Many mobs can be put to sleep by the pan flute and other features in the game.
+
+## Classification
+
+### Hostile Mobs
+Hostile Mobs are always aggressive. These mobs attack anything nearby which they deem threatening.
+
+### Neutral Mobs
+Neutral Mobs are non-aggressive until provoked. Their threat is very often getting attacked, but it might be just about anything except proximity.
+
+### Passive Mobs
+Passive Mobs are always non-aggressive, even when attacked. These mobs will typically avoid the player, but exceptions exist.
+
+These relationships are classified with regards to each others. A Mob which is hostile/neutral/passive towards all other Mobs is a true hostile/neutral/passive Mob.
+
+For monstrous player characters (Webber and Wortox) some mobs are categorized differently. Bunnymen, Pigs and Catcoons will be hostile to them since these mobs attack monsters on sight, though Spiders will be neutral to Webber. Pigs will also be hostile to Wurt due to her being a Merm, but Bunnymen and Catcoons will be neutral.
+
+## Characteristics
+
+### Health (HP)
+Health is measured in "Hit Points" (HP), an arbitrary unit invented to coordinate with damage.
+Each hit taken from the player decreases its health by:
+- attack damage * character damage multiplier
+The number of hits required to kill a Mob is:
+- Hits = mob health / attack damage
+
+### Damage (DMG)
+Damage is a subtraction of health from a Mob, measured in HP.
+A hit against any Mob deals:
+- attack damage = base attack damage / mob's armor
+
+### Attack Period (AP)
+The time from the start of one attack to the start of the next one, here measured in seconds.
+A Mob's damage per second (or DPS) is calculated by either of the following
+- DPS = total damage done / time taken
+- DPS = attack damage / attack period
+
+### Attack Range (AR)
+The distance an attack can hit a target from, here measured in "units" which are equal to the horizontal thickness of a Wall, with the diagonal thickness of a Wall being √2 units.
+
+### Sanity Aura (SA)
+The amount of sanity a player gains or loses per minute when standing near the Mob.
+
+### Walk Speed (WS) and Run Speed (RS)
+Walk Speed is a mob's speed while idly wandering the world, and Run Speed is a mob's speed while either engaged in combat or fleeing. They are measured in units per second. The default Run Speed of most characters is 6.
+
+The speed is affected by the mob's scaled size (determined by looking for inst.Transform:SetScale(X, X, X) in the mob's lua file), so the in-game speed is calculated as:
+- WS/RS = speed * scale value
+
+## Mobs
+[Mobs/Table]
+
+## Mob Interactions
+[Mob Chart]
+This chart details the outcome of hostility if one mob is to meet another, the left vertical side of the column are the "spotters", and the straight horizontal side are the "spotted". When a Spotter meets a Spotted, the interactions are detailed. Special thanks to Spazmatic on the Don't Starve Forums for providing the graph.
+
+A Spreadsheet Table can be found here: [The Aggro Table](https://docs.google.com/spreadsheet/ccc?key=0AktErFcEFQVtdHpjWGE4Mi1IelFPellqc2poZlZQY3c#gid=0)
+
+[Mobs]
+```

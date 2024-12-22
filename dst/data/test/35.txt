@@ -1,0 +1,50 @@
+```markdown
+# {{Navbutton/Character}}
+
+## {{Character Infobox
+|image ds=Wendy.png
+|nick ds=The Bereaved
+|motto ds="Abigail? Come back! I'm not done playing with you."
+|perk ds=Haunted by her [[Abigail|twin sister]]<br>Comfortable with darkness<br>Doesn't hit very hard
+|health ds=150
+|hunger ds=150
+|sanity ds=200
+|damage ds=0.75×
+|sanity mult ds=-0.75×
+|item ds={{Pic32|Abigail's Flower}}
+|start item ds={{Pic32|Abigail Flower Closed|Abigail's Flower}}
+|spawnCode ds="wendy"
+|image dst=Wendy Original_Portrait.png
+|nick dst=The Bereaved
+|motto dst="Abigail? Come back! I'm not done playing with you."
+|perk dst=Is haunted by her [[Abigail|twin sister]]<br>Feels comfortable in the dark<br>Dabbles in Ectoherbology<br>Doesn't hit very hard
+|health dst=150
+|hunger dst=150
+|sanity dst=200
+|damage dst=0.75×
+|sanity mult dst=-0.75×
+|item dst={{Pic32|Abigail's Flower DST}} {{pic32|Revenant Restorative}} {{pic32|Spectral Cure-All}} {{pic32|Unyielding Draught}} {{pic32|Distilled Vengeance}} {{pic32|Nightshade Nostrum}} {{pic32|Vigor Mortis}} {{pic32|Sisturn}}
+|start item dst={{Pic32|Abigail's Flower DST}}
+|bio=''Wendy is a morose young lady with a sisterly bond so powerful, it transcends death itself.''
+|birthday=November 11
+|survivability=Slim
+|favorite food={{pic32|Banana Pop}}
+|spawnCode dst="wendy"
+|links=[[Wendy quotes|Quotes]]<br/>[[Wendy clothes|Clothes]]
+|filter dst={{Pic32|Wendy Filter|Wendy Filter}}}}
+
+## {{Quote|Not all deaths are the same.|Wendy}}
+### '''Wendy Carter'''
+Wendy Carter is the third playable [[Character]] in ''[[Don't Starve]]'' that can be unlocked via [[Experience]], with 640 XP, and one of the playable Characters in ''[[Don't Starve Together]]'' (DST). Wendy has a morbid personality; she always relates everything (even herself) to [[death]] and how depressing life is.
+
+As part of the ''Don't Starve Together'' content updates, Wendy received a character refresh on March 19, 2020.<ref name="forumpost">[https://forums.kleientertainment.com/forums/topic/116359-wendys-character-refresh-is-coming-next-week/ Wendy's Character Refresh is Coming Next Week!] Posted on March 12, 2020.</ref>
+
+### ==={{pic32|Minimap Maxwell's Door}} Origin===
+{{Quote|Wendy clutches tightly to the memory of her twin sister, Abigail. Some days, it’s almost as if she never left…|Description from her introductory forum post}} <ref name="forumpost" />
+{{#ev:youtube|https://youtu.be/7ozRwX35fHE|alignment=left|dimensions=300}}
+
+A glimpse into Wendy and Abigail's pasts were shown in the animated short ''[[Animated shorts and trailers#Wish You Were Here|Wish You Were Here]]''. Wendy and Abigail Carter used to live near a cliff side overlooking the ocean. Under mysterious circumstances, Abigail died. As a result, Wendy became severely depressed. She started to dabble in spiritualism. The "Wendy's Nightstand" [[Vignettes|Vignette]] shows her diary, in which she related a strange dream where she could hear "the same song repeating over and over", thinking it was Abigail trying to communicate with her.
+
+This information is also summarized in her biography entry of DST's [[Compendium]]:
+
+''Wendy's tale of woe began with the untimely loss of her dear sister Abigail. Unable to accept the thought of life without her twin, Wendy began turning to the occult in the hopes of finding some way to communicate with the other side. After much trial and error, séance candles burned down to nubs and spirit boards thrown away in frustration, Wendy was nearly ready to give up and fall into despair... until finally, there was a sign. A ragtime tune might seem like a strange

@@ -1,0 +1,38 @@
+```markdown
+<center>
+| style="position:relative;"
+[Navbutton|link=Damage|text=Don't Starve]
+[Navbutton|link=Damage/DST|text=DST]
+|</center>
+## Combat
+
+Combat is a Gameplay mechanism components allow Players or Mobs fight each other and reduces the health of each other.
+
+### Damage Modifiers
+
+Damage Multiplier is the most common Damage Modifier, although they are internally divided into many categories, they are not considered necessary because they are multiplicative calculations and have the same effective scope.
+
+### Physical Damage
+
+#### Definition
+
+Physical Damage is the most common type of damage in the game, and its main feature is that it is absorbed by Armor's Protection.
+
+#### Example:
+
+Attack damage of a [Spider Queen] to a character equipped with a [Grass Suit] and a [Football Helmet] will be distributed as follows:
+
+- 60% ＜ 80%
+- 80 × 80% = 64 physical damage is absorbed by two armor
+  - 64 × 60%/(80%+60%) ≈ 28 is absorbed by [Grass Suit]
+  - 64 × 80%/(80%+60%) ≈ 37 is absorbed by [Football Helmet]
+- (80 - 64) = 16 damage is taken by the character's [hp]     *(This is not the final health change, but multiplied by the damage reduction.)*
+
+If it's caused by Mobs or Characters, it's affected by the all kind of Damage Modifiers they have.
+
+Physical Damage also can be reduced by [Damage Reduction] like all kind of damage.
+
+### Gameplay
+
+[Planar Damage]
+```

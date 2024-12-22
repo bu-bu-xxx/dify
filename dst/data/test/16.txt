@@ -1,0 +1,71 @@
+```markdown
+{{Incomplete|it needs Return of Them info}}[[File:Sanity Meter.png|thumb]]
+
+{{See also|Enlightenment}}
+
+{{Quote|I get crazy when I don't sleep.|Wilson}}
+'''Sanity''' is the [[Characters|Character]]'s "mental health" in ''[[Don't Starve]]''. The {{sanity}} Sanity icon, represented as a picture of a brain, is located near the character's {{hp}} Health and {{hunger}} Hunger. Characters can gain and lose sanity in various ways. A small animated arrow appears over the {{sanity}} icon, indicating an increase or decrease in Sanity. The size of the arrow signifies the rate of gain or loss.
+
+As sanity decreases, the player's vision becomes shaky, over-saturated, and bright, whispers are heard, and [[Shadow Creature]]s start to appear. These creatures become "physical" and aggressive and will attack the player when their sanity is below 15%. When sanity is low, the player's character covers their ears and closes their eyes while rocking back and forth, as if experiencing a bad headache.
+
+Being alone in the wilderness will take its toll. Generally speaking, being in close proximity to [[Monsters]], [[Darkness]], [[Rain]], eating bad or raw [[Food]], or using various magic items decreases sanity; while wearing certain [[Dress|clothing]], eating [[Jerky]] and [[Crock Pot]] food, being near friendly [[Pigs]], and [[sleeping]] increases sanity. See the Sanity Tables below for a complete list.
+
+== Insanity Effects ==
+[[File:Complete Insanity.png|thumb|399px|The screen when at 0 sanity with distortion off.]]
+
+{{sanity}} ≤ 80%
+* [[Mr. Skitts]] will appear.
+
+{{sanity}} ≤ 75%
+* [[Shadow Creature#Night Hand|Night Hands]] appear at night.
+* The screen starts shaking.
+* Color desaturation begins.
+
+{{sanity}} ≤ 60%
+* Eyes appear in the darkness.
+* The screen starts getting distorted.
+* Lighting is desaturated in the [[Surface World]] and [[Caves]]. Lighting brightens in the [[Ruins]].
+* Willow begins lighting fires. ([[File:Don't Starve icon.png|24px|link=Don't Starve]])
+
+{{sanity}} ≤ 50% 
+*[[Shadow Creature#Crawling Horror|Crawling Horrors]] are visible.
+*[[Shadow Creature#Shadow Watcher|Shadow Watchers]] appears.
+*Insanity ambiance becomes audible.
+*When inactive survivors begin shaking with their head in their hands.
+
+{{sanity}} ≤ 45% 
+*Whispering can be heard.
+
+{{sanity}} ≤ 40% 
+*[[Rabbit]]s transform into Beardlings.
+*[[Bunnymen]] transform into Beardlords.
+
+{{sanity}} ≤ 15% for effects to appear and ≥ 17.5% to disappear
+*The screen is surrounded by red tendrils.
+*Present [[Crawling Horror]]s and [[Terrorbeak]]s will attack.
+*Up to one Crawling Horror spawns at a time.
+*The "night to day" transition jingle becomes warped.
+
+{{sanity}} ≤ 10%
+*Terrorbeaks spawn.
+* Up to two Crawling Horrors or Terrorbeaks spawn at a time.
+*The screen becomes even more distorted.
+
+==Instant Sanity Table==
+{| class="wikitable sortable" style="font-weight: bold; color: black"
+! Action
+!Sanity
+|- style="background: #C9FFC9"
+|• Eating {{pic32|Magic Water}} ({{pic24|Hamlet icon}})
+| style="text-align:center;" | +150
+|- style="background: #C9FFC9"
+|• Resurrecting a [[Ghost Characters|Ghost Player]] ([[File:Don't Starve Together icon.png|24px|link=Don't Starve Together]])
+| style="text-align:center;" | +80
+|- style="background: #C9FFC9"
+|• Sleeping in a {{pic32|Tent}} {{Pic32|Siesta Lean-to}}<br />
+• Eating {{pic32|Ice Cream}} {{pic32|Brainy Matter}} {{pic32|Lobster Dinner}} {{pic32|Jelly Salad}}<br />
+• Eating {{pic32|Gears}} as {{pic32|WX-78 Portrait|WX-78}}
+| style="text-align:center;" | +50
+|- style="background: #C9FFC9"
+|• Sleeping on a [[File:Straw Roll.png|32px|link=Straw Roll]] [[File:Fur Roll.png|32px|link=Fur Roll]]<br />
+• Killing a [[File:Terror

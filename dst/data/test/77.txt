@@ -1,0 +1,64 @@
+```markdown
+# Wolfgang
+
+## Navbutton/Character
+
+### Character Infobox
+- **Image DS**: Wolfgang.png
+- **Nick DS**: The Strongman
+- **Motto DS**: "I am mighty! No one is mightier!"
+- **Perk DS**: Gets stronger with a full [[Hunger|belly]]<br>Is afraid of the [[Night|dark]] and [[monster]]s
+- **Health DS**: 150 to 300
+- **Hunger DS**: 300
+- **Sanity DS**: 200
+- **Damage DS**: 0.5× to 2×
+- **Hunger Mult DS**: -1× to -3×
+- **Sanity Mult DS**: -1.1×
+- **SpawnCode DS**: "wolfgang"
+- **Image DST**: Wolfgang_Original Portrait.png
+- **Nick DST**: The Strongman
+- **Motto DST**: "I am mighty! No one is mightier!"
+- **Perk DST**: Needs to work out to become mighty<br>Becomes wimpy over time<br>Burns a lot of calories<br>Is afraid of [[monster]]s and the [[Night|dark]]
+- **Health DST**: 200
+- **Hunger DST**: 200
+- **Sanity DST**: 200
+- **Damage DST**: 0.75×, 1× or 2×
+- **Hunger Mult DST**: -0.75× to -1×
+- **Sanity Mult DST**: -1.25× to -1.1×
+- **Item DST**: {{Pic32|Dumbbell}} {{Pic32|Golden Dumbbell}} {{Pic32|Gembell}} {{Pic32|Marbell}}
+- **Start Item DST**: {{Pic32|Dumbbell}}
+- **Bio**: "Wolfgang is an affable, musclebound giant with a heart plagued by a myriad of phobias."
+- **Birthday**: October 2
+- **Survivability**: Grim
+- **Favorite Food**: {{pic32|Roast Potato}}
+- **SpawnCode DST**: "wolfgang"
+- **Links**: [[Wolfgang quotes|Quotes]]<br/>[[Wolfgang clothes|Clothes]]
+- **Filter DST**: {{Pic32|Wolfgang Filter|Wolfgang Filter}}
+
+## Quote
+"Mind says no. Muscles say yes!" - Wolfgang
+
+### Origin
+Wolfgang is the second playable [[character|Character]] in ''[[Don't Starve]]'' that can be unlocked via [[Experience]], with 320 XP, and one of the playable Characters in ''[[Don't Starve Together]]'' ({{Pic24|Don't Starve Together icon}}). He is a simple-minded [[wikipedia:Strongman_(strength_athlete)|Strongman]] who is very boastful about his might.
+
+### Trivia
+- In-Game
+  - Wolfgang was added on [[Don't Starve/Version_History#October 2, 2012 - Update|October 2nd, 2012]] when the game was still in Beta.
+  - Wolfgang's previous perk, before the ''[[Don't Starve/Version_History#July 2nd, 2013 - Strange New Powers|Strange New Powers]]'' update, was 75 more Health and Hunger (maximum of 225 each), and a 1.5× damage multiplier, similar to his current Mighty Form.
+  - Wolfgang's voice is played by a tuba, which changes in pitch depending on his current form.
+- Lore
+  - Wolfgang was a strongman working in a circus.
+  - It is implied that Wolfgang was also in a military.
+
+### Cultural References
+- Wolfgang's rather unusual [[Wolfgang quotes|quotes]] may be a reference to the phrase "brains over brawn," in that he has only the latter.
+- Wolfgang's eating mechanics may be a reference to strongman training diets which entail eating 10,000 calories a day.
+
+## References
+<references />
+
+## Categories
+- [[Category:Apparel]]
+- [[Category:Characters]]
+- [[zh:沃尔夫冈]]
+```

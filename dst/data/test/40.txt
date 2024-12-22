@@ -1,0 +1,82 @@
+```markdown
+# Bean Bugs
+
+**Exclusivity:** Hamlet
+
+## Structure Infobox
+- **Food Value:** ![Bugs](Bugs.png) × 1
+- **Food Type:** [Veggie](Veggie)
+  ![Veggie](Veggie.png)
+- **Can Be Burned:** 1
+- **Icon:** Bean Bugs.png
+- **Image:** Bean Bugs Dropped.png
+- **HP Restored:** 0
+- **Hunger Restored:** 9.375
+- **Sanity Restored:** -10
+- **Spoil:** 40 days
+- **Stack:** 40
+- **Spawn Code:** "jellybug"
+
+## Quotes
+- **Wilson:** Beans. With legs.
+- **Willow:** Eww. That does not look appetizing.
+- **Wolfgang:** Is look like food with legs.
+- **Wendy:** Your life is as insignificant as mine.
+- **WX-78:** NATURE IS ANOMALOUS
+- **Wickerbottom:** Goodness! A walking Fabaceae!
+- **Woodie:** That's a funny little guy.
+- **Maxwell:** Excitable little creatures, aren't they?
+- **Wagstaff:** These would most certainly cause intestinal distress.
+- **Wigfrid:** Föur legged fööd.
+- **Webber:** These guys look neat!
+- **Walani:** You sure do have a lot of energy.
+- **Warly:** Jumping jelly beans!
+- **Woodlegs:** Avast ye, jumpin' beans!
+- **Wilba:** MOST FOUL, STRANGE, AND UNNATURAL
+- **Wormwood:** Jumpies
+- **Wheeler:** Bugs or beans or something in between?
+- **Choose:** Maxwell
+
+**Bean Bugs** are a **Food** **Item** exclusive to the **Don't Starve: Hamlet** DLC. They can be found under **Stone Slabs**. Eating them raw or cooked will restore **Hunger**, but at the cost of **Sanity** loss.
+
+Cooking three Bean Bugs and any **Meats** in the **Crock Pot** makes **Feijoada**.
+
+**Webber** and **Wilba** can eat Bean Bugs without the Sanity Penalty. Wilba will turn into a **Werepig** after eating two Bean Bugs.
+
+## Cooked Bean Bugs
+### Structure Infobox
+- **Food Value:** ![Bugs](Bugs.png) × 1
+- **Food Type:** [Veggie](Veggie)
+  ![Veggie](Veggie.png)
+- **Can Be Burned:** 1
+- **Name:** Cooked Bean Bugs
+- **Icon:** Cooked Bean Bugs.png
+- **Image:** Cooked Bean Bugs Dropped.png
+- **HP Restored:** 1
+- **Hunger Restored:** 12.5
+- **Sanity Restored:** -5
+- **Spoil:** 10 days
+- **Stack:** 40
+- **Spawn Code:** "jellybug_cooked"
+
+### Quotes
+- **Wilson:** I'm sure it tastes better than it looks.
+- **Willow:** Still gross!
+- **Wolfgang:** Wolfgang eat anything!
+- **Wendy:** Best case scenerio: it kills me.
+- **WX-78:** CONTAINS ENERGY BUT AT WHAT COST?
+- **Wickerbottom:** I'm sure it contains plenty of protein.
+- **Woodie:** It's no Maple Baked Beans.
+- **Maxwell:** Am I really this desperate for food?
+- **Wagstaff:** Slightly more edible now.
+- **Wigfrid:** Meat!
+- **Webber:** Sorry little guys.
+- **Walani:** I'm not sure I should eat those.
+- **Warly:** Ugh. Does not look appetizing.
+- **Woodlegs:** The virtue of this meat be dubious.
+- **Wilba:** FWOOSH'DED JUMPY BUG
+- **Wormwood:** Why not jumping?
+- **Wheeler:** How adventurous am I feeling today?
+- **Choose:** Wormwood
+
+**Cooked Bean Bugs** are a **Food** item made by **Cooking** Bean Bugs on a **Campfire**, **Fire Pit**, or other viable source of fire. Much like its counterpart the **Gummy Slug**, it is not a practical food item to cook and eat as it takes a significant amount of its superior spoil

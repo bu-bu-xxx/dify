@@ -1,0 +1,97 @@
+```markdown
+# Football Helmet
+
+- **Navbutton**: Don't Starve
+- **Navbutton**: DST
+
+## Structure Infobox
+
+- **equipslot**: head
+- **icon**: Football Helmet.png
+- **image**: Football Helmet Dropped.png
+- **tier**: 2
+- **tab**: Fight
+- **ingredient1**: Pig Skin
+- **multiplier1**: 1
+- **ingredient2**: Rope
+- **multiplier2**: 1
+- **durability**: 450 hp
+- **stack**: Does not stack
+- **spawnCode**: footballhat
+- **droppedBy**: Ornate Chest
+- **waterResistance**: 20%
+- **description**: Protect your braincase.
+- **protection**: 80%
+
+## Quotes
+
+- **Wilson**: I don't like sports.
+- **Willow**: Sports are hard.
+- **Wolfgang**: It protects my head!
+- **Wendy**: A dead thing for me to wear. Goody.
+- **WX-78**: PADDING FOR MY PROCESSING UNIT
+- **Wickerbottom**: Protective gear for full-contact endeavors.
+- **Woodie**: Will this give me hockey hair?
+- **Maxwell**: Now I am ready for the scrimmage.
+- **Wagstaff**: Has oddly large protective qualities given its considerable softness.
+- **Wigfrid**: A pig's bottom made my helmet.
+- **Webber**: We could be good at football, much better than I was!
+- **Walani**: I feel like I could tackle anything.
+- **Warly**: Made from pork, to protect my melon.
+- **Woodlegs**: Keeps me melon safe.
+- **Wilba**: WILBA WEAR'ST PIG BUTT
+- **Wormwood**: Twirly Tail hat.
+- **Wheeler**: Perfect for ramming things with my head.
+- **Winona**: Gotta protect the assets.
+- **Wortox**: I hope I don't get helmet horns.
+- **Wurt**: Made from hide of enemies, florp.
+- **Walter**: Oh, football! Yeah I'm uh... great at football...
+- **Wanda**: I don't want my brain scrambled, I'm forgetful enough as it is.
+- **Choose**: woodie
+
+The Football Helmet is a wearable Armor, crafted in the Fight tab. It requires 1 Pig Skin and 1 Rope to craft, and an Alchemy Engine to prototype.
+
+It has a Durability of 450 and absorbs 80% of all physical damage. Not factoring the armor's durability, the Football Helmet effectively increases a player's hp to 750 for the average 150 hp survivor.
+
+The Football Helmet can be given to a Pig or Bunnyman to wear to increase their HP by 450.
+
+The Football Helmet may also be found in an Ornate Chest, which spawns in the Ruins.
+
+## Downloadable Content
+
+In the Reign of Giants, Shipwrecked and Hamlet DLCs, the Football Helmet provides 20% Wetness resistance.
+
+In the Hamlet DLC, the Football Helmet is used to craft the Mant Mask.
+
+## Usage
+
+Recipe:
+- item2: Chitin
+- count2: 5
+- item1: Football Helmet
+- count1: 1
+- result: Mant Mask
+- tool: Science Machine
+- dlc: Hamlet
+
+## Tips
+
+The Football Helmet is valuable, as it keeps the player protected without losing the Body slot for items such as a Backpack or an Insulated Pack so the player can be more efficient in collecting resources while staying safe. It is recommended to keep at least 1 Football Helmet with you just in case of a potential ambush.
+
+## Trivia
+
+- The Football Helmet was added in the The Birds and the Bees & Dogs That Want to Kill You update.
+- In American football, the football was once made out of animal leather and called a "pigskin".
+
+## Gallery
+
+(Gallery images and descriptions)
+
+## Tools and Weapons
+
+(Tools and Weapons)
+
+## Craftable Items
+
+(Craftable Items|tool)
+```

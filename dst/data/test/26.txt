@@ -1,0 +1,51 @@
+```markdown
+# Durability
+
+Durability is a game-concept which limits the amount of usage an item or structure has. It generally applies to items which can be equipped, however there are some other items such as the [Sewing Kit] or [Pan Flute] which also have it. An item with durability can be identified by a percentage number in front of its inventory graphic. For example, an [Axe] will have a 100% over its icon when first created, and this number will change as the Axe is used. Different items use durability in different ways:
+
+## Tools
+
+[Tools] lose durability whenever they are used for their specific actions and in the same way as [weapons] do when attacking something. The 3 most common Tools ([Axe], [Pickaxe], and [Shovel]) also have special versions with a much higher durability ([Luxury Axe], [Opulent Pickaxe], and [Regal Shovel] respectively).
+
+| Name | # of Uses | Special |
+|------|-----------|---------|
+| ![Axe] | 100 | Chops down [Evergreen|trees]. |
+| ![Luxury Axe] | 400 | Chops down trees. |
+| ![Pickaxe] | 33 | Mines [[:Category:Mineable Objects|mineable objects]]. |
+| ![Opulent Pickaxe] | 132 | Mines mineable objects. |
+| ![Shovel] | 25 | Digs up [[plants]]. |
+| ![Regal Shovel] | 100 | Digs up plants. |
+| ![Pitchfork] | 200 | Digs up [[turfs]]. |
+| ![Hammer] | 75 | Deconstructs [[structures]]. |
+| ![Sewing Kit] | 5 | Fixes up degraded clothing. |
+| ![PickSlashAxe|Pick/Axe] | 400 as Axe (and weapon), 134 as Pickaxe | Chops trees and mines mineable objects. |
+| ![Beefalo Horn] | 10 | Makes up to 5 [Beefalo] follow the player. |
+
+## Survival items
+
+[Survival] items lose durability when used by the player or when triggered by mobs. Some of them can be used as weapons but will lose durability much faster.
+
+| Name | # of Uses | Special |
+|------|-----------|---------|
+| ![Bird Trap] | 8 | Captures [[Birds]]. |
+| ![Trap] | 8 | Captures [[rabbit]]s and other small animals. |
+| ![Fur Roll] | 3 | Restores [[sanity]] and [[health]] at the expense of [[hunger]]. |
+| ![Tent] | 6 | Restores sanity and health at the expense of hunger. |
+| ![Umbrella] | 20 (Only when attacking) | Prevents [[sanity]] loss from [[rain]]. |
+| ![Bug Net] | 10 (4 when attacking) | Catches insects. |
+| ![Fishing Rod] | 9 (3 when attacking) | Captures fish and eels in [[pond]]s. |
+| ![Basic Farm] | 20 | Grows [[seeds]]. |
+| ![Improved Farm] | 30 | Grows seeds faster. |
+
+## Weapons
+
+[Weapons] use Durability to determine the number of times they can hit something before breaking. A [Spear] for example losses 0.66% of its durability each time it is used to attack something, allowing it to be used 150 times. Each weapon has a different number of uses.
+
+## Protection
+
+Protective items include [Armor]s and [Walls]. Armors are items worn by the player. Armor's durability functions like extra [[Health]] for the character wearing it. Each type of Armor ([[Grass Suit]], [[Log Suit]], or [[Marble Suit]]) can absorb a certain amount of damage before breaking (225, 450, and 1050 respectively). When a character is hit, the armor takes a percentage of the total damage and the characters health takes the remainder. The number show on the armor's inventory icon is not actually the amount of damage it can still absorb, but the percentage of its own starting health (for example if a Grass Suit shows it has 50% durability left, it can still absorb 112 damage before breaking). Walls can be placed to protect or limit access to an area from other mobs. They can be attacked and destroyed, but can be repaired and even upgraded to last longer. [[Stone Wall]]s and [[Thulecite Wall]]s are the only non-flammable walls.
+
+| Name | % Absorbed | Durability | Special |
+|------|------------|-----------|---------|
+| ![Hay Wall] | 100% | 50-100 | Flammable. |
+| ![Wood Wall] | 100%

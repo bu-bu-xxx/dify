@@ -1,0 +1,51 @@
+```markdown
+# Lures in Don't Starve Together
+
+Lures are **Items** exclusive to **Don't Starve Together**, introduced in **Return of Them**. They are placed in the lure slot of the **Sea Fishing Rod** to improve its attractiveness to **Ocean Fishes**. Different lures have different effects over various species of fishes as some might be completely ineffective in attracting them while others might be best suited for certain fishes. Some lures are simple baits such as seeds, rot, and berries while others are spoons and spinners that can be crafted in the **Fishing Filter** which is be accessed through the **Tackle Receptacle**. 
+
+The **Bent Spork** trinket can also be used as a lure.
+
+## Usage
+The hook of the Sea Fishing Rod is already able to catch every saltwater fish by itself without a lure placed in the lure slot but it is rather ineffective in this regard, with a low chance of a fish biting it. Adding any other lure greatly increases the chance of fishes biting the hook, although some fishes cannot be lured by certain lures while most are very effective for catching certain fishes. Additionally lures also affect the radius and range of the Sea Fishing Rod.  
+
+- The **radius** refers to the maximal distance for an Ocean Fish to be attracted by the lure. Bigger the radius is, more fishes around the float are lured into the bait.
+- The **range bonus** is a bonus to the **Sea Fishing Rod** casting range. Some lures offer a small bonus to this casting distance.
+- The **attractiveness** quantifies the speed at which fishes bite the lure; the higher the value, the faster the fish bite. The lure can gain an attractiveness **reel bonus** if the player reel the line. The bonus decays in 2 seconds.
+
+**Rot**, **Seeds**, and **Crop Seeds**, **Berries** and **Juicy Berries** are single use only, as catching a fish will end up consuming the said lure. The attractiveness of Seeds and Berries also depends proportionally on their freshness.
+
+The craftable lures and the **Bent Spork**, on the other hand, will retain themselves as long as they aren't lost through a failed reeling. When a fish manages to get away after biting the lure, the lure that was used to attract the fish is lost along with the float that was used.
+
+The **Sunrise**, **Dusky**, and **Nightflyer** lures are only 100% effective during **Day-Night Cycle** respectively, and they retain only 30% of their attraction outside of their relevant time of the day.
+
+The attraction of all lures is reduced by 50% during **Rain** or **Winter#Snow**. Exceptions to this are the **Rainy Day Lure** which is 100% effective during rain and 0% otherwise, and the **Snow Day Lure** which is 100% effective during snow and 0% otherwise.
+
+The **Stupefying Lure** drains the fish's stamina more quickly, making it easier to catch the fish once it has taken the bait.
+
+The **Heavy Weighted Lure** attracts only fish that weigh more than 80% of the maximum weight for their type.
+
+Each species of **Ocean Fishes** have an affinity for different Lures. The affinity modifies the perceived attractiveness.
+
+| Lures / Bait | Radius | Range Bonus | Attractiveness | Idle | Reel bonus |
+| --- | --- | --- | --- | --- | --- |
+| None | 1 |  | 0.1 | +0 | 0.25 |
+| ... | ... | ... | ... | ... | ... |
+
+## Craftable Lures
+### Spoons and Spinnerbaits
+The **Spoons** and the **Spinnerbaits** exert their effects depending on the **Day-Night Cycle**. They provide 100% of the efficacy when they are in the correct period in the cycle, and 30% otherwise. The Spoons are universal to small and medium fish, while the Spinnerbait only attracts medium fish but gives better efficacy.
+
+| Spoon |  |  |  |
+| --- | --- | --- | --- |
+| **Sunrise Spoon** | ... | ... | ... |
+| **Dusky Spoon** | ... | ... | ... |
+| **Nightflyer Spoon** | ... | ... | ... |
+
+| Spinnerbait |  |  |  |
+| --- | --- | --- | --- |
+| **Sunrise Spinnerbait** | ... | ... | ... |
+| **Dusky Spinnerbait** | ... | ... | ... |
+| **Nightflyer Spinnerbait** | ... | ... | ... |
+
+### Rainy Day
+The **Rainy Day Lure** is 100% effective during **
